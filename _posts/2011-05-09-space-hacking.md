@@ -47,7 +47,7 @@ author:
 <hr />
 <p>What a massive rant! What is the point of all that? I know I&#39;ve probably run into the <acronym title="Too long; didn't read">tl;dr.</acronym> realm, but I felt that I needed to get at least one tractable example of what I&#39;ve been thinking about. Lets see if any of this comes to fruition over the next few months/years!</p>
 <p>
-        <iframe id="xmindshare_embedviewer" src="http://xmind.net/share/_embed/ben_doherty/my-work/" width="500px" height="300px" frameborder="0" scrolling="no"></iframe>
+        <iframe id="xmindshare_embedviewer" src="http://xmind.net/share/_embed/ben_doherty/my-work/" width="500px" height="300px" frameborder="0" scrolling="no">There really should be an iframe here :( </iframe>
     </p>
 <p>(this is probably going to evlove as we go along!)</p>
 <p>The <a href="http://www.spacehijackers.co.uk/">Space Hijackers</a> in London do this sort of thing, but from a more activist perspective. I bet that there is loads of work on this sort of thing already just waiting to be uncovered if I actually started looking!</p>

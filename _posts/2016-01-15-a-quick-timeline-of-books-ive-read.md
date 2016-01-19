@@ -40,4 +40,4 @@ I've made this timeline by scraping the <a href="https://kindle.amazon.com/your_
 <li>The books aren't classified at all. It'd be good to see how I treat different types of books. E.g. I know I usually finish fiction books in a day or two, but non fiction I drag out a bit.</li>
 </ul>
 <p>If anyone can think of a better way to get at this data I'm all ears!</p>
-<p><iframe class="books" src="http://s.codepen.io/notionparallax/debug/eJEraB" width="300" height="150" scrolling="no"></iframe></p>
+<p><iframe class="books" src="http://s.codepen.io/notionparallax/debug/eJEraB" width="300" height="150" scrolling="no">There really should be an iframe here :( </iframe></p>
