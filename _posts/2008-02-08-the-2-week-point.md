@@ -28,4 +28,4 @@ My mind has been drifting off recently into strange fantasies. I've been thinkin
 <p>Top of my list of things to take is going to be my hammock, regardless of whether I have a bed or not, the mosquito net that is built in will be put to full effect! I look like something from a horror movie, red blotches all over, but I suppose that is only to be expected if I insist on sleeping naked next to an open window.</p>
 <p><img src="{{ site.baseurl }}/assets/Mosquito_450x301.jpg" height="301" width="450" /></p>
 <p>Photos of the surfing, but hopefully not the insect inflicted mutilation will follow.</p>
-<p class="MsoNormal"><span style="font-size: 11pt"><o:p></o:p></span></p>
+<p ><span style="font-size: 11pt"><o:p></o:p></span></p>
