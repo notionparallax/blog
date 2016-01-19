@@ -1,0 +1,151 @@
+---
+layout: post
+title: processing workshop 1
+date: 2009-11-04 21:05:21.000000000 +11:00
+type: post
+published: true
+status: publish
+categories: []
+tags:
+- geek
+- processing
+- tutorials
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '4503552221'
+author:
+  login: Ben
+  email: ben@notionparallax.co.uk
+  display_name: Ben
+  first_name: Ben
+  last_name: Doherty
+---
+<p>Thanks to everyone who came to todays <a href="http://www.processing.org">processing</a> session.</p>
+<p><a href="http://processing.org/learning/drawing/"><img class="alignleft" src="{{ site.baseurl }}/assets/1.11.jpg" alt="picture of a man made of shapes pinched from Daniel Shiffman's book" width="200" height="200" /></a>The task I set was to make the dude that Daniel Shiffman draws in his example on the <a href="http://processing.org/learning/drawing/"> learning processing page</a> stick to the mouse, and scale with the mouse's position.</p>
+<p>Not only that, but to do it in a readable way with minimal use of explicit values so that we can use it to make an object for agent simulations next week.</p>
+<p>This isn't easy, so use a lot of sketches, and diagrms on graph paper to help you. A programmers best tool is their brain, and then second best is a notebook!</p>
+<p>My example of one way to do it is after the fold. I don't expect you to solve this all on your own (but extra brownie points if you do) so go through my code and get a handle on it.</p>
+<p><!--more--></p>
+<p>This is an example of one way (there are many) that you could have written your code to allow for the dude to be drawn</p>
+<pre name="code" class="java">
+void setup()
+{
+  size(400,400);
+  rectMode(CENTER);
+}
+void draw()
+{
+  //redraw the background
+  background(255,255,255);
+  //expose some variables
+  int centreLineX = mouseX;
+  int bodyCentreY = mouseY;
+
+  //********some internal variables***********
+  int headCentreY = bodyCentreY-30;
+  int bodyHeight = 100;
+  int bodyWidth = 20;
+  int headSize = bodyWidth*3;
+  int eyeWidth = (headSize/3)-2;
+  int legSize = 20;
+
+  //**********draw the dude***************
+  //body
+  rect(centreLineX, //centroid X
+       bodyCentreY, //centroid U
+       bodyWidth,
+       bodyHeight);
+  //head
+  ellipse(centreLineX,
+          headCentreY,
+          headSize,
+          headSize);
+  //left eye        
+  ellipse(centreLineX-19, 
+          headCentreY, 
+          eyeWidth, 
+          headSize/2); 
+  //right eye
+  ellipse(centreLineX+19, 
+          headCentreY, 
+          eyeWidth,
+          headSize/2); 
+  //left leg
+  line(centreLineX - (bodyWidth/2),            //startX
+       bodyCentreY + (bodyHeight/2),           //startY
+       centreLineX - (bodyWidth/2) - legSize,  //endX
+       bodyCentreY + (bodyHeight/2) + legSize);//endY
+  //right leg       
+  line(centreLineX + (bodyWidth/2), 
+       bodyCentreY + (bodyHeight/2),
+       centreLineX + (bodyWidth/2) + legSize,
+       bodyCentreY + (bodyHeight/2) + legSize);        
+}
+</pre>
+<p>I've delibearly left out the scaling to keep the code readable in the version above. Here it is with the scaling involved.</p>
+<pre name="code" class="java">void setup()
+{
+  size(800,800);
+  rectMode(CENTER);
+}
+void draw()
+{
+  //redraw the background
+  background(255,255,255);
+  //expose some variables
+  int centreLineX = mouseX;
+  int bodyCentreY = mouseY;
+  /* This is the scaling part
+   * it is a bit tricky to figure out, but think about 
+   * it as a diagram on some graph paper. The mouseX and 
+   * mouseY numbers get extremetly large, not very far 
+   * away from the origin, so they need to be scaled down 
+   * a lot or our man becomes a tiny dot.
+   *
+   * The +1 is so that when mouseX or mouseY = 0 that we 
+   * don't get a 'divide by zero' error*/
+  int scaleX = mouseX/100 + 1;
+  int scaleY = mouseY/100 + 1;
+  
+  //some internal variables  
+  int headCentreY = bodyCentreY - (30/scaleY);
+  int bodyHeight = 100;
+  int bodyWidth = 20;
+  int headSize = bodyWidth * 3;
+  int eyeWidth = (headSize/3)-2;
+  int legSize = 20;
+  
+  //draw the dude
+  //body
+  rect(centreLineX, //centroid X
+       bodyCentreY, //centroid U
+       bodyWidth / scaleX,
+       bodyHeight / scaleY);
+  //head
+  ellipse(centreLineX,
+          headCentreY,
+          headSize / scaleX,
+          headSize / scaleY);
+  //left eye        
+  ellipse(centreLineX - (19 / scaleX), 
+          headCentreY, 
+          eyeWidth / scaleX, 
+          headSize / 2 / scaleY); 
+  //right eye
+  ellipse(centreLineX + (19 / scaleX), 
+          headCentreY, 
+          eyeWidth / scaleX,
+          headSize / 2 / scaleY); 
+  //left leg
+  line(centreLineX - (bodyWidth  / 2 / scaleX), //startX
+       bodyCentreY + (bodyHeight / 2 / scaleY), //startY
+       centreLineX - (bodyWidth  / 2 / scaleX) - legSize / scaleX,  //endX
+       bodyCentreY + (bodyHeight / 2 / scaleY) + legSize / scaleY);//endY
+  //right leg       
+  line(centreLineX + (bodyWidth  / 2 / scaleX), //startX
+       bodyCentreY + (bodyHeight / 2 / scaleY), //startY
+       centreLineX + (bodyWidth  / 2 / scaleX) + legSize / scaleX,  //endX
+       bodyCentreY + (bodyHeight / 2 / scaleY) + legSize / scaleY);//endY       
+}
+</pre>
+<p>If you've got this far, you've done <strong>very</strong> well as this is some tricky stuff!</p>

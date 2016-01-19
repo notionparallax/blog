@@ -1,0 +1,804 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>EMAP</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/www.emap.com/files/favicon.gif" type="image/x-icon" />
+<meta name="description" content="EMAP is a content, subscription and networking business. We connect influential people &amp; organisations to a high-value network of decision-makers, data and ideas through our industry-leading portfolio of brands including Retail Week, Health Service Journal, MEED, Architects&#039; Journal and Drapers." />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/www.emap.com/files/css/css_896e0fc7218c17729b4afa206f75b5c6.css" />
+  <script type="text/javascript" src="/sites/www.emap.com/files/js/js_d95d1298cabfc9265647ab31e6d1b8ff.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/www.emap.com/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "cron": { "basePath": "/poormanscron", "runNext": 1453184794 }, "viewsSlideshowSingleFrame": { "#views_slideshow_singleframe_main_Testimonial_rotator-panel_pane_2": { "num_divs": 6, "id_prefix": "#views_slideshow_singleframe_main_", "div_prefix": "#views_slideshow_singleframe_div_", "vss_id": "Testimonial_rotator-panel_pane_2", "timeout": 10000, "sort": 1, "effect": "fade", "speed": 800, "start_paused": 0, "delay": 0, "fixed_height": 1, "random": 0, "pause": 1, "pause_on_click": 1, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "remember_slide": 0, "remember_slide_days": 1, "controls": 2, "items_per_slide": 1, "pager": 0, "pager_type": "Numbered", "pager_hover": 2, "pager_click_to_page": 0, "image_count": 0, "nowrap": 0, "sync": 1, "advanced": "", "ie": { "cleartype": "true", "cleartypenobg": "false" } } } });
+//--><!]]>
+</script>
+    	<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30439556-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+      	<!-- START OF SmartSource Data Collector TAG v10.2.0 -->
+<!-- Copyright (c) 2012 Webtrends Inc.  All rights reserved. -->
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsb6abysvz5bdovl9tmg5cxh_6w7o"
+        ,domain:"statse.webtrendslive.com"
+        ,timezone:0
+        ,offsite:true
+        ,download:true
+        ,downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip"
+        ,onsitedoms:"emap.com"
+        ,plugins:{
+            hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+        }
+        }).track();
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/sites/www.emap.com/themes/emap/includes/analytics/webtrends.js";    
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsch9hi05dv0hoq59jae9hxh_9g9x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.0&amp;dcssip=www.emap.com"/></noscript>
+<!-- END OF SmartSource Data Collector TAG v10.2.0 -->
+  </head>
+<body class="front not-logged-in page-home no-sidebars <!--show-grid-->">
+<div id="container">
+    <div id="outerShadow">  
+        <div id="page" class="container-16 clear-block">       
+            <div id="header" class="grid-16 clear-block">
+                <div id="logo" class="grid-3 alpha">
+                                          <a href="/" title="EMAP" class="active"><img src="/sites/www.emap.com/files/customTheme_logo.png" alt="EMAP" title="EMAP" width="164" height="54" /></a>                                    </div>
+                <div id="strapline">
+                    <!-- CONTACT REGION -->
+                    <div id="block-nodeblock-406" class="block block-nodeblock">
+
+  <div class="content">
+    <div id="node-406" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <div>
+	+44 (0) 203 033 2600
+	<div>
+		<div>
+			<a href="mailto:telephonehouse.reception@emap.com?subject=Enquiry%20for%20EMAP">telephonehouse.reception@emap.com</a></div>
+		<div>
+			&nbsp;</div>
+	</div>
+</div>
+<p>&nbsp;</p>
+  </div>
+
+  </div>  </div>
+</div>
+<div id="block-views-social_links-block_1" class="block block-views">
+
+  <div class="content">
+    <div class="view view-social-links view-id-social_links view-display-id-block_1 view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><a href="https://twitter.com/emaponline"><img  class="imagefield imagefield-field_social_image" width="20" height="20" alt="Emap social link" src="http://www.emap.com/sites/www.emap.com/files/twitter_0.png?1351260443" /></a>
+</span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><a href="http://uk.linkedin.com/company/emap"><img  class="imagefield imagefield-field_social_image" width="20" height="20" alt="Emap social link" src="http://www.emap.com/sites/www.emap.com/files/in_0.png?1351260469" /></a>
+</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+                </div>
+                <div id="headerNav" class="region grid-13 omega clear-block">
+                                            <ul class="links primary-links"><li class="menu-523 active-trail first active"><a href="/" title="" class="active">Home</a></li>
+<li class="menu-314"><a href="/about-us">About Us</a></li>
+<li class="menu-1682"><a href="/products" title="">Brands</a></li>
+<li class="menu-258"><a href="/events">Events</a></li>
+<li class="menu-4834"><a href="http://marketing-solutions.emap.com/" title="">Marketing Solutions</a></li>
+<li class="menu-3617"><a href="http://jobsearch.emapcareers.com" title="">Careers</a></li>
+<li class="menu-2369"><a href="/contact">Contact</a></li>
+<li class="menu-4876"><a href="/careers/case-studiesOLD">Case Studies</a></li>
+<li class="menu-4879"><a href="/careersOLD">Life at EMAP</a></li>
+<li class="menu-4871 last"><a href="/careers/job-vacanciesOLD">Vacancies</a></li>
+</ul>                                    </div>
+            </div>
+            <div id="contentContainer" class="grid-16 clear-block">
+                <div id="contentMain" class="column grid-16  alpha omega">
+                                                            
+                                       
+                                                            <div id="contentBody">
+                        <div id="hmpgPanel">
+	
+    <div id="hmpg-row1" class="grid-16 alpha omega clear-block">
+    	<div id="hmpg-row1-block1" class="grid-11 alpha hmpg-row1-block">
+        	<div class="panel-pane pane-node" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="node-39" class="node">
+
+  <div class="content clear-block">
+    <p><a href="/?q=about-us">EMAP is a content, subscription &amp; networking business. We connect influential people and organisations to a high-value network of decision-makers, data and ideas through our industry-leading portfolio of brands including Retail Week, Health Service Journal, MEED, Architects&#39; Journal and Drapers. </a></p>
+    
+      </div>
+
+</div>  </div>
+
+  
+  </div>
+        </div>
+        <div id="hmpg-row1-block2" class="grid-5 omega hmpg-row1-block">
+        	<div class="panel-pane pane-node" >
+  
+  
+  
+  <div class="pane-content">
+    <div id="node-21" class="node">
+
+  <div class="content clear-block">
+    <p><a href="/sites/www.emap.com/files/static/emap.html" rel="lightframe[|width:853px; height:480px;]"><img alt="" src="/sites/www.emap.com/themes/customTheme/images/thumb_video.png" style="width: 280px; height: 180px; " /></a></p>
+    
+      </div>
+
+</div>  </div>
+
+  
+  </div>
+        </div>
+    </div>
+    
+   
+    <div id="hmpg-row2" class="grid-16 alpha omega clear-block">
+        <div id="hmpg-row2-block1" class="grid-11 alpha hmpg-row2-block">
+            <div class="panel-pane pane-views-panes pane-brand-profiles-panel-pane-4" >
+  
+      <h2 class="pane-title">Brands</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-brand-profiles view-id-brand_profiles view-display-id-panel_pane_4 view-dom-id-1">
+        
+    
+    
+    <div class="carouselScroller">
+        
+                <div class="view-content">
+                <div class="carouselNav"><a class="prev browse left"><span></span></a></div>
+    <div class="scrollable" id="scrollable">
+        <div class="items">
+                        <div class="views-row views-row-1 views-row-odd views-row-first">
+                <a href="/products/construction-news" style="background: url(sites/www.emap.com/files/imagecache/slider_background/images/CN.jpg) no-repeat 0 0">
+    <span class="slider-logo" style="background: #fff url(sites/www.emap.com/files/imagecache/slider_logo/CN-LOGO_WITH-TEXT.png) no-repeat 0 center"></span>
+</a>            </div>
+                        <div class="views-row views-row-2 views-row-even">
+                <a href="/products/retail-week" style="background: url(sites/www.emap.com/files/imagecache/slider_background/images/RW.jpg) no-repeat 0 0">
+    <span class="slider-logo" style="background: #fff url(sites/www.emap.com/files/imagecache/slider_logo/small_0.jpg) no-repeat 0 center"></span>
+</a>            </div>
+                        <div class="views-row views-row-3 views-row-odd">
+                <a href="/products/nursing-times" style="background: url(sites/www.emap.com/files/imagecache/slider_background/images/NT.jpg) no-repeat 0 0">
+    <span class="slider-logo" style="background: #fff url(sites/www.emap.com/files/imagecache/slider_logo/NT-LOGO.png) no-repeat 0 center"></span>
+</a>            </div>
+                        <div class="views-row views-row-4 views-row-even">
+                <a href="/products/hsj" style="background: url(sites/www.emap.com/files/imagecache/slider_background/images/HSJ.jpg) no-repeat 0 0">
+    <span class="slider-logo" style="background: #fff url(sites/www.emap.com/files/imagecache/slider_logo/HSJ-logo-2_0.png) no-repeat 0 center"></span>
+</a>            </div>
+                        <div class="views-row views-row-5 views-row-odd">
+                <a href="/products/drapers" style="background: url(sites/www.emap.com/files/imagecache/slider_background/images/DRAPERS.jpg) no-repeat 0 0">
+    <span class="slider-logo" style="background: #fff url(sites/www.emap.com/files/imagecache/slider_logo/Drapers-Logo.png) no-repeat 0 center"></span>
+</a>            </div>
+                        <div class="views-row views-row-6 views-row-even views-row-last">
+                <a href="/products/architects%E2%80%99-journal" style="background: url(sites/www.emap.com/files/imagecache/slider_background/images/AJ_0.jpg) no-repeat 0 0">
+    <span class="slider-logo" style="background: #fff url(sites/www.emap.com/files/imagecache/slider_logo/AJ-logo.png) no-repeat 0 center"></span>
+</a>            </div>
+                    </div>
+    </div>
+    <div class="carouselNav"><a class="next browse right"><span></span></a></div>
+        </div>
+        
+
+        <div id="naviContainer">
+            <div class="navi"></div>
+            <div class="viewMore"><a href="/products">View all</a></div>
+        </div>
+
+        <script>
+            $(function () {
+                //$(".scrollable").scrollable().navigator();
+                $(".scrollable").scrollable({circular:true}).navigator().autoscroll({
+                    interval:3000
+                });
+
+            });
+        </script>
+    </div>
+    <!-- /carouselScroller -->
+
+    
+    
+    
+    
+    
+</div>   </div>
+
+  
+  </div>
+        </div>
+        <div id="hmpg-row2-block2" class="grid-5 omega hmpg-row2-block">
+           <div class="panel-pane pane-views-panes pane-testimonial-rotator-panel-pane-2" >
+  
+      <h2 class="pane-title">Testimonials</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-Testimonial-rotator view-id-Testimonial_rotator view-display-id-panel_pane_2 slideBox-testimonial-rotator view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      
+
+
+<div id="views_slideshow_singleframe_main_Testimonial_rotator-panel_pane_2" class="views_slideshow_singleframe_main views_slideshow_main"><div id="views_slideshow_singleframe_teaser_section_Testimonial_rotator-panel_pane_2" class="views_slideshow_singleframe_teaser_section"><div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_singleframe_div_Testimonial_rotator-panel_pane_2_0"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-testimonial-image-fid">
+                <span class="field-content"><img src="sites/www.emap.com/files/images/gb-building-solutions.jpg" alt="" /></span>
+  </div>
+  
+  <div class="views-field-field-quote-teaser-value">
+                <div class="field-content"><a href="/?q=customer-quotes">&quot;Construction News is a quality and informative magazine and is on the industry&#039;s side.&quot;</a></div>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">Martin Smout, Chairman and Chief Executive, GB Building Solutions</span>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-2 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_Testimonial_rotator-panel_pane_2_1"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-testimonial-image-fid">
+                <span class="field-content"><img src="sites/www.emap.com/files/images/client-dfs_0.png" alt="" /></span>
+  </div>
+  
+  <div class="views-field-field-quote-teaser-value">
+                <div class="field-content"><a href="/?q=customer-quotes">&quot;If you&#039;re going to read one magazine to tell you everything you need to know about retail, it&#039;s a no brainer, it&#039;s Retail Week.&quot;</a></div>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">Lord Kirkham, Founder, DFS</span>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_Testimonial_rotator-panel_pane_2_2"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-testimonial-image-fid">
+                <span class="field-content"><img src="sites/www.emap.com/files/images/Arden-Kitt.jpg" alt="" /></span>
+  </div>
+  
+  <div class="views-field-field-quote-teaser-value">
+                <div class="field-content"><a href="/?q=customer-quotes">&quot;The (AJ) content has always been accessible and appropriate, particularly the building studies.&quot;</a></div>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">Chris Brimble, Managing Director, Arden Kitt Associates Ltd</span>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-4 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_Testimonial_rotator-panel_pane_2_3"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-testimonial-image-fid">
+                <span class="field-content"><img src="sites/www.emap.com/files/images/Betty_Barclay.jpg" alt="" /></span>
+  </div>
+  
+  <div class="views-field-field-quote-teaser-value">
+                <div class="field-content"><a href="/?q=customer-quotes">&quot;If you work in fashion, it&#039;s [Drapers] where to go.”</a></div>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">Emma King, Betty Barclay</span>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-5 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_Testimonial_rotator-panel_pane_2_4"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-testimonial-image-fid">
+                <span class="field-content"><img src="sites/www.emap.com/files/images/gsk-logo.jpg" alt="" /></span>
+  </div>
+  
+  <div class="views-field-field-quote-teaser-value">
+                <div class="field-content"><a href="/?q=customer-quotes">“In the rapidly changing NHS, if you want to get the up-to-date information just click and go to HSJ.”</a></div>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">Andrew Vinter, Integrated Healthcare Manager, GlaxoSmithKline PLC</span>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-6 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_Testimonial_rotator-panel_pane_2_5"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-testimonial-image-fid">
+                <span class="field-content"><img src="sites/www.emap.com/files/images/aecom_logo_detail.jpg" alt="" /></span>
+  </div>
+  
+  <div class="views-field-field-quote-teaser-value">
+                <div class="field-content"><a href="/?q=customer-quotes">“With such rapidly changing legislation affecting the heating and ventilation industry it makes H&amp;V News absolutely critical to the industry.”</a></div>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">Ant Wilson, Business Unit Director, Building Engineering, AECOM</span>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+  <div class="views-slideshow-controls-bottom clear-block">
+    <div class="views_slideshow_singleframe_controls views_slideshow_controls" id="views_slideshow_singleframe_controls_Testimonial_rotator-panel_pane_2"><a href="# " class="views_slideshow_singleframe_previous views_slideshow_previous" id="views_slideshow_singleframe_prev_Testimonial_rotator-panel_pane_2">Previous</a><a href="# " class="views_slideshow_singleframe_pause views_slideshow_pause" id="views_slideshow_singleframe_playpause_Testimonial_rotator-panel_pane_2">Pause</a><a href="# " class="views_slideshow_singleframe_next views_slideshow_next" id="views_slideshow_singleframe_next_Testimonial_rotator-panel_pane_2">Next</a></div>
+          </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+        </div>
+	</div>
+    
+    
+    <div id="hmpg-row3" class="grid-16 alpha omega clear-block">
+    	<div class="grid-11 alpha">
+            <div id="hmpg-row3-block1" class="hmpg-row3-block">
+               <div class="panel-pane pane-views-panes pane-news-page-panel-pane-1" >
+  
+      <h2 class="pane-title"><a href="/news">News</a></h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-News-page view-id-News_page view-display-id-panel_pane_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/top-right-group-announces-new-operating-company-combine-emap-and-4c">Top Right Group announces new operating company to combine EMAP and 4C</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/emap-scoops-9-national-awards">EMAP SCOOPS 9 NATIONAL AWARDS</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/natasha-christie-miller-opening-digital-innovators-summit-berlin">Natasha Christie-Miller opening the Digital Innovators Summit, Berlin.</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/strong-britain-strong-retail-retail-week-manifesto-calls-government-ensure-its-continued-succes">STRONG BRITAIN, STRONG RETAIL:  RETAIL WEEK MANIFESTO CALLS ON GOVERNMENT TO ENSURE ITS CONTINUED SUCCESS AHEAD OF ELECTION</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/news/barchester-leads-way-online-learning-entire-nursing-workforce">BARCHESTER LEADS THE WAY WITH ONLINE LEARNING FOR ENTIRE NURSING WORKFORCE</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    View all news  </a>
+</div>
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+            </div>
+            <div id="hmpg-row3-block2" class="hmpg-row3-block">
+               <div class="panel-pane pane-views-panes pane-upcoming-events-panel-pane-1" >
+  
+      <h2 class="pane-title"><a href="/events">Events</a></h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-upcoming-events view-id-upcoming_events view-display-id-panel_pane_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/event/retail-week-live">Retail Week Live</a></span>
+  </span>
+      |  
+  <span class="views-field-field-event-date-value">
+                <span class="field-content"><small><span class="date-display-start">16 Mar</span><span class="date-display-separator"> - </span><span class="date-display-end">17 Mar</span></small></span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <span class="views-field-title">
+                <span class="field-content"><a href="/event/retail-week-emerging-leaders">Retail Week Emerging Leaders</a></span>
+  </span>
+      |  
+  <span class="views-field-field-event-date-value">
+                <span class="field-content"><small><span class="date-display-start">16 Mar</span><span class="date-display-separator"> - </span><span class="date-display-end">17 Mar</span></small></span>
+  </span>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/events">
+    View all events  </a>
+</div>
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+            </div>
+            <div id="hmpg-row3-block3" class="hmpg-row3-block">
+               <div class="panel-pane pane-views-panes pane-careers-page-panel-pane-2" >
+  
+      <h2 class="pane-title">Jobs</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-Careers-page view-id-Careers_page view-display-id-panel_pane_2 view-dom-id-5">
+    
+  
+  
+      <div class="view-empty">
+      <h3>Sorry, no results were found. Please adjust your search criteria and try again.</h3><p><a href="/careers/job-vacancies">Show all current vacancies</a></p>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+            </div>
+        </div>
+        <div id="hmpg-row3-block4" class="grid-5 omega hmpg-row3-block">
+           <div class="panel-pane pane-views-panes pane-brand-profiles-panel-pane-7" >
+  
+      <h2 class="pane-title">The EMAP network</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-brand-profiles view-id-brand_profiles view-display-id-panel_pane_7 view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-2">
+  <tbody>
+                <tr class="row-1 row-first">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-field-brand-logo-fid">
+                <span class="field-content"><a href="/products/retail-week" class="imagecache imagecache-small_brand_logo imagecache-linked imagecache-small_brand_logo_linked"><img src="http://www.emap.com/sites/www.emap.com/files/imagecache/small_brand_logo/brand_logo/small.jpg" alt="Retail Week" title="Retail Week" width="120" height="19" class="imagecache imagecache-small_brand_logo"/></a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-field-brand-logo-fid">
+                <span class="field-content"><a href="/products/construction-news" class="imagecache imagecache-small_brand_logo imagecache-linked imagecache-small_brand_logo_linked"><img src="http://www.emap.com/sites/www.emap.com/files/imagecache/small_brand_logo/brand_logo/CN-LOGO_WITH-TEXT.png" alt="" title="" width="108" height="45" class="imagecache imagecache-small_brand_logo"/></a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-2">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-field-brand-logo-fid">
+                <span class="field-content"><a href="/products/nursing-times" class="imagecache imagecache-small_brand_logo imagecache-linked imagecache-small_brand_logo_linked"><img src="http://www.emap.com/sites/www.emap.com/files/imagecache/small_brand_logo/brand_logo/nursingTimes_0.png" alt="Nursing Times" title="Nursing Times" width="120" height="37" class="imagecache imagecache-small_brand_logo"/></a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-field-brand-logo-fid">
+                <span class="field-content"><a href="/products/hsj" class="imagecache imagecache-small_brand_logo imagecache-linked imagecache-small_brand_logo_linked"><img src="http://www.emap.com/sites/www.emap.com/files/imagecache/small_brand_logo/brand_logo/HSJ-logo-2_0_0.png" alt="" title="" width="90" height="45" class="imagecache imagecache-small_brand_logo"/></a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-3 row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-field-brand-logo-fid">
+                <span class="field-content"><a href="/products/drapers" class="imagecache imagecache-small_brand_logo imagecache-linked imagecache-small_brand_logo_linked"><img src="http://www.emap.com/sites/www.emap.com/files/imagecache/small_brand_logo/brand_logo/Drapers-logo-2014_0.png" alt="Drapers" title="Drapers" width="120" height="41" class="imagecache imagecache-small_brand_logo"/></a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-field-brand-logo-fid">
+                <span class="field-content"><a href="/products/architects%E2%80%99-journal" class="imagecache imagecache-small_brand_logo imagecache-linked imagecache-small_brand_logo_linked"><img src="http://www.emap.com/sites/www.emap.com/files/imagecache/small_brand_logo/brand_logo/10_0.png" alt="The Architects’ Journal" title="The Architects’ Journal" width="46" height="45" class="imagecache imagecache-small_brand_logo"/></a></span>
+  </div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/products">
+    View more  </a>
+</div>
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+        </div>
+	</div>
+    
+</div>
+
+
+                    </div>
+                                    </div>
+                                            </div>
+        </div>
+    </div>
+</div>
+<div id="footer" class="region clear-block">
+    <div id="footerBar">
+            	<div id="footer-region">
+          <div id="block-menu-menu-quick-links" class="block block-menu">
+  <h2>Quick Links</h2>
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/products" title="">Brands</a></li>
+<li class="leaf last"><a href="/events" title="">Events</a></li>
+</ul>  </div>
+</div>
+<div id="block-views-brand_profiles-block_2" class="block block-views">
+  <h2>THE EMAP Networks</h2>
+
+  <div class="content">
+    <div class="view view-brand-profiles view-id-brand_profiles view-display-id-block_2 view-dom-id-8">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <div>
+  	        	  	<ul class="list-column list-column-0">
+    	    	      	  	      	  <li class="views-row views-row-2 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/new-civil-engineer">New Civil Engineer</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-3 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/meed">MEED</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-4 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/construction-news">Construction news</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-5 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/retail-jeweller">Retail Jeweller</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-6 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/retail-week">Retail Week</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-7 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/drapers">Drapers</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-8 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/architects%E2%80%99-journal">The Architects’ Journal</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-9 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/refrigeration-air-conditioning">Refrigeration &amp; Air Conditioning</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-10 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/local-government-chronicle">Local Government Chronicle</a></span>
+  </div>
+</li>
+  	            	    	  	</ul>
+        	        	  	<ul class="list-column list-column-1">
+    	    	      	  	      	  <li class="views-row views-row-11 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/heating-ventilation-news">Heating &amp; Ventilation News</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-12 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/ground-engineering">Ground Engineering</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-13 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/nursing-times">Nursing Times</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-14 views-row-even ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/materials-recycling-world">Materials Recycling World</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-15 views-row-odd ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/hsj">HSJ</a></span>
+  </div>
+</li>
+  	            	    	      	  	      	  <li class="views-row views-row-16 views-row-even views-row-last ">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/products/architectural-review">The Architectural Review</a></span>
+  </div>
+</li>
+  	            	    	      	    	    	      	    	    	      	    	    	  	</ul>
+        	  </div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+<div id="block-multiblock-1" class="block block-multiblock">
+  <h2>Contact us</h2>
+
+  <div class="content">
+    <div id="node-406" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <div>
+	+44 (0) 203 033 2600
+	<div>
+		<div>
+			<a href="mailto:telephonehouse.reception@emap.com?subject=Enquiry%20for%20EMAP">telephonehouse.reception@emap.com</a></div>
+		<div>
+			&nbsp;</div>
+	</div>
+</div>
+<p>&nbsp;</p>
+  </div>
+
+  </div>  </div>
+</div>
+<div id="block-nodeblock-407" class="block block-nodeblock">
+
+  <div class="content">
+    <div id="node-407" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <div>
+	<img alt="" src="/sites/www.emap.com/files/files/logo_0.png" style="width: 120px; height: 40px" /></div>
+<div>
+	<a href="/terms-use">Terms &amp; Conditions</a></div>
+<div>
+	<a href="/privacy-and-cookies-policy">Privacy &amp; Cookie Policy</a></div>
+<div>
+	&copy; <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>&nbsp;EMAP. All rights reserved.<br />
+	&nbsp;</div>
+<div>
+	EMAP Publishing Limited | Company number&nbsp;7880758 (England &amp; Wales)<br />
+	Registered address: C/O Ascential, The Prow, 1 Wilder Walk, London, W1B 5AP</div>
+  </div>
+
+  </div>  </div>
+</div>
+      	</div>
+          </div>  
+</div>
+<div id="cookiePolicy" >
+  By continuing to use the site you agree to our  <a id="linkPrivacyPolicy" href="/?q=privacy-and-cookies-policy">
+    cookies policy </a>. <a id="cookiePolicyAccept" class="genericBut">Accept  </a>
+</div>
+<script type="text/javascript" src="/sites/www.emap.com/themes/emap/includes/js/cookieScript.js"></script>
+</body>
+</html>

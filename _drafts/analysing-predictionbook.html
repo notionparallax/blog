@@ -1,0 +1,69 @@
+---
+layout: post
+title: Analysing PredictionBook
+date: 
+type: post
+published: false
+status: draft
+categories: []
+tags: []
+meta:
+  _oembed_a1ca724fa0f657d819c83e04691c9a49: "{{unknown}}"
+  _publicize_twitter_user: "@notionparallax"
+  _publicize_facebook_user: http://www.facebook.com/541400612
+  _edit_last: '1'
+author:
+  login: Ben
+  email: ben@notionparallax.co.uk
+  display_name: Ben
+  first_name: Ben
+  last_name: Doherty
+---
+<p>A couple of years ago[1. when I first wrote this line it said "a couple of months ago. Then I sat on it for ages."] I did the <a href="https://generalassemb.ly/education/data-science" target="_blank">data science</a> course at <a href="https://generalassemb.ly" target="_blank">General Assembly</a> in Sydney. As a part of the requirements of that course I needed to do a 'project' to give the abstract skills in machine learning some realistic grounding. Since I already had <a href="http://notionparallax.co.uk/?p=2061" target="_blank">an academic interest</a> in Prediction book I thought that it'd be great to ask them if they'd give me some data to have a look at. Much to my surprise Wesley from <a href="http://trikeapps.com/" target="_blank">Trike</a> (the people who make Prediction Book) got straight back to me with some sanitised[1. Prediction book gave me a sanitised version of their data (no names, email addresses, prediction text or anything that could be used to make the data personal) as an sql database (7.7mb)] data.</p>
+<p>In the last two years there's been a fair bit of code rot, so this is only the first half of the work--descriptive analytics mainly. There is more to come, that bit is more fancy, but actually less useful. There is also a full listing of the code <a href="https://github.com/notionparallax/GA-DataScience/tree/master/Prediction%20book%20analysis">in this repo</a>. The work is done in iPython notebook (now Jupyter) with Pandas.<!--more--></p>
+<h1 id="Plan/Hypothesis">Plan/Hypothesis</h1>
+<p>This is probably the biggest thing I learned from the whole process: You should go into this kind of thing with a plan! My hypothesis was that "<em>There's lots of data, on a topic that I'm interested in, so there must me something to be learned</em>". It turns out that this makes it hard for a bunch of reasons.</p>
+<ol>
+<li>I didn't know what to look for. If I'd had a falsifiable hypothesis then I'd be able to develop tests that would support or disprove it. As it was I was just endlessly describing the data until I found something that was interesting enough to find out about.</li>
+<li>Not having a hypothesis also makes it difficult to decide if you are 'done' or not.</li>
+<li>Having a plan or a hypothesis gives you a domain of machine learning to get your teeth into. This is a bit arbitrary in real life, but as this is essentially a synthetic situation that needs me to demonstrate some ability with a skillset it would have been a lot easier to say "make a recommendation system" because then I could learn all about recommendation systems and try to make one that worked with my data.</li>
+</ol>
+<p>As it turned out, my plan <em>was</em> just to trawl around looking for something interesting. What I should have done was spent some time interviewing PB users[1. maybe even interviewing myself] about what they wanted out of the site. That would have given me a much tighter series of questions.</p>
+<h1 id="What-is-Prediction-Book?">What is Prediction Book?</h1>
+<p>[caption id="" align="alignnone" width="652"]<img class="" src="{{ site.baseurl }}/assets/_XBfs0SQZwedj1vj_OWK_KKUVSnaZjnIApRZWlqIrCJrdN6x5U-xOmesML-orCP8dTIHFEYCAAPAXD0QCfIiUywptkv6iH9KG5VsZe9MOJyoGIiUAe5dVVAFMw" alt="" width="652" height="464" /> A screenshot of my PredictionBook page. Showing that I'm actually underconfident at the top end of things, and over confident around 50%.[/caption]</p>
+<p>PredictionBook is a website that allows people to record their predictions and their confidence in those predictions, then track that over time. I first came across it when I was <a href="http://notionparallax.co.uk/?p=2061">writing about overconfidence</a>, and I've been using it intermittently ever since.</p>
+<p>The site allows users to make public and private predictions. It'll then remind them to judge them once they should be known. Users can also weigh in on other people's predictions with confidence assessments, like a free prediction market.</p>
+<p>This means that users can make judgements over a variety of time scales and confidence intervals.</p>
+<h1>Users</h1>
+<p>There are 22235 rows in the <em>users</em> table, they've made 21913 <em>predictions</em> and 10798 <em>judgements</em>[as of 18/12/2013 when the database was exported.]. However of those 22k users, only 900 have made and judged a prediction which is the key thing for assessing their calibration.</p>
+<p><img class="alignnone size-medium wp-image-2502" src="{{ site.baseurl }}/assets/prolific.png" alt="prolific" /></p>
+<p>There's a pretty strong skew to those people too. To get any kind reliable calibration assessment you need about 50 answered questions, and it doesn't start to settle down until about 100 judgements. That meant that there were about 100 strong contenders for analysis.</p>
+<p>I can figure out the confidence distribution for each person. Here's an example of person #500. Consistently slightly overconfident, except on things that they are very pessimistic about. The circles show how many judgements they'd made at each confidence level. They are hard to differentiate, so the lower graph is same info but easier to read.</p>
+<p><a href="/wordpress/wp-content/uploads/2015/11/500.png" rel="attachment wp-att-2503"><img class="alignnone size-full wp-image-2503" src="{{ site.baseurl }}/assets/500.png" alt="500" /></a></p>
+<h2>Are people who use prediction more better calibrated?</h2>
+<p>This raises all kinds of questions about the arrow of causation. Are well calibrated people likely to come to PredictionBook to start with? Did they get better over time? Did they leave because they were bad at guessing their accuracy?</p>
+<p>The data say that people who make more predictions seem to be better calibrated. There's even a weak trend that they get better as they make more prediction.</p>
+<p>This graph is the Summed Square Error (SSE) of the predictions. Because it's squared it punishes big errors much more than small ones, so to have a small number is a good thing. The people who are really prolific also have really small SSE, so that looks good!</p>
+<p><a href="/wordpress/wp-content/uploads/2015/11/sse.png" rel="attachment wp-att-2500"><img class="alignnone size-medium wp-image-2500" src="{{ site.baseurl }}/assets/sse.png" alt="sse" /></a></p>
+<p>I was interested to see if they were over or underconfident, and it seems that most of the best predictors are slightly underconfident overall. There seems to be a very weak trend to slightly under confident, but that is unintuitive and might just be noise.</p>
+<p><a href="/wordpress/wp-content/uploads/2015/11/ssse.png" rel="attachment wp-att-2501"><img class="alignnone size-medium wp-image-2501" src="{{ site.baseurl }}/assets/ssse.png" alt="ssse" /></a></p>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Do-people-get-better-calibrated-over-time?">Do people get better calibrated over time?</h2>
+<p>A pretty obvious question is do people get 'better' (i.e. seem to have better calibration) over time? in fact, there's an issue for this on the repo: <a href="https://github.com/tricycle/predictionbook/issues/32">Find out if PB makes people better calibrated over time</a> It seems like using prediction book should lead to improvements, lets see:</p>
+<p><img class="alignnone size-full wp-image-2499" src="{{ site.baseurl }}/assets/calibration-and-time.png" alt="calibration and time" /></p>
+<p>The way I'm showing this is by going a <acronym title="signed summed squared error">SSSE </acronym>for a window of time, and then moving the window. The bigger the window the more damping there is going to be. The graph above shows the results for user 500 over their whole PB lifespan moving 2 weeks at a time. The difference between the lines is the window size. I think there is some kind of comparison error here as the red lines don't seem to be a more damped version of the yellow ones, but as long as I keep the window size the same for all the users it ought to be comparable.</p>
+<p>Rather disappointingly, it seems that the questions is unanswered. There <em>seems</em> to be some kind of trend towards the 0 line as we travel right, but not in enough people to let me believe that it is more than me just seeing what I want to see. This one needs a bit more attention.</p>
+<h3 id="Reccomendations-to-Prediction-Book">Recommendations to Prediction Book</h3>
+<p>Having gone through this, PB are doing a pretty good job! Everything I will recommend is really a feature request, it is also based on a lot of speculation and not real user discussion.</p>
+<p>The first thing that stands out is the number of passive users, people who have never made a prediction or only make judgements on other people's predictions.</p>
+<p>[graph here of user activity, label the point when it goes under 100 predictions, and when it goes under 1]</p>
+<p>Decision making calibration is a pretty niche area, so I would imagine that most people who sign up have a vague idea what they are getting into. However the incredibly high proportion of people who fail to make even a single prediction indicates that there is something getting in the way of them getting their calibration adequately quantified. My guess is that it's blank slate terror. There are social rules amongst PB users about what to leave public, what to make private etc. and as a new user the first prediction is hard to make. I'd suggest a longer sign up process that takes people through a series of curated questions to get a base level of calibration for new users. Ok Cupid does this to great effect, but there might be challenges in getting questions that can be judged repeatedly without becoming obsolete.</p>
+<p>To get a useful calibration graph I've worked out that you need roughly 100 predictions to be judged. (This is just based on guessing and scribbling, not on data.) Getting people started on a set of questions would put them on track for getting to a useful graph. Using PB has an incredibly big investment of time and attention before the user sees any pay back; anything that can be done to get new users to that point is going to make it more accessible.</p>
+<p>The calibration graph is great for intermediate users who have made their first 100 predictions and are happy knowing that if they say 50/50 then really they mean that there's a 60% chance that it won't happen. Users who have a longer history and more predictions would benefit from knowing if their calibration on 60% will happen is better than their calibration on 40% won't. If users had enough data points they might even like to see (using something like <a href="http://localhost:8888/notebooks/PB_analysis_FinalWriteup.ipynb" target="_blank">crossfilter</a>) whether their long term (far mode) predictions are better than their short term ones, or if they are better calibrated in the morning.</p>
+<h2 id="and?">and?</h2>
+<p>One meta thing that came out of this is that you should make presentations and summaries of data while you still have it all loaded into your brain! It's taken a lot of effort to understand what the past me was doing when he wrote this code.</p>
+</div>
+</div>
+</div>

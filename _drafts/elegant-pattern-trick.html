@@ -1,0 +1,302 @@
+---
+layout: post
+title: Elegant pattern trick
+date: 
+type: post
+published: false
+status: pending
+categories: []
+tags:
+- australia
+- elegance
+- patterns
+- programming
+- Ruby
+- SketchUp
+- Sophie
+- teaching
+meta:
+  _edit_last: '1'
+author:
+  login: Ben
+  email: ben@notionparallax.co.uk
+  display_name: Ben
+  first_name: Ben
+  last_name: Doherty
+---
+<p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/01/bigSmallBalls.png"><img class="alignright size-medium wp-image-516" title="bigSmallBalls" src="{{ site.baseurl }}/assets/bigSmallBalls-300x282.png" alt="" width="300" height="282" /></a>While Sophie was here over Christmas she wanted to learn a bit of programming. We did quite a few nerdy things, but I think that this was the nerdiest. We got through all the usual stuff about loops and conditional statements, but this didn't take long and before I knew what was going on I was explaining in as much detail as I was able the difference between functions and methods, and how inheritance worked for classes, what abstract classes were etc.</p>
+<p>Anyway, the point of this is that we worked out a pattern drawing method for 3d grids of things. In this case they are little snowflakey things that are drawn alternately big and small, but it could be anything.</p>
+<p>The secret is wrapped up in this one little innocuous line:</p>
+<pre>sizeController <span style="color: #808030;">=</span> <span style="color: #808030;">(</span> <span style="color: #808030;">(</span>j%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">+</span> <span style="color: #808030;">(</span>k%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">+</span> <span style="color: #808030;">(</span>m%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">)</span> %<span style="color: #008c00;">2</span></pre>
+<p>Which needs a bit of unpacking before it makes sense. The three loop controllers (m, j, k) are positive integers which can all be either odd or even numbers. There are a number of different combinations of odd and even throughout the grid, so if we make a little table of them:</p>
+<table>
+<colgroup>
+<col width="25" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="86" /> </colgroup>
+<tbody>
+<tr>
+<td width="25"></td>
+<td width="39"><strong>000</strong></td>
+<td width="39"><strong>001</strong></td>
+<td width="39"><strong>010</strong></td>
+<td width="39"><strong>011</strong></td>
+<td width="39"><strong>100</strong></td>
+<td width="39"><strong>101</strong></td>
+<td width="86"><strong>111</strong></td>
+</tr>
+<tr>
+<td height="17"><strong>m</strong></td>
+<td>even</td>
+<td>even</td>
+<td>even</td>
+<td>even</td>
+<td>odd</td>
+<td>odd</td>
+<td>odd</td>
+</tr>
+<tr>
+<td height="17"><strong>j</strong></td>
+<td>even</td>
+<td>even</td>
+<td>odd</td>
+<td>odd</td>
+<td>even</td>
+<td>even</td>
+<td>odd</td>
+</tr>
+<tr>
+<td height="17"><strong>k</strong></td>
+<td>even</td>
+<td>odd</td>
+<td>even</td>
+<td>odd</td>
+<td>even</td>
+<td>odd</td>
+<td>odd</td>
+</tr>
+</tbody>
+</table>
+<p>That doesn't really make much sense, but if we test the oddness of the numbers using <a title="wikipedia modulo division" href="http://en.wikipedia.org/wiki/Modulo_operation">the %2</a> method then we get:</p>
+<table>
+<colgroup>
+<col width="25" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="86" /> </colgroup>
+<tbody>
+<tr>
+<td width="25"></td>
+<td width="39"><strong>000</strong></td>
+<td width="39"><strong>001</strong></td>
+<td width="39"><strong>010</strong></td>
+<td width="39"><strong>011</strong></td>
+<td width="39"><strong>100</strong></td>
+<td width="39"><strong>101</strong></td>
+<td width="86"><strong>111</strong></td>
+</tr>
+<tr>
+<td height="17"><strong>m</strong></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td height="17"><strong>j</strong></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td height="17"><strong>k</strong></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>Which is still a bit obscure, but there is more we can do with it because it is numbers rather than words.<br />
+While we're deep in this confusion, We've only used the addresses with 0s and 1s in them because it is easier for me to count up in binary to 6 rather than to work out the relative positions - you could just have easily picked a place in the middle of the grid and taken the offsets from there.</p>
+<p>So this is the trick, the bit where it gets really elegant. You add up the vertical columns and then that the %2 of those numbers:</p>
+<table border="0" cellspacing="0" frame="VOID" rules="NONE">
+<colgroup>
+<col width="25" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="39" />
+<col width="34" /> </colgroup>
+<tbody>
+<tr>
+<td width="25" height="17"></td>
+<td width="39"><strong>000</strong></td>
+<td width="39"><strong>001</strong></td>
+<td width="39"><strong>010</strong></td>
+<td width="39"><strong>011</strong></td>
+<td width="39"><strong>100</strong></td>
+<td width="39"><strong>101</strong></td>
+<td width="34"><strong>111</strong></td>
+</tr>
+<tr>
+<td height="17"><strong>m</strong></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td height="17"><strong>j</strong></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td height="17"><strong>k</strong></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td height="22"><span style="font-size: small;">?</span></td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td height="17">%2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td height="17"></td>
+<td>small</td>
+<td>big</td>
+<td>big</td>
+<td>small</td>
+<td>big</td>
+<td>small</td>
+<td>big</td>
+</tr>
+</tbody>
+</table>
+<p>and all of that packs down into that one line!</p>
+<p>So here's the minimal code, and after the fold is the code that draws the snowflakes in SketchUp</p>
+<pre style="color: #000000; background: #ffffff;"><span style="color: #800000; font-weight: bold;">for</span> m <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #008000;">.4</span><span style="color: #808030;">)</span>
+  <span style="color: #800000; font-weight: bold;">for</span> j <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #008000;">.4</span><span style="color: #808030;">)</span>
+    <span style="color: #800000; font-weight: bold;">for</span> k <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #008000;">.4</span><span style="color: #808030;">)</span>
+
+      isOdd <span style="color: #808030;">=</span> <span style="color: #808030;">(</span> <span style="color: #808030;">(</span>j%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">+</span> <span style="color: #808030;">(</span>k%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">+</span> <span style="color: #808030;">(</span>m%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">)</span> %<span style="color: #008c00;">2</span>
+<span style="color: #800000; font-weight: bold;">      if</span> isOdd <span style="color: #808030;">=</span><span style="color: #808030;">=</span> <span style="color: #008c00;">0</span>
+        <span style="color: #696969;">#do some stuff because it's even</span>
+        <span style="color: #400000;">puts</span> <span style="color: #0000e6;">'big'</span>
+      <span style="color: #800000; font-weight: bold;">else</span>
+        <span style="color: #696969;">#do some stuff because it's odd</span>
+        <span style="color: #400000;">puts</span> <span style="color: #0000e6;">'small'</span>
+      <span style="color: #800000; font-weight: bold;">end</span>
+
+    <span style="color: #800000; font-weight: bold;">end</span> <span style="color: #696969;"># for k (controlling y_axis)</span>
+  <span style="color: #800000; font-weight: bold;">end</span> <span style="color: #696969;"># for j (controlling x_axis)</span>
+<span style="color: #800000; font-weight: bold;">end</span> <span style="color: #696969;"># for m (controlling z_axis)</span></pre>
+<p><!--more--><br />
+and here's the snowflake making code.</p>
+<pre style="color: #000000; background: #ffffff;">mod <span style="color: #808030;">=</span> Sketchup<span style="color: #808030;">.</span>active_model
+ent <span style="color: #808030;">=</span> mod<span style="color: #808030;">.</span>entities
+sel <span style="color: #808030;">=</span> mod<span style="color: #808030;">.</span>selection
+
+radius <span style="color: #808030;">=</span> <span style="color: #008c00;">10</span>
+numPoints <span style="color: #808030;">=</span> <span style="color: #008c00;">35</span>
+spacingMultiplier <span style="color: #808030;">=</span> <span style="color: #008c00;">4</span>
+spacing <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> spacingMultiplier</pre>
+<pre style="color: #000000; background: #ffffff;">mod <span style="color: #808030;">=</span> Sketchup<span style="color: #808030;">.</span>active_model
+ent <span style="color: #808030;">=</span> mod<span style="color: #808030;">.</span>entities
+sel <span style="color: #808030;">=</span> mod<span style="color: #808030;">.</span>selection
+
+radius <span style="color: #808030;">=</span> <span style="color: #008c00;">10</span>
+numPoints <span style="color: #808030;">=</span> <span style="color: #008c00;">35</span>
+spacingMultiplier <span style="color: #808030;">=</span> <span style="color: #008c00;">4</span>
+spacing <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> spacingMultiplier
+
+<span style="color: #800000; font-weight: bold;">for</span> m <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #008000;">.4</span><span style="color: #808030;">)</span>
+  <span style="color: #800000; font-weight: bold;">for</span> j <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #008000;">.4</span><span style="color: #808030;">)</span>
+    <span style="color: #800000; font-weight: bold;">for</span> k <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #008000;">.4</span><span style="color: #808030;">)</span>
+
+      sizeController <span style="color: #808030;">=</span> <span style="color: #808030;">(</span> <span style="color: #808030;">(</span>j%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">+</span> <span style="color: #808030;">(</span>k%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">+</span> <span style="color: #808030;">(</span>m%<span style="color: #008c00;">2</span><span style="color: #808030;">)</span> <span style="color: #808030;">)</span> %<span style="color: #008c00;">2</span>
+      radius <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> sizeController <span style="color: #808030;">+</span> <span style="color: #008c00;">10</span>
+
+      origin_x <span style="color: #808030;">=</span> j <span style="color: #808030;">*</span> spacing
+      origin_y <span style="color: #808030;">=</span> k <span style="color: #808030;">*</span> spacing
+      origin_z <span style="color: #808030;">=</span> m <span style="color: #808030;">*</span> spacing
+
+      p1 <span style="color: #808030;">=</span> <span style="color: #808030;">[</span>origin_x , origin_y , origin_z<span style="color: #808030;">]</span>
+
+      <span style="color: #800000; font-weight: bold;">for</span> i <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #808030;">.</span>numPoints<span style="color: #808030;">)</span>
+        angleInDegrees <span style="color: #808030;">=</span> i<span style="color: #808030;">.</span>degrees<span style="color: #808030;">*</span><span style="color: #008c00;">10</span>
+        p2x_val <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> Math<span style="color: #808030;">.</span>sin<span style="color: #808030;">(</span>angleInDegrees<span style="color: #808030;">)</span>
+        p2y_val <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> Math<span style="color: #808030;">.</span>cos<span style="color: #808030;">(</span>angleInDegrees<span style="color: #808030;">)</span>
+        p2 <span style="color: #808030;">=</span> <span style="color: #808030;">[</span><span style="color: #008c00;">0</span><span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">0</span><span style="color: #808030;">]</span>, p2x_val<span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">1</span><span style="color: #808030;">]</span> , p2y_val<span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">2</span><span style="color: #808030;">]</span><span style="color: #808030;">]</span>
+        ent<span style="color: #808030;">.</span>add_line<span style="color: #808030;">(</span>p1,p2<span style="color: #808030;">)</span>
+      <span style="color: #800000; font-weight: bold;">end</span>
+
+      <span style="color: #800000; font-weight: bold;">for</span> i <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #808030;">.</span>numPoints<span style="color: #808030;">)</span>
+        angleInDegrees <span style="color: #808030;">=</span> i<span style="color: #808030;">.</span>degrees<span style="color: #808030;">*</span><span style="color: #008c00;">10</span>
+        p2x_val <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> Math<span style="color: #808030;">.</span>sin<span style="color: #808030;">(</span>angleInDegrees<span style="color: #808030;">)</span>
+        p2y_val <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> Math<span style="color: #808030;">.</span>cos<span style="color: #808030;">(</span>angleInDegrees<span style="color: #808030;">)</span>
+        p2 <span style="color: #808030;">=</span> <span style="color: #808030;">[</span>p2x_val<span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">0</span><span style="color: #808030;">]</span> , p2y_val<span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">1</span><span style="color: #808030;">]</span> , <span style="color: #008c00;">0</span><span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">2</span><span style="color: #808030;">]</span><span style="color: #808030;">]</span>
+        ent<span style="color: #808030;">.</span>add_line<span style="color: #808030;">(</span>p1,p2<span style="color: #808030;">)</span>
+      <span style="color: #800000; font-weight: bold;">end</span>
+
+      <span style="color: #800000; font-weight: bold;">for</span> i <span style="color: #800000; font-weight: bold;">in</span> <span style="color: #808030;">(</span><span style="color: #008c00;">0</span><span style="color: #808030;">.</span><span style="color: #808030;">.</span>numPoints<span style="color: #808030;">)</span>
+        angleInDegrees <span style="color: #808030;">=</span> i<span style="color: #808030;">.</span>degrees<span style="color: #808030;">*</span><span style="color: #008c00;">10</span>
+        p2x_val <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> Math<span style="color: #808030;">.</span>sin<span style="color: #808030;">(</span>angleInDegrees<span style="color: #808030;">)</span>
+        p2y_val <span style="color: #808030;">=</span> radius <span style="color: #808030;">*</span> Math<span style="color: #808030;">.</span>cos<span style="color: #808030;">(</span>angleInDegrees<span style="color: #808030;">)</span>
+        p2 <span style="color: #808030;">=</span> <span style="color: #808030;">[</span>p2y_val<span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">0</span><span style="color: #808030;">]</span> , <span style="color: #008c00;">0</span><span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">1</span><span style="color: #808030;">]</span> , p2x_val<span style="color: #808030;">+</span>p1<span style="color: #808030;">[</span><span style="color: #008c00;">2</span><span style="color: #808030;">]</span><span style="color: #808030;">]</span>
+        ent<span style="color: #808030;">.</span>add_line<span style="color: #808030;">(</span>p1,p2<span style="color: #808030;">)</span>
+      <span style="color: #800000; font-weight: bold;">end</span> 
+
+    <span style="color: #800000; font-weight: bold;">end</span> <span style="color: #696969;"># for k (controlling y_axis)</span>
+  <span style="color: #800000; font-weight: bold;">end</span> <span style="color: #696969;"># for j (controlling x_axis)</span>
+<span style="color: #800000; font-weight: bold;">end</span> <span style="color: #696969;"># for m (controlling z_axis)</span></pre>
+<p>This could be a bit more tightly written, but for a first lesson in programming it's some <em>very</em> impressive stuff!</p>
