@@ -44,6 +44,14 @@ $on-laptop:        800px;
 }
 
 
+* { box-sizing: Border-box }
+
+//vendor imports
+@import "bourbon/bourbon"; 
+@import "grid-settings";
+$visual-grid: true;
+@import "neat/neat";
+@import "neat/neat-helpers";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
