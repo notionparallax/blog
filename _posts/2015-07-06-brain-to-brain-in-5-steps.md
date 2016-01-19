@@ -38,7 +38,8 @@ author:
 <p>We were talking a lot about communication as something monolithic that just happens. Often it fails! With a monolithic model all we know is that it fails. This model only works where there are simple failure modes. I saw it in action this weekend and it was helpful.  As soon as someone pointed out the failing step it developed shared understanding.</p>
 <h2>Pitfalls</h2>
 <p>It won't help in fixing the problem. It also is of no use in high functioning situations. If two people are communicating well, but the concept is difficult. In that sort of case something like <a href="http://shop.oreilly.com/product/0636920033851.do">story mapping</a>[1. I've just started reading the book.] or maybe even just a conversation.</p>
-<p>[caption id="" align="alignnone" width="602"]<img class="" src="{{ site.baseurl }}/assets/2a25617d-7579-4e9a-a88e-1f43f96d0c71.jpg" alt="" width="602" height="500" /> Jeff Patton and Luke Barrett's cartoon – agreeing on a shared vision for a product[/caption]</p>
+<figure><img class="" src="{{ site.baseurl }}/assets/2a25617d-7579-4e9a-a88e-1f43f96d0c71.jpg" alt="" width="602" height="500" />
+<figcaption>Jeff Patton and Luke Barrett's cartoon – agreeing on a shared vision for a product</figcaption></figure>
 <h2>Details</h2>
 <ol>
 <li>If you have a thought that you want to share with someone else then the first step is to organise it in a way that they could understand it. I'm guilty of not doing this all the time when I haven't formed an idea properly. That's fine; sharing half formed thoughts is where lots of great ideas come from.</li>

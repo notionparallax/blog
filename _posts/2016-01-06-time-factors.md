@@ -11,17 +11,7 @@ meta:
   _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _SnS: "a:2:{s:6:\"styles\";a:1:{s:6:\"styles\";s:438:\"#tinymce{width:640px;}\n#tinymce
-    p {\n    font-size: 14px;\n\tline-height:20px;\n}\nh2{clear:both;}\niframe {\n
-    \   width: 100%;\n    height: 310px;\n}\n.scruffy{width:65%;}\n.alignright {\n
-    \   float: right;\n}\n.reading-stats {\n    width: 40%;\n    float: right;\n    margin-left:
-    2em;\n    line-height: 87%;\n    padding: 1em;\n    background-color: bisque;\n}\n.reading-stats
-    span.thing {\n    display: inline-block;\n    width: 43%;\n}\";}s:7:\"scripts\";a:1:{s:7:\"scripts\";s:393:\"jQuery.fn.spanner
-    = function (str, className) {    \n\tvar regex = new RegExp(str, \"gi\");\n\t\n\treturn
-    this.each(function () {\n\t\tconsole.log(\"spanner\");\n\t\tthis.innerHTML = this.innerHTML.replace(regex,
-    function(matched) {\n\t\t\treturn \"<span class=\\\"\" + className + \"\\\">***\"
-    + matched + \"</span>\";});\n\t});\n};\n\njQuery( document ).ready(function()
-    {\n\tjQuery(\"p\").spanner(\"—\",\"emdash\");\n});\";}}"
+
   _oembed_ad22890eb177d95f23f23ba166131799: "{{unknown}}"
   _oembed_39140ea4e31131af99981a65fdd14031: "{{unknown}}"
   _oembed_ef2b8cdf49a91926b607448037c03a61: "{{unknown}}"
@@ -36,6 +26,34 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+  h2 {
+    clear: both;
+}
+iframe {
+    width: 100 % ;
+    height: 310 px;
+}
+.scruffy {
+    width: 65 % ;
+}
+.alignright {
+    float: right;
+}
+.reading-stats {
+    width: 40 % ;
+    float: right;
+    margin-left: 2e m;
+    line-height: 87 % ;
+    padding: 1e m;
+    background-color: bisque;
+}
+.reading-stats span.thing {
+    display: inline-block;
+    width: 43 % ;
+}
+</style>
+
 <p>I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)<!--more--></p>
 <div class="reading-stats">
 <p><strong>Reading stats</strong> <small>(no footnotes)</small></p>
@@ -66,7 +84,8 @@ author:
 <p><img class="scruffy alignleft wp-image-2585" src="{{ site.baseurl }}/assets/productivity.png" alt="productivity" /></p>
 <p>There are a few big types of work. Most studies focus on people who make widgets because their productivity is easy to quantify. Either you make 500 widgets or you don't. Some office work is like this; maybe you process 100 application forms. It's much harder to study knowledge work because productivity could be measured in any number of ways, all likely to be inaccurate[1. This is talked about a lot in The Mythical Man Month, about how many lines of code a person writes in a day. Then software people have been trying to <em>not</em> do that ever since.]. "Because it's hard" is a terrible reason not to do something, but it does explain why there seem to be so few studies on productivity per hour in knowledge work.</p>
 <p>If we talk about manufacturing, there's a long history.</p>
-<p>[caption id="" align="alignright" width="225"]<img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" width="225" height="169" /> One summer I did a week as a temp making these. It's an industrial fuse. Two Bakelite pieces, screwed together over a middle fuse. I got pretty quick. So quick that my 2 week temping gig ended up only being a week because I'd finished my allocation.[/caption]</p>
+<figure><img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" width="225" height="169" /> 
+<figcaption>One summer I did a week as a temp making these. It's an industrial fuse. Two Bakelite pieces, screwed together over a middle fuse. I got pretty quick. So quick that my 2 week temping gig ended up only being a week because I'd finished my allocation.</figcaption></figure>
 <blockquote><p>On January 5, 1914, the <a title="Ford Motor Company" href="https://en.wikipedia.org/wiki/Ford_Motor_Company">Ford Motor Company</a> took the radical step of doubling pay to $5 a day and cut shifts from nine hours to eight, moves that were not popular with rival companies, although seeing the increase in Ford's productivity, and a significant increase in profit margin (from $30 million to $60 million in two years), most soon followed suit.[1. New York Times <a href="http://www.nytimes.com/learning/general/onthisday/big/0105.html#article">"Ford Gives $10,000,000 To 26,000 Employees"</a>, <i>The New York Times</i>, January 5, 1914, accessed April 23, 2011.][1.Ford Motor Company <a href="http://corporate.ford.com/about-ford/heritage/milestones/5dollaraday/677-5-dollar-a-day" rel="nofollow">"Henry Ford's $5-a-Day Revolution"</a>, <i>Ford</i>, January 5, 1914, accessed April 23, 2011.][1. HispanicPundit <a class="external text" href="http://hispanicpundit.com/2005/09/21/economic-myths-the-5-day-work-week-and-the-8-hour-day/" rel="nofollow">"Economic Myths: The 5 Day Work Week And The 8 Hour Day"</a>, <i>Hispanic Pundit</i>, September 21st, 2005, accessed April 23, 2011.][1. Byron Preiss Visual Publications, Inc. <a href="http://www.wiley.com/legacy/products/subject/business/forbes/ford.html" rel="nofollow">"Ford: Doubling the profit from 1914-1916"</a>, <i>Hispanic Pundit</i>, 1996, accessed April 24, 2011.]</p></blockquote>
 <p>Ford wasn't motivated by social factors[1. others in this period were to some extent. E.g. My mother went to the school that Cadbury made for his workers in Bournville.], he had a clear profit motive. There was compelling evidence that per-hour-productivity started to drop off after 8 hours.</p>
 <p>This finding was backed up by some studies done in the first world war. <a href="http://www.economist.com/blogs/freeexchange/2014/12/working-hours">Here's an Economist article</a> that explains it, and <a href="http://ftp.iza.org/dp8129.pdf">here's the paper</a> that they base the article on.</p>
