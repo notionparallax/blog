@@ -19,7 +19,7 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
-<p>I'm doing a bit of data exploration for work based on our people. I don't know any statistical software (or really any stats![1. But I am going to do the <a href="https://www.coursera.org/course/stats1">coursera statistics course</a> starting next week.]), so rather than learning R or SPSS I thought I'd have a go at doing it in Google docs. I will probably need a stats library once we get into trying to find unexpected numbers, but for simple queries it does just fine. This stage is just about making some interesting graphs to give people an idea of what they can do with the data they have at their disposal.</p>
+<p>I'm doing a bit of data exploration for work based on our people. I don't know any statistical software (or really any stats![^1]), so rather than learning R or SPSS I thought I'd have a go at doing it in Google docs. I will probably need a stats library once we get into trying to find unexpected numbers, but for simple queries it does just fine. This stage is just about making some interesting graphs to give people an idea of what they can do with the data they have at their disposal.</p>
 <p>Javascript now does array comprehensions, so you can chain Boolean expressions to filter for just the rows that you want.</p>
 <p><code>var maleGlassesWearers = [p for each (p in people) if ((p.gender == 'm') &amp;&amp; (p.glassesInRealLife == 'y'))];</code></p>
 <p>They aren't the prettiest of statements, but they get the job done in very little code.</p>
@@ -27,3 +27,5 @@ author:
 The spreadsheet is confidential, but there is noting special about the code, so it's included here. I've done the filters using a for loop and using a comprehension so that you can see the difference.<br />
 <!--more--><br />
 <script src="https://gist.github.com/3564342.js"> </script></p>
+
+[^1]: But I am going to do the <a href="https://www.coursera.org/course/stats1">coursera statistics course</a> starting next week.

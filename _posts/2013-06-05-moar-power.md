@@ -46,7 +46,7 @@ author:
 <p>The data is scraped from their website, so isn't live (snapshot taken on 2013-06-05).</p>
 <h2>The why story</h2>
 <p>Recently I've been having a bit of a cry at the gym, I feel a bit like I'm slipping backwards in terms of work capacity.</p>
-<p>Being a big <a href="http://quantifiedself.com/">QS</a> nerd I've been tracking my performance since I started [1. apart for a bit of a lapse a couple of weeks ago :( ] with <a href="http://beyondthewhiteboard.com">beyond the whiteboard</a> so I have the historical data on how I've been performing.</p>
+<p>Being a big <a href="http://quantifiedself.com/">QS</a> nerd I've been tracking my performance since I started[^1] with <a href="http://beyondthewhiteboard.com">beyond the whiteboard</a> so I have the historical data on how I've been performing.</p>
 <p>Looking at the results I can see that what's really happening is that I'm progressing, but not as fast as the people around me. A bit like being on a train that's being overtaken by another one; you feel like you are going backwards, but really you are going forwards! It's a pretty simple three step process for improving more though:</p>
 <ol>
 <li><span style="line-height: 13px;">fix my diet</span></li>
@@ -54,3 +54,5 @@ author:
 <li>profit</li>
 </ol>
 <hr style="background: #EEEEEE; border: 0; height: 7px;" />
+
+[^1]: apart for a bit of a lapse a couple of weeks ago :(
