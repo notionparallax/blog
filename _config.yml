@@ -11,6 +11,7 @@ github_username:  notionparallax
 
 # Build settings
 markdown: kramdown
+permalink: "/:year/:title"
 
 kramdown:
   parse_block_html: true
