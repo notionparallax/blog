@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - GC
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -10,9 +10,7 @@ tags:
 - font
 - wireframe
 meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
-  dsq_thread_id: '4503553371'
+dsq_thread_id: '4503553371'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

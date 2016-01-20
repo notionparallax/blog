@@ -9,7 +9,6 @@ categories: []
 tags:
 - hardware
 - life
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

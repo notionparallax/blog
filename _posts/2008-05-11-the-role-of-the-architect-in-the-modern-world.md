@@ -11,7 +11,6 @@ tags:
 - australia
 - collaborative
 - future
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

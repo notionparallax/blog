@@ -11,7 +11,6 @@ tags:
 - google
 - programming
 meta:
-  _edit_last: '1'
   _wp_old_slug: '948'
 author:
   login: Ben

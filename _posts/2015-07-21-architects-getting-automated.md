@@ -9,12 +9,10 @@ categories: []
 tags:
 - BVN
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Why "Architects are safe from automation" misses the point, and what
     happens next.
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

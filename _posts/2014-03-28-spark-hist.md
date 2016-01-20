@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _wpas_mess: |-
     Spark hist http://wp.me/p3wwRK-pz
     ▁░░░▃░▁▅▁█
@@ -20,7 +19,6 @@ meta:
     ▆▂▁░▃▁▄▇█▁
     ▇▆█▅▅▃▄▅▂░
     ▂█▃▂▂▂▄█▂
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

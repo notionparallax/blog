@@ -14,22 +14,9 @@ tags:
 - Shane Dalton
 - Voting
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _oembed_8d0873a74f9b7807bda2b5ba82a19079: "{{unknown}}"
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:115:"iframe {
-      width: 100%;
-      height: 380px;
-      border: none;
-    }
-    .payload {
-      font-size: 60%;
-      line-height: 1;
-    }";}}
   _thumbnail_id: '1831'
-  _wpas_done_all: '1'
   _wpas_mess: Voting for a group - some thoughts and observations and stuff
 author:
   login: Ben
@@ -38,6 +25,17 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+  iframe {
+      width: 100%;
+      height: 380px;
+      border: none;
+    }
+    .payload {
+      font-size: 60%;
+      line-height: 1;
+    }
+</style>
 <p>Voting for one person is complicated enough. Electing a group of people is a surprisingly difficult job! Here's some work we did recently at BVN to elect a group of 13 people.</p>
 <p><!--more--></p>
 <p>As with all the stuff I do, I'm sure this has been studied to death, by some field or other. If anyone knows what the field is called then I'd love to know.</p>

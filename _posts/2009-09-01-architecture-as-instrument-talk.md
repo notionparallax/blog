@@ -10,8 +10,7 @@ tags:
 - architecture
 - history
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552154'
+dsq_thread_id: '4503552154'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

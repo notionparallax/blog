@@ -18,8 +18,7 @@ tags:
 - major study
 - POE
 meta:
-  _edit_last: '1'
-  enclosure: |
+enclosure: |
     http://notionparallax.co.uk/JuditKimpian_on_CarbonBuzz.mp3
     45986183
     audio/mpeg

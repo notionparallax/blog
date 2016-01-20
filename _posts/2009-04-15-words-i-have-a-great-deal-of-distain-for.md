@@ -11,7 +11,7 @@ tags:
 - thinking
 - writing
 meta:
-  dsq_thread_id: '4503552360'
+dsq_thread_id: '4503552360'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -9,8 +9,6 @@ categories: []
 tags:
 - GC
 - geek
-meta:
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

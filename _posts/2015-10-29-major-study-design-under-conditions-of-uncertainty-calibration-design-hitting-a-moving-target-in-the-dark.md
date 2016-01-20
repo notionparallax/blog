@@ -13,13 +13,11 @@ tags:
 - Oxford brookes
 - psychology
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _post_restored_from: a:3:{s:20:"restored_revision_id";i:2236;s:16:"restored_by_user";i:1;s:13:"restored_time";i:1445986591;}
   _wpas_mess: 'Design under conditions of uncertainty: Calibration, design & hitting
     a moving target in the dark'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

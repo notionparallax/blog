@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - future
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

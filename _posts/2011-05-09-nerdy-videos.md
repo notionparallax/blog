@@ -10,8 +10,7 @@ tags:
 - cool links
 - life
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552321'
+dsq_thread_id: '4503552321'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

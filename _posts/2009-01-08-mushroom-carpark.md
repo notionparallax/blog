@@ -7,12 +7,6 @@ published: true
 status: publish
 categories: []
 tags: []
-meta:
-  _edit_last: '1'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

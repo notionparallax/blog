@@ -16,8 +16,6 @@ tags:
 - major study
 - Post occupancy evaluation
 - simulation
-meta:
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

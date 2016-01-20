@@ -13,7 +13,6 @@ tags:
 - house keeping
 - life
 - rmit
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

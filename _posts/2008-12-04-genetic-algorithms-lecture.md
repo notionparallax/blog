@@ -11,7 +11,6 @@ tags:
 - australia
 - GC
 - geek
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

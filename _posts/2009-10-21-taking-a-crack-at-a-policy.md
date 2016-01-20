@@ -10,8 +10,7 @@ tags:
 - future
 - thinking
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503553059'
+dsq_thread_id: '4503553059'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

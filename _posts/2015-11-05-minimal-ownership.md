@@ -8,15 +8,12 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  _oembed_b857b5c6d609e91b4efacaf429323da0: "{{unknown}}"
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _oembed_ef2bc281795d86d05ce8a01da6ffb148: "{{unknown}}"
-  _oembed_59f85f0d78ae66e5468e5abc09ea1c62: "{{unknown}}"
-  _oembed_21970f7aad26fdf6403d347579a42a86: "{{unknown}}"
+  
+  
+  
   _wpas_mess: What is minimal ownership?
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

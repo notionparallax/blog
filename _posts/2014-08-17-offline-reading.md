@@ -8,17 +8,21 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
 
-  _wpas_done_all: '1'
+  
+
   _wpas_mess: Offline reading - here's how I do it. Any ideas on how to make it better?
     http://wp.me/p3wwRK-r5
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
+  
+
+  
+
+  
+
+  
+
   dsq_thread_id: '4503553574'
 author:
   login: Ben

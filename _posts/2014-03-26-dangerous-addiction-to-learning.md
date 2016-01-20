@@ -13,10 +13,7 @@ tags:
 - skill
 - smart geometry
 meta:
-  _wpas_skip_6785826: '1'
   _wpas_mess: Dangerous addiction to learning - a ramble about skills http://wp.me/p3wwRK-pA
-  _edit_last: '1'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

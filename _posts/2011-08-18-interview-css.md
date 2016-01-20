@@ -10,9 +10,6 @@ tags:
 - CSS
 - internet
 - trick
-meta:
-  _edit_last: '1'
-  _SnS: ''
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -13,8 +13,7 @@ tags:
 - life
 - optimise
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552413'
+dsq_thread_id: '4503552413'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

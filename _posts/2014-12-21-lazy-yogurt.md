@@ -12,12 +12,13 @@ tags:
 - tutorials
 - yogurt
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
+  
+
   _wpas_mess: lazy yogurt http://wp.me/p3wwRK-rN
-  _wpas_skip_3597579: '1'
+  
+
   dsq_thread_id: '4503553616'
 author:
   login: Ben

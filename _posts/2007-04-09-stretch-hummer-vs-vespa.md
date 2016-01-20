@@ -10,7 +10,6 @@ tags:
 - eco stuff
 - scooter
 - trips
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

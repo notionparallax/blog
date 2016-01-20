@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - trips
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -14,10 +14,10 @@ tags:
 - Neal Stephenson
 - Reading
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
+  
+
   _wpas_mess: 'This is a series that I’m trying to get going at work. This is my go
     at fulfilling this format: 3 Read, 1 reading, 2 to read'
 author:

@@ -11,8 +11,7 @@ tags:
 - technology
 - vector illustration
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552641'
+dsq_thread_id: '4503552641'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

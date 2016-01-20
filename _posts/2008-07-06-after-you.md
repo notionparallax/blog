@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags: []
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

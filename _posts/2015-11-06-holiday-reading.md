@@ -8,34 +8,9 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:287:"iframe {
-        float: left;
-        margin-right: 1em;
-        margin-bottom: 1em;
-    }
-    h2 {
-        clear: both;
-        padding-top: 1em;
-        border-top: 1px solid;
-        margin-top: 0.7em;
-    }
-    .quotes-i-like li {
-        font-size: 85%;
-        margin-bottom: 0.5em;
-    }
-    .footnotes {
-        clear: both;
-    }";}}
-  _wpas_done_all: '1'
   _thumbnail_id: '2576'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk
@@ -43,6 +18,26 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+  iframe {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
+  h2 {
+    clear: both;
+    padding-top: 1em;
+    border-top: 1px solid;
+    margin-top: 0.7em;
+  }
+  .quotes-i-like li {
+    font-size: 85%;
+    margin-bottom: 0.5em;
+  }
+  .footnotes {
+    clear: both;
+  }
+</style>
 <p>I did a lot of reading on holiday. Somehow I managed to do a lot of holiday too! It's amazing how much mental energy not going to work frees up for thinking.</p>
 <p>I finished 12 books in just over 4 weeks. Here's what I read and what I thought!<!--more--></p>
 <p>Kindle's give you the option to highlight, then <a href="https://kindle.amazon.com/your_highlights">those highlights are collected</a>. I've put the highlights below the descriptions. There is a strong correlation between number of highlights and how useful the book seemed at the time, but a weaker one with enjoyment.</p>

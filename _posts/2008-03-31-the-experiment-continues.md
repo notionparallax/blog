@@ -10,8 +10,6 @@ tags:
 - architecture
 - geek
 - hardware
-meta:
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

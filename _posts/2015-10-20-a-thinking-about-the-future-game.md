@@ -11,19 +11,15 @@ tags:
 - future
 - Game
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '1901'
-  _oembed_c2a1f6015753567f7e42d3d25bee7df8: "{{unknown}}"
-  _wpas_done_all: '1'
+  
+  
+
   _wpas_mess: |-
     A 'Thinking about the future' game for stretching your brain's legs.
     Let me know what you think.
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -9,7 +9,6 @@ categories: []
 tags:
 - thinking
 - writing
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

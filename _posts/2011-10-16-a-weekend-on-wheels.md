@@ -13,8 +13,7 @@ tags:
 - racing
 - Sydney
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552785'
+dsq_thread_id: '4503552785'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

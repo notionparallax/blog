@@ -11,12 +11,12 @@ tags:
 - process
 - programming
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '1773'
   _wpas_mess: here's why I think that Delegation == Programming http://wp.me/p3wwRK-sw
-  _wpas_done_all: '1'
+  
+
   dsq_thread_id: '4503553673'
 author:
   login: Ben

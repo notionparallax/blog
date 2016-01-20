@@ -12,8 +12,7 @@ tags:
 - dubai
 - GC
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552270'
+dsq_thread_id: '4503552270'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

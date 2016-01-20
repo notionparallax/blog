@@ -8,15 +8,9 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'Major study appendix: Carbon Buzz interview transcript with Judit Kimpian'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

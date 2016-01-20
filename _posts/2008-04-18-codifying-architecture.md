@@ -9,7 +9,6 @@ categories: []
 tags:
 - architecture
 - rmit
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

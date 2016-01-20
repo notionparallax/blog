@@ -9,7 +9,6 @@ categories: []
 tags:
 - geek
 - late night
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -10,7 +10,6 @@ tags:
 - architecture
 - australia
 - writing
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

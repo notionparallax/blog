@@ -18,9 +18,7 @@ tags:
 - phone
 - sensors
 meta:
-  _edit_last: '1'
   _thumbnail_id: '1380'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

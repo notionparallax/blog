@@ -13,7 +13,6 @@ tags:
 - life
 - rmit
 - trips
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -12,7 +12,6 @@ tags:
 - hardware
 - house keeping
 - toys
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

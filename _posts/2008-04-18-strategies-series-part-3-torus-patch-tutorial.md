@@ -9,7 +9,6 @@ categories: []
 tags:
 - architecture
 - GC
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

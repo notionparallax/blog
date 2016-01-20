@@ -9,7 +9,6 @@ categories: []
 tags:
 - future
 - geek
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -12,7 +12,6 @@ tags:
 - life
 - thinking
 - writing
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

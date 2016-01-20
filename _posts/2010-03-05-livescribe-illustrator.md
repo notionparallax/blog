@@ -12,8 +12,7 @@ tags:
 - hardware
 - vector illustration
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552260'
+dsq_thread_id: '4503552260'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

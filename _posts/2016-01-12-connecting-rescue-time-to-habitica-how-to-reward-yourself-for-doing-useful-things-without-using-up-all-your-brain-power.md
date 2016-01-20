@@ -1,14 +1,22 @@
---- layout: post title: 'Connecting Rescue time to Habitica: How to reward yourself for doing useful things without using up all your brain power' date: 2016-01-12 08:00:03.000000000 +11:00 type: post published: true status: publish categories: [] tags: [] meta: _edit_last: '1' _publicize_facebook_user: http://www.facebook.com/541400612 _publicize_twitter_user: "@notionparallax" login: Ben email: ben@notionparallax.co.uk display_name: Ben first_name: Ben last_name: Doherty ---
+--- 
+layout: post 
+title: 'Connecting Rescue time to Habitica: How to reward yourself for doing useful things without using up all your brain power' 
+date: 2016-01-12 08:00:03.000000000 +11:00 
+type: post 
+published: true 
+status: publish 
+categories: [] 
+tags: [] 
+meta:
+  _publicize_facebook_user: http://www.facebook.com/541400612 
+  _publicize_twitter_user: "@notionparallax" 
+  login: Ben 
+  email: ben@notionparallax.co.uk 
+  display_name: Ben 
+  first_name: Ben 
+  last_name: Doherty 
+---
 <style type="text/css">
-#tinymce {
-    width: 640px;
-}
-
-#tinymce p {
-    font-size: 14px;
-    line-height: 20px;
-}
-
 svg.prod-graph {
     width: 63vh;
     height: 31vh;
@@ -218,10 +226,10 @@ svg.prod-graph {
 <p>And that is that.</p>
 <p>If you have any clever ideas for other things to join up then let me know. I'm a total sucker for this stuff.</p>
 
-[^1 i.e. it gets me to do things that the good version of myself thinks are useful. The things that--given some time to think about it and plan--I would want to be doing.] 
+[^1]: i.e. it gets me to do things that the good version of myself thinks are useful. The things that--given some time to think about it and plan--I would want to be doing. 
 
-[^2 Rescue Time for Linux is a process that you need to start manually. I'm sure that's the Linux way, but it's super annoying. "Just make a startup script" sure, one day.] 
+[^2]: Rescue Time for Linux is a process that you need to start manually. I'm sure that's the Linux way, but it's super annoying. "Just make a startup script" sure, one day. 
 
-[^3 Now that I've got it working, I'd actually make it in IFTTT, Zapier is pretty crippled unless you pay real money for it.] 
+[^3]: Now that I've got it working, I'd actually make it in IFTTT, Zapier is pretty crippled unless you pay real money for it. 
 
-[^4 You can put other activities into that category if you want them measured on the same timer if you like.]
+[^4]: You can put other activities into that category if you want them measured on the same timer if you like.

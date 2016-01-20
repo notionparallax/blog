@@ -11,9 +11,17 @@ tags:
 - data
 - manifesto
 meta:
-  _edit_last: '1'
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:400:".minibar {
+  _publicize_facebook_user: http://www.facebook.com/541400612
+  _publicize_twitter_user: "@notionparallax"
+author:
+  login: Ben
+  email: ben@notionparallax.co.uk
+  display_name: Ben
+  first_name: Ben
+  last_name: Doherty
+---
+<style type="text/css">
+.minibar {
       width: 40%;
       display: block;
       float: right;
@@ -36,17 +44,7 @@ meta:
       display: block;
       clear: both;
       content: " ";
-    }";}}
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
----
+    }</style>
 <p><!--more--></p>
 <p>API is a big buzzword. It's really confusing until you know what it means.</p>
 <p>An Application Programmer Interface (API[16. <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.codecademy.com%2Fen%2Ftracks%2Fyoutube&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEc-H9T8Mj46IggXXnMD1dmj-e_rA">Here's a course that teaches you about APIs</a> and how to use them. In this case to control YouTube. There are also a whole load of others that you can learn about on there too. Then you'll be an API BOSS.]) is just like any other interface to software. You interact with your computer with a Graphical User Interface (GUI). If you talk to Siri then that's an audio user interface (AUI I suppose).</p>

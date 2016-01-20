@@ -11,23 +11,9 @@ tags:
 - mesh network
 - Photogrametry
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:106:"p.tldr {
-        padding-left: 3em;
-        text-indent: -2.8em;
-        font-size: 180%;
-        line-height: 1.5;
-    }";}}
-  _wpas_done_all: '1'
-  _wpas_mess: Capturing historic buildings (before someone blows them up) by crowd
-    sourcing military technology
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
+  _wpas_mess: Capturing historic buildings (before someone blows them up) by crowd sourcing military technology
 author:
   login: Ben
   email: ben@notionparallax.co.uk
@@ -35,6 +21,14 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+  p.tldr {
+        padding-left: 3em;
+        text-indent: -2.8em;
+        font-size: 180%;
+        line-height: 1.5;
+    }
+</style>
 <p>It's end of semester here in Australia. That means final presentations. I tutored the graduation project subject for UNSW's architectural computing degree[1. with <a href="https://au.linkedin.com/in/m-hank-haeusler-40998110">Hank</a> and <a href="https://www.linkedin.com/in/ivana-kuzmanovska-6b581565">Ivana</a>] so I got to see their work presented on Wednesday.</p>
 <p class="tldr">Tl;dr: Free photogrametry and mesh networks could be used to document historical buildings and artefacts if they are at risk of a nutter blowing them up.</p>
 <p><!--more--></p>

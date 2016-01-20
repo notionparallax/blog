@@ -12,8 +12,6 @@ tags:
 - eco stuff
 - emissions
 - laziness
-meta:
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -11,8 +11,7 @@ tags:
 - ecotect
 - tutorials
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552505'
+dsq_thread_id: '4503552505'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -10,7 +10,7 @@ tags:
 - GC
 - teaching
 meta:
-  dsq_thread_id: '4503551567'
+dsq_thread_id: '4503551567'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

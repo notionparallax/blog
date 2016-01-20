@@ -9,7 +9,6 @@ categories: []
 tags:
 - australia
 - surfing
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

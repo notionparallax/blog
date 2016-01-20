@@ -10,7 +10,7 @@ tags:
 - GC
 - geek
 meta:
-  dsq_thread_id: '4503552113'
+dsq_thread_id: '4503552113'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

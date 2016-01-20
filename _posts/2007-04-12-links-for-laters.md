@@ -10,7 +10,7 @@ tags:
 - bikes
 - cool links
 meta:
-  enclosure: |-
+enclosure: |-
     http://www.green-ideas.com/wiggle/MOV00091.MPG
     6058911
     video/mpeg

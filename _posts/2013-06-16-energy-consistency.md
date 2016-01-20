@@ -12,9 +12,6 @@ tags:
 - SEWHA
 - thinking
 - tools
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

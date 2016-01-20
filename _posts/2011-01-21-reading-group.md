@@ -12,8 +12,6 @@ tags:
 - learning
 - Reading
 - theory
-meta:
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

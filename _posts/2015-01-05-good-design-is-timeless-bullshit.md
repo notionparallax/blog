@@ -11,13 +11,11 @@ tags:
 - products
 - thinking
 meta:
-  _edit_last: '1'
-  _oembed_1d9de1fbb567e0c6bd5c6eb4fc2dcda1: "{{unknown}}"
-  _oembed_c4903436da4fec5df7a3a6d035bcd798: "{{unknown}}"
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
-  _oembed_42ab5d8535cdbcab1f907cf5f9330bb4: "{{unknown}}"
-  _wpas_done_all: '1'
+  
+  
+
   _wpas_mess: |-
     Another blog post: "Good design is timeless: bullshit"
     product:environment relationships

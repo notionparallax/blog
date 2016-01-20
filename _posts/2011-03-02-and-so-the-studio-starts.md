@@ -11,8 +11,7 @@ tags:
 - studio
 - UTS
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503553242'
+dsq_thread_id: '4503553242'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -10,7 +10,6 @@ tags:
 - diploma
 - enhancement
 - future
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

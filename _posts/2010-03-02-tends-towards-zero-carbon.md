@@ -12,8 +12,7 @@ tags:
 - improvement
 - optimisation
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552721'
+dsq_thread_id: '4503552721'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -10,7 +10,7 @@ tags:
 - advertising
 - food
 meta:
-  dsq_thread_id: '4503552378'
+dsq_thread_id: '4503552378'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

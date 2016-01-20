@@ -12,9 +12,6 @@ tags:
 - home
 - house keeping
 - tip
-meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

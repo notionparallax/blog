@@ -10,7 +10,6 @@ tags:
 - flying
 - geek
 - toys
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

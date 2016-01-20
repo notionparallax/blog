@@ -8,10 +8,10 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
+  
+
   _wpas_mess: Deep work, and my first steps
 author:
   login: Ben
@@ -26,7 +26,7 @@ author:
 <p>This book would be a good bet for most people. I'm trying to implement some things from it as my attention is notoriously fleeting. The irony of reading a book about deep work and then flitting across to Facebook as I got bored didn't escape me.</p>
 <h1>Things I did</h1>
 <p>The first thing was to take away my default attention sink. My attention span is somewhere between 2-5 minutes if I'm not into something. I'll feel a strong urge to look at something mindless, to the point where sometimes I'll get bored of looking at Facebook and try to open Facebook to alleviate the dullness! I took Facebook and Instagram off my phone[^1]. I've been surprised by how fast I've acclimatised. I've left Messenger so that I'm still contactable, but I've found that the notifications are very distracting, which brings me to my next <em>thing</em>.</p>
-<p>To get myself to commit to solid periods of deep work I've started using <a href="https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato&amp;hl=en">Clockwork Tomato</a>. It's a Pomodoro timer that sets me up to do 25 minutes of work followed by a 5 minute break[^2], so turning off the WiFi makes me uncontactable.</p>
+<p>To get myself to commit to solid periods of deep work I've started using <a href="https://play.google.com/store/apps/details?id=net.phlam.android.clockworktomato&amp;hl=en">Clockwork Tomato</a>. It's a Pomodoro timer that sets me up to do 25 minutes of work followed by a 5 minute break[^2]. The nice feature that this particular timer has is <a href="http://tasker.dinglisch.net/">Tasker</a> integration. It's like an <a href="https://ifttt.com">IFTTT</a>, but less friendly and more hackable. One of the things it can do is turn off the WiFi on my phone. I don't have a SIM card in my phone[^2a], so turning off the WiFi makes me uncontactable.</p>
 <p>What this means is that I'm committing to 25 minutes of focussed work, without anyone to distract me. That's not a super long time, but for someone with an attention span like mine it's an eternity and is great deep work training.</p>
 <p>One of the nice side effect is that it is a great reward when Tasker turns the wifi back on and I get a flood of notifications that I can faff with for 5 minutes before it cuts me off again[^3].</p>
 <p>I'm considering a few more things like this, but I haven't got around to them yet. I might do something that turns the WiFi off in the house when I should be sleeping, and that uses Rescuetime to block certain websites e.g. blocking work websites outside work times. If you've got any ideas, then let me know!</p>
@@ -56,10 +56,11 @@ author:
 <blockquote><p>our theory is that we'll see better results when people have a long stretch of uninterrupted time." To test this theory, 37signals implemented something radical: The company gave its employees the entire month of June off to work deeply on their own projects.</p></blockquote>
 <p>Those projects have produced some of the features that generate a bunch of Basecamp's income! Without them they'd be grinding along with their old feature set.</p>
 
-
 [^1]: Where I do most of my reading now that I have a massive screen 6p.
 
-[^2]: It's slightly more complicated, but that's the gist. <a href="http://pomodorotechnique.com/">Here's a bit more detail</a>]. The nice feature that this particular timer has is <a href="http://tasker.dinglisch.net/">Tasker</a> integration. It's like an <a href="https://ifttt.com">IFTTT</a>, but less friendly and more hackable. One of the things it can do is turn off the WiFi on my phone. I don't have a SIM card in my phone[1. I just don't see the point, but that's a different story.
+[^2]: It's slightly more complicated, but that's the gist. <a href="http://pomodorotechnique.com/">Here's a bit more detail</a>]
+
+[^2a] I just don't see the point, but that's a different story.
 
 [^3]: This post, <a href="https://blog.intercom.io/its-time-for-notifications-to-get-smart/">It's time for notifications to get smart</a>, from the Intercom blog has some good ideas about how to make this notification thing work for you rather than against.
 

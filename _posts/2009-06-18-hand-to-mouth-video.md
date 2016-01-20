@@ -11,12 +11,11 @@ tags:
 - eco stuff
 - food
 meta:
-  _edit_last: '1'
-  enclosure: |
+enclosure: |
     http://residualsoup.org/videos/handtomouth_web_encode.mov
     20660071
     video/quicktime
-  dsq_thread_id: '4503552613'
+dsq_thread_id: '4503552613'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

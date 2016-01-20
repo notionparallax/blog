@@ -11,7 +11,6 @@ tags:
 - food
 - gardening
 - house keeping
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -9,12 +9,10 @@ categories: []
 tags:
 - ideas
 meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
   _wpas_mess: A couple of little ideas
-  _wpas_skip_3597554: '1'
+  
+
   _publicize_twitter_user: "@notionparallax"
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -13,7 +13,6 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'Why Postednot.es ? How lean can I be, and how can the lazy become internet
     millionaires: step 4) PROFIT!! http://wp.me/p3wwRK-qv'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

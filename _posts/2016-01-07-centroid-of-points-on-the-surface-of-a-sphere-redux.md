@@ -8,22 +8,10 @@ status: publish
 categories: []
 tags: []
 meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _SnS: "a:1:{s:6:\"styles\";a:1:{s:6:\"styles\";s:210:\"iframe.world{\n\twidth:100%;
-    \n\theight:50vh;}\n#tinymce{width:640px;}\n#tinymce p {\n    font-size: 14px;\n\tline-height:20px;\n}\nh1,
-    h2,h3{clear:both;}\n.scruffy{width:65%;}\n.alignright {\n    float: right;\n}\";}}"
-  _oembed_043cf2d6f7aa22d3aee36b5f02e551f4: "{{unknown}}"
   _syntaxhighlighter_encoded: '1'
-  _oembed_2ec26a54ab7efd8eeab76ba812be423f: "{{unknown}}"
-  _oembed_a984aa303398d961623afafcbc96acc4: "{{unknown}}"
   _wpas_mess: 'How to find the centroid of points on the surface of a sphere: redux'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk
@@ -31,6 +19,21 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+  iframe.world{
+    width:100%;
+    height:50vh;
+  }
+  h1,h2,h3{
+    clear:both;
+  }
+  .scruffy{
+    width:65%;
+  }
+  .alignright {
+    float: right;
+  }
+</style>
 <p>Imagine you are an international sort of person. All your friends are international sorts too. Where should you all fly your private helicopters to for a party?<!--more--></p>
 <p><iframe class="world" src="http://notionparallax.github.io/whereToMeet/sphere.html" width="300" height="150">There really should be an iframe here :( </iframe></p>
 <p>This problem comes up whenever someone is planning a conference or a wedding or anything that needs global travel.</p>

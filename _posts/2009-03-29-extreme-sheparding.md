@@ -10,7 +10,6 @@ tags:
 - cool links
 - geek
 - video
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

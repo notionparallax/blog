@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '1636'

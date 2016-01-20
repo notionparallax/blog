@@ -9,7 +9,6 @@ categories: []
 tags:
 - GC
 - NY
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -11,19 +11,8 @@ tags:
 - data
 - manifesto
 meta:
-  _edit_last: '1'
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:156:".sidebar {
-      width: 40%;
-      display: block;
-      float: right;
-      transform: translateX(2em);
-      background-color: rgba(255,255,255,0.2);
-      padding: 1em;
-    }";}}
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk
@@ -31,6 +20,16 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+  .sidebar {
+      width: 40%;
+      display: block;
+      float: right;
+      transform: translateX(2em);
+      background-color: rgba(255,255,255,0.2);
+      padding: 1em;
+    }
+</style>
 <p><!--more--></p>
 <p><img class="alignright wp-image-1851" src="{{ site.baseurl }}/assets/image01.png" alt="image01" width="146" height="200" />I touch on this in <a title="Fluid categories – define things by their attributes not their name" href="http://tropos.bvn.com.au/2015/02/27/taxonomy/">my Fluid categories post</a>. I think it's worth expanding on. Traditional databases are designed to serve one master–technological constraints.</p>
 <p>Think the typical drop down list on a survey. If the correct answer isn't one of the two options you huff and puff for a minute, look for the field where you can type your answer, you can't find it, so you close the survey and vow never to do another survey again.. Technology has moved past these sorts of constraints. Unfortunately the technology hasn't filtered down to <em>all</em> the people who design human-computer interfaces [5. As an aside, I have a huge amount of respect for HCI designers. Their work is so rigorous and evidence based. Unfortunately, as we love to complain about in our own profession, not all human-computer interfaces are designed by HCI people. Especially unfortunately, this is disproportionately prevalent in ‘enterprise' software like MS word or the old Lotus Notes . My assumption for why this occurs is that the person procuring and paying for the software is very rarely the person who ends up using it.].</p>

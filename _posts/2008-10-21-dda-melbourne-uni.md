@@ -12,7 +12,6 @@ tags:
 - GC
 - geek
 - teaching
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

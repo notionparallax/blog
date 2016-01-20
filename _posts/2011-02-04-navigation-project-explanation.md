@@ -13,8 +13,6 @@ tags:
 - BVN
 - geek
 - not fucking things up
-meta:
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

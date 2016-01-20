@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

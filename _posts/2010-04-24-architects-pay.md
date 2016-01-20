@@ -12,8 +12,7 @@ tags:
 - pay
 - protection
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552740'
+dsq_thread_id: '4503552740'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -14,8 +14,7 @@ tags:
 - Reading
 - technology
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552307'
+dsq_thread_id: '4503552307'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

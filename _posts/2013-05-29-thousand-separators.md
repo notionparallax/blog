@@ -13,9 +13,7 @@ tags:
 - typography
 - writing
 meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  dsq_thread_id: '4503552939'
+dsq_thread_id: '4503552939'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

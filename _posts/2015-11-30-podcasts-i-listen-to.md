@@ -8,42 +8,9 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:501:".podcast-thumb{float:right;}
-    .podcast-grid {
-        width: 130px;
-        clear: none;
-        display: inline-block;
-        height: 200px;
-        vertical-align: top;
-    }
-    .big-grid {
-        display: inline-block;
-        width: 49%;
-        vertical-align: top;
-        height: 380px;
-    }
-    .med-grid {
-        display: inline-block;
-        width: 49%;
-        vertical-align: top;
-        height: 250px;
-    }
-
-    body#tinymce {
-        width: 639px;
-        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 14px;
-    }";}}
-  _wpas_done_all: '1'
   _wpas_mess: Podcasts I listen to
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk
@@ -51,6 +18,30 @@ author:
   first_name: Ben
   last_name: Doherty
 ---
+<style type="text/css">
+.podcast-thumb{
+  float:right;
+}
+.podcast-grid {
+    width: 130px;
+    clear: none;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+}
+.big-grid {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+    height: 380px;
+}
+.med-grid {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+    height: 250px;
+}
+</style>
 <p>I sent someone a link to a podcast episode at the weekend. They liked it and wanted to hear others that were in a similar vein. I've been meaning to make this list for a while now and now my motivation is piqued.<!--more--></p>
 <h1>Podcasts I listen to a lot</h1>
 <p>By a lot, I mean that I've listened to tens-hundreds of hours of these.</p>

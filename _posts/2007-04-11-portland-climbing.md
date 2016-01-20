@@ -9,7 +9,6 @@ categories: []
 tags:
 - climbing
 - trips
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

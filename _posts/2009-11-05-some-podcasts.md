@@ -8,12 +8,11 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  enclosure: |
+enclosure: |
     http://media.podcasts.ox.ac.uk/oucs/oxonian_interviews/bostrom_interview.mp3
     9246057
     audio/mpeg
-  dsq_thread_id: '4503552590'
+dsq_thread_id: '4503552590'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -10,7 +10,6 @@ tags:
 - ecotect
 - GC
 - life
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

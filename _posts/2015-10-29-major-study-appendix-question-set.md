@@ -8,62 +8,18 @@ status: publish
 categories: []
 tags: []
 meta:
-  _oembed_b2f1a0b0af8714e2ab9542bdddb7a773: "{{unknown}}"
-  _oembed_09756332ba2834614675483cb8bf4560: "{{unknown}}"
-  _oembed_5b0c44a0950f501f3b6c2b17358cef44: "{{unknown}}"
-  _oembed_345a453acb427b2a63ac0b3ca3dd76fe: "{{unknown}}"
-  _oembed_a1b1e372c1fbe0f6e9a2407379290b39: "{{unknown}}"
-  _oembed_d96a83ebf726e854012687c732f22102: "{{unknown}}"
-  _oembed_a6a1dcf03abae44f9a07e8f2395cc50c: "{{unknown}}"
-  _oembed_e69dc9247c11413594c2b46c2a5e1306: "{{unknown}}"
-  _oembed_23ac7d797370b39dfbffd49e673ff384: "{{unknown}}"
-  _oembed_0a4be2dc15bc8fb49e097d3514b9537b: "{{unknown}}"
-  _oembed_ece23e0a529779e576a86f8b1a4024f7: "{{unknown}}"
-  _oembed_00eef0f1ddaa172c25d8a055ec11d94f: "{{unknown}}"
-  _oembed_17de603eff3b89c066cf1445dac30d79: "{{unknown}}"
-  _oembed_21bfe10034ee1dfa3945a8fcd637e81d: "{{unknown}}"
-  _oembed_9b35d52a7cc1482e045311bbeb5e2b86: "{{unknown}}"
-  _oembed_2835d225148101b8fb703f20230394da: "{{unknown}}"
-  _oembed_ae26871a0917db35e7e3224eeba661e5: "{{unknown}}"
-  _oembed_0e395a3700e51c7b78ed438c3a9d3fe5: "{{unknown}}"
-  _oembed_e35c27f57415b0a4230e38dfb9e3c9ac: "{{unknown}}"
-  _oembed_42430c1a8cda7158cbfb84cd386a5ce8: "{{unknown}}"
-  _oembed_3cba9c473acf1d145f67083f07247ac8: "{{unknown}}"
-  _oembed_7f2caa556b8c129f1a4dfd2fd9ca30ef: "{{unknown}}"
-  _oembed_1d4452608ad8349cba6e30300104ba62: "{{unknown}}"
-  _oembed_f34b54f09f09d9f5185ec0f4e671e333: "{{unknown}}"
-  _oembed_c7f9d39ee2e28d9d5224ec3364ae9bbd: "{{unknown}}"
-  _oembed_4137d48b9c507f784844a5407ac8d7f7: "{{unknown}}"
-  _oembed_4d7621418282cb18b90f785be4a05e2c: "{{unknown}}"
-  _oembed_c33d6619633f30aa3b41fa0380a6ed0a: "{{unknown}}"
-  _oembed_ae9cb7446bd9c16389654efceb12d089: "{{unknown}}"
-  _oembed_ab0bf99a6600426113f4ae0a001437e0: "{{unknown}}"
-  _oembed_724470bcabfe8ed3eb7b32fb0d74a9a9: "{{unknown}}"
-  _oembed_d91a9f1902e1888d36677e5ff8cee880: "{{unknown}}"
-  _oembed_9755e41da381ec626740f690e95c61d9: "{{unknown}}"
-  _oembed_b8a528fe99a87106bc81949d60f02539: "{{unknown}}"
-  _oembed_d190bb05b359f88c11a2164458f0cace: "{{unknown}}"
-  _oembed_a6196a71cb7e76a576907e871cedc48f: "{{unknown}}"
-  _oembed_7ebb9b83c2dd4d22a938264a7c49e35d: "{{unknown}}"
-  _oembed_cb1be24a5738222146b30c67f8cfe3a7: "{{unknown}}"
-  _oembed_9fa9d89b92ed59f0ee16740e61b1b90d: "{{unknown}}"
-  _oembed_9b5e559f2304193385b55059073e8aea: "{{unknown}}"
-  _oembed_9a26cee921e9f6d9f42021c7bdda358a: "{{unknown}}"
-  _oembed_5326efa2b47fcc2fe0ba325cf5878ad2: "{{unknown}}"
-  _oembed_8dbb741b1fab41e77c15e20106dabb50: "{{unknown}}"
-  _oembed_145e88dad00a8465656dd1360791b917: "{{unknown}}"
-  _oembed_a9d597c2b94e0a46cafa888c740d4474: "{{unknown}}"
-  _oembed_45afc0a4a1b4b61276786d366c856845: "{{unknown}}"
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'Major study appendix: Question set'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
-  _SnS: |-
-    a:1:{s:6:"styles";a:1:{s:6:"styles";s:188:"ol {
+author:
+  login: Ben
+  email: ben@notionparallax.co.uk
+  display_name: Ben
+  first_name: Ben
+  last_name: Doherty
+---
+<style type="text/css">
+  ol {
         -webkit-column-count: 4;
         -webkit-column-gap: 5em;
         list-style-type: lower-alpha;
@@ -72,61 +28,8 @@ meta:
         display: block;
         border-top: 1px solid black;
         margin-top: 5em;
-    }";}}
-  _oembed_3eab98597208c7af599566c165e7bf5c: "{{unknown}}"
-  _wpas_done_all: '1'
-  _oembed_b145f03452e593f839676f3d63e3ccef: "{{unknown}}"
-  _oembed_70f678bab5180e9a44af026998ceaeec: "{{unknown}}"
-  _oembed_f6a7d2e0cefb4ca8b94032e8c9237ec3: "{{unknown}}"
-  _oembed_f476c8df0d45f42e90ad48647ea67cd0: "{{unknown}}"
-  _oembed_a0b9e043474f151e1260e4d807c75dee: "{{unknown}}"
-  _oembed_0dd3bc82cdb466232d0e2d8c9c49a253: "{{unknown}}"
-  _oembed_a0e76080957e30f1e7d8fc432b5e68a0: "{{unknown}}"
-  _oembed_c01f28c2e752657e78b5ec1b17bd8785: "{{unknown}}"
-  _oembed_78e774d03cd8b2cf8beaf0e92651240b: "{{unknown}}"
-  _oembed_c02ddeb156cedc31118a7e2c0af7f63b: "{{unknown}}"
-  _oembed_ff09d754f28b8d809e9e2bd645ee9abb: "{{unknown}}"
-  _oembed_d7a14a44c89a64b938bacb456966e07f: "{{unknown}}"
-  _oembed_c8edb8149cbea86e6f3008d7ed508828: "{{unknown}}"
-  _oembed_b9f9f76517e530eb047c7430e202434d: "{{unknown}}"
-  _oembed_6f615ae69adcb59c7309b268da79fd9a: "{{unknown}}"
-  _oembed_2b9634c46771800239cc2dd1e1b07ada: "{{unknown}}"
-  _oembed_875126cc09a6989f0a1dd7a6440e5247: "{{unknown}}"
-  _oembed_5c29efebb18ac5c6bcc5021684467b6c: "{{unknown}}"
-  _oembed_7030444ed319396f0d054c558d3fcb31: "{{unknown}}"
-  _oembed_f7a495c355f5c31ee188c21004b4724c: "{{unknown}}"
-  _oembed_b7138e715f5128eb86956ebbea14a458: "{{unknown}}"
-  _oembed_4dd78c2e90ad7cdb5e06d1cdc298e254: "{{unknown}}"
-  _oembed_8f0cb2fe5b55ee4d58f018a8bdce4305: "{{unknown}}"
-  _oembed_f7d0ab29fc7447c520a3723d9664b8fa: "{{unknown}}"
-  _oembed_3bc63a90d0447885ed691a5b9d2e6dc8: "{{unknown}}"
-  _oembed_a86654575012c31c5a54d0ee988afa50: "{{unknown}}"
-  _oembed_158f47c6a87a640b2ec8f084e8096e45: "{{unknown}}"
-  _oembed_f956333f5086464dcd86434033e5bf87: "{{unknown}}"
-  _oembed_d86d1fe8696e23733ea2629aed893884: "{{unknown}}"
-  _oembed_56dbba0963b8ddeb8cd1440b812cfa57: "{{unknown}}"
-  _oembed_3badbcdda9db7b690f41352e3423d271: "{{unknown}}"
-  _oembed_b0028f1cce4e188dc45ad2da97f5ad7c: "{{unknown}}"
-  _oembed_7bd7a4e2dc867b1b0316595b7d269566: "{{unknown}}"
-  _oembed_35b84effd35c7628f4a6edb81764f49c: "{{unknown}}"
-  _oembed_db44b1c2625b05b1ce01fccbcb17fa96: "{{unknown}}"
-  _oembed_83fccd36bae66f4e9a47936ae47cb71c: "{{unknown}}"
-  _oembed_19b06a26fd3acd959f0dd961aabbacbd: "{{unknown}}"
-  _oembed_3b9486e8c5c4af85567cf9ad682f2173: "{{unknown}}"
-  _oembed_a063cdc39e85f4c6b3c1a79041725e23: "{{unknown}}"
-  _oembed_233528a6cf4ddac3c8f42a9ae6644c13: "{{unknown}}"
-  _oembed_ac2856e89b35bdfdb8f6ca85ab774abd: "{{unknown}}"
-  _oembed_db58649515279f060940065e29048f00: "{{unknown}}"
-  _oembed_94af891357da6c3681e09e2653314baa: "{{unknown}}"
-  _oembed_3a420bb51486b57f53dda345c4a913ba: "{{unknown}}"
-  _oembed_4e7f250b49c4260621416d17d57e31bb: "{{unknown}}"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
----
+    }
+</style>
 <p>
 <!--more--></p>
 <h1>Question set</h1>

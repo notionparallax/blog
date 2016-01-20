@@ -11,9 +11,7 @@ tags:
 - blog
 - Sydney
 meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  dsq_thread_id: '4503553283'
+dsq_thread_id: '4503553283'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

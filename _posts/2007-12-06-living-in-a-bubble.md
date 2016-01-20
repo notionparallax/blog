@@ -9,7 +9,6 @@ categories: []
 tags:
 - flying
 - turning japanese
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

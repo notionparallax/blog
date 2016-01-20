@@ -9,7 +9,6 @@ categories: []
 tags:
 - GC
 - tutorials
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

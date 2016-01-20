@@ -11,9 +11,6 @@ tags:
 - geek
 - linode
 - server
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

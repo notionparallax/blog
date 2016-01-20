@@ -19,17 +19,8 @@ tags:
 - undergraduate
 - writing
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _oembed_0fbac6f6775383b67ee8b6570d19515a: "{{unknown}}"
-  _oembed_e98c4e5b27c864ad23f9f64edf7d673b: "{{unknown}}"
-  _oembed_1f6e38ca5e2fc571206b15f9fd271231: "{{unknown}}"
-  _wpas_done_all: '1'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

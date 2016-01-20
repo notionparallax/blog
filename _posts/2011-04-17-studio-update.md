@@ -11,7 +11,6 @@ tags:
 - presentations
 - startup
 - studio
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

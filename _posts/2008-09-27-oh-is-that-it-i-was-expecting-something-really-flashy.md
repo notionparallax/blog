@@ -11,7 +11,6 @@ tags:
 - geek
 - hardware
 - life
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

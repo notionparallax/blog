@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-
 author:
   login: Ben
   email: ben@notionparallax.co.uk
@@ -45,7 +43,6 @@ iframe {
     width: 43% ;
 }
 </style>
-
 
 I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)<!--more-->
 
@@ -118,7 +115,6 @@ As a wild and unsupported prediction: If your job requires you to think hard, th
 Here's a quote from that Economist article:
 
 > these results say nothing about output in service-sector professions, where most people in advanced economies are employed today. I would bet, though, that the results are even more pronounced. For work that is largely self-directed, and which requires intellectual engagement, you may achieve more in an hour of hard work than in a day’s worth of procrastination
-
 
 There have been lots of articles recently <a href="http://www.smh.com.au/business/workplace-relations/sweden-is-moving-towards-a-six-hour-working-day-as-australias-hours-increase-20150930-gjyp33.html">about moving to 6 hour days</a>. Academic, pure mathematicians often do 3 hour days. If our[^6] then I'd imagine that something similar applies to us too.
 
@@ -234,7 +230,6 @@ I've presented 7 ideas. They don't explain everything about time but I've found 
 I've tried (not very hard) to keep my opinions to the footnotes. I have some conclusions that <em>I've</em> drawn from these premises. What I'd really like is to see if others come to different conclusions!
 
 I'll share mine in another post.
-
 
 [^1]: This is talked about a lot in The Mythical Man Month, about how many lines of code a person writes in a day. Then software people have been trying to <em>not</em> do that ever since.
 

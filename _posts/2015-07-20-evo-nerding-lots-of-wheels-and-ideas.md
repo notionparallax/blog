@@ -11,12 +11,12 @@ tags:
 - evolution
 - ideas
 meta:
-  _edit_last: '1'
   _wpas_mess: 'Evo-nerding: Lots of wheels and ideas, but not in any sort of useful
     order'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
+  
+
   dsq_thread_id: '4503553678'
 author:
   login: Ben

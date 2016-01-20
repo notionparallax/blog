@@ -11,10 +11,10 @@ tags:
 - bigquestions
 - BVN
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  _wpas_done_all: '1'
+  
+
   _wpas_mess: |-
     #architecture #bigquestions redux
 

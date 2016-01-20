@@ -10,7 +10,6 @@ tags:
 - architecture
 - cool links
 - economics
-meta: {}
 author:
   login: Ben
   email: ben@notionparallax.co.uk

@@ -11,7 +11,6 @@ meta:
   geo_latitude: "-27.415650"
   geo_longitude: '153.076790'
   geo_public: '1'
-  _edit_last: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

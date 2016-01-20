@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
   _wpas_mess: Fitbit → Selenium → Beyond the Whiteboard
   dsq_thread_id: '4503553438'
 author:

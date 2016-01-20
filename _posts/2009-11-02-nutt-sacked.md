@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552673'
+dsq_thread_id: '4503552673'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

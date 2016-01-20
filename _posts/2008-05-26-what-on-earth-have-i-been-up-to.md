@@ -9,8 +9,7 @@ categories: []
 tags:
 - life
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503551839'
+dsq_thread_id: '4503551839'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

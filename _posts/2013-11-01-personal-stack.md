@@ -8,12 +8,13 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
   _wpas_mess: Could a Personal stack find ways to get us all set up? http://wp.me/p3wwRK-pb
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
+  
+
+  
+
+  
+
   dsq_thread_id: '4503553406'
 author:
   login: Ben

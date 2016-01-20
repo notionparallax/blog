@@ -10,16 +10,12 @@ tags:
 - app
 - idea
 meta:
-  _edit_last: '1'
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '2043'
-  _wpas_done_all: '1'
+  
+
   _wpas_mess: '"Authentic" photo app, or "duck face catcher/shamer" idea'
-  _wpas_skip_3597554: '1'
-  _wpas_skip_3295701: '1'
-  _wpas_skip_3597579: '1'
-  _wpas_skip_6785826: '1'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

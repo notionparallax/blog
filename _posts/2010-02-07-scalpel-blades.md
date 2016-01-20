@@ -12,8 +12,7 @@ tags:
 - making
 - model
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503551795'
+dsq_thread_id: '4503551795'
 author:
   login: Ben
   email: ben@notionparallax.co.uk

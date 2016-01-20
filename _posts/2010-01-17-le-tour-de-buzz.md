@@ -11,8 +11,7 @@ tags:
 - coffee
 - food
 meta:
-  _edit_last: '1'
-  dsq_thread_id: '4503552231'
+dsq_thread_id: '4503552231'
 author:
   login: Ben
   email: ben@notionparallax.co.uk
