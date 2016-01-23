@@ -48,3 +48,7 @@ to:<br />
 <p>The second thing is about automation. If you see each of your tasks as discrete steps then<a href="http://notionparallax.co.uk/wordpress/?p=1768"> they are easier to delegate to another human</a> or <a href="http://www.bruno-latour.fr/sites/default/files/35-MIXING-H-ET-NH-GBpdf_0.pdf">non-human agent</a>.</p>
 <p>It can make your life easier even if you aren't delegating. Imagine that your present self and future self are different people. Present me is often annoyed with past me for doing something stupid. That's unavoidable, but if you do something lazy and future you has to clean up then that's extra annoying. If you make a deal with future-you that you'll do it right then you'll stay happy.</p>
 <hr />
+
+
+[^1]: really <em>really</em> good delegators make people think it was their idea all along!
+

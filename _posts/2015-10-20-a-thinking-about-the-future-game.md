@@ -44,3 +44,19 @@ author:
 <p>&nbsp;</p>
 <p><a href="/wordpress/wp-content/uploads/2015/09/workshoptable.jpg" rel="attachment wp-att-1899"><img class="snap" src="{{ site.baseurl }}/assets/workshoptable.jpg" alt="workshoptable" /></a><a href="/wordpress/wp-content/uploads/2015/09/workshopchips.jpg" rel="attachment wp-att-1900"><img class="snap" src="{{ site.baseurl }}/assets/workshopchips.jpg" alt="workshopchips" /></a></p>
 <hr />
+
+
+[^1]: I don't consider myself to be a futurist.
+
+[^2]: I guess that there is a possiblity my method is the same as theirs, but it feels very unlikley!
+
+[^3]: seriously, <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html">read it</a> it's excellent!
+
+[^4]: This was so that lots of people could edit right to the last second.
+
+[^5]: there was a part 4 too, but that was <em>really</em> specific. It was about using the possible future you'd developed to be a red team to a purpose statement for the company. Like Google's "organise all the world's information", but for us.
+
+[^6]: basing that on regression to the mean and stuff.
+
+[^7]: consistent with <a href="https://en.wikipedia.org/wiki/Construal_level_theory">Construal level theory</a>.
+

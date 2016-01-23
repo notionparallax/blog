@@ -60,3 +60,19 @@ author:
 <p>What is driving me to have the thought in the first place? If there is little pressure to change the building (the outcome) then it is much harder to realise the pressure to change the way that the building is designed. That is the part that is interesting me at the moment. We are an industry that is ripe for disruption. If we don't do it, then someone else will. We need to ready cannibalise our own business model to feed the next generation.</p>
 <p>If we go back to the wheels, there's a wheel for the environment that controls the buildings that get designed and it rotates very slowly. There's also another wheel that rotates much faster, and it's being accelerated by Google and the rest of the tech industry. That much faster wheel is the environment that controls how we <span style="text-decoration: line-through;">design buildings</span> generate value in the world.</p>
 <hr />
+
+
+[^1]: As usual, I'm sure I'm not the first to realise this!
+
+[^2]: I wrote my masters thesis on evolutionary algorithms, all very nerdy stuff.
+
+[^3]: throughout this, I'm not sorry if I've offended you by suggesting that we weren't made by god made man on Saturday.
+
+[^4]: or in our case organisation or profession
+
+[^5]: sharks in volcanoes, <a href="http://www.bbc.co.uk/programmes/b05zl3v2">extremophiles</a> living at the bottom of the ocean etc.
+
+[^6]: I think that Deluze is a total dick, but despite that De Landa still manages to say some interesting things.
+
+[^7]: You could argue that reinforced concrete did the same too, maybe lifts and aircon. Feel free to do so in the comments!
+

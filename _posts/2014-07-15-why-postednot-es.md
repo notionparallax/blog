@@ -59,3 +59,7 @@ author:
 <li>Adding google analytics up the wazoo so you can see what's going on.</li>
 </ol>
 <p>If you think that this is the kind of lazy, effort skirting route to being an internet millionaire that you can see yourself getting onto then let me know somehow and I'll make a tutorial happen.</p>
+
+
+[^1]: I have since found a whole load of other people who do the same thing: M<a href="https://maillift.com/">ail Lift</a>, <a href="http://letterfriend.com/">Letter Friend</a>, <a href="http://handwrittenletterservice.com/">Handwritten letter service</a>, <a href="http://handiemail.com">Handiemail</a> and of course <span style="color: #4e5665;"><a href="http://BeautifulHandwrittenLetters.com">BeautifulHandwrittenLetters.com</a> I think it's worth sticking with it though. I don't think that first-mover advantage is particularly significant here.</span>
+

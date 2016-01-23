@@ -28,3 +28,13 @@ author:
 <p>At the moment there is very little upside or downside to bad data. We aren't currently a data backed organisation. We are <em>becoming</em> more so. If your project's data is poor quality then that data won't go onto the website, or worse the poor quality data will go out into the world. The upside of that is you have the chance to make sure that your projects really shine. The chance to make sure that your future plans are able to effect the way that your future actually pans out. More information flow is always a good thing.</p>
 <p>This feels abstract and nit-picky but it's important (to me at least!) But it comes with consequences. If you are the admin of your data then you have a responsibility for the quality of that data[4. If you go along with the idea that the data are valuable and that you are helping your fellow person by maintaining it.]. You needn't do this yourself, but you do need to take responsibility for it getting done if you delegate it.</p>
 <hr />
+
+
+[^1]: Remember that in this series, <em>your</em> data is any data that is about you, or is data that you have responsibility for.
+
+[^2]: Technical: Before you freak out, I accept that someone needs to actually maintain the system. What I'm claiming here is that that person needn't have access to all the data. In fact, I'm going to make a stronger claim: that they shouldn't have access to the data.
+
+[^3]: In a very extreme view of choice we have. By choosing to work somewhere, we have given that organisation implicit permission to do certain things with data. I've never seen an org give an explicit description of what would be done and who would be able to see data about you. This may change, it's already changed for apps. When you install an android app or sign up to something with Facebook or Google as a login-agent you are shown what data you are transferring and usually why they want it.
+
+[^4]: If you go along with the idea that the data are valuable and that you are helping your fellow person by maintaining it.
+

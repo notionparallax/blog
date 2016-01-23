@@ -24,3 +24,11 @@ author:
 <p>If you don't have much data then, for any non-trivial amount that you'd be willing to pay to get that data, you would probably be better off designing a collection method to give you exactly what you want. You'd be in a better position to exploit it immediately[1. speaking probabilistically, you might roll the dice and get <em>exactly </em>what you needed!]. I'm starting to see parallels with this with marginal returns in standard economics. I don't really know anything about it beyond its name and to see some vague parallel. It's also related to the 'classical science' versus 'big data' philosophy divide. In other words, make a hypothesis and then get data vs get a lot of data then test hypotheses against it. [1. This is the same argument I have with traditional POE. People who ask first, measure later because sensors are are expensive. I sympathize with their position historically, but I don't think that argument holds any more.]</p>
 <p>There are a lot of parallel avenues to explore, but I still don't know how to price this data set. My intuition is that there will be some kind of asymptotic curve that's at or near zero for most of the graph, but spikes to infinity near the point where all the previous known knowledge. This is probably a more extreme shape than it would be if it was a historic artefact that is on offer to the British Museum.</p>
 <p>If there is any real work on this sort of thing then I'd like to read about it.</p>
+
+
+[^1]: I wrote this on a train in Spain!
+
+[^2]: speaking probabilistically, you might roll the dice and get <em>exactly </em>what you needed!
+
+[^3]: �This is the same argument I have with traditional POE. People who ask first, measure later because sensors are are expensive. I sympathize with their position historically, but I don't think that argument holds any more.
+

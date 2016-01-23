@@ -55,3 +55,11 @@ author:
 <li>can't do so someone else needs to do them</li>
 </ul>
 <p>The second two are prime for delegation. Using the mental tools developed by programmers you can think about how to best get things done.</p>
+
+
+[^1]: realistically it's <em>much</em> more complicated once you need to interact with customers etc. Triggers come from all over the place, but they can probably be abstracted away with subsystems. The more important question is if that's a good idea. This is just one way of thinking, a <a href="https://en.wikipedia.org/wiki/George_E._P._Box#Quotes">wrong model</a> if you like.
+
+[^2]: <a href="https://github.com/Dawil">Dave</a> thinks that the precision problem is too great. This might as well be a problem of kind not degree as compilers can't handle the ambiguity. I'm more optimistic and think that we'll develop a way that we'll be able to do natural language programming soon.
+
+[^3]: a lot of the problems I see in life come from people not developing enough shared understanding. I've just started reading about this a bit in <a href="http://shop.oreilly.com/product/0636920033851.do">User Story Mapping</a> by Jeff Patton.
+

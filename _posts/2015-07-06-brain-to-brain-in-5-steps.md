@@ -47,3 +47,7 @@ author:
 </ol>
 <p>This seems to work just as well for communicating with lots of people as it does for communicating with just one.</p>
 <p>This has lots of flaws but I found it useful. I'm interested in hearing ideas for tweaking it.</p>
+
+
+[^1]: I've just started reading the book.
+

@@ -30,3 +30,9 @@ author:
 <hr />
 <p>There are footnotes throughout. Some are me rambling in a way that would otherwise break the flow. Others are technical points that are there to add weight to the argument but are too technical for the main body of the text.</p>
 <hr />
+
+
+[^1]: The obvious question (to Barry, I didn't think of it) is <em>who does feel comfortable with lots of data?</em> Lots of professions need to deal with data: Psychologists, business people, statisticians, bookies, dog breeders, advertising, marketing, stock market traders... and more and more professions are being added to that list as a quantitative understanding of the world becomes a core of their business
+
+[^2]: this is a post, but it's still internal. I might post it one day
+

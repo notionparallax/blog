@@ -40,3 +40,11 @@ author:
 <p>Now you need to imagine some kind of cinematic device for the passage of time. I'm now on the train, or in a cafe, on a plane, in a cave (with a solar charger). I'm reading the saved articles. If I think it's really good[1. really good as opposed to just not really bad.] then I'll mark it as a favourite in pocket, then I<a title="tweet good article" href="https://ifttt.com/recipes/196142-tweet-good-article">FTTT will tweet it</a> (to complete the cycle of narcissism.)</p>
 <p>This isn't really about telling you how to do this, more about me making my process explicit. I don't have a good solution for offline videos - it's not usually a good time to sit down and watch a 40 minute video about something, and I haven't been able to form a habit around Youtube's <em>watch later</em> list.</p>
 <p>If you have any suggestions...</p>
+
+
+[^1]: Which is almost forever in internet years
+
+[^2]: links on facebook, Twitter, falling down a link following rabbit hole, all the normal stuff.
+
+[^3]: really good as opposed to just not really bad.
+
