@@ -12,8 +12,6 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'Technical debt: stealing from ourselves'
-  
-
   _thumbnail_id: '1810'
 author:
   login: Ben

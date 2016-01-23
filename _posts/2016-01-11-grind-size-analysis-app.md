@@ -10,7 +10,6 @@ tags: []
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-  
   _wpas_mess: An idea for a Grind size analysis app?
 author:
   login: Ben
@@ -39,7 +38,9 @@ author:
 <p><svg class="example" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 19.488182 19.488188" height="5.5mm" width="5.5mm">    <image preserveaspectratio="none" xlink:href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2016/01/coffee-square.png" y="-.593" x="-.402" height="21.145" width="20.936" />    <rect y="1.145" x="1.2" height="17.348" width="17.796" />    <ellipse rx=".162" ry=".151" cy="7.671" cx="13.716" />    <ellipse rx=".209" ry=".209" cy="12.803" cx="13.624" />    <ellipse rx=".266" ry=".174" cy="14.32" cx="8.26" />    <ellipse rx=".278" ry=".197" cy="6.025" cx="4.286" />    <ellipse rx=".475" ry=".44" cy="12.038" cx="11.643" />    <ellipse rx=".278" ry=".672" cy="15.514" cx="9.36" />    <ellipse rx=".371" ry=".197" cy="5.353" cx="17.308" />    <ellipse rx=".382" ry=".869" cy="10.662" cx="12.827" transform="rotate(-15.404)" />    <ellipse rx=".44" ry=".44" cy="6.616" cx="2.919" />    <ellipse rx=".463" ry=".255" cy="18.063" cx="6.325" />    <ellipse rx=".521" ry=".405" cy="2.967" cx="5.804" />    <ellipse rx=".545" ry=".568" cy="7.74" cx="9.187" />    <ellipse rx=".75" ry=".463" cy="6.083" cx="8.341" />    <ellipse rx=".637" ry=".846" cy="12.119" cx="7.843" />    <ellipse rx=".915" ry="1.193" cy="3.523" cx="12.894" />    <ellipse rx="1.365" ry="2.114" cy="3.968" cx="20.705" transform="rotate(27.845)" /></svg></p>
 <p>I have no idea if there is enough contrast in the images for the <abbr title="computer vision">CV</abbr> algorithm to see grain boundaries. Maybe that's not even required, perhaps you can just do blob detection on the smallest particles?</p>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/137age3FI3P_Sq6dBXcol-zP8nkLwo-OWGxPez4-pCgo/pubchart?oid=159538498&amp;format=interactive">There really should be an iframe here :( </iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/137age3FI3P_Sq6dBXcol-zP8nkLwo-OWGxPez4-pCgo/pubchart?oid=159538498&amp;format=interactive">
+There really should be an iframe here :(
+</iframe>
 
 <p>Seems like a pretty straight middle section, and maybe you could just discard anything really big as likely to be a clump?</p>
 <p>Anyway, let me know if you are a CV genius and you make this app, I'd use it. </p>

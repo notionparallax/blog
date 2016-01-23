@@ -14,9 +14,6 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '1901'
-  
-  
-
   _wpas_mess: |-
     A 'Thinking about the future' game for stretching your brain's legs.
     Let me know what you think.

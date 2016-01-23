@@ -1,0 +1,19 @@
+q{}
+
+blockquote{
+  font-size: 120%;
+  width: 80%;
+}
+
+figure{
+  img{
+    width: 100%;
+  }
+  blockquote{}
+  figcaption{
+    font-size: 90%;
+    font-weight: lighter;
+    padding: 0.5em 1em;
+    cite{}
+  }
+}

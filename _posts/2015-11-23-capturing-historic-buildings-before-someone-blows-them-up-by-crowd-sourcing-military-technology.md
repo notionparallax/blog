@@ -39,11 +39,17 @@ author:
 <p>There are a bunch of <a href="http://www.theverge.com/2015/3/23/8267387/firechat-greenstone-mesh-network-bluetooth-wifi-peer-to-peer">messaging apps</a> that work by mesh networking. These are for places where the network isn't up to speed. That's either places like SXSW where there are a zillion people, or places where there just isn't a network.</p>
 <p>I'm imagining a situation where citizens[1. The term citizen feels like it might be a bit tricky in places with really uncertain politics. Like I've always been confused by the idea of nation, country, state etc. I think citizen implies that there is something to be a citizen <em>of</em>. I this case, I mean concerned and invested occupant of a location. I'd love to know if anyone has written about this sort of thing anywhere else.] can create a mesh network, then use that for all the regular stuff a normal network is used for. Including scanning artefacts of historical importance[1. I can imagine some people making an argument that in times of extreme danger, preserving the heritage is more important than saving life[1. I'm not sure where I stand on this issue. I need to think about it a lot. I can think of compelling reasons both ways. Ideally it wouldn't be a choice, we could do both.]. Something along the lines of <em>Heritage artefacts are unique, but we can always make another life</em>.]. Then you could set priorities on the network so that vital messages got moved quickly and scan data got pushed whenever there was space.</p>
 <p>Turns out that this isn't a new idea (I doubt anything I think up ever is). <a href="http://projectmosul.org/">Project Mosul</a> is doing this but without the mesh networks.</p>
-<p><iframe width="640" height="480" src="https://sketchfab.com/models/e21d746815b248b1b566b12aa7fa596e/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="">There really should be an iframe here :( </iframe></p>
+<p><iframe width="640" height="480" src="https://sketchfab.com/models/e21d746815b248b1b566b12aa7fa596e/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="">
+There really should be an iframe here :(
+</iframe></p>
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/models/e21d746815b248b1b566b12aa7fa596e?utm_source=oembed&utm_medium=embed&utm_campaign=e21d746815b248b1b566b12aa7fa596e" target="_blank" style="font-weight: bold; color: #1CAAD9;">Kathmandu</a> by <a href="https://sketchfab.com/nframes?utm_source=oembed&utm_medium=embed&utm_campaign=e21d746815b248b1b566b12aa7fa596e" target="_blank" style="font-weight: bold; color: #1CAAD9;">nFrames</a> on <a href="https://sketchfab.com?utm_source=oembed&utm_medium=embed&utm_campaign=e21d746815b248b1b566b12aa7fa596e" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
 <p><a href="https://urcventures.com">URC Ventures</a> are doing it too. They've got some really cool videos of the results.</p>
-<p><iframe src="https://player.vimeo.com/video/131801108" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>There really should be an iframe here :( </iframe>
+<p><iframe src="https://player.vimeo.com/video/131801108" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+There really should be an iframe here :(
+</iframe>
 <p><a href="https://vimeo.com/131801108">Luna Park, Sydney Australia</a> from <a href="https://vimeo.com/urcv">URCV</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/mEs3euTgj8s" frameborder="0" allowfullscreen>There really should be an iframe here :( </iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/mEs3euTgj8s" frameborder="0" allowfullscreen>
+There really should be an iframe here :(
+</iframe></p>
 <p>This is just another one of those situations where someone can put two existing technologies together to solve a problem!</p>

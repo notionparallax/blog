@@ -103,7 +103,9 @@ author:
 </table>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3683382430/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570504_f5f433c43e_o.jpg" width="490" height="276" /></a></p>
 <p>
-      <iframe width="490" height="350" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=mt+clark,+yosemite&amp;sll=-37.814251,144.963169&amp;sspn=0.185248,0.271912&amp;ie=UTF8&amp;t=p&amp;s=AARTsJoqd7MJxEQ1SxYv-JdFrReN6hGB6A&amp;ll=37.700868,-119.431171&amp;spn=0.023769,0.042057&amp;z=14&amp;output=embed">There really should be an iframe here :( </iframe>
+      <iframe width="490" height="350" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=mt+clark,+yosemite&amp;sll=-37.814251,144.963169&amp;sspn=0.185248,0.271912&amp;ie=UTF8&amp;t=p&amp;s=AARTsJoqd7MJxEQ1SxYv-JdFrReN6hGB6A&amp;ll=37.700868,-119.431171&amp;spn=0.023769,0.042057&amp;z=14&amp;output=embed">
+There really should be an iframe here :(
+</iframe>
     </p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682579169/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570526_b35d02c5cb_o.jpg" width="490" height="263" /></a></p>
 <p>This was the first serious look at mt Clarke.</p>
@@ -143,6 +145,8 @@ author:
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682713675/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752671_399c83eb7e_o.jpg" width="490" height="196" /></a></p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682711605/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752693_00fb7a598f_o.jpg" width="490" height="276" /></a></p></p>
 <p>So this is the route that I actually took in the end.</p>
-<p><iframe width="490" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=116534919265888980800.000465c0066b0bb4782f8&amp;ll=37.72375,-119.494514&amp;spn=0.059743,0.168228&amp;z=12&amp;output=embed">There really should be an iframe here :( </iframe></p>
+<p><iframe width="490" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=116534919265888980800.000465c0066b0bb4782f8&amp;ll=37.72375,-119.494514&amp;spn=0.059743,0.168228&amp;z=12&amp;output=embed">
+There really should be an iframe here :(
+</iframe></p>
 <p>It'd be great to go back in August one year and try it without the snow, and with a partner. i think the ring of mountains would be an incredible trip, and if you really did take 8 days over it it could be epic!</p>
 <p><object width="450" height="338"><param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2Fshow%2F&page_show_back_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2F&set_id=72157620889447712&jump_to=" /><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2Fshow%2F&page_show_back_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2F&set_id=72157620889447712&jump_to=" width="450" height="338"></embed></object></p>

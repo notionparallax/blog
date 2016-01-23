@@ -19,5 +19,7 @@ author:
 <p>The general gist of the paper is that the real world is too complex to model in all it's infinite detail, and experimental bias will creep in, but if we are smart about it, and realise that it is happening then we can mitigate against it. </p>
 <p>Don't be put off by the bit with equations in the middle, that can be skipped, and the message still comes out clearly.</p>
 <p>there is a preview after the break<!--more--></p>
-<p><iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.notionparallax.co.uk%2Fblog%2Fwp-content%2Fuploads%2F2009%2F12%2FEd-Leamer_Lets-Take-the-Con-Out-of-Econometrics-retyped.pdf&embedded=true" width="500" height="780" style="border: none;">There really should be an iframe here :( </iframe></p>
+<p><iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.notionparallax.co.uk%2Fblog%2Fwp-content%2Fuploads%2F2009%2F12%2FEd-Leamer_Lets-Take-the-Con-Out-of-Econometrics-retyped.pdf&embedded=true" width="500" height="780" style="border: none;">
+There really should be an iframe here :(
+</iframe></p>
 <p><span style="color: #ffffff;">If you are reading this on Facebook then that's great, but if you want to make a comment then follow this </span><a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/12/lets-take-the-con-out-of-econometrics-ed-leamer/"><span style="color: #ffffff;">link </span></a><span style="color: #ffffff;">and make a comment at the source.</span></p>

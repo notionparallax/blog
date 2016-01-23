@@ -13,8 +13,6 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '2043'
-  
-
   _wpas_mess: '"Authentic" photo app, or "duck face catcher/shamer" idea'
 author:
   login: Ben

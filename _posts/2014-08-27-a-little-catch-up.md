@@ -10,8 +10,6 @@ tags:
 - ideas
 meta:
   _wpas_mess: A couple of little ideas
-  
-
   _publicize_twitter_user: "@notionparallax"
 author:
   login: Ben

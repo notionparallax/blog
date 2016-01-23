@@ -16,34 +16,8 @@ author:
   display_name: Ben
   first_name: Ben
   last_name: Doherty
+special-class: time-factors
 ---
-<style type="text/css">
-  h2 {
-    clear: both;
-}
-iframe {
-    width: 100% ;
-    height: 310px;
-}
-.scruffy {
-    width: 65% ;
-}
-.alignright {
-    float: right;
-}
-.reading-stats {
-    @include span-columns(6);
-    @include shift(6);
-    line-height: 87% ;
-    padding: 1em;
-    background-color: bisque;
-}
-.reading-stats span.thing {
-    display: inline-block;
-    width: 43% ;
-}
-</style>
-
 I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)<!--more-->
 
 <div class="reading-stats">
@@ -85,20 +59,20 @@ If you want to jump straight to an idea then here are some handy links:
 
 ## Productivity per hour {#productivity-per-hour}
 
-<img class="scruffy alignleft wp-image-2585" src="{{ site.baseurl }}/assets/productivity.png" alt="productivity" />
+<img class="scruffy alignleft " src="{{ site.baseurl }}/assets/productivity.png" alt="productivity" />
 
 There are a few big types of work. Most studies focus on people who make widgets because their productivity is easy to quantify. Either you make 500 widgets or you don't. Some office work is like this; maybe you process 100 application forms. It's much harder to study knowledge work because productivity could be measured in any number of ways, all likely to be inaccurate[^1]. "Because it's hard" is a terrible reason not to do something, but it does explain why there seem to be so few studies on productivity per hour in knowledge work.
 
 If we talk about manufacturing, there's a long history.
 
-<figure markdown="0">
-  <img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" width="225" height="169" /> 
+<figure markdown="0" class="fuse">
+  <img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" /> 
 
   <figcaption>One summer I did a week as a temp making these. It's an industrial fuse. Two Bakelite pieces, screwed together over a middle fuse. I got pretty quick. So quick that my 2 week temping gig ended up only being a week because I'd finished my allocation.</figcaption>
 
 </figure>
 
-> On January 5, 1914, the <a title="Ford Motor Company" href="https://en.wikipedia.org/wiki/Ford_Motor_Company">Ford Motor Company</a> took the radical step of doubling pay to $5 a day and cut shifts from nine hours to eight, moves that were not popular with rival companies, although seeing the increase in Ford's productivity, and a significant increase in profit margin (from $30 million to $60 million in two years), most soon followed suit.[^2]
+> On January 5, 1914, the <a title="Ford Motor Company" href="https://en.wikipedia.org/wiki/Ford_Motor_Company">Ford Motor Company</a> took the radical step of doubling pay to $5 a day and cut shifts from nine hours to eight, moves that were not popular with rival companies, although seeing the increase in Ford's productivity, and a significant increase in profit margin (from $30 million to $60 million in two years), most soon followed suit.[^2] [^2a] [^2b] [^2c]
 
 Ford wasn't motivated by social factors[^3], he had a clear profit motive. There was compelling evidence that per-hour-productivity started to drop off after 8 hours.
 
@@ -106,7 +80,7 @@ This finding was backed up by some studies done in the first world war. <a href
 
 <img class="" src="{{ site.baseurl }}/assets/screen_shot_2014-12-09_at_09.43.28.png" alt="" />
 
-What we can see there is that the women[^4].
+What we can see there is that the women[^4] who worked a 48 hour week got just as much done as those who worked a 72 hour week[^4a].
 
 This was still the case between 2000-2005[^5]. Work becomes ever more complicated so I can't see this trend ever reversing.
 
@@ -116,7 +90,7 @@ Here's a quote from that Economist article:
 
 > these results say nothing about output in service-sector professions, where most people in advanced economies are employed today. I would bet, though, that the results are even more pronounced. For work that is largely self-directed, and which requires intellectual engagement, you may achieve more in an hour of hard work than in a day’s worth of procrastination
 
-There have been lots of articles recently <a href="http://www.smh.com.au/business/workplace-relations/sweden-is-moving-towards-a-six-hour-working-day-as-australias-hours-increase-20150930-gjyp33.html">about moving to 6 hour days</a>. Academic, pure mathematicians often do 3 hour days. If our[^6] then I'd imagine that something similar applies to us too.
+There have been lots of articles recently <a href="http://www.smh.com.au/business/workplace-relations/sweden-is-moving-towards-a-six-hour-working-day-as-australias-hours-increase-20150930-gjyp33.html">about moving to 6 hour days</a>. Academic, pure mathematicians often do 3 hour days. If our[^6] work really is knowledge work[^6a] then I'd imagine that something similar applies to us too.
 
 This is a simplification. People's productivity varies over the day, varies by their mood, their diet, the weather etc. You can't just say that people need to work a certain amount. Paul Graham's essay "<a href="http://www.paulgraham.com/makersschedule.html">Maker's Schedule, Manager's Schedule</a>" talks about working in intense blocks. Sometimes it takes time to get into a problem.
 
@@ -124,15 +98,15 @@ To work with other people in a sustainable way, we need to keep some kind of <a
 
 ## Capital cost of more people {#capital-cost-of-more-people}
 
-<img class="scruffy alignleft wp-image-2586" src="{{ site.baseurl }}/assets/cap-overhead.png" alt="cap-overhead" />As you add more people you need more space. That means more desks, more rent etc. The cost goes up more or less linearly[^7].(Assuming one person per desk.)
+<img class="scruffy alignleft " src="{{ site.baseurl }}/assets/cap-overhead.png" alt="cap-overhead" />As you add more people you need more space. That means more desks, more rent etc. The cost goes up more or less linearly[^7].(Assuming one person per desk.)
 
 That means that there is an incentive to get people to stay at their desks for more time to extract maximum value from that investment. It doesn't matter as much that they aren't producing as much because that loss is offset against the loss from having the chair empty.
 
-This is a pretty easy one to solve; Activity Based Working (<a href="http://www.veldhoencompany.com/en/">ABW</a>) and other free address theories mean that you can drop the people:desks ratio. In our office there is never a 1:1 people to desks ratio. I've done a few rough studies in the past and it's more like 60% as a general maximum[^8].
+This is a pretty easy one to solve; Activity Based Working (<a href="http://www.veldhoencompany.com/en/">ABW</a>) and other free address theories mean that you can drop the people:desks ratio. In our office there is never a 1:1 people to desks ratio. I've done a few rough studies in the past and it's more like 60% as a general maximum[^8]. That means that we are "wasting" capital; it's not being fully exploited[^8a]. 
 
 ## Communication overhead {#communication-overhead}
 
-<img class="scruffy alignleft wp-image-2587" src="{{ site.baseurl }}/assets/comms.png" alt="comms" />In <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">The Mythical Man Month</a> Brooks talks about how adding more people to a project that's running over time will just make it run even later. The gist of that argument is that more people means more communication overhead. it could get as bad an an n<sup>2</sup>/2 problem (where everyone needs to talk to everyone else).
+<img class="scruffy alignleft " src="{{ site.baseurl }}/assets/comms.png" alt="comms" />In <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">The Mythical Man Month</a> Brooks talks about how adding more people to a project that's running over time will just make it run even later. The gist of that argument is that more people means more communication overhead. it could get as bad an an n<sup>2</sup>/2 problem (where everyone needs to talk to everyone else).
 
 <a href="https://en.wikipedia.org/wiki/C._Northcote_Parkinson">Cyril Parkinson</a> wrote a series of semi-satirical articles for the Economist about how the world works. One of his<a href="http://www.economist.com/node/14116121"> laws is about how large an organisation needs to be before it becomes entirely self sustaining from internal busy work</a>[^9]. To unpack that idea a little, it means that everyone in that org is completely occupied by going to meetings about meetings, reading minutes, strategising their career etc. and nobody is actually producing any value for a customer.
 
@@ -144,25 +118,37 @@ One thing that most people will say when they hear this kind of stuff is <q>well
 
 That's a totally valid thing to say. <a href="https://www.linkedin.com/in/craig-burns-51689a27">Craig Burns</a> drew up a terrific set of diagrams that explains how our workload has changed over time[^11].
 
-<iframe markdown="0" src="https://docs.google.com/presentation/d/1jJ_UfYXEnk2u9d6LbbA9tLW45pmcpV5Ue75WGIi3F3U/embed?start=true&amp;loop=true&amp;delayms=2000"  frameborder="0" allowfullscreen >There really should be an iframe here :( </iframe>
+<iframe markdown="0" src="https://docs.google.com/presentation/d/1jJ_UfYXEnk2u9d6LbbA9tLW45pmcpV5Ue75WGIi3F3U/embed?start=true&amp;loop=true&amp;delayms=2000"  frameborder="0" allowfullscreen >
+There really should be an iframe here :(
+</iframe>
 
 ## Kaikaku {#kaikaku}
 
-<img class="scruffy wp-image-2589 size-full alignleft" src="{{ site.baseurl }}/assets/kaikau.png" alt="kaikaku" />
-
+<figure class="three-col">
+<img class="" src="{{ site.baseurl }}/assets/kaikau.png" alt="kaikaku" />
+<figcaption>
 This is a concept taken from the lineage of Toyota's lean production doctrine. <a href="https://en.wikipedia.org/wiki/Kaikaku">Kaikaku is Japanese for radical change</a>. It's the idea that there must be some kind of chaos before a new era.
 
 If the ideas in <a href="https://www.linkedin.com/in/craig-burns-51689a27">Craig's</a> slides above are true then we will need either a miracle or huge chaos before we can escape that pressure.
+</figcaption>
+</figure>
 
+
+<figure class="three-col">
+<img class="" src="{{ site.baseurl }}/assets/IMG_0258.jpg" alt="IMG_0258" />
+<figcaption>
 <a href="http://blighgraham.com.au/">Graham Bligh</a> uses the same concept, but by a different name, he calls it the decay curve.
+</figcaption>
+</figure>
 
-<a href="/wordpress/wp-content/uploads/2015/12/IMG_0258.jpg" rel="attachment wp-att-2601"><img class="scruffy wp-image-2601 alignleft" src="{{ site.baseurl }}/assets/IMG_0258.jpg" alt="IMG_0258" /></a>
-
+<figure class="three-col">
+<img src="{{ site.baseurl }}/assets/image.gif" alt="" />
+<figcaption>
 I think that adding a third version of this in might be helpful too. This is the asset deterioration graph of a road.
 
-<img src="{{ site.baseurl }}/assets/image.gif" alt="" />
-
 This graph shows that as you use a thing it deteriorates. Then you repair it, but it doesn't go back to its new condition. Eventually it can't be easily repaired to a level that is acceptable. Then you need to do a full refurbishment. This happens with expensive shoes. You polish them every week, but after a few years they look tatty, so you take them back to the shoemaker. They will dismantle them and put them back together for you.
+</figcaption>
+</figure>
 
 This feels to me like what most organisations do at the moment. People are busy, over time they get tired, so to keep their spirits up there are little injections of enthusiasm. In order to make an organisation become something new it needs a really major injection of chaos.
 
@@ -170,7 +156,7 @@ Things like Christmas parties and the <a href="https://vimeo.com/139665505">Futu
 
 ## Slack {#slack}
 
-<img class="scruffy alignleft wp-image-2590 size-full" src="{{ site.baseurl }}/assets/busy-inovate.png" alt="busy-innovate" />This isn't slack, like the <a href="https://futurescouncil.slack.com">communication platform</a>, but the idea that we need space in our lives to reflect and regroup.
+<img class="scruffy alignleft  size-full" src="{{ site.baseurl }}/assets/busy-inovate.png" alt="busy-innovate" />This isn't slack, like the <a href="https://futurescouncil.slack.com">communication platform</a>, but the idea that we need space in our lives to reflect and regroup.
 
 Google famously had 20% time. Zara runs their operations at something like 80% of maximum capacity[^12].
 
@@ -191,7 +177,7 @@ Then--again as Google did--we'd go into a convergent phase where we focus on the
 
 ## Donated time {#donated-time}
 
-<img class="scruffy alignleft wp-image-2591 size-full" src="{{ site.baseurl }}/assets/donated.png" alt="donated" />This is a nuanced topic, and it really gets people on edge.
+<img class="scruffy alignleft  size-full" src="{{ site.baseurl }}/assets/donated.png" alt="donated" />This is a nuanced topic, and it really gets people on edge.
 
 If one's salary 'pays for' 8 hours of work, then any additional work done is donated. This is a definitional minefield. What is <em>work</em>? Are we <em>time</em> based or <em>task</em> based?
 
@@ -207,9 +193,7 @@ I've asked quite a few people, I got a lot of answers.
 
 One that comes up a lot is that people try to <em>work</em> for 8 hours day. They offset trips to the toilet and coffee breaks--times that they are doing non-productive things--against the platonic 8 hours. This is admirable I guess, but it feels a bit wrong. That would make sense if we were production drones. If we stamped widgets, or were doing process work, but we claim that we are doing thought-work[^16]. If we are thinking then most of the progress in thinking happens during coffee breaks and on the toilet. If making up for lost time is the reason then we'd expect to see the levels of work being more consistent. E.g. people would work 8.5 hours because they spend 30 minutes drinking coffee and pooping.
 
-The next most common is that there is a sense of career advancement that comes from 'putting in the hard yards'[^17]
-
-<img class="alignright" src="{{ site.baseurl }}/assets/pick-two.png" alt="" width="205" height="205" />The last argument relates to the previous one, but the time is given less willingly. If there is
+The next most common is that there is a sense of career advancement that comes from 'putting in the hard yards'[^17]. You just need to do the hours to show your love for the work. People feel that they have a responsibility to the project and that translates into doing extra work on their own time[^17a]. <img class="alignright" style="width: 25%;" src="{{ site.baseurl }}/assets/pick-two.png" alt="" />The last argument relates to the previous one, but the time is given less willingly. If there is
 
 * a certain amount of work that needs to be done,
 * there are a certain number of people allocated to do it,
@@ -219,7 +203,9 @@ We aren’t willing to compromise on quality so we try to cram that work into a 
 
 Craig also has a great diagram that explains this problem (and how to fix it).
 
-<iframe src="https://docs.google.com/presentation/d/1aAoSktJqNWbJ2uswjb5WJi95LSJBFTfGs25dtOxudxE/embed?start=true&amp;loop=true&amp;delayms=3000" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen">There really should be an iframe here :( </iframe>
+<iframe src="https://docs.google.com/presentation/d/1aAoSktJqNWbJ2uswjb5WJi95LSJBFTfGs25dtOxudxE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" allowfullscreen="allowfullscreen">
+There really should be an iframe here :( 
+</iframe>
 
 The problem is that the <em>how</em> is only specified as <em>do things better</em>. Finding an actionable <em>how</em> is going to be hard.
 
@@ -233,19 +219,31 @@ I'll share mine in another post.
 
 [^1]: This is talked about a lot in The Mythical Man Month, about how many lines of code a person writes in a day. Then software people have been trying to <em>not</em> do that ever since.
 
-[^2]: New York Times <a href="http://www.nytimes.com/learning/general/onthisday/big/0105.html#article">"Ford Gives $10,000,000 To 26,000 Employees"</a>, <i>The New York Times</i>, January 5, 1914, accessed April 23, 2011.][1.Ford Motor Company <a href="http://corporate.ford.com/about-ford/heritage/milestones/5dollaraday/677-5-dollar-a-day" rel="nofollow">"Henry Ford's $5-a-Day Revolution"</a>, <i>Ford</i>, January 5, 1914, accessed April 23, 2011.][1. HispanicPundit <a class="external text" href="http://hispanicpundit.com/2005/09/21/economic-myths-the-5-day-work-week-and-the-8-hour-day/" rel="nofollow">"Economic Myths: The 5 Day Work Week And The 8 Hour Day"</a>, <i>Hispanic Pundit</i>, September 21st, 2005, accessed April 23, 2011.][1. Byron Preiss Visual Publications, Inc. <a href="http://www.wiley.com/legacy/products/subject/business/forbes/ford.html" rel="nofollow">"Ford: Doubling the profit from 1914-1916"</a>, <i>Hispanic Pundit</i>, 1996, accessed April 24, 2011.
+[^2]: New York Times <a href="http://www.nytimes.com/learning/general/onthisday/big/0105.html#article">"Ford Gives $10,000,000 To 26,000 Employees"</a>, <i>The New York Times</i>, January 5, 1914, accessed April 23, 2011.
+
+[^2a]: Ford Motor Company <a href="http://corporate.ford.com/about-ford/heritage/milestones/5dollaraday/677-5-dollar-a-day" rel="nofollow">"Henry Ford's $5-a-Day Revolution"</a>, <i>Ford</i>, January 5, 1914, accessed April 23, 2011.
+
+[^2c]: HispanicPundit <a class="external text" href="http://hispanicpundit.com/2005/09/21/economic-myths-the-5-day-work-week-and-the-8-hour-day/" rel="nofollow">"Economic Myths: The 5 Day Work Week And The 8 Hour Day"</a>, <i>Hispanic Pundit</i>, September 21st, 2005, accessed April 23, 2011.
+
+[^2b]: Byron Preiss Visual Publications, Inc. <a href="http://www.wiley.com/legacy/products/subject/business/forbes/ford.html" rel="nofollow">"Ford: Doubling the profit from 1914-1916"</a>, <i>Hispanic Pundit</i>, 1996, accessed April 24, 2011.
 
 [^3]: others in this period were to some extent. E.g. My mother went to the school that Cadbury made for his workers in Bournville.
 
-[^4]: It was women, the men were all off getting machine gunned down in muddy fields.] who worked a 48 hour week got just as much done as those who worked a 72 hour week[1. to fit in a 72 hour week you'd need to do between 10 and 14 hours a day!
+[^4]: It was women, the men were all off getting machine gunned down in muddy fields.
+
+[^4a]: to fit in a 72 hour week you'd need to do between 10 and 14 hours a day!
 
 [^5]: according to Holman, C.; Joyeux, B.; Kask, C. 2008. “<a href="http://www.bls.gov/opub/mlr/2008/02/art4full.pdf">Labor productivity trends since 2000, by sector and industry</a>”, in Monthly Labor Review, Vol. 131, No. 2, pp. 64-82.
 
-[^6]: when I say "our" or "us" I mean BVN, but it applies to all knowledge workers. I wrote this for the BVN internal blog, so they are the intended audience.] work really is knowledge work[1. I think that the uncomfortable outcome of this line of thought is that a lot of the work we do isn't thinking. It's on a gradient between pure thought and pure doing. With 96% of it quite close to the doing end of things. My post on <a href="http://notionparallax.co.uk/?p=1799">automating architects</a> talks a bit about this; the doing tasks will be automated.
+[^6]: when I say "our" or "us" I mean BVN, but it applies to all knowledge workers. I wrote this for the BVN internal blog, so they are the intended audience.
+
+[^6a]: I think that the uncomfortable outcome of this line of thought is that a lot of the work we do isn't thinking. It's on a gradient between pure thought and pure doing. With 96% of it quite close to the doing end of things. My post on <a href="http://notionparallax.co.uk/?p=1799">automating architects</a> talks a bit about this; the doing tasks will be automated.
 
 [^7]: It's not strictly linear. There would be discontinuities when you need to move office because it's full. Things like bulk licencing deals are similar; 200-250 Revit licences cost the same, but your 251<sup>st</sup> licence costs a lot more.
 
-[^8]: the first was done using <a href="https://www.eventzero.com/Greentrac/">Greentrac</a> to measure the number of active computers. This isn't perfect because not everyone at a desk is using their computer. They may be leaning back in their chair on the phone, or drawing. Even if we bump up the occupancy rate by a generous 5% that's still much lower than 100%. The actual number went from a peak of 60% down to 40% during lunch time.]. That means that we are "wasting" capital; it's not being fully exploited[1. I don't think anyone feels bad about exploiting chairs and software licences, but I'm using <em>exploited</em> in the economics sense, not the bleeding hearts sense.
+[^8]: the first was done using <a href="https://www.eventzero.com/Greentrac/">Greentrac</a> to measure the number of active computers. This isn't perfect because not everyone at a desk is using their computer. They may be leaning back in their chair on the phone, or drawing. Even if we bump up the occupancy rate by a generous 5% that's still much lower than 100%. The actual number went from a peak of 60% down to 40% during lunch time.
+
+[^8a]: I don't think anyone feels bad about exploiting chairs and software licences, but I'm using <em>exploited</em> in the economics sense, not the bleeding hearts sense.
 
 [^9]: I don't have the exact quote, Matthew has my copy of <a href="http://www.amazon.co.uk/Parkinsons-Law-Northcote-Parkinson/dp/1568490151">the book</a> at the moment.
 
@@ -263,4 +261,6 @@ I'll share mine in another post.
 
 [^16]: maybe we're not, but nobody ever admits to it. Some of history's most famous people didn't work crazy hours. E.g. Descartes's laziness was legendary!:
 
-[^17]: which is odd in a fully metric society, surely you'd be <em>putting in the hard meters</em>?]. You just need to do the hours to show your love for the work. People feel that they have a responsibility to the project and that translates into doing extra work on their own time.[1. in the spirit of keeping my opinions to the footnotes: I think that this is really dangerous. It sets a precedent that if you are unable to put in extra time because of commitments to family or something like that, then you aren't as valuable. This seems completely at odds with the cultural change that organisations like <a href="http://archiparlour.org/">Parlour</a> are trying to bring about. More selfishly, if the reason you are working longer hours isn't because you did something wrong and are fixing it, then it's probably a project resourcing error. As I've said above, the MMM idea that more people means less work done doesn't apply any more.
+[^17]: which is odd in a fully metric society, surely you'd be <em>putting in the hard meters</em>?
+
+[^17a]: in the spirit of keeping my opinions to the footnotes: I think that this is really dangerous. It sets a precedent that if you are unable to put in extra time because of commitments to family or something like that, then you aren't as valuable. This seems completely at odds with the cultural change that organisations like <a href="http://archiparlour.org/">Parlour</a> are trying to bring about. More selfishly, if the reason you are working longer hours isn't because you did something wrong and are fixing it, then it's probably a project resourcing error. As I've said above, the MMM idea that more people means less work done doesn't apply any more.

@@ -77,18 +77,26 @@ author:
 <h2>One vote per voter</h2>
 <p>In this system each person gets one vote. They then use it to say who they think is the best person for the job. We take the 13 people who have the most votes and they become the council.</p>
 <p>This is a familiar voting method for most things, but in our context it has some huge problems! In most voting situations there are thousands of voters; that makes the ratio of candidates to voters tiny. In our case that ratio is more like 1:4. It would be sort-of-ok if we were only voting for one person, but for 13 it's a disaster.</p>
-<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=1897012938&amp;format=interactive" width="300" height="150">There really should be an iframe here :( </iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=1897012938&amp;format=interactive" width="300" height="150">
+There really should be an iframe here :(
+</iframe></p>
 <p>This is a really pretty graph, but that's about all it's got going for it. Out of 200 sample runs of this election it gave a tie between 13<sup>th</sup> and 14<sup>th</sup> place 189 times. So 94.5% of the time this method failed to give us what we were looking for.</p>
 <h2>Thirteen votes per voter</h2>
 <p>This is the closest we've got to electing the group as a whole, un-preferentially. Fans of direct mappings between metaphor and implementation will probably be drawn to this. It's a bit better than the previous method at avoiding clashes, but it's still not really <em>good enough</em> (131 out of 200 or 65.5% of the time it will give a clash).</p>
-<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=787908325&amp;format=interactive" width="300" height="150">There really should be an iframe here :( </iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=787908325&amp;format=interactive" width="300" height="150">
+There really should be an iframe here :(
+</iframe></p>
 <h2>Preference ordering</h2>
 <p>We're in serious consideration territory now. This method is very similar to the way voting works in Australia[1. or so I'm told, I'm not allowed to vote.] It works by reordering a list of candidates, so that the person at the top gets a point, second place gets 2 points etc. Then the 13 people with the lowest number of points form the council.</p>
-<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=357940176&amp;format=interactive" width="300" height="150">There really should be an iframe here :( </iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=357940176&amp;format=interactive" width="300" height="150">
+There really should be an iframe here :(
+</iframe></p>
 <p>The downfall of this model is that if you vote below the line you need to number all the boxes. We've got around this by introducing a line that you can move about yourself. All candidates below the line get the average value of the points left over. We've simulated this by randomly placing the line somewhere between 5 and 30 candidates down. This gives an excellent clash avoidance of 6 out of 200 or 3%</p>
 <h2>Currency allocation</h2>
 <p>This is the method that Shane and I both liked the best from an intuitive point of view. You are given lots of voting tokens, 100 in this case. You then 'spend' them on candidates. You might want to give 25 to 4 candidates, or 10 to 10 candidates, or 50 to one, and five to another ten people. The idea is that you are given a lot of expressiveness.</p>
-<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=229529167&amp;format=interactive" width="300" height="150">There really should be an iframe here :( </iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=229529167&amp;format=interactive" width="300" height="150">
+There really should be an iframe here :(
+</iframe></p>
 <p>This is pretty good, but not as good as preference ordering, giving 35 out of 200 or 17.5% clashes.</p>
 <h1><img class="alignright size-full wp-image-1816" src="{{ site.baseurl }}/assets/high-five-gif-4.gif" alt="high-five-gif-4" />Summary of results</h1>
 <table>
@@ -151,7 +159,9 @@ author:
 <p>It's then processed by the spreadsheet into columns. The totals of those columns are taken and the lowest 13 scores are elected.</p>
 <p>If you’d like do some scrutineering of your own, all the code for the voting and simulations is <a href="https://github.com/bvn-architecture/voting/tree/gh-pages">all here on Github</a>. Feel free to fork it if you need to elect some people. Let me know and I'll even give you a sanitised copy of the spreadsheet, it's got some sweet graphs in it[1. watching those graphs writhe about as more people voted was fascinating!].</p>
 <h1>Results</h1>
-<p><iframe src="https://docs.google.com/spreadsheets/d/1wrb3CTOrbR5B3tvxDNKUV1YjtMECXu_7-T9DqvoaQUY/pubchart?oid=27970589&amp;format=interactive" width="300" height="150">There really should be an iframe here :( </iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/1wrb3CTOrbR5B3tvxDNKUV1YjtMECXu_7-T9DqvoaQUY/pubchart?oid=27970589&amp;format=interactive" width="300" height="150">
+There really should be an iframe here :(
+</iframe></p>
 <p>This is how our ordering turned out, it was similar to the simulation, but more biased. In retrospect that makes sense, with more votes going where aggregate opinion went. There wasn't a draw, and everyone is happy!</p>
 <hr />
 <p>&nbsp;</p>

@@ -17,11 +17,14 @@ meta:
   last_name: Doherty 
 ---
 <style type="text/css">
+figure {
+    width: 33em;
+    margin: auto;
+}
 svg.prod-graph {
     width: 63vh;
     height: 31vh;
 }
-
 .post img {
     margin: 1em 0;
 }

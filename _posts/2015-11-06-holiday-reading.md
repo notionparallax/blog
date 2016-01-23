@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
-meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _thumbnail_id: '2576'
+featured_image: books.jpg
 author:
   login: Ben
   email: ben@notionparallax.co.uk

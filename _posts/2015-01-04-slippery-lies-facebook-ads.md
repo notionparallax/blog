@@ -13,8 +13,6 @@ tags:
 meta:
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
-  
-
   _wpas_mess: |-
     Facebook adverts: 35% of spend going to Russian bots?
     http://wp.me/p3wwRK-rS
