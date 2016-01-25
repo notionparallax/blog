@@ -176,24 +176,38 @@
 }
 
 .post-list {
-  margin-left: 0;
   list-style: none;
+  margin-left: 0;
 
   > li {
-    margin-bottom: $spacing-unit;
     height: 15em;
+    margin-bottom: $spacing-unit;
+
     @include media(max-width 650px) {
       //single column
+      border-top: 1px solid #eee;
       height: initial;
+      img {display: none;}
+      .post-meta,
+      h2 { position: initial !important; }// :( so sad
+      .post-meta {
+        display: inline-block;
+        float: right;
+        font-size: 70%;
+        width: 4em;
+      }
     }
+
     @include media(min-width 650px max-width 990px) {
       @include span-columns(6);
       @include omega(2n);
     }
+
     @include media(min-width 990px max-width 1400px) {
       @include span-columns(4);
       @include omega(3n);
     }
+
     @include media(min-width 1400px max-width 2200px) {
       @include span-columns(3);
       @include omega(4n);
