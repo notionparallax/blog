@@ -229,11 +229,16 @@
       }
     }
 
-    @include media(max-width 650px) {
+    @include media(max-width 900px) {
       //single column
     }
 
-    @include media(min-width 650px) {
+    @include media(min-width 900px max-width 1300px) {
+      @include span-columns(6);
+      @include omega(2n);
+    }
+
+    @include media(min-width 1300px) {
       @include span-columns(4);
       @include omega(3n);
     }
