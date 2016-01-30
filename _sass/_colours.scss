@@ -1,0 +1,10 @@
+$text-color:       rgba(0, 0, 0, .87);
+$text-color-invert:rgba(255, 255, 255, .87);
+$background-color: #fdfdfd;
+$brand-color:      hsla(202, 60%, 33%, .87);
+
+$grey-color:       hsla(0, 0%, 35%, 1);
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$code-background: #eef;

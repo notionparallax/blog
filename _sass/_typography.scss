@@ -1,19 +1,29 @@
-q{}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300|Lustria);
 
-blockquote{
+h1, h2 {
+  font-family: $heading-font-family;
+  font-weight: 700;
+}
+
+//q {}
+
+blockquote {
   font-size: 120%;
   width: 80%;
 }
 
-figure{
-  img{
+figure {
+  img {
     width: 100%;
   }
-  blockquote{}
-  figcaption{
+
+  blockquote {}
+
+  figcaption {
     font-size: 90%;
     font-weight: lighter;
-    padding: 0.5em 1em;
-    cite{}
+    padding: .5em 1em;
+
+    cite {}
   }
 }

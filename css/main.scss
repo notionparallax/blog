@@ -3,24 +3,16 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
-$base-font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif; //https://medium.com/designing-medium/system-shock-6b1dc6d6596f#.egotfzedd 
+$base-font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif; //https://medium.com/designing-medium/system-shock-6b1dc6d6596f#.egotfzedd
+$heading-font-family: 'Open Sans', $base-font-family;
+$body-font-family: 'Lustria', serif;
 $base-font-size:   19px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       hsla(0,0%,35%,1);
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -47,14 +39,15 @@ $on-laptop:        800px;
 * { box-sizing: Border-box }
 
 //vendor imports
-@import "bourbon/bourbon"; 
+@import "bourbon/bourbon";
 @import "grid-settings";
-$visual-grid: true;
+//$visual-grid: true;
 @import "neat/neat";
 @import "neat/neat-helpers";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "colours",
         "base",
         "typography",
         "layout",
