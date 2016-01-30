@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: I've often wondered about how much data is harvested while I read a Kindle book. It seems like a lot goes to Amazon and the authors, but I couldn't find much for myself.
 meta:
   _wpas_mess: A quick timeline of books I've read
   _publicize_facebook_user: http://www.facebook.com/541400612
@@ -27,8 +28,8 @@ author:
         height: 3500px;
     }
 </style>
-<p>I've often wondered about how much data is harvested while I read a Kindle book. It seems like a lot goes to Amazon and the authors, but I couldn't find much for myself.<!--more--><br />
-I've made this timeline by scraping the <a href="https://kindle.amazon.com/your_highlights">Kindle notes and hightlights</a> page, then doing a little bit of sublime/spreadsheet fu.</p>
+<p>I've often wondered about how much data is harvested while I read a Kindle book. It seems like a lot goes to Amazon and the authors, but I couldn't find much for myself.</p>
+<p>I've made this timeline by scraping the <a href="https://kindle.amazon.com/your_highlights">Kindle notes and hightlights</a> page, then doing a little bit of sublime/spreadsheet fu.</p>
 <h2>Problems</h2>
 <ul>
 <li>It only gives date of last highlight, not of the date finished and started, so I've assumed that each book took me about a month to read</li>

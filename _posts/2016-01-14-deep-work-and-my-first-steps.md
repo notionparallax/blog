@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: "I just read <em>Deep Work: Rules for Focused Success in a Distracted World</em> by Cal Newport. It sits well with a lot of the stuff I've been reading recently as a member of the commons at BVN. His main argument is that being able to do deep work gives you a huge competitive advantage."
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
