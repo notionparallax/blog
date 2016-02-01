@@ -1,4 +1,9 @@
-.post-content {
+.wrapper.post {
+  max-width: 45em;
+}
+
+article {
+
   .small-caps {
     font-style: initial;
     font-variant: small-caps;

@@ -18,7 +18,7 @@ author:
 
 # First level header
 
-Try-hard *itallic* YOLO **bold** meggings, <span class=".small-caps">Small Caps*</span> letterpress <u>underline</u> affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
+Try-hard *itallic* YOLO **bold** meggings, <span class="small-caps">Small Caps</span> letterpress <u>underline</u> affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
 
 Selfies bushwick next level, tattooed[^1] yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
