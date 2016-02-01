@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="hierarchy-1" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.0 0.0 960.0 540.0">
+    <defs id="defs138">
+        <symbol id="line-manager">
+            <path id="path16" fill="#ececec" d="M226.2 351.3c4.5 0 8.2-3.6 8.2-8.2h32.8c0 4.7 3.7 8.3 8.2 8.3V384c-4.5 0-8.2 3.8-8.2 8.3h-32.8c0-4.5-3.7-8.2-8.2-8.2z"></path>
+        </symbol>
+        <symbol id="grunt">
+            <path id="path12" fill="#ececec" d="M126.2 488.4l24.6-24.5 24.6 24.4-24.6 24.6z"></path>
+        </symbol>
+        <symbol id="director">
+            <path id="path96" fill="#ececec" d="M587.7 207.8c0-13.6 11-24.6 24.6-24.6 6.5 0 12.8 2.6 17.4 7.2 4.6 4.6 7.2 11 7.2 17.4 0 13.6-11 24.6-24.7 24.6-13.6 0-24.6-11-24.6-24.6z"></path>
+        </symbol>
+        <symbol id="general">
+            <path id="path124" fill="#ececec" d="M436.5 44.6c0-18 14.7-32.8 32.8-32.8 8.7 0 17 3.5 23.2 9.6 6.2 6.2 9.6 14.5 9.6 23.2 0 18-14.6 32.8-32.7 32.8-18 0-32.8-14.7-32.8-32.8z"></path>
+            <path id="path126" fill="#ececec" d="M456 59.7l31-32.5"></path>
+            <path id="path128" d="M456 59.7l26.3-27.5"></path>
+            <path id="path130" fill="#666" d="M482.3 32.2v3.2l2.7-6-6 3z"></path>
+            <path id="path132" fill="#ccc" d="M466 44.6c0-1.8 1.5-3.4 3.3-3.4 1 0 1.8.4 2.4 1 .6.7 1 1.5 1 2.4 0 2-1.5 3.4-3.4 3.4-1.8 0-3.4-1.5-3.4-3.4z"></path>
+            <path id="path134" d="M466 44.6c0-1.8 1.5-3.4 3.3-3.4 1 0 1.8.4 2.4 1 .6.7 1 1.5 1 2.4 0 2-1.5 3.4-3.4 3.4-1.8 0-3.4-1.5-3.4-3.4z"></path>
+        </symbol>
+    </defs>
+    <g id="low-level-wires">
+        <path id="l-a-1" d="M150.8 464c0-18 25-27 50-36 25-8.8 50-17.8 50-35.6"></path>
+        <path id="l-a-2" d="M250.8 392.3c0 18-1.7 27-3.4 35.8-1.7 9-3.4 18-3.4 35.8"></path>
+        <path id="l-a-3" d="M250.8 392.3c0 16 16.8 24 33.6 32.2 16.8 8 33.6 16 33.6 32"></path>
+        <path id="m-a-1" d="M400.8 474.2c0-18 25-26.8 50-35.8 25-9 50-17.8 50-35.7"></path>
+        <path id="m-a-2" d="M500.7 402.7c0 18-1.7 26.8-3.4 35.7-1.7 9-3.4 18-3.4 35.8"></path>
+        <path id="m-a-3" d="M500.7 402.7c0 16 16.8 24 33.6 32C551 443 568 451 568 467"></path>
+        <path id="r-a-1" d="M642 474.2c0-18 25-26.8 50-35.8 25-9 50-17.8 50-35.7"></path>
+        <path id="r-a-2" d="M742 402.7c0 17.8-1.7 26.8-3.5 35.7-1.7 9-3.4 18-3.4 35.8"></path>
+        <path id="r-a-3" d="M742 402.7c0 16 16.8 24 33.6 32s33.6 16.2 33.6 32.3"></path>
+    </g>
+    <g id="mid-level-wires">
+        <path id="l-b" d="M250.8 343c0-29 20.8-42.7 41.7-58.2 20.8-15.5 41.7-32.8 41.7-65.6"></path>
+        <path id="m-b" d="M500.7 353.5c0-31.8-33-46.8-65.8-63.5-33-16.8-66-35.4-66-70.8"></path>
+        <path id="r-b" d="M742 353.5c0-30.3-28-44.5-56.2-60.6-28-16-56-34-56-67.8"></path>
+    </g>
+    <g id="top-level-wires">
+        <path id="l-c" d="M351.6 177.2c0-25 29.4-37.5 59-50 29.3-12.5 58.7-25 58.7-50"></path>
+        <path id="r-c" d="M469.3 77.2c0 26.5 35.8 39.8 71.5 53 35.8 13.3 71.5 26.5 71.5 53"></path>
+    </g>
+    <use xlink:href="#general" id="the-boss"></use>
+    <use xlink:href="#director" id="use8219"></use>
+    <use xlink:href="#director" id="use8237" width="100%" height="100%" transform="translate(-260.1  -6.075)"></use>
+    <use xlink:href="#line-manager" id="use8203"></use>
+    <use xlink:href="#line-manager" id="use8281" width="100%" height="100%" transform="translate(251.007 11.41)"></use>
+    <use xlink:href="#line-manager" id="use8343" width="100%" height="100%" transform="translate(492.028 10.363)"></use>
+    <use xlink:href="#grunt" id="grunts-observer" width="100%" height="100%" transform="translate(.09     -2.67)"></use>
+    <use xlink:href="#grunt" id="grunts-8" width="100%" height="100%" transform="translate(93.386  -1.18)"></use>
+    <use xlink:href="#grunt" id="grunts-0" width="100%" height="100%" transform="translate(167.62  -8.697)"></use>
+    <use xlink:href="#grunt" id="grunts-5" width="100%" height="100%" transform="translate(250.035 8.8)"></use>
+    <use xlink:href="#grunt" id="grunts-8-5" width="100%" height="100%" transform="translate(343.33  10.29)"></use>
+    <use xlink:href="#grunt" id="grunts-0-7" width="100%" height="100%" transform="translate(417.566 2.772)"></use>
+    <use xlink:href="#grunt" id="grunts-1" width="100%" height="100%" transform="translate(491.69  8.8)"></use>
+    <use xlink:href="#grunt" id="grunts-actor" width="100%" height="100%" transform="translate(584.986 10.29)"></use>
+    <use xlink:href="#grunt" id="grunts-0-5" width="100%" height="100%" transform="translate(659.22  2.772)"></use>
+</svg>
