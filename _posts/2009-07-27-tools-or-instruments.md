@@ -11,6 +11,7 @@ tags:
 - geek
 - thinking
 - writing
+description:
 meta:
 dsq_thread_id: '4503552125'
 author:

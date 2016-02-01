@@ -10,6 +10,7 @@ tags:
 - delivery
 - future
 - Packaging
+description:
 meta:
   _wpas_mess: Why deliver packaging?
   _publicize_facebook_user: http://www.facebook.com/541400612

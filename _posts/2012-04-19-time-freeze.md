@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description:
 meta:
   geo_latitude: "-27.415650"
   geo_longitude: '153.076790'

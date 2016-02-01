@@ -13,6 +13,7 @@ tags:
 - smart geometry
 - trips
 - usa
+description:
 meta:
   geo_longitude: "-73.999712"
   geo_latitude: '40.719754'

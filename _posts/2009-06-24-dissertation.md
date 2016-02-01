@@ -10,6 +10,7 @@ tags:
 - architecture
 - geek
 - writing
+description:
 meta:
 dsq_thread_id: '4503553015'
 author:

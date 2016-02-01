@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description:
 meta:
  _wpas_mess: Could a Personal stack find ways to get us all set up? http://wp.me/p3wwRK-pb
  dsq_thread_id: '4503553406'

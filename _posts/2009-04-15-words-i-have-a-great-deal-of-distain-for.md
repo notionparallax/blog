@@ -10,6 +10,7 @@ tags:
 - architecture
 - thinking
 - writing
+description:
 meta:
 dsq_thread_id: '4503552360'
 author:

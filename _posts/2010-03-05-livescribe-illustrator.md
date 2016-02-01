@@ -11,6 +11,7 @@ tags:
 - geek
 - hardware
 - vector illustration
+description:
 meta:
 dsq_thread_id: '4503552260'
 author:

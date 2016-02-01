@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: "Another app idea that I'm never going to make so someone else can have it. Grid size is really hard to get right for home coffee nerds."
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"

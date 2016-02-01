@@ -11,6 +11,7 @@ tags:
 - paul coates
 - poetry
 - sam joyce
+description:
 meta:
 dsq_thread_id: '4503552402'
 author:

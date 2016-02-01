@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: "Here's a list of all the podcasts I listen to a lot."
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
@@ -44,7 +45,7 @@ author:
 </style>
 <p>I sent someone a link to a podcast episode at the weekend. They liked it and wanted to hear others that were in a similar vein. I've been meaning to make this list for a while now and now my motivation is piqued.<!--more--></p>
 <h1>Podcasts I listen to a lot</h1>
-<p>By a lot, I mean that I've listened to tens-hundreds of hours of these.</p>
+<p>By a lot, I mean that I've listened to tens&endash;hundreds of hours of these.</p>
 <div class="big-grid">
 <h2><a href="http://www.dancarlin.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3ec78c50-0d62-012e-fb9c-00163e1b201c.jpg" alt="" />Hardcore History</a></h2>
 <p>This is the only podcast I <em>actively</em> look forward to. That might be because he only does two or three a year, but each one is 3 or four hours long. The recent series on WW1 was 6 episodes, each of 3ish hours.</p>

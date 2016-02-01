@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
@@ -18,7 +19,7 @@ author:
   last_name: Doherty
 special-class: time-factors
 ---
-I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)<!--more-->
+I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
 
 <div class="reading-stats">
 

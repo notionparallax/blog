@@ -10,6 +10,7 @@ tags:
 - evolution
 - products
 - thinking
+description:
 meta:
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"

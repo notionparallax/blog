@@ -10,6 +10,7 @@ tags:
 - apocalypse
 - blog
 - Sydney
+description:
 meta:
 dsq_thread_id: '4503553283'
 author:

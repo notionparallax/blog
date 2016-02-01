@@ -10,6 +10,7 @@ tags:
 - BVN
 - data
 - manifesto
+description: '"<em>Categories are an emergent way of describing set creation operations based on attributes</em>"'
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"

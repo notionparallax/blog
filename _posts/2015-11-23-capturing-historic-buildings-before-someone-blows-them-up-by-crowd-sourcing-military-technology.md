@@ -10,6 +10,7 @@ categories: []
 tags:
 - mesh network
 - Photogrametry
+description: Free photogrametry and mesh networks could be used to document historical buildings and artefacts if they are at risk of a nutter blowing them up.
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"

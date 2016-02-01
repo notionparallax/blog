@@ -12,6 +12,7 @@ tags:
 - smart geometry
 - trip
 - usa
+description:
 meta:
   geo_longitude: "-73.683646"
   geo_latitude: '42.728965'

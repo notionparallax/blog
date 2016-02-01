@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: Imagine you are an international sort of person. All your friends are international sorts too. Where should you all fly your private helicopters to for a party?
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"

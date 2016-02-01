@@ -17,6 +17,7 @@ tags:
 - Olympic weightlifting
 - phone
 - sensors
+description:
 meta:
   _thumbnail_id: '1380'
 author:

@@ -9,6 +9,7 @@ categories: []
 tags:
 - future
 - thinking
+description:
 meta:
 dsq_thread_id: '4503552008'
 author:

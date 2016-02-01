@@ -10,6 +10,7 @@ tags:
 - rant
 - technology
 - vector illustration
+description:
 meta:
 dsq_thread_id: '4503552641'
 author:

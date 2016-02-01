@@ -13,6 +13,7 @@ tags:
 - canyoning
 - solo
 - trips
+description:
 meta:
 dsq_thread_id: '4503553180'
 author:

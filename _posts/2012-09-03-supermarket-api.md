@@ -11,6 +11,7 @@ tags:
 - future
 - service design
 - supermarket
+description:
 meta:
 dsq_thread_id: '4503552892'
 author:

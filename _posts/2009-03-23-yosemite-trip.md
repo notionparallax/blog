@@ -9,6 +9,7 @@ categories: []
 tags:
 - outdoor
 - trips
+description:
 meta:
 dsq_thread_id: '4503552061'
 author:

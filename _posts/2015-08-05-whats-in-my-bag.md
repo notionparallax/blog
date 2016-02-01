@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
 - EDC
+description:
 meta:
   _thumbnail_id: '1833'
   _publicize_facebook_user: http://www.facebook.com/541400612

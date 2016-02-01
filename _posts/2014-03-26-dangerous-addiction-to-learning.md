@@ -12,6 +12,7 @@ tags:
 - programming
 - skill
 - smart geometry
+description:
 meta:
   _wpas_mess: Dangerous addiction to learning - a ramble about skills http://wp.me/p3wwRK-pA
 author:

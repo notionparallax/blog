@@ -12,6 +12,7 @@ tags:
 - Product Management
 - Sydney
 - workshop
+description:
 meta:
   _thumbnail_id: '1675'
   _wpas_mess: I'm doing a workshop on 'How to become an internet millionaire in a

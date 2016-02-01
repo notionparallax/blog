@@ -11,6 +11,7 @@ tags:
 - lecture
 - Ninotschka Titchkosky
 - UTS
+description:
 meta:
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"

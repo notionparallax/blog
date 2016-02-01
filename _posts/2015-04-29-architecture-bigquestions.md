@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
 - BVN
+description:
 meta:
   _wpas_mess: "#architecture #bigquestions - who wants to get involved in the search?"
   _publicize_facebook_user: http://www.facebook.com/541400612

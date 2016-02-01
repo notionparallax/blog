@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description: Architects seem to act in a 'us vs them' way to other architects. I'll bet that this is the case in lots of other industries but if we want to see the explosive growth that we see in software-backed industries we need to be different.
 meta:
   _thumbnail_id: '2657'
   _publicize_facebook_user: http://www.facebook.com/541400612

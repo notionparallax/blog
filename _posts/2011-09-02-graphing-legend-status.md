@@ -10,6 +10,7 @@ tags:
 - life
 - maths
 - yoga
+description:
 meta:
 dsq_thread_id: '4503552450'
 author:

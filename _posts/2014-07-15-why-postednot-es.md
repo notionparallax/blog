@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+description:
 meta:
   _edit_last: '2'
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1

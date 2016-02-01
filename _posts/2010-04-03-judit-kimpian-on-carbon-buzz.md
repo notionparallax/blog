@@ -17,6 +17,7 @@ tags:
 - Judit
 - major study
 - POE
+description:
 meta:
 enclosure: |
     http://notionparallax.co.uk/JuditKimpian_on_CarbonBuzz.mp3
