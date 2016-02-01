@@ -1,34 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300|Lustria);
-
 h1,
 h2 {
   font-family: $heading-font-family;
   font-weight: 700;
 }
 
-//q {}
-
-blockquote {
-  font-size: 120%;
-  width: 80%;
-}
-
-figure {
-  img {
-    width: 100%;
-  }
-
-  //blockquote {}
-
-  figcaption {
-    font-size: 90%;
-    font-weight: lighter;
-    padding: .5em 1em;
-
-    //cite {}
-  }
-}
-
-sup {
-  font-size: 75%;
+p {
+  font-family: $body-font-family;
 }

@@ -1,0 +1,47 @@
+.post-content {
+  .small-caps {
+    font-style: initial;
+    font-variant: small-caps;
+  }
+
+  .underline {
+    font-style: initial;
+    text-decoration: underline;
+  }
+
+  //q {}
+
+  blockquote {
+    font-size: 120%;
+    width: 80%;
+  }
+
+  .half-width {
+    @include span-columns(6);
+    @include omega();
+  }
+
+  .right {float: right;}
+
+  .left {float: left;}
+
+  figure {
+    img {
+      width: 100%;
+    }
+
+    //blockquote {}
+
+    figcaption {
+      font-size: 90%;
+      font-weight: lighter;
+      padding: .5em 1em;
+
+      //cite {}
+    }
+  }
+
+  sup {
+    font-size: 75%;
+  }
+}

@@ -18,9 +18,9 @@ author:
 
 # First level header
 
-Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
+Try-hard *itallic* YOLO **bold** meggings, <span class=".small-caps">Small Caps*</span> letterpress <u>underline</u> affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
 
-Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
+Selfies bushwick next level, tattooed[^1] yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
 ## Second level header
 
@@ -79,7 +79,11 @@ Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vic
 
 Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
-<figure class="half-width right">
+Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
+
+Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
+
+<figure class="half-width left">
 ![something or other]({{ site.baseurl }}/assets/thesis-29.png)
 <figcaption>
 This figure is half-width and floated left
@@ -90,12 +94,16 @@ Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vic
 
 Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
+Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
+
+Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
+
 <figure class="full-width">
 > If you think about it, if you and I were playing a game of chess right now and we each had our 16 chess pieces. I moved, you moved, I’m against you and we’re both micromanaging our teams. What if for the dynamics of shared consciousness all of my chess pieces could decide on their own, and they could communicate amongst themselves. So, in fact you aren’t really playing me you’re playing the combined intelligence and flexibility of my 16 chess pieces. They can move whenever they want, they don’t have to wait for you to move.
 >
 > Suddenly you say well wait a minute that’s not fair, but that’s the environment we’re in now, you’re not against one iconic decision maker you’re against this networked set of competitors. Maybe they’re in coordination intentionally, maybe they’re unintentionally coordinating. So, what I would argue is chess actually may reinforce a more mechanical structured game than the world allows right now.
 <figcaption>
-Stan McChrystal speaking on <cite>The Tim Ferriss Show: [General Stan McChrystal on Eating One Meal Per Day, Special Ops, and Mental Toughness][http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/]</cite>, starting at about 1:38:00
+Stan McChrystal speaking on <cite>The Tim Ferriss Show: [General Stan McChrystal on Eating One Meal Per Day, Special Ops, and Mental Toughness](http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/)</cite>, starting at about 1:38:00
 </figcaption>
 </figure>
 
@@ -106,13 +114,13 @@ Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. A
 <figure class="half-width right">
 > just don't cock it up this time.
 <figcaption>
-Ben Doherty, to himself
+Ben Doherty, to himself, half-width right
 </figcaption>
 </figure>
 
 Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
 
-Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
+Selfies bushwick next[^2] level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
 ### a code block
 
@@ -122,3 +130,12 @@ def what?
 end
 ~~~
 {: .language-ruby}
+
+[^1]: I'm in UR footnotes
+
+[^2]:
+    > Blockquotes can be in a footnote.
+
+        as well as code blocks
+
+    or, naturally, simple paragraphs.
