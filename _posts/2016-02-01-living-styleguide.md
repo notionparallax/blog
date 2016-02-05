@@ -124,12 +124,24 @@ Selfies bushwick next[^2] level, tattooed yuccie four loko sriracha narwhal pabs
 
 ### a code block
 
+from markdown
+
 ~~~
 def what?
   42
 end
 ~~~
 {: .language-ruby}
+
+and from jekyll
+
+{% highlight ruby linenos %}
+def what?
+  42
+end
+{% endhighlight %}
+
+the end.
 
 [^1]: I'm in UR footnotes
 
