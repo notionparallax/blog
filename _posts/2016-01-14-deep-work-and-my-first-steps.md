@@ -33,7 +33,7 @@ author:
 <p>I highlight when I read a kindle book[^4]. There is a <a href="https://kindle.amazon.com/your_highlights">handy website that collects them all up</a>; here's what I highlighted:</p>
 <p>Here's Cal's method, in his own words:</p>
 <blockquote><p>I build my days around a core of carefully chosen deep work, with the shallow activities I absolutely cannot avoid batched into smaller bursts at the peripheries of my schedule. Three to four hours a day, five days a week, of uninterrupted and carefully directed concentration, it turns out, can produce a lot of valuable output.</p></blockquote>
-<p>He makes a good point about how the mid-term future will most likely be a blended teams scenario. <q>"The key question will be: are you good at working with intelligent machines or not?"</q> His point is that deep work is rarely automatable, so safeguards your livelihood from the robots! E.g.:</p>
+<p>He makes a good point about how the mid-term future will most likely be a blended teams scenario. <q>The key question will be: are you good at working with intelligent machines or not?</q> His point is that deep work is rarely automatable, so safeguards your livelihood from the robots! E.g.:</p>
 <blockquote><p>when money is made through the combination of capital investment and labor, the rewards are returned, roughly speaking, proportional to the input. As digital technology reduces the need for labor in many industries, the proportion of the rewards returned to those who own the intelligent machines is growing.</p></blockquote>
 <p>This is his equation and I think it makes sense:</p>
 <blockquote><p>High-Quality Work Produced = (Time Spent) × (Intensity of Focus)</p></blockquote>
@@ -59,7 +59,7 @@ author:
 
 [^2]: It's slightly more complicated, but that's the gist. <a href="http://pomodorotechnique.com/">Here's a bit more detail</a>]
 
-[^2a] I just don't see the point, but that's a different story.
+[^2a]: I just don't see the point, but that's a different story.
 
 [^3]: This post, <a href="https://blog.intercom.io/its-time-for-notifications-to-get-smart/">It's time for notifications to get smart</a>, from the Intercom blog has some good ideas about how to make this notification thing work for you rather than against.
 
