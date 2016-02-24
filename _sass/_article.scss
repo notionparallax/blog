@@ -14,11 +14,17 @@ article {
     text-decoration: underline;
   }
 
-  //q {}
+  q {
+    opacity: .9;
+  }
 
   blockquote {
     font-size: 120%;
     width: 80%;
+  }
+
+  .site-title {
+    opacity: .1;
   }
 
   .half-width {
