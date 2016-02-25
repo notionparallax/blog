@@ -1,0 +1,316 @@
+/blog/2016/living-styleguide||Living Styleguide	/blog/2016/living-styleguide	Living Styleguide	/blog/2016/living-styleguide
+/blog/2016/a-quick-timeline-of-books-ive-read||A quick timeline of books I've read	/blog/2016/a-quick-timeline-of-books-ive-read	A quick timeline of books I've read	/blog/2016/a-quick-timeline-of-books-ive-read
+/blog/2016/deep-work-and-my-first-steps||Deep work, and my first steps	/blog/2016/deep-work-and-my-first-steps	Deep work, and my first steps	/blog/2016/deep-work-and-my-first-steps
+/blog/2016/connecting-rescue-time-to-habitica-how-to-reward-yourself-for-doing-useful-things-without-using-up-all-your-brain-power||Connecting Rescue time to Habitica: How to reward yourself for doing useful things without using up all your brain power	/blog/2016/connecting-rescue-time-to-habitica-how-to-reward-yourself-for-doing-useful-things-without-using-up-all-your-brain-power	Connecting Rescue time to Habitica: How to reward yourself for doing useful things without using up all your brain power	/blog/2016/connecting-rescue-time-to-habitica-how-to-reward-yourself-for-doing-useful-things-without-using-up-all-your-brain-power
+/blog/2016/grind-size-analysis-app||Grind size analysis app	/blog/2016/grind-size-analysis-app	Grind size analysis app	/blog/2016/grind-size-analysis-app
+/blog/2016/drones-make-us-care-about-whats-happening-on-the-roof||Drones make us care about what's happening on the roof	/blog/2016/drones-make-us-care-about-whats-happening-on-the-roof	Drones make us care about what's happening on the roof	/blog/2016/drones-make-us-care-about-whats-happening-on-the-roof
+/blog/2016/centroid-of-points-on-the-surface-of-a-sphere-redux||Centroid of points on the surface of a sphere: redux	/blog/2016/centroid-of-points-on-the-surface-of-a-sphere-redux	Centroid of points on the surface of a sphere: redux	/blog/2016/centroid-of-points-on-the-surface-of-a-sphere-redux
+/blog/2016/time-factors||Time factors	/blog/2016/time-factors	Time factors	/blog/2016/time-factors
+/blog/2016/blog-much||Blog much?	/blog/2016/blog-much	Blog much?	/blog/2016/blog-much
+/blog/2015/open-source-some-of-the-things||Open Source (some of) the things!	/blog/2015/open-source-some-of-the-things	Open Source (some of) the things!	/blog/2015/open-source-some-of-the-things
+/blog/2015/podcasts-i-listen-to||Podcasts I listen to	/blog/2015/podcasts-i-listen-to	Podcasts I listen to	/blog/2015/podcasts-i-listen-to
+/blog/2015/capturing-historic-buildings-before-someone-blows-them-up-by-crowd-sourcing-military-technology||Capturing historic buildings (before someone blows them up) by crowd sourcing military technology	/blog/2015/capturing-historic-buildings-before-someone-blows-them-up-by-crowd-sourcing-military-technology	Capturing historic buildings (before someone blows them up) by crowd sourcing military technology	/blog/2015/capturing-historic-buildings-before-someone-blows-them-up-by-crowd-sourcing-military-technology
+/blog/2015/hierarchy-networks-generals-and-clouds-of-purpose||Hierarchy, Networks, Generals and Clouds of Purpose	/blog/2015/hierarchy-networks-generals-and-clouds-of-purpose	Hierarchy, Networks, Generals and Clouds of Purpose	/blog/2015/hierarchy-networks-generals-and-clouds-of-purpose
+/blog/2015/canon||Canon	/blog/2015/canon	Canon	/blog/2015/canon
+/blog/2015/why-deliver-packaging||Why deliver packaging?	/blog/2015/why-deliver-packaging	Why deliver packaging?	/blog/2015/why-deliver-packaging
+/blog/2015/holiday-reading||Holiday reading	/blog/2015/holiday-reading	Holiday reading	/blog/2015/holiday-reading
+/blog/2015/msc||MSc	/blog/2015/msc	MSc	/blog/2015/msc
+/blog/2015/minimal-ownership||Minimal Ownership?	/blog/2015/minimal-ownership	Minimal Ownership?	/blog/2015/minimal-ownership
+/blog/2015/value-of-unknown-data||Value of unknown data	/blog/2015/value-of-unknown-data	Value of unknown data	/blog/2015/value-of-unknown-data
+/blog/2015/major-study-design-under-conditions-of-uncertainty-calibration-design-hitting-a-moving-target-in-the-dark||Major study: Design under conditions of uncertainty: Calibration, design & hitting a moving target in the dark	/blog/2015/major-study-design-under-conditions-of-uncertainty-calibration-design-hitting-a-moving-target-in-the-dark	Major study: Design under conditions of uncertainty: Calibration, design & hitting a moving target in the dark	/blog/2015/major-study-design-under-conditions-of-uncertainty-calibration-design-hitting-a-moving-target-in-the-dark
+/blog/2015/major-study-appendix-carbon-buzz-interview-transcript-with-judit-kimpian||Major study appendix: Carbon Buzz interview transcript with Judit Kimpian	/blog/2015/major-study-appendix-carbon-buzz-interview-transcript-with-judit-kimpian	Major study appendix: Carbon Buzz interview transcript with Judit Kimpian	/blog/2015/major-study-appendix-carbon-buzz-interview-transcript-with-judit-kimpian
+/blog/2015/major-study-appendix-teminology||Major study appendix: Teminology	/blog/2015/major-study-appendix-teminology	Major study appendix: Teminology	/blog/2015/major-study-appendix-teminology
+/blog/2015/major-study-appendix-raw-data||Major study appendix: Raw data	/blog/2015/major-study-appendix-raw-data	Major study appendix: Raw data	/blog/2015/major-study-appendix-raw-data
+/blog/2015/major-study-appendix-question-set||Major study appendix: Question set	/blog/2015/major-study-appendix-question-set	Major study appendix: Question set	/blog/2015/major-study-appendix-question-set
+/blog/2015/major-study-question-answering-experience||Major study: Question answering experience	/blog/2015/major-study-question-answering-experience	Major study: Question answering experience	/blog/2015/major-study-question-answering-experience
+/blog/2015/major-study-results-review-experience||Major study: Results review experience	/blog/2015/major-study-results-review-experience	Major study: Results review experience	/blog/2015/major-study-results-review-experience
+/blog/2015/authentic-photo-app||"Authentic" photo app	/blog/2015/authentic-photo-app	"Authentic" photo app	/blog/2015/authentic-photo-app
+/blog/2015/do-computer-design-techniques-enhance-or-retard-the-production-of-architectural-design-a-computer-design-primer||Dissertation (what I thought 10 years ago)	/blog/2015/do-computer-design-techniques-enhance-or-retard-the-production-of-architectural-design-a-computer-design-primer	Dissertation (what I thought 10 years ago)	/blog/2015/do-computer-design-techniques-enhance-or-retard-the-production-of-architectural-design-a-computer-design-primer
+/blog/2015/lateness-app-quantified-tardiness||Lateness app - quantified tardiness	/blog/2015/lateness-app-quantified-tardiness	Lateness app - quantified tardiness	/blog/2015/lateness-app-quantified-tardiness
+/blog/2015/a-thinking-about-the-future-game||A 'Thinking about the future' game	/blog/2015/a-thinking-about-the-future-game	A 'Thinking about the future' game	/blog/2015/a-thinking-about-the-future-game
+/blog/2015/a-manifesto-for-data-collection||A manifesto for data collection	/blog/2015/a-manifesto-for-data-collection	A manifesto for data collection	/blog/2015/a-manifesto-for-data-collection
+/blog/2015/no-admins-control-over-your-own-data||No Admins – Control over your own data	/blog/2015/no-admins-control-over-your-own-data	No Admins – Control over your own data	/blog/2015/no-admins-control-over-your-own-data
+/blog/2015/define-and-control-the-api-be-powerful||Define and control the API - be powerful	/blog/2015/define-and-control-the-api-be-powerful	Define and control the API - be powerful	/blog/2015/define-and-control-the-api-be-powerful
+/blog/2015/billing-the-gender-fluid-cardinal-no-forced-values||Billing the gender fluid Cardinal – no forced values	/blog/2015/billing-the-gender-fluid-cardinal-no-forced-values	Billing the gender fluid Cardinal – no forced values	/blog/2015/billing-the-gender-fluid-cardinal-no-forced-values
+/blog/2015/asset-pipelines-being-part-of-the-process||Asset pipelines - being part of the process	/blog/2015/asset-pipelines-being-part-of-the-process	Asset pipelines - being part of the process	/blog/2015/asset-pipelines-being-part-of-the-process
+/blog/2015/fluid-categories-define-things-by-their-attributes-not-their-name-2||Fluid categories - define things by their attributes not their name	/blog/2015/fluid-categories-define-things-by-their-attributes-not-their-name-2	Fluid categories - define things by their attributes not their name	/blog/2015/fluid-categories-define-things-by-their-attributes-not-their-name-2
+/blog/2015/whats-in-my-bag||What's in my bag?	/blog/2015/whats-in-my-bag	What's in my bag?	/blog/2015/whats-in-my-bag
+/blog/2015/voting-for-a-group||Voting for a group	/blog/2015/voting-for-a-group	Voting for a group	/blog/2015/voting-for-a-group
+/blog/2015/technical-debt-stealing-from-ourselves||Technical debt: stealing from ourselves	/blog/2015/technical-debt-stealing-from-ourselves	Technical debt: stealing from ourselves	/blog/2015/technical-debt-stealing-from-ourselves
+/blog/2015/architects-getting-automated||Architects getting automated?	/blog/2015/architects-getting-automated	Architects getting automated?	/blog/2015/architects-getting-automated
+/blog/2015/evo-nerding-lots-of-wheels-and-ideas||Evo-nerding: Lots of wheels and ideas	/blog/2015/evo-nerding-lots-of-wheels-and-ideas	Evo-nerding: Lots of wheels and ideas	/blog/2015/evo-nerding-lots-of-wheels-and-ideas
+/blog/2015/brain-to-brain-in-5-steps||Brain to brain in 5 steps	/blog/2015/brain-to-brain-in-5-steps	Brain to brain in 5 steps	/blog/2015/brain-to-brain-in-5-steps
+/blog/2015/delegation-programming||Delegation == Programming	/blog/2015/delegation-programming	Delegation == Programming	/blog/2015/delegation-programming
+/blog/2015/architecture-bigquestions-redux||#architecture #bigquestions redux	/blog/2015/architecture-bigquestions-redux	#architecture #bigquestions redux	/blog/2015/architecture-bigquestions-redux
+/blog/2015/architecture-bigquestions||#architecture #bigquestions	/blog/2015/architecture-bigquestions	#architecture #bigquestions	/blog/2015/architecture-bigquestions
+/blog/2015/good-design-is-timeless-bullshit||Good design is timeless: bullshit	/blog/2015/good-design-is-timeless-bullshit	Good design is timeless: bullshit	/blog/2015/good-design-is-timeless-bullshit
+/blog/2015/slippery-lies-facebook-ads||Slippery lies? (Facebook ads)	/blog/2015/slippery-lies-facebook-ads	Slippery lies? (Facebook ads)	/blog/2015/slippery-lies-facebook-ads
+/blog/2014/lazy-yogurt||lazy yogurt	/blog/2014/lazy-yogurt	lazy yogurt	/blog/2014/lazy-yogurt
+/blog/2014/3-read-1-reading-2-to-read||3 Read, 1 reading, 2 to read	/blog/2014/3-read-1-reading-2-to-read	3 Read, 1 reading, 2 to read	/blog/2014/3-read-1-reading-2-to-read
+/blog/2014/a-little-catch-up||A little catch up	/blog/2014/a-little-catch-up	A little catch up	/blog/2014/a-little-catch-up
+/blog/2014/offline-reading||Offline reading	/blog/2014/offline-reading	Offline reading	/blog/2014/offline-reading
+/blog/2014/how-to-become-an-internet-millionaire-in-a-weekend||How to become an internet millionaire in a weekend	/blog/2014/how-to-become-an-internet-millionaire-in-a-weekend	How to become an internet millionaire in a weekend	/blog/2014/how-to-become-an-internet-millionaire-in-a-weekend
+/blog/2014/why-postednot-es||why Postednot.es ?	/blog/2014/why-postednot-es	why Postednot.es ?	/blog/2014/why-postednot-es
+/blog/2014/postednot-es||PostedNot.es	/blog/2014/postednot-es	PostedNot.es	/blog/2014/postednot-es
+/blog/2014/openasset-rest-api-confusion||OpenAsset REST API confusion	/blog/2014/openasset-rest-api-confusion	OpenAsset REST API confusion	/blog/2014/openasset-rest-api-confusion
+/blog/2014/space-trading||Space Trading	/blog/2014/space-trading	Space Trading	/blog/2014/space-trading
+/blog/2014/card-chastity||Card chastity	/blog/2014/card-chastity	Card chastity	/blog/2014/card-chastity
+/blog/2014/crossfit-programming-dsl||Crossfit programming DSL	/blog/2014/crossfit-programming-dsl	Crossfit programming DSL	/blog/2014/crossfit-programming-dsl
+/blog/2014/perfect-todo||Perfect TODO	/blog/2014/perfect-todo	Perfect TODO	/blog/2014/perfect-todo
+/blog/2014/fitbit-selenium-beyond-the-whiteboard||Fitbit → Selenium → Beyond the Whiteboard	/blog/2014/fitbit-selenium-beyond-the-whiteboard	Fitbit → Selenium → Beyond the Whiteboard	/blog/2014/fitbit-selenium-beyond-the-whiteboard
+/blog/2014/spark-hist||Spark hist	/blog/2014/spark-hist	Spark hist	/blog/2014/spark-hist
+/blog/2014/random-building-photos||random building photos	/blog/2014/random-building-photos	random building photos	/blog/2014/random-building-photos
+/blog/2014/dangerous-addiction-to-learning||Dangerous addiction to learning	/blog/2014/dangerous-addiction-to-learning	Dangerous addiction to learning	/blog/2014/dangerous-addiction-to-learning
+/blog/2013/personal-stack||Personal stack	/blog/2013/personal-stack	Personal stack	/blog/2013/personal-stack
+/blog/2013/mum||Mum	/blog/2013/mum	Mum	/blog/2013/mum
+/blog/2013/a-meaningless-font-and-a-scruffy-one||A meaningless font, and a scruffy one	/blog/2013/a-meaningless-font-and-a-scruffy-one	A meaningless font, and a scruffy one	/blog/2013/a-meaningless-font-and-a-scruffy-one
+/blog/2013/pro-tip-mushroom-bags||Pro tip - Mushroom bags	/blog/2013/pro-tip-mushroom-bags	Pro tip - Mushroom bags	/blog/2013/pro-tip-mushroom-bags
+/blog/2013/lack||lack	/blog/2013/lack	lack	/blog/2013/lack
+/blog/2013/energy-consistency||Energy consistency	/blog/2013/energy-consistency	Energy consistency	/blog/2013/energy-consistency
+/blog/2013/driverless-cars||Driverless cars	/blog/2013/driverless-cars	Driverless cars	/blog/2013/driverless-cars
+/blog/2013/moar-power||Moar power?	/blog/2013/moar-power	Moar power?	/blog/2013/moar-power
+/blog/2013/hydraulic-economics-2||hydraulic economics	/blog/2013/hydraulic-economics-2	hydraulic economics	/blog/2013/hydraulic-economics-2
+/blog/2013/the-apocalypse-we-were-too-early||The apocalypse - we were too early!	/blog/2013/the-apocalypse-we-were-too-early	The apocalypse - we were too early!	/blog/2013/the-apocalypse-we-were-too-early
+/blog/2013/thousand-separators||Thousand separators	/blog/2013/thousand-separators	Thousand separators	/blog/2013/thousand-separators
+/blog/2013/lean-at-the-gym-the-other-lean||Lean at the gym (the other lean)	/blog/2013/lean-at-the-gym-the-other-lean	Lean at the gym (the other lean)	/blog/2013/lean-at-the-gym-the-other-lean
+/blog/2013/server-faff||Server faff	/blog/2013/server-faff	Server faff	/blog/2013/server-faff
+/blog/2013/my-nearest||My nearest...	/blog/2013/my-nearest	My nearest...	/blog/2013/my-nearest
+/blog/2012/post-popularity||post popularity	/blog/2012/post-popularity	post popularity	/blog/2012/post-popularity
+/blog/2012/home-gym||Home gym	/blog/2012/home-gym	Home gym	/blog/2012/home-gym
+/blog/2012/reading||reading	/blog/2012/reading	reading	/blog/2012/reading
+/blog/2012/supermarket-api-food-tracking||Supermarket API - food tracking	/blog/2012/supermarket-api-food-tracking	Supermarket API - food tracking	/blog/2012/supermarket-api-food-tracking
+/blog/2012/supermarket-api||Supermarket api	/blog/2012/supermarket-api	Supermarket api	/blog/2012/supermarket-api
+/blog/2012/invaluable-unrelated-blogs||invaluable, unrelated blogs	/blog/2012/invaluable-unrelated-blogs	invaluable, unrelated blogs	/blog/2012/invaluable-unrelated-blogs
+/blog/2012/coding-in-google-docs||coding in Google docs	/blog/2012/coding-in-google-docs	coding in Google docs	/blog/2012/coding-in-google-docs
+/blog/2012/prelim-models||prelim models	/blog/2012/prelim-models	prelim models	/blog/2012/prelim-models
+/blog/2012/circles||Circles	/blog/2012/circles	Circles	/blog/2012/circles
+/blog/2012/ex||ex	/blog/2012/ex	ex	/blog/2012/ex
+/blog/2012/time-freeze||Time freeze	/blog/2012/time-freeze	Time freeze	/blog/2012/time-freeze
+/blog/2012/future-ed-requirements||future ed requirements	/blog/2012/future-ed-requirements	future ed requirements	/blog/2012/future-ed-requirements
+/blog/2012/simaud||SimAUD	/blog/2012/simaud	SimAUD	/blog/2012/simaud
+/blog/2012/conference-day||Conference day	/blog/2012/conference-day	Conference day	/blog/2012/conference-day
+/blog/2012/here-we-go||Here we go...	/blog/2012/here-we-go	Here we go...	/blog/2012/here-we-go
+/blog/2012/usa-conference-trip||USA conference trip	/blog/2012/usa-conference-trip	USA conference trip	/blog/2012/usa-conference-trip
+/blog/2012/new-coffee-setup||New coffee setup	/blog/2012/new-coffee-setup	New coffee setup	/blog/2012/new-coffee-setup
+/blog/2012/fallout-protection||Fallout protection	/blog/2012/fallout-protection	Fallout protection	/blog/2012/fallout-protection
+/blog/2012/sg2012-conference-registrations-open||sg2012 - Conference Registrations Open	/blog/2012/sg2012-conference-registrations-open	sg2012 - Conference Registrations Open	/blog/2012/sg2012-conference-registrations-open
+/blog/2012/the-opportunity-cost-of-your-job||The opportunity cost of your job	/blog/2012/the-opportunity-cost-of-your-job	The opportunity cost of your job	/blog/2012/the-opportunity-cost-of-your-job
+/blog/2012/the-way-things-work-out||the way things work out...	/blog/2012/the-way-things-work-out	the way things work out...	/blog/2012/the-way-things-work-out
+/blog/2012/one-of-us-is-missing-the-point-here||One of us is missing the point here	/blog/2012/one-of-us-is-missing-the-point-here	One of us is missing the point here	/blog/2012/one-of-us-is-missing-the-point-here
+/blog/2012/more-malleable-minds||More malleable minds	/blog/2012/more-malleable-minds	More malleable minds	/blog/2012/more-malleable-minds
+/blog/2011/humility-collection||Humility collection	/blog/2011/humility-collection	Humility collection	/blog/2011/humility-collection
+/blog/2011/a-weekend-on-wheels||a weekend on wheels	/blog/2011/a-weekend-on-wheels	a weekend on wheels	/blog/2011/a-weekend-on-wheels
+/blog/2011/emotionality-0||emotionality...0	/blog/2011/emotionality-0	emotionality...0	/blog/2011/emotionality-0
+/blog/2011/graphing-legend-status||graphing legend status	/blog/2011/graphing-legend-status	graphing legend status	/blog/2011/graphing-legend-status
+/blog/2011/public-perceptions-of-energy-consumption-and-savings||Public perceptions of energy consumption and savings	/blog/2011/public-perceptions-of-energy-consumption-and-savings	Public perceptions of energy consumption and savings	/blog/2011/public-perceptions-of-energy-consumption-and-savings
+/blog/2011/rio-2016-olympic-park-competition-results||Rio 2016 Olympic park competition results	/blog/2011/rio-2016-olympic-park-competition-results	Rio 2016 Olympic park competition results	/blog/2011/rio-2016-olympic-park-competition-results
+/blog/2011/interview-css||Interview CSS	/blog/2011/interview-css	Interview CSS	/blog/2011/interview-css
+/blog/2011/what-else-isnt-a-con||What else isn't a con?	/blog/2011/what-else-isnt-a-con	What else isn't a con?	/blog/2011/what-else-isnt-a-con
+/blog/2011/compdesgrp-brisbane||compDesGrp Brisbane	/blog/2011/compdesgrp-brisbane	compDesGrp Brisbane	/blog/2011/compdesgrp-brisbane
+/blog/2011/blackberry-motorist||Blackberry Motorist	/blog/2011/blackberry-motorist	Blackberry Motorist	/blog/2011/blackberry-motorist
+/blog/2011/715||H+ Conference in Melbourne	/blog/2011/715	H+ Conference in Melbourne	/blog/2011/715
+/blog/2011/generative-components-tutorials||Generative Components tutorials	/blog/2011/generative-components-tutorials	Generative Components tutorials	/blog/2011/generative-components-tutorials
+/blog/2011/new-research-student||New research student	/blog/2011/new-research-student	New research student	/blog/2011/new-research-student
+/blog/2011/ecotect-tutorial||Ecotect tutorial	/blog/2011/ecotect-tutorial	Ecotect tutorial	/blog/2011/ecotect-tutorial
+/blog/2011/nerdy-videos||nerdy videos	/blog/2011/nerdy-videos	nerdy videos	/blog/2011/nerdy-videos
+/blog/2011/space-hacking||space hacking	/blog/2011/space-hacking	space hacking	/blog/2011/space-hacking
+/blog/2011/going-off-paper||Going off paper?	/blog/2011/going-off-paper	Going off paper?	/blog/2011/going-off-paper
+/blog/2011/runaway-success||Runaway success	/blog/2011/runaway-success	Runaway success	/blog/2011/runaway-success
+/blog/2011/hydraulic-economics||Hydraulic economics	/blog/2011/hydraulic-economics	Hydraulic economics	/blog/2011/hydraulic-economics
+/blog/2011/studio-update||Studio update	/blog/2011/studio-update	Studio update	/blog/2011/studio-update
+/blog/2011/629||DS6 Crit notes	/blog/2011/629	DS6 Crit notes	/blog/2011/629
+/blog/2011/the-wisdom-of-stairs-why-i-dont-eat-at-mcdonalds||The wisdom of stairs - why I don't eat at McDonalds	/blog/2011/the-wisdom-of-stairs-why-i-dont-eat-at-mcdonalds	The wisdom of stairs - why I don't eat at McDonalds	/blog/2011/the-wisdom-of-stairs-why-i-dont-eat-at-mcdonalds
+/blog/2011/sg2011||SG2011	/blog/2011/sg2011	SG2011	/blog/2011/sg2011
+/blog/2011/chasing-a-made-up-numbers-source||Chasing a made up number's source...	/blog/2011/chasing-a-made-up-numbers-source	Chasing a made up number's source...	/blog/2011/chasing-a-made-up-numbers-source
+/blog/2011/ideas-speed-dating||ideas speed dating	/blog/2011/ideas-speed-dating	ideas speed dating	/blog/2011/ideas-speed-dating
+/blog/2011/a-thought-about-starsigns||A thought about starsigns	/blog/2011/a-thought-about-starsigns	A thought about starsigns	/blog/2011/a-thought-about-starsigns
+/blog/2011/ruby-lessons||Ruby Lessons	/blog/2011/ruby-lessons	Ruby Lessons	/blog/2011/ruby-lessons
+/blog/2011/and-so-the-studio-starts||...and so the studio starts...	/blog/2011/and-so-the-studio-starts	...and so the studio starts...	/blog/2011/and-so-the-studio-starts
+/blog/2011/tracing-gaga||Tracing Gaga	/blog/2011/tracing-gaga	Tracing Gaga	/blog/2011/tracing-gaga
+/blog/2011/canyon-pics||Canyon pics	/blog/2011/canyon-pics	Canyon pics	/blog/2011/canyon-pics
+/blog/2011/kettle||kettle	/blog/2011/kettle	kettle	/blog/2011/kettle
+/blog/2011/nav-project-winding-up||Nav project winding up	/blog/2011/nav-project-winding-up	Nav project winding up	/blog/2011/nav-project-winding-up
+/blog/2011/both-sides-of-the-story||Both sides of the story	/blog/2011/both-sides-of-the-story	Both sides of the story	/blog/2011/both-sides-of-the-story
+/blog/2011/thinking-about-what-were-thinking-about||thinking about what WE're thinking about	/blog/2011/thinking-about-what-were-thinking-about	thinking about what WE're thinking about	/blog/2011/thinking-about-what-were-thinking-about
+/blog/2011/solo-canyoning||solo canyoning	/blog/2011/solo-canyoning	solo canyoning	/blog/2011/solo-canyoning
+/blog/2011/navigation-project-explanation||Navigation Project explanation	/blog/2011/navigation-project-explanation	Navigation Project explanation	/blog/2011/navigation-project-explanation
+/blog/2011/compdesgrp||compDesGrp	/blog/2011/compdesgrp	compDesGrp	/blog/2011/compdesgrp
+/blog/2011/sg2011-copenhagen||SG2011 - Copenhagen!	/blog/2011/sg2011-copenhagen	SG2011 - Copenhagen!	/blog/2011/sg2011-copenhagen
+/blog/2011/major-study-for-those-with-a-lot-of-patience||Major study - for those with a lot of patience	/blog/2011/major-study-for-those-with-a-lot-of-patience	Major study - for those with a lot of patience	/blog/2011/major-study-for-those-with-a-lot-of-patience
+/blog/2011/reading-group||Reading group	/blog/2011/reading-group	Reading group	/blog/2011/reading-group
+/blog/2011/im-back-ill-try-not-to-go-away-again||I'm back, I'll try not to go away again.	/blog/2011/im-back-ill-try-not-to-go-away-again	I'm back, I'll try not to go away again.	/blog/2011/im-back-ill-try-not-to-go-away-again
+/blog/2010/union-square||Union Square	/blog/2010/union-square	Union Square	/blog/2010/union-square
+/blog/2010/nature-by-numbers||Nature by numbers	/blog/2010/nature-by-numbers	Nature by numbers	/blog/2010/nature-by-numbers
+/blog/2010/architects-pay||architects' pay?	/blog/2010/architects-pay	architects' pay?	/blog/2010/architects-pay
+/blog/2010/uk-emissions-attributable-to-the-built-environment||UK emissions attributable to the built environment?	/blog/2010/uk-emissions-attributable-to-the-built-environment	UK emissions attributable to the built environment?	/blog/2010/uk-emissions-attributable-to-the-built-environment
+/blog/2010/teaching-texture-mapping||Teaching texture mapping	/blog/2010/teaching-texture-mapping	Teaching texture mapping	/blog/2010/teaching-texture-mapping
+/blog/2010/more-normal-than-most||more normal than most	/blog/2010/more-normal-than-most	more normal than most	/blog/2010/more-normal-than-most
+/blog/2010/bpquiz-just-crept-over-one-hundred||bpquiz just crept over one hundred	/blog/2010/bpquiz-just-crept-over-one-hundred	bpquiz just crept over one hundred	/blog/2010/bpquiz-just-crept-over-one-hundred
+/blog/2010/judit-kimpian-on-carbon-buzz||Judit Kimpian On Carbon Buzz	/blog/2010/judit-kimpian-on-carbon-buzz	Judit Kimpian On Carbon Buzz	/blog/2010/judit-kimpian-on-carbon-buzz
+/blog/2010/simple-english||Simple English	/blog/2010/simple-english	Simple English	/blog/2010/simple-english
+/blog/2010/iprocrastinate||iProcrastinate	/blog/2010/iprocrastinate	iProcrastinate	/blog/2010/iprocrastinate
+/blog/2010/quiz||quiz?	/blog/2010/quiz	quiz?	/blog/2010/quiz
+/blog/2010/smart-geometry-2010-in-progress||smart geometry 2010 - in progress	/blog/2010/smart-geometry-2010-in-progress	smart geometry 2010 - in progress	/blog/2010/smart-geometry-2010-in-progress
+/blog/2010/thou-shall-not-passport||thou shall not passport	/blog/2010/thou-shall-not-passport	thou shall not passport	/blog/2010/thou-shall-not-passport
+/blog/2010/carbon-buzz-interview||Carbon Buzz interview	/blog/2010/carbon-buzz-interview	Carbon Buzz interview	/blog/2010/carbon-buzz-interview
+/blog/2010/bp-quiz-gets-going||BP Quiz gets going	/blog/2010/bp-quiz-gets-going	BP Quiz gets going	/blog/2010/bp-quiz-gets-going
+/blog/2010/building-performance-quiz||building performance quiz	/blog/2010/building-performance-quiz	building performance quiz	/blog/2010/building-performance-quiz
+/blog/2010/smart-geometry-tu-delft-and-pirates||Smart Geometry, TU Delft and Pirates	/blog/2010/smart-geometry-tu-delft-and-pirates	Smart Geometry, TU Delft and Pirates	/blog/2010/smart-geometry-tu-delft-and-pirates
+/blog/2010/livescribe-illustrator||Livescribe & Illustrator	/blog/2010/livescribe-illustrator	Livescribe & Illustrator	/blog/2010/livescribe-illustrator
+/blog/2010/tends-towards-zero-carbon||tends towards zero carbon	/blog/2010/tends-towards-zero-carbon	tends towards zero carbon	/blog/2010/tends-towards-zero-carbon
+/blog/2010/zombie-copy-reanimated||Zombie copy - reanimated	/blog/2010/zombie-copy-reanimated	Zombie copy - reanimated	/blog/2010/zombie-copy-reanimated
+/blog/2010/emergent-voronoi-a-la-coates||emergent voronoi - a la Coates	/blog/2010/emergent-voronoi-a-la-coates	emergent voronoi - a la Coates	/blog/2010/emergent-voronoi-a-la-coates
+/blog/2010/scalpel-blades||scalpel blades	/blog/2010/scalpel-blades	scalpel blades	/blog/2010/scalpel-blades
+/blog/2010/homage||Homage	/blog/2010/homage	Homage	/blog/2010/homage
+/blog/2010/drawing-a-bell-curve||Drawing a bell curve	/blog/2010/drawing-a-bell-curve	Drawing a bell curve	/blog/2010/drawing-a-bell-curve
+/blog/2010/no-overrides||no overrides	/blog/2010/no-overrides	no overrides	/blog/2010/no-overrides
+/blog/2010/le-tour-de-buzz||le tour de buzz	/blog/2010/le-tour-de-buzz	le tour de buzz	/blog/2010/le-tour-de-buzz
+/blog/2010/latest-gc-tutorials||latest GC tutorials	/blog/2010/latest-gc-tutorials	latest GC tutorials	/blog/2010/latest-gc-tutorials
+/blog/2010/savannah-cocktail-menu||Savannah cocktail menu	/blog/2010/savannah-cocktail-menu	Savannah cocktail menu	/blog/2010/savannah-cocktail-menu
+/blog/2010/its-real-so-strange||it's real, so strange!	/blog/2010/its-real-so-strange	it's real, so strange!	/blog/2010/its-real-so-strange
+/blog/2010/escape-plan||escape plan	/blog/2010/escape-plan	escape plan	/blog/2010/escape-plan
+/blog/2009/prediction-book||Prediction Book	/blog/2009/prediction-book	Prediction Book	/blog/2009/prediction-book
+/blog/2009/collected-reading||collected reading	/blog/2009/collected-reading	collected reading	/blog/2009/collected-reading
+/blog/2009/tour-of-disloyalty||tour of disloyalty	/blog/2009/tour-of-disloyalty	tour of disloyalty	/blog/2009/tour-of-disloyalty
+/blog/2009/lets-take-the-con-out-of-econometrics-ed-leamer||Let's Take the Con out of Econometrics - Ed Leamer	/blog/2009/lets-take-the-con-out-of-econometrics-ed-leamer	Let's Take the Con out of Econometrics - Ed Leamer	/blog/2009/lets-take-the-con-out-of-econometrics-ed-leamer
+/blog/2009/is-it-true-that-ibm-make-the-best-computers-in-the-world||is it true that IBM make the best computers in the world?	/blog/2009/is-it-true-that-ibm-make-the-best-computers-in-the-world	is it true that IBM make the best computers in the world?	/blog/2009/is-it-true-that-ibm-make-the-best-computers-in-the-world
+/blog/2009/some-podcasts||some podcasts	/blog/2009/some-podcasts	some podcasts	/blog/2009/some-podcasts
+/blog/2009/317||processing workshop 1	/blog/2009/317	processing workshop 1	/blog/2009/317
+/blog/2009/sg-autumn-event-open-platform-at-tu-delft||SG autumn Event: Open Platform at TU Delft	/blog/2009/sg-autumn-event-open-platform-at-tu-delft	SG autumn Event: Open Platform at TU Delft	/blog/2009/sg-autumn-event-open-platform-at-tu-delft
+/blog/2009/nutt-sacked||nutt sacked	/blog/2009/nutt-sacked	nutt sacked	/blog/2009/nutt-sacked
+/blog/2009/engaging-with-processing||engaging with processing	/blog/2009/engaging-with-processing	engaging with processing	/blog/2009/engaging-with-processing
+/blog/2009/status-anxiety||Status anxiety	/blog/2009/status-anxiety	Status anxiety	/blog/2009/status-anxiety
+/blog/2009/coffee-making||coffee making	/blog/2009/coffee-making	coffee making	/blog/2009/coffee-making
+/blog/2009/taking-a-crack-at-a-policy||taking a crack at a policy	/blog/2009/taking-a-crack-at-a-policy	taking a crack at a policy	/blog/2009/taking-a-crack-at-a-policy
+/blog/2009/the-future-is-important-im-going-to-live-there-soon||The future is important – I'm going to live there soon.	/blog/2009/the-future-is-important-im-going-to-live-there-soon	The future is important – I'm going to live there soon.	/blog/2009/the-future-is-important-im-going-to-live-there-soon
+/blog/2009/asking-questions-about-asking-questions||asking questions about asking questions	/blog/2009/asking-questions-about-asking-questions	asking questions about asking questions	/blog/2009/asking-questions-about-asking-questions
+/blog/2009/proper-books||'proper' books	/blog/2009/proper-books	proper' books	/blog/2009/proper-books
+/blog/2009/cutting-bleeding-edges||cutting & bleeding edges	/blog/2009/cutting-bleeding-edges	cutting & bleeding edges	/blog/2009/cutting-bleeding-edges
+/blog/2009/the-world-in-2050||the world in 2050	/blog/2009/the-world-in-2050	the world in 2050	/blog/2009/the-world-in-2050
+/blog/2009/my-reading-list||my reading list	/blog/2009/my-reading-list	my reading list	/blog/2009/my-reading-list
+/blog/2009/screen-shots||screen shots	/blog/2009/screen-shots	screen shots	/blog/2009/screen-shots
+/blog/2009/a-crayfish||a crayfish	/blog/2009/a-crayfish	a crayfish	/blog/2009/a-crayfish
+/blog/2009/cotton-buds||cotton buds	/blog/2009/cotton-buds	cotton buds	/blog/2009/cotton-buds
+/blog/2009/distractions||distractions	/blog/2009/distractions	distractions	/blog/2009/distractions
+/blog/2009/architecture-as-instrument-talk||Architecture as Instrument talk	/blog/2009/architecture-as-instrument-talk	Architecture as Instrument talk	/blog/2009/architecture-as-instrument-talk
+/blog/2009/why-doesnt-the-coffee-shop-man-like-me||why doesn't the coffee shop man like me?	/blog/2009/why-doesnt-the-coffee-shop-man-like-me	why doesn't the coffee shop man like me?	/blog/2009/why-doesnt-the-coffee-shop-man-like-me
+/blog/2009/connecting-a-slider-to-a-property-to-in-blend||Connecting a slider to a property to in Blend	/blog/2009/connecting-a-slider-to-a-property-to-in-blend	Connecting a slider to a property to in Blend	/blog/2009/connecting-a-slider-to-a-property-to-in-blend
+/blog/2009/tools-or-instruments||Tools or instruments?	/blog/2009/tools-or-instruments	Tools or instruments?	/blog/2009/tools-or-instruments
+/blog/2009/christchurch-to-auckland||Christchurch to Auckland	/blog/2009/christchurch-to-auckland	Christchurch to Auckland	/blog/2009/christchurch-to-auckland
+/blog/2009/yosemite-trip-2||Yosemite photos	/blog/2009/yosemite-trip-2	Yosemite photos	/blog/2009/yosemite-trip-2
+/blog/2009/where-should-i-live||where should I live?	/blog/2009/where-should-i-live	where should I live?	/blog/2009/where-should-i-live
+/blog/2009/dissertation||dissertation	/blog/2009/dissertation	dissertation	/blog/2009/dissertation
+/blog/2009/programming-architecture||Programming.Architecture	/blog/2009/programming-architecture	Programming.Architecture	/blog/2009/programming-architecture
+/blog/2009/hand-to-mouth-video||hand to mouth video	/blog/2009/hand-to-mouth-video	hand to mouth video	/blog/2009/hand-to-mouth-video
+/blog/2009/trouble-brewing||trouble brewing	/blog/2009/trouble-brewing	trouble brewing	/blog/2009/trouble-brewing
+/blog/2009/smart-geometry-2009-talk-so-um-its-me||Smart Geometry 2009 talk - so, um, it's me	/blog/2009/smart-geometry-2009-talk-so-um-its-me	Smart Geometry 2009 talk - so, um, it's me	/blog/2009/smart-geometry-2009-talk-so-um-its-me
+/blog/2009/centroid-of-points-on-the-surface-of-a-sphere||centroid of points on the surface of a sphere	/blog/2009/centroid-of-points-on-the-surface-of-a-sphere	centroid of points on the surface of a sphere	/blog/2009/centroid-of-points-on-the-surface-of-a-sphere
+/blog/2009/ad-companies-dont-employ-enough-perverts||ad companies don't employ enough perverts	/blog/2009/ad-companies-dont-employ-enough-perverts	ad companies don't employ enough perverts	/blog/2009/ad-companies-dont-employ-enough-perverts
+/blog/2009/gcr-videos-are-up||GCR videos are up	/blog/2009/gcr-videos-are-up	GCR videos are up	/blog/2009/gcr-videos-are-up
+/blog/2009/rice-pudding||rice pudding	/blog/2009/rice-pudding	rice pudding	/blog/2009/rice-pudding
+/blog/2009/design-to-production||design to production	/blog/2009/design-to-production	design to production	/blog/2009/design-to-production
+/blog/2009/granularity||granularity	/blog/2009/granularity	granularity	/blog/2009/granularity
+/blog/2009/words-i-have-a-great-deal-of-distain-for||words I have a great deal of disdain for	/blog/2009/words-i-have-a-great-deal-of-distain-for	words I have a great deal of disdain for	/blog/2009/words-i-have-a-great-deal-of-distain-for
+/blog/2009/how-to-disagree||how to disagree	/blog/2009/how-to-disagree	how to disagree	/blog/2009/how-to-disagree
+/blog/2009/go-kawakitas-thesis-genetic-algorithms-in-ecotect||Go Kawakita's thesis - genetic algorithms in ecotect	/blog/2009/go-kawakitas-thesis-genetic-algorithms-in-ecotect	Go Kawakita's thesis - genetic algorithms in ecotect	/blog/2009/go-kawakitas-thesis-genetic-algorithms-in-ecotect
+/blog/2009/extreme-sheparding||extreme sheparding	/blog/2009/extreme-sheparding	extreme sheparding	/blog/2009/extreme-sheparding
+/blog/2009/yosemite-trip||yosemite trip	/blog/2009/yosemite-trip	yosemite trip	/blog/2009/yosemite-trip
+/blog/2009/sf-tonnage||SF tonnage	/blog/2009/sf-tonnage	SF tonnage	/blog/2009/sf-tonnage
+/blog/2009/microsofts-vision-of-the-future||microsoft's vision of the future	/blog/2009/microsofts-vision-of-the-future	microsoft's vision of the future	/blog/2009/microsofts-vision-of-the-future
+/blog/2009/are-violent-video-games-adequately-preparing-children-for-the-apocalypse||Are Violent Video Games Adequately Preparing Children For The Apocalypse?	/blog/2009/are-violent-video-games-adequately-preparing-children-for-the-apocalypse	Are Violent Video Games Adequately Preparing Children For The Apocalypse?	/blog/2009/are-violent-video-games-adequately-preparing-children-for-the-apocalypse
+/blog/2009/lists-to-trees||lists to trees	/blog/2009/lists-to-trees	lists to trees	/blog/2009/lists-to-trees
+/blog/2009/multi-literacy||multi literacy	/blog/2009/multi-literacy	multi literacy	/blog/2009/multi-literacy
+/blog/2009/scribble-by-function-video||scribble by function video	/blog/2009/scribble-by-function-video	scribble by function video	/blog/2009/scribble-by-function-video
+/blog/2009/apropriate-iconography||appropriate iconography	/blog/2009/apropriate-iconography	appropriate iconography	/blog/2009/apropriate-iconography
+/blog/2009/generative-components-workshop-at-oxford-brookes||generative components workshop at Oxford Brookes	/blog/2009/generative-components-workshop-at-oxford-brookes	generative components workshop at Oxford Brookes	/blog/2009/generative-components-workshop-at-oxford-brookes
+/blog/2009/diagrams-for-thinking||diagrams for thinking	/blog/2009/diagrams-for-thinking	diagrams for thinking	/blog/2009/diagrams-for-thinking
+/blog/2009/gas-are-cool-apparently||GAs are cool apparently	/blog/2009/gas-are-cool-apparently	GAs are cool apparently	/blog/2009/gas-are-cool-apparently
+/blog/2009/smart-geometry-pre-training||Smart Geometry pre-training	/blog/2009/smart-geometry-pre-training	Smart Geometry pre-training	/blog/2009/smart-geometry-pre-training
+/blog/2009/frighteningly-real||frighteningly real	/blog/2009/frighteningly-real	frighteningly real	/blog/2009/frighteningly-real
+/blog/2009/mushroom-carpark||mushroom carpark	/blog/2009/mushroom-carpark	mushroom carpark	/blog/2009/mushroom-carpark
+/blog/2009/proud-of-london||proud of london	/blog/2009/proud-of-london	proud of london	/blog/2009/proud-of-london
+/blog/2009/darts-diet||darts diet	/blog/2009/darts-diet	darts diet	/blog/2009/darts-diet
+/blog/2008/new-video-tutorial-for-the-gc-reactive-component-tutorial||new video tutorial for the GC reactive component tutorial	/blog/2008/new-video-tutorial-for-the-gc-reactive-component-tutorial	new video tutorial for the GC reactive component tutorial	/blog/2008/new-video-tutorial-for-the-gc-reactive-component-tutorial
+/blog/2008/genius-is-hard-to-find||genius is hard to find	/blog/2008/genius-is-hard-to-find	genius is hard to find	/blog/2008/genius-is-hard-to-find
+/blog/2008/genetic-algorithms-lecture||Genetic algorithms lecture	/blog/2008/genetic-algorithms-lecture	Genetic algorithms lecture	/blog/2008/genetic-algorithms-lecture
+/blog/2008/gc-university-showcase-in-sydney||gc university showcase in sydney	/blog/2008/gc-university-showcase-in-sydney	gc university showcase in sydney	/blog/2008/gc-university-showcase-in-sydney
+/blog/2008/dda-models||dda models	/blog/2008/dda-models	dda models	/blog/2008/dda-models
+/blog/2008/from-the-70s||from the 70s!!	/blog/2008/from-the-70s	from the 70s!!	/blog/2008/from-the-70s
+/blog/2008/so-we-love-burton||so, we love burton!!	/blog/2008/so-we-love-burton	so, we love burton!!	/blog/2008/so-we-love-burton
+/blog/2008/smart-geometry-dates-announced||smart geometry dates announced	/blog/2008/smart-geometry-dates-announced	smart geometry dates announced	/blog/2008/smart-geometry-dates-announced
+/blog/2008/dda-melbourne-uni||dda @ melbourne uni	/blog/2008/dda-melbourne-uni	dda @ melbourne uni	/blog/2008/dda-melbourne-uni
+/blog/2008/oh-is-that-it-i-was-expecting-something-really-flashy||"Oh, is that it? I was expecting something really flashy"	/blog/2008/oh-is-that-it-i-was-expecting-something-really-flashy	"Oh, is that it? I was expecting something really flashy"	/blog/2008/oh-is-that-it-i-was-expecting-something-really-flashy
+/blog/2008/tutorials||tutorials	/blog/2008/tutorials	tutorials	/blog/2008/tutorials
+/blog/2008/brounge||brounge	/blog/2008/brounge	brounge	/blog/2008/brounge
+/blog/2008/the-old-me||the old me	/blog/2008/the-old-me	the old me	/blog/2008/the-old-me
+/blog/2008/gc-theoretical-frameworks||GC theoretical frameworks	/blog/2008/gc-theoretical-frameworks	GC theoretical frameworks	/blog/2008/gc-theoretical-frameworks
+/blog/2008/c-resources||C# resources	/blog/2008/c-resources	C# resources	/blog/2008/c-resources
+/blog/2008/update-on-how-to-waste-time||update on how to waste time	/blog/2008/update-on-how-to-waste-time	update on how to waste time	/blog/2008/update-on-how-to-waste-time
+/blog/2008/gc-user-is-still-alive||gc user is still alive	/blog/2008/gc-user-is-still-alive	gc user is still alive	/blog/2008/gc-user-is-still-alive
+/blog/2008/after-you||after you	/blog/2008/after-you	after you	/blog/2008/after-you
+/blog/2008/the-plan-for-next-year||the plan for next year	/blog/2008/the-plan-for-next-year	the plan for next year	/blog/2008/the-plan-for-next-year
+/blog/2008/how-did-i-miss-what-festo-have-been-up-to||how did i miss what festo have been up to?	/blog/2008/how-did-i-miss-what-festo-have-been-up-to	how did i miss what festo have been up to?	/blog/2008/how-did-i-miss-what-festo-have-been-up-to
+/blog/2008/multitouch-train-platform||multitouch train platform	/blog/2008/multitouch-train-platform	multitouch train platform	/blog/2008/multitouch-train-platform
+/blog/2008/fill-up-ma-portion||fill up ma portion	/blog/2008/fill-up-ma-portion	fill up ma portion	/blog/2008/fill-up-ma-portion
+/blog/2008/what-on-earth-have-i-been-up-to||what on earth have i been up to?	/blog/2008/what-on-earth-have-i-been-up-to	what on earth have i been up to?	/blog/2008/what-on-earth-have-i-been-up-to
+/blog/2008/the-role-of-the-architect-in-the-modern-world||The role of the architect in the modern world?	/blog/2008/the-role-of-the-architect-in-the-modern-world	The role of the architect in the modern world?	/blog/2008/the-role-of-the-architect-in-the-modern-world
+/blog/2008/human-20||human 2.0	/blog/2008/human-20	human 2.0	/blog/2008/human-20
+/blog/2008/24-hours-early||24 hours early	/blog/2008/24-hours-early	24 hours early	/blog/2008/24-hours-early
+/blog/2008/i-saw-a-dolphin||i saw a dolphin	/blog/2008/i-saw-a-dolphin	i saw a dolphin	/blog/2008/i-saw-a-dolphin
+/blog/2008/strategies-series-part-3-torus-patch-tutorial||strategies series part 3 - torus patch tutorial	/blog/2008/strategies-series-part-3-torus-patch-tutorial	strategies series part 3 - torus patch tutorial	/blog/2008/strategies-series-part-3-torus-patch-tutorial
+/blog/2008/gc-strategies-ensuring-planarity-with-sheared-cones||gc strategies - ensuring planarity with sheared cones	/blog/2008/gc-strategies-ensuring-planarity-with-sheared-cones	gc strategies - ensuring planarity with sheared cones	/blog/2008/gc-strategies-ensuring-planarity-with-sheared-cones
+/blog/2008/codifying-architecture||codifying architecture	/blog/2008/codifying-architecture	codifying architecture	/blog/2008/codifying-architecture
+/blog/2008/architectural-ideas-are-inherited-from-generation-to-generation-hmm-really||architectural ideas are inherited from generation to generation - hmm, really?	/blog/2008/architectural-ideas-are-inherited-from-generation-to-generation-hmm-really	architectural ideas are inherited from generation to generation - hmm, really?	/blog/2008/architectural-ideas-are-inherited-from-generation-to-generation-hmm-really
+/blog/2008/implant-technology-to-enhance-human-abilities||implant technology to enhance human abilities	/blog/2008/implant-technology-to-enhance-human-abilities	implant technology to enhance human abilities	/blog/2008/implant-technology-to-enhance-human-abilities
+/blog/2008/melburn-roobaix-the-hell-of-northcote||melburn roobaix - the hell of northcote	/blog/2008/melburn-roobaix-the-hell-of-northcote	melburn roobaix - the hell of northcote	/blog/2008/melburn-roobaix-the-hell-of-northcote
+/blog/2008/educateedor||educate[ed/or]	/blog/2008/educateedor	educate[ed/or]	/blog/2008/educateedor
+/blog/2008/thought-process||thought process	/blog/2008/thought-process	thought process	/blog/2008/thought-process
+/blog/2008/500||500	/blog/2008/500	500	/blog/2008/500
+/blog/2008/the-revolution-will-not-be-microwaved||the revolution will not be microwaved	/blog/2008/the-revolution-will-not-be-microwaved	the revolution will not be microwaved	/blog/2008/the-revolution-will-not-be-microwaved
+/blog/2008/chipping-away||chipping away	/blog/2008/chipping-away	chipping away	/blog/2008/chipping-away
+/blog/2008/the-experiment-continues||the experiment continues	/blog/2008/the-experiment-continues	the experiment continues	/blog/2008/the-experiment-continues
+/blog/2008/experiment-progress||experiment progress	/blog/2008/experiment-progress	experiment progress	/blog/2008/experiment-progress
+/blog/2008/spectacular-geekdom||spectacular geekdom	/blog/2008/spectacular-geekdom	spectacular geekdom	/blog/2008/spectacular-geekdom
+/blog/2008/upgrade||upgrade	/blog/2008/upgrade	upgrade	/blog/2008/upgrade
+/blog/2008/the-experiment||the experiment	/blog/2008/the-experiment	the experiment	/blog/2008/the-experiment
+/blog/2008/musings-on-the-nature-of-the-antipodes||musings on the nature of the antipodes	/blog/2008/musings-on-the-nature-of-the-antipodes	musings on the nature of the antipodes	/blog/2008/musings-on-the-nature-of-the-antipodes
+/blog/2008/proof||proof	/blog/2008/proof	proof	/blog/2008/proof
+/blog/2008/now-term-things||now term things	/blog/2008/now-term-things	now term things	/blog/2008/now-term-things
+/blog/2008/the-2-week-point||The 2 week point	/blog/2008/the-2-week-point	The 2 week point	/blog/2008/the-2-week-point
+/blog/2008/44||yeah, I'm upside down!	/blog/2008/44	yeah, I'm upside down!	/blog/2008/44
+/blog/2007/post-modern-fuck-off-i-want-to-be-post-human||post modern? fuck off, i want to be post human	/blog/2007/post-modern-fuck-off-i-want-to-be-post-human	post modern? fuck off, i want to be post human	/blog/2007/post-modern-fuck-off-i-want-to-be-post-human
+/blog/2007/ok-ok-i-suck||ok ok, i suck	/blog/2007/ok-ok-i-suck	ok ok, i suck	/blog/2007/ok-ok-i-suck
+/blog/2007/living-in-a-bubble||living in a bubble	/blog/2007/living-in-a-bubble	living in a bubble	/blog/2007/living-in-a-bubble
+/blog/2007/im-not-ignoring-you||I'm not ignoring you!	/blog/2007/im-not-ignoring-you	I'm not ignoring you!	/blog/2007/im-not-ignoring-you
+/blog/2007/rmit-trip||RMIT trip	/blog/2007/rmit-trip	RMIT trip	/blog/2007/rmit-trip
+/blog/2007/etsdl||ETSDL	/blog/2007/etsdl	ETSDL	/blog/2007/etsdl
+/blog/2007/code-tree||code tree	/blog/2007/code-tree	code tree	/blog/2007/code-tree
+/blog/2007/snowdonia-pans||snowdonia pans	/blog/2007/snowdonia-pans	snowdonia pans	/blog/2007/snowdonia-pans
+/blog/2007/homegrown||homegrown	/blog/2007/homegrown	homegrown	/blog/2007/homegrown
+/blog/2007/benll-fix-it||Ben'll Fix It	/blog/2007/benll-fix-it	Ben'll Fix It	/blog/2007/benll-fix-it
+/blog/2007/burgernomics||Burgernomics	/blog/2007/burgernomics	Burgernomics	/blog/2007/burgernomics
+/blog/2007/tomato-update||tomato update	/blog/2007/tomato-update	tomato update	/blog/2007/tomato-update
+/blog/2007/takeaway-festival-2||TAKEAWAY FESTIVAL 2	/blog/2007/takeaway-festival-2	TAKEAWAY FESTIVAL 2	/blog/2007/takeaway-festival-2
+/blog/2007/wish-list||wish list	/blog/2007/wish-list	wish list	/blog/2007/wish-list
+/blog/2007/paulink||pauLink	/blog/2007/paulink	pauLink	/blog/2007/paulink
+/blog/2007/little-growing-things||little growing things	/blog/2007/little-growing-things	little growing things	/blog/2007/little-growing-things
+/blog/2007/ca-update||CA update	/blog/2007/ca-update	CA update	/blog/2007/ca-update
+/blog/2007/indoor-greenhouse||indoor greenhouse	/blog/2007/indoor-greenhouse	indoor greenhouse	/blog/2007/indoor-greenhouse
+/blog/2007/out-of-the-google-wilderness||out of the google wilderness	/blog/2007/out-of-the-google-wilderness	out of the google wilderness	/blog/2007/out-of-the-google-wilderness
+/blog/2007/notes-on-the-synthesis-of-form||Notes on the Synthesis of Form	/blog/2007/notes-on-the-synthesis-of-form	Notes on the Synthesis of Form	/blog/2007/notes-on-the-synthesis-of-form
+/blog/2007/emros-helmet-or-e3-81-8b-e3-81-b6-e3-81-a8||EMRoS + helmet or ã‹ã¶ã¨	/blog/2007/emros-helmet-or-e3-81-8b-e3-81-b6-e3-81-a8	EMRoS + helmet or ã‹ã¶ã¨	/blog/2007/emros-helmet-or-e3-81-8b-e3-81-b6-e3-81-a8
+/blog/2007/links-for-laters||links for laters	/blog/2007/links-for-laters	links for laters	/blog/2007/links-for-laters
+/blog/2007/17||my global footprint	/blog/2007/17	my global footprint	/blog/2007/17
+/blog/2007/portland-climbing||Portland climbing	/blog/2007/portland-climbing	Portland climbing	/blog/2007/portland-climbing
+/blog/2007/stretch-hummer-vs-vespa||Stretch-Hummer Vs Vespa	/blog/2007/stretch-hummer-vs-vespa	Stretch-Hummer Vs Vespa	/blog/2007/stretch-hummer-vs-vespa
+/blog/2007/in-gear||In Gear	/blog/2007/in-gear	In Gear	/blog/2007/in-gear
+/blog/2007/growing-up||growing up	/blog/2007/growing-up	growing up	/blog/2007/growing-up
+/blog/2007/amazon-addiction||Amazon addiction	/blog/2007/amazon-addiction	Amazon addiction	/blog/2007/amazon-addiction
+/blog/2007/beautiful-game||beautiful game	/blog/2007/beautiful-game	beautiful game	/blog/2007/beautiful-game
+/blog/2007/escape-map||escape map	/blog/2007/escape-map	escape map	/blog/2007/escape-map
+/blog/2007/smart-geometry-2007-day-1||Smart Geometry 2007 day -1	/blog/2007/smart-geometry-2007-day-1	Smart Geometry 2007 day -1	/blog/2007/smart-geometry-2007-day-1
+/blog/2007/life-changing-decision||life changing decision	/blog/2007/life-changing-decision	life changing decision	/blog/2007/life-changing-decision
+/blog/2007/going-to-ny||Going to NY	/blog/2007/going-to-ny	Going to NY	/blog/2007/going-to-ny
+/blog/2006/back-in-the-game||back in the game	/blog/2006/back-in-the-game	back in the game	/blog/2006/back-in-the-game
+/blog/2006/latop-health-spa||latop health spa	/blog/2006/latop-health-spa	latop health spa	/blog/2006/latop-health-spa
+/blog/2006/new-website||new website	/blog/2006/new-website	new website	/blog/2006/new-website
