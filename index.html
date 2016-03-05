@@ -31,7 +31,7 @@ layout: default
         </span>
 
         <h2 itemprop="headline">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a itemprop="mainEntityOfPage"  class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <p itemprop="description">{{ post.description | truncate: 250 }}</p>
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">read more</a>
