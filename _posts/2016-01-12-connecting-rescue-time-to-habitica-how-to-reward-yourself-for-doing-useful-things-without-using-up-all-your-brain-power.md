@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "I use Habitica and Rescue Time. I also joined them together!"
-meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
+author:
   login: Ben
   email: ben@notionparallax.co.uk
   display_name: Ben
