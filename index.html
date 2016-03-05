@@ -8,14 +8,15 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      <li itemscope itemtype="http://schema.org/BlogPosting">
       <!-- {% if post.featured_image %}<img src="./assets/{{post.featured_image}}">{% endif %} -->
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}"/>
 
-        <h2>
+        <h2 itemprop="headline">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.description | truncate: 250 }}</p>
+        <p itemprop="description">{{ post.description | truncate: 250 }}</p>
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">read more</a>
       </li>
     {% endfor %}
