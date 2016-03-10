@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digitising 'What Sort of People Should There Be?'"
-date: 2016-03-10 14:00:00 -08:00
+date: 2016-03-10 11:30:00 -08:00
 type: post
 published: true
 status: publish
