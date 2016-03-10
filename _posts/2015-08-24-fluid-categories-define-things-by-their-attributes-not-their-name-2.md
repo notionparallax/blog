@@ -15,12 +15,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Fluid categories - define things by their attributes not their name
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><!--more--></p>
 <blockquote><p>Categories[1. I recognise that I don't know any Category Theory and not a great deal of Set Theory. I might be committing horrible sins with this statement. It works in it's naive context though.] are an emergent way of describing set creation operations based on attributes</p></blockquote>

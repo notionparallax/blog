@@ -12,12 +12,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'Major study appendix: Teminology'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><!--more--></p>
 <h2><a name="_Toc260017732"></a>Terminology</h2>

@@ -19,12 +19,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553294'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>If I really smash it I can hit 0.18 <a href="http://en.wikipedia.org/wiki/Horsepower">horsepower</a>!</p>
 <p><a href="http://jsfiddle.net/mnUWA/35/"><img class="alignnone  wp-image-1403" title="click the image to go to the real thing" alt="A scatter plot of workout power outputs" src="{{ site.baseurl }}/assets/powerGraph.png" width="100%" /></a></p>

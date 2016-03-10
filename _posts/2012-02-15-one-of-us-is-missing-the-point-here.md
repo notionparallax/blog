@@ -11,12 +11,7 @@ tags:
 - gear
 - lols
 - Muay Thai
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><strong>Question</strong></p>
 <blockquote><p>&gt;&gt; Hi,<br />

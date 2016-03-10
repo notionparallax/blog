@@ -15,12 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551574'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/51E%2Bl%2B%2BmwJL._SS500_.jpg" align="left" width="300" /></p>
 <p>So, for those of you who I haven't told (and as I assume that nobody else actually reads this, that's nobody) I'm doing an elective called <em>meals in metropolis</em>. It examines urban agriculture and it's implications for cities and a load of other stuff as well.</p>

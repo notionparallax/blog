@@ -14,12 +14,7 @@ enclosure: |-
     http://optik.org.uk/tracks/optikvsimogenhideandseekhq.mp3
     8755990
     audio/mpeg
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 
 <p >My weekend has been great so far. I can sit down again today, so that's a bonus!</p>

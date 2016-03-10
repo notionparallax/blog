@@ -19,12 +19,7 @@ meta:
   
 
   dsq_thread_id: '4503553678'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>In evolution organisms adapt to their environment.</p>
 <p>I was trying to work out why architecture changes so slowly compared to some other fields.<!--more--></p>

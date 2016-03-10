@@ -10,12 +10,7 @@ tags:
 - geek
 - processing
 - programming
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><iframe width="428" height="480" scrolling="no" frameborder="0" src="http://www.openprocessing.org/visuals/iframe.php?visualID=7571&width=400&height=400">
 There really should be an iframe here :(

@@ -13,12 +13,7 @@ tags:
 - major study
 - progress
 - website
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://bpquiz.co.uk"><img class="alignnone size-full wp-image-478" title="bpquizFrontPage" src="{{ site.baseurl }}/assets/bpquizFrontPage.png" alt="" width="490" height="323" /></a><br />
 <a href="http://bpquiz.co.uk"> bpquiz</a>, the data gathering website for my major study has just had its 100<sup>th</sup> response. There is another 3 weeks left of data gathering, so maybe the target of 200 isn't so far off!</p>

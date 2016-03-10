@@ -18,12 +18,7 @@ meta:
   geo_longitude: "-73.999712"
   geo_latitude: '40.719754'
   geo_public: '1'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I'm in New York now, ready to get the train up to Albany and RPI for the SG conference tomorrow, after that I'm going to go down to Orlando for SIMaud (last time I was in Orlando was 1988, so it'll be investing what I remember)<br />
 I'll try and keep things updated with what I see on my way.</p>

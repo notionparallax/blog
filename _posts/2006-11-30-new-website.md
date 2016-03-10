@@ -11,12 +11,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552904'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>the old notion parallax website was never realy well formed enough to get tired, but it need a bit of a spruce up.</p>
 <p>the plan is to branch out from here, so we'll see were it goes.</p>

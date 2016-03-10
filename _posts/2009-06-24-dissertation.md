@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553015'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img alt="" src="{{ site.baseurl }}/assets/dissfront.jpg" title="dissertation front page" class="alignnone" width="450" /><br />
 Ever since I finished my degree dissertation there was a nagging feeling that there were some ends that needed to be tidied up. Not long after, I went on a massive vector crusade and redrew all the non photographic images. That was just after Christmas in 2005, and now it's half way through 2009 – it's taken me 4 years to get around to polishing up the last few bits and re posting it.</p>

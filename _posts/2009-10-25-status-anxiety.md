@@ -11,12 +11,7 @@ tags:
 - future
 - major study
 - thinking
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>For the last couple of years I've been becoming increasingly interested in what the future is going to be like, and the methods employed to predict its nature.<br />
 Up until now it has been a fascinating sideline to my everyday activities of teaching and trying to solve design problems with computational tools.<br />

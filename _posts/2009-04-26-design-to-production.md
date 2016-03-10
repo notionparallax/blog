@@ -10,12 +10,7 @@ tags:
 - architecture
 - cool links
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>In this month's <a href="http://www.mark-magazine.com/">Mark magazine</a> there is an article about <a href="http://www.designtoproduction.com/">Design To Production</a>, <a href="http://www.designtoproduction.ch/content/view/31/11/">Fabian Scheurer</a> &amp; <a href="http://www.designtoproduction.ch/content/view/30/13/">Arnold Walz</a>'s company.</p>
 <p>I often get asked what it is that I do, and put quite simply, my stuff is about 10% as hardcore as their stuff.</p>

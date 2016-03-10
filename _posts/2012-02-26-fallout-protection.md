@@ -11,12 +11,7 @@ tags:
 - nuclear
 - old
 - studio
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2012/02/FOP1.png"><img class="size-full wp-image-849 alignnone" title="FOP1" src="{{ site.baseurl }}/assets/FOP1.png" alt="" width="509" height="255" /></a></p>
 <p>I'm just setting up the folders for this semester and I came across this booklet published by the department of defence in 1961. There are some great diagrams!<br />

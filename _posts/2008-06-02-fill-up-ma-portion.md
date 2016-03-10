@@ -9,12 +9,7 @@ categories: []
 tags:
 - late night
 - music
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><embed src="http://www.youtube.com/v/PYYfPS3S438" type="application/x-shockwave-flash" wmode="transparent" width="499" height="355"></embed><br />
 I've been enjoying this a lot<br />

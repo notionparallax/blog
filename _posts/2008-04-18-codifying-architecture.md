@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - rmit
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>This is another piece I wrote for my design studio, it's got a missing reference so if anyone knows the answer then I'll buy you a mars bar.<br />
 it ends on a bit of a grumpy note, but  i could have just carried on ranting for hours.<!--more--></p>

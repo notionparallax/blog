@@ -15,12 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553189'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I'm starting to come to terms with my fascination with Lady Gaga. I'm realising that it isn't an interest in Stefani Joanne Angelina Germanotta the person, but the whole enterprise, the Lady Gaga hype machine.</p>
 <p>I should start this off by saying that I know next to nothing about the music video business.</p>

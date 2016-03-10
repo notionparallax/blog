@@ -17,12 +17,7 @@ meta:
   geo_longitude: "-73.683646"
   geo_latitude: '42.728965'
   geo_public: '1'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Notes from the conference</p>
 <p><!--more--></p>

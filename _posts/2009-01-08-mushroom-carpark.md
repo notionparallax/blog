@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I just found a piece of my work <a href="http://ecoinnovationlab.com/design-studios/meals-in-metropolis" target="_blank">published on the VEIL website</a>!</p>
 <p>It's a proposal to reuse multistory carparks as mushroom farms until they are demolished and replaced with something more usefull than inner city parking.</p>

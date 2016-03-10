@@ -10,12 +10,7 @@ tags:
 - future
 - geek
 - thinking
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 
 I got a bit of a telling off from Andrew when I was talking to him last week for not having any proper books on [my list](http://www.notionparallax.co.uk/2009/09/my-reading-list). There were some, but I just forgot to put them in.

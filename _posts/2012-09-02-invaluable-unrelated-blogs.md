@@ -9,12 +9,7 @@ categories: []
 tags:
 - blogs
 - life
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I'm subscribed to quite a lot of blogs. It struck me the other day that ones that I'm most attached to have very little to do with my field. Actually, they are specifically aimed at other fields. My top three of these are below, but if you have any suggestions then I'd love to hear them.</p>
 <h2><a href="http://www.jimseven.com/"><img class="alignnone" src="{{ site.baseurl }}/assets/webshop_2_large.jpg?100585" alt="" width="200" />Jimseven </a></h2>

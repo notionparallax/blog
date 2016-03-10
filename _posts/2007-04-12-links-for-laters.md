@@ -15,12 +15,7 @@ enclosure: |-
     http://www.green-ideas.com/wiggle/MOV00091.MPG
     6058911
     video/mpeg
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>here's some links, cool eh, we all love links.</p>
 <p><a href="http://www.electronicmiracles.com/" title="ozzie goodness" target="_blank">ENESS</a> make some fun product/art stuff,like this zen robot, and cloned logs<br />

@@ -11,12 +11,7 @@ tags:
 - food
 - gardening
 - house keeping
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/Picture%2033sm.jpg" height="360" width="480" /></p>
 <p>my self watering setup seems to have worked, and the tomatoes have had a bit of a growth spurt while i was away in germany.</p>

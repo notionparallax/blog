@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 
 <p align="center">Melbourne--&gt; Sydney--&gt; San Francisco--&gt; Sydney--&gt; Melbourne</p>

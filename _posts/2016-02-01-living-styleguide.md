@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "To find out how things look, I've put one of each on this page!"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 
 # First level header

@@ -12,12 +12,7 @@ tags:
 - research
 - tracking
 - work
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>As my 200<sup>th</sup> post I was going to write some stuff about ethics and dolphins, but Wikipedia has already done the lions share of the work so it's left me feeling rather unnecessary. I was considering this as I came up the escalator at <a title="The Town Hall Wikipedia page" href="http://en.wikipedia.org/wiki/Town_Hall_railway_station">Town Hall</a> station today (my legs are tired from a <a title="28km in 1 day, ouch" href="http://www.wildwalks.com/bushwalking-and-hiking-in-nsw/royal-national-park/coast-track-bundeena-to-otford.html ">long walk</a> yesterday so I didn't feel like walking in). I was on the right and walking up the steps behind all the other karoshi who were doing the same, trudging hurriedly towards our desks. When I got to the top the girl in front of me stopped, did a sharp right turn and headed off to the ticket barriers; this made me stop and presumably made the person behind me stop. This sort of blockage never really stops anything, but acts more as a <em><a title="Hydraulic economics" href="http://www.notionparallax.co.uk/wordpress/index.php/2011/04/hydraulic-economics/">constriction</a></em>. This sort of constriction seems to slow down the flow of people through the station, which reduces the station's efficiency. (If you assume that the job of a train station is it's obvious one, i.e. to move people about quickly, get them from where they are to where they want to be by making the journey from their entry point to exit point as time-short/distance-short as possible.)</p>
 <p><!--more--></p>

@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - GC
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Making a reactive component and Programming a ScribbleI noticed that the version of the GC tutorials on the tutorials page isn't very up to date</p>
 <p>Here's the latest, <a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2010/01/2009-03-30a-Making-a-reactive-component-and-Programming-a-Scribble.pdf">all in one special version<br />

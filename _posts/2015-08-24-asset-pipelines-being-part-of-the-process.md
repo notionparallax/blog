@@ -14,12 +14,7 @@ description:
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><!--more--><a title="Google Research Blog | The latest news from Research at Google | Speed Matters" href="http://googleresearch.blogspot.com.au/2009/06/speed-matters.html">Studies keep showing that making your website just a tiny bit faster </a><a title="HOW ONE SECOND COULD COST AMAZON $1.6 BILLION IN SALES" href="http://www.fastcompany.com/1825005/how-one-second-could-cost-amazon-16-billion-sales">makes your customers spend more</a>. There are lots of things that can make a website a tiny bit faster, and they are all pretty easy to do. However, no one thing is really going to give you a big speed bump. There might be 20 things that each give a 1% improvement.</p>
 <p>Asset pipelines are a big thing in web programming now because they let you automate those 20 things.</p>

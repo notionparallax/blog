@@ -15,12 +15,7 @@ meta:
   _wpas_mess: |-
     Brain to brain in 5 steps - a diagnostic tool for broken communication
     http://wp.me/p3wwRK-sS
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I came up with a diagnostic tool for pathogenic communication. I doubt that it's novel, but it works.</p>
 <p><a href="/wordpress/wp-content/uploads/2015/07/5-step-comms.png"><img class="alignnone size-full wp-image-1793" src="{{ site.baseurl }}/assets/5-step-comms.png" alt="5-step-comms" /></a></p>

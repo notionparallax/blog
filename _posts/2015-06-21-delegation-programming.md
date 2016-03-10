@@ -19,12 +19,7 @@ meta:
   
 
   dsq_thread_id: '4503553673'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I think that delegation to another person is analogous to programming a computer. I want to explain why I think this, and how thinking like this can be useful.</p>
 <p>Programming as a discipline has developed loads of ways of making code better. That might mean more efficient, easier to understand, easier to maintain etc. The general term for this tidy up process is <em>refactoring</em>. If you think of delegation as a function call to a human then you can refactor the way you do things to make them better. <!--more--></p>

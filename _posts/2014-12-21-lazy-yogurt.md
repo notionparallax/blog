@@ -17,12 +17,7 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: lazy yogurt http://wp.me/p3wwRK-rN
   dsq_thread_id: '4503553616'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Making yogurt is super easy, I've been trying to work out how to make it even easier!</p>
 <p>I really hate tutorials that are "5 steps to the perfect pair of gelatine underpants". What are the odds that perfect gelatine underpants takes 5 steps? This is "at least 16 steps to pretty acceptable yogurt"[1. probably more than 16 steps once I've gone off on some tangents].</p>

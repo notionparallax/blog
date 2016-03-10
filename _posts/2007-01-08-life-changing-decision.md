@@ -9,12 +9,7 @@ categories: []
 tags:
 - life
 - turning japanese
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <div align="center">
 <div style="text-align: center"><img title="alarm clock" alt="alarm clock" src="{{ site.baseurl }}/assets/0880515.jpg" /></div>

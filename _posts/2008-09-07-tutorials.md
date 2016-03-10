@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551923'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>While GCuser is down, I thought I'd be kind to the world and post my tutorials on here for the wold to see.</p>
 <p>I've revamped and re-energised the two main tutorials. There are still appearances from <a href="http://www.pauldaniels.co.uk" target="_blank">Paul Daniels and Debbie Magee</a>, <a href="http://www.vanillaice.com/" title="Robert Matthew Van Winkle (born October 31, 1967)">Vanilla ice</a>, and there is a special guest appearance from Snow White's step mother - none other than the evil queen herself!!!</p>

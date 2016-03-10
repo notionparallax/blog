@@ -10,12 +10,7 @@ tags:
 - Brisbane
 - BVN
 - compDesGrp
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>When I got back to Australia after my long (relatively), and somewhat fraught, trip back to England about nine months ago, one of my jobs was to try to do things that made BVN a leader and not a laggard[^1] in the global computation/ architecture realm. It was pretty luxurious being given such a juicy brief, but it wasn't going to happen over night.<br />
 <a title="The crowd! by notionparallax, on Flickr" href="http://www.flickr.com/photos/95698107@N00/4989750462/"><img src="{{ site.baseurl }}/assets/4989750462_424733520f.jpg" alt="The crowd!" width="100%" /></a></p>

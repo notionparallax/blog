@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/69175.png" align="right" width="100" />After much faffing about, I've bought a webcam to do my mapping with.</p>
 <p>There seem to be a couple of  little processing sketches that do almost what I want, so the first step (finding the blobs that are people) should just be a case of wiring them together.</p>

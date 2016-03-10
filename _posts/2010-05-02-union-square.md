@@ -14,12 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552270'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/27828992.jpg" alt="Union Square metro station" width="490" /></p>
 <p>A while ago I put up a photo of the station entrances that I had a play with when I was working at Aedas. This is a picture I came across of one of the Union Square station entrance that I worked on too.</p>

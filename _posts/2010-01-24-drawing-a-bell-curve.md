@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - GC
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've got to Illustrate why questions on a questionnaire need to be of a range of difficulties. If they are all too hard then the distribution of answers will all be pushed up to one end, and too easy, the opposite. So I needed to <a href="http://en.wiktionary.org/wiki/yak_shaving">shave a yak</a> until I had a good way to show this.</p>
 <p>I parallel-posted this on the GC forum too, so if I'm going to be forced to open IE to post to the GC forum, I thought I'd do a decent job of it.</p>

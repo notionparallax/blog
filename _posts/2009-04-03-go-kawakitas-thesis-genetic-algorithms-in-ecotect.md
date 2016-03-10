@@ -17,12 +17,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552070'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Go Kawakita now works for Foster &amp; Partners, but last year I was one of his thesis supervisors when he was doing his masters in energy efficient &amp; sustainable design at Oxford Brookes.</p>
 <p>His thesis was about the use of evolutionary algorithms to explore design options, more specifically with evaluation driven by environmental parameters. His project work was focused around finding widow configurations that satisfied certain lighting criteria, using ecotect analysis as the fitness evaluation.</p>

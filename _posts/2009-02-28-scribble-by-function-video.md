@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551567'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <br />
 <table border="0" width="500">

@@ -9,12 +9,7 @@ categories: []
 tags:
 - flying
 - turning japanese
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I promise I'll blog more, honest.</p>
 <p>I came across this while looking for large diameter balloons for a <a href="http://www.clusterballoon.org/">cluster ballooning</a> experiment</p>

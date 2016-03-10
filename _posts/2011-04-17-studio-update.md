@@ -11,12 +11,7 @@ tags:
 - presentations
 - startup
 - studio
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>My studio has just had what I suppose you could call their mid semester crits.<br />
 They've been developing and researching their existential threats over the last few weeks, and this crit was a chance for them to present that work. I was a little surprised by the presentations, this was the first time that i'd seen architecture students presenting a non-architectural topic. It shows how accustomed we get to relying on familiar presentation styles - 'this is the plan' and 'here are some elevations'. Everyone struggled to convey information about things related to magnitudes, and there was a general lack of clarity on the slides, too much information crammed onto each slide.<br />

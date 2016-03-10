@@ -15,12 +15,7 @@ meta:
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Card chastity http://wp.me/p3wwRK-q1
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Every time I need to slide it into the slot it feels a little bit peculiar. I can only imagine this feeling of insertion into the unknown increasing as time goes by.<!--more--></p>
 <p>With the widespread adoption of paywave, and the sydney transport system finally getting an NFC based ticketing system[1. a relief, even if it is painfully slow to register.], it is getting rare to ever need to poke one's card into a hole. Holes are where scratches happen, where details get scraped and cloned, and where things go in and sometimes never come out. </p>

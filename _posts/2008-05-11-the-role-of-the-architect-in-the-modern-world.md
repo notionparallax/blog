@@ -11,12 +11,7 @@ tags:
 - australia
 - collaborative
 - future
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>it's rant time again!</p>
 <p>this is another of my design studio writings, it's a little off topic, but I've only just got the internet at home, so I've been drinking coffee and sitting at my kitchen table without a connection and battering my keyboard. I might go back over this and put in some pictures and  references, but then again...<!--more--></p>

@@ -10,12 +10,7 @@ tags:
 - architecture
 - geek
 - hardware
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>upon getting stuck into any seemingly simple problem, more complicated things always seem to arise.</p>
 <p>I think I'll get something at least a little bit useful out of this soon though.</p>

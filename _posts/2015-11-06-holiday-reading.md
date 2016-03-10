@@ -9,12 +9,7 @@ categories: []
 tags: []
 description:
 featured_image: books.jpg
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <style type="text/css">
   iframe {

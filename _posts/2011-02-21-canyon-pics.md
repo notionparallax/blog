@@ -12,12 +12,7 @@ tags:
 - canyoning
 - life
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><span style="display: block; margin: 0px auto; width: 425px">  	<embed src="http://widgets.vodpod.com/w/video_embed/ExternalVideo.988116" type="application/x-shockwave-flash" allowscriptaccess="never" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F103899889804200987537%2Falbumid%2F5576082768144079617%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" width="425" height="350" /></p>
 <div style="font-size: 10px;">     <a href="http://vodpod.com/watch/5616473-canyon-pics?pod=">Canyon pics</a>, posted with <a href="http://vodpod.com?r=wp">vodpod</a>  </div>

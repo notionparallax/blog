@@ -20,12 +20,7 @@ meta:
     ▆▂▁░▃▁▄▇█▁
     ▇▆█▅▅▃▄▅▂░
     ▂█▃▂▂▂▄█▂
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>We did a survey at work recently. It had 72 ten-point-scale responses and I needed a quick way of seeing the distribution of people's scores.</p>
 <p>Inspired by <a href="http://zachseward.com/sparktweets/">spark tweets</a> I made a little Google spreadsheet function (embedded Gist below) that makes cells that contain this kind of thing:</p>

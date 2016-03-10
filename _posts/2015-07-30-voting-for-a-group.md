@@ -19,12 +19,7 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '1831'
   _wpas_mess: Voting for a group - some thoughts and observations and stuff
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 has-math: true
 ---
 <style type="text/css">

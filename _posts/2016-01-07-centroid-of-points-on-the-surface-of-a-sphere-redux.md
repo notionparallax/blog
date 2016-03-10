@@ -13,12 +13,7 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _syntaxhighlighter_encoded: '1'
   _wpas_mess: 'How to find the centroid of points on the surface of a sphere: redux'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <style type="text/css">
   iframe.world{

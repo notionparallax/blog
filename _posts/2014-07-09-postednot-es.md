@@ -13,12 +13,7 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _thumbnail_id: '1636'
   _wpas_mess: PostedNot.es - hand written letters, without the faff!   http://wp.me/p3wwRK-qa
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Ladies and gents, allow me to introduce <a title="Posted Notes" href="http://postednot.es">postedNot.es</a>!</p>
 <p>It's a service to send hand written letters to people with minimal friction. You mash out a short note on the train to work and we transcribe it onto classy looking paper and post it.<!--more--></p>

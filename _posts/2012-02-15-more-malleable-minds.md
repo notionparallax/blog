@@ -11,12 +11,7 @@ tags:
 - Sydney
 - teaching
 - UTS
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 I'm going to be teaching at UTS again this coming semester. Another intrepid cohort will be subjected to my odd views on things, and I hope that it'll rub off a bit on them[^1].
 

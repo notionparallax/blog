@@ -14,12 +14,7 @@ tags:
 - making
 - smart geometry
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/IMG_2039.JPG" alt="" width="490" /></p>
 <p>It is all in full swing, but here are some amazing pictures from SG this year!</p>

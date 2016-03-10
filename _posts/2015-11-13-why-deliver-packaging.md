@@ -15,12 +15,7 @@ meta:
   _wpas_mess: Why deliver packaging?
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Product packaging is a marketing tax. A product in a shop needs to sell itself. It wears a dressy outfit to seduce consumers. A package that just gets a product to its endpoint without being damaged would be a fraction of the cost (in money and resources).</p>
 <p>I've been thinking about delivery recently as I've been reading about the service economy, <a href="http://notionparallax.co.uk/?p=1703">minimal ownership</a> and putting together the <a href="http://notionparallax.co.uk/wordpress/?p=1908">Possible Futures Game</a>. Packaging for delivered goods has a totally different <a href="http://jobstobedone.org/">job</a> to do than one that is seen in a shop. I realised this thinking about drone delivery, but then I realised that it applies to <em>all</em> delivery.<br />

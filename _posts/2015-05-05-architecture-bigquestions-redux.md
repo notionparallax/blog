@@ -19,12 +19,7 @@ meta:
 
     Lets do it again on Thursday.
     Tell people!
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Last Thursday I took part in a search for architecture's big questions.</p>
 <p><a href="http://notionparallax.co.uk/wordpress/?p=1762">I explained the underpinning idea here</a>, but in summary it's about finding great questions.</p>

@@ -14,12 +14,7 @@ tags:
 - smart geometry
 - talks
 - video
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignright" alt="SG open platforms poster" src="{{ site.baseurl }}/assets/OpenPlatform.gif" width="241" height="280" />In November there was a <a href="http://www.smartgeometry.org">Smart Geometry</a> event at<a href="http://c-p.bk.tudelft.nl/events/Open%20Platform.html"> TU Delft</a>. It was a really interesting event as it wasn't platform specific, so people were hacking away on whatever they fancied (GC, Grasshopper, Processing, C#).</p>
 <p><a title="Rudi's staff page" href="http://www.tudelft.nl/live/pagina.jsp?id=0f4176ed-3b21-4334-8c67-c6b91de9f0c0">Rudi Stouffs</a> (<a href="http://www.bk.tudelft.nl/live/pagina.jsp?id=82b39c73-53c9-48fe-b168-46845f018f42&amp;lang=en">check out some of his work here</a>) videoed some of the evening presentations.</p>

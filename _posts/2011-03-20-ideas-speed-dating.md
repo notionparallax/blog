@@ -13,12 +13,7 @@ tags:
 - teaching
 - tutorials
 - UTS
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/P3180348.JPG" alt="Mel and Sandra getting stuck into some ideas" title="Mel and Sandra (foreground) getting stuck into some ideas amid the din of all the other ideas!" style="width:500px;" /></p>
 <p>This is a bit of a UTS architecture classic, I think I first heard about it from <a href="http://post-traumaticurbanism.com/" title="Adrian's website - Post-Traumatic Urbanism">Adrian Lahoud</a> and <a href="http://www.facebook.com/people/Tarsha-Finney/681629873">Tarsha Finney</a> a few years ago, and Friday's class was the first chance I've had to really try it out. </p>

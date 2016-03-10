@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - thinking
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>When I was just a kid* asking questions at lectures was pretty scary.</p>
 <p>I've just got back from the design modeling symposium in Berlin, and it got me thinking about asking questions, and the reasons behind it again.</p>

@@ -9,12 +9,7 @@ categories: []
 tags:
 - australia
 - surfing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/page119_8.jpg" width="500" /></p>
 <p>I saw a dolphin surfing!!</p>

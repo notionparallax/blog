@@ -13,12 +13,7 @@ tags:
 - environmental
 - paper
 - study
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've just read <a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/08/Attari-et-al.-2010-Public-perceptions-of-energy-consumption-and-savings.pdf">Public perceptions of energy consumption and savings</a> (Attari et al. 2010), and apart from from being a pretty good paper, it's quite well aligned with the results of <a title="Major study – for those with a lot of patience" href="http://www.notionparallax.co.uk/wordpress/index.php/2011/01/major-study-for-those-with-a-lot-of-patience/">my dip study</a>, and Hanson's <a href="http://www.overcomingbias.com/2010/03/homo-hipocritus.html"><em>Homo Hypocritus</em></a> theory.</p>
 <blockquote><p>Gardner and Stern (6) also speculated that people harbor misconceptions about the effectiveness of their actions. For example, “turning out lights when leaving the room” is often suggested as a way to save energy, but it actually saves very little … Larrick and Soll (11) reported that people in the United States mistakenly believe that gasoline consumption decreases linearly rather than nonlinearly as an automobile’s gas mileage (in miles per gallon) increases. Describing vehicles’ fuel efficiency in terms of “gallons per 100 miles” corrected this misperception and led to more fuel efficient choices. … For example, participants estimated that line-drying clothes saves more energy than changing the washer’s settings (the reverse is true)</p></blockquote>

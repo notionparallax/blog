@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - major study
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>All the advice about how to make a blog readable and interesting is about focusing in on what you are going to talk about and if you really must talk about a load of things, have several blogs.</p>
 <p>This seems pretty analogous to my major study. The temptation to splurge my brain across the pages and indulge all my ideas to an equal amount is overwhelming. Luckily for the blog, that doesn't bother me, if people want to read this stream of drivel, then good for them, if not, then I don't really mind. Unfortunately for a marked piece of work I need to toe the line a bit.</p>

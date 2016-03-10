@@ -16,12 +16,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552307'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/assets/item4043.jpg" alt="Snake screenshot" width="154" height="100" />Once upon a time  the only ones glued to their phone screens in public were spotty teenagers playing <a title="A history of 'Snake'" href="http://conversations.nokia.com/2009/01/20/history-of-nokia-part-2-snake/">snake</a>. I suppose I got a glimpse of the future on the Tokyo subway a while ago with everyone glued to their screens reading the news (I presume, it was all in Japanese).</p>
 <p>Recently I've been reading a lot of blog posts on my phone through the <a href="http://www.appbrain.com/app/greader-%28google-reader-%7C-rss%29/com.noinnion.android.greader.reader">gReader app</a>. Even in short journeys I can knock off a couple of posts, and it feels like I'm actually participating in things as they happen. (I'm aware that this is an illusion, but it is one that I'm happy to maintain.)</p>

@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552955'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I was sat in the airport after SG, trying to figure out the logistics of the tutor group meeting up. Where would be the most logical place to go?</p>
 <p>As I'd been thinking about geeky problems for the preceding week, my brain was fixed into that way of thinking, and started on trying to figure out the centroid of people's locations on the globe. This one seemed easy until I tried to think it through and realised that there was a big stick in the spokes.</p>

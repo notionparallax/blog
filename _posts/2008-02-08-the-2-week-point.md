@@ -10,12 +10,7 @@ tags:
 - food
 - life
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Ah, lovely long emails, a great way to spend an evening. I've just demolished intersection magazine, $17 of magazine and $8.50's worth of takeaway noodles and I'm a happy boy. I can usually attribute my lack of happiness to not having had sufficiently nice food, which is something that I don't intend to get too far into at the moment. Melbourne is a foodie heaven. Mmm. I had some biodynamic peaches the other day that were probably not as good as sex, but have been filed in the same category for enjoyment, but without any of the complication or too much of the mess!<br />
 <img src="{{ site.baseurl }}/assets/white_peaches_and_coffee.jpg" /></p>

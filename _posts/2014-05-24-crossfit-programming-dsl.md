@@ -11,12 +11,7 @@ description:
 meta:
   _publicize_facebook_user: https://www.facebook.com/ben.doherty1
   _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Trying to describe a workout using a logging tool like beyond the whiteboard is pretty hard if your coach likes to be a bit creative with his programming. I was wondering if there was much merit in trying to use ruby to describe the workouts.<br />
 It seems to me that workouts are pretty composable things that lend themselves to being easily described this way. I haven't defined any specific <acronym title="domain specific language">DSL</acronym> yet, but they'd probably be useful.<br />

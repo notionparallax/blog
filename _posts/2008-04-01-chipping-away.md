@@ -9,12 +9,7 @@ categories: []
 tags:
 - geek
 - processing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/linesAtLast.jpg" align="right" width="300" /></p>
 <p>finally I seem to have hacked my way around to getting some lines, now all I need is to track and differentiate the points that pop up so that i get beautiful data and the world falls at my feet weeping with joy. (or alternatively, I just don't fail miserably)</p>

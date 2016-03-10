@@ -14,12 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552260'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignnone size-full wp-image-407" title="ohNoes" src="{{ site.baseurl }}/assets/ohNoes.jpg" alt="" width="490" height="387" /></p>
 <p>I got a bit sleepy in a meeting the other day and I started drawing. It was one of those darkened room affairs with an impeding food coma, so i needed something to ease the pain.</p>

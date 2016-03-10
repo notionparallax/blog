@@ -11,12 +11,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551839'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>people seem to be really confused by the fact that I am doing stuff all out of order, so I thought I'd make a picture that explained it all.</p>
 <p>I think it'' change as my good mother fills me in on what I did wrong.</p>

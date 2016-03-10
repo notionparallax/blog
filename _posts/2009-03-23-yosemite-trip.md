@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552061'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Due to the the australian government's spectacular kindness in allowing me into their fine country for the past year coming to an end, I had a window of a few days to kill in California before <a href="http://www.bentley.com/en-US/Promo/SmartGeometry/Workshops">Smart Geometry</a> (more on that in the next few days).</p>
 <p>While zooming out on the San Francisco map, I spotted Yosemite National Park 200 miles to the east, and knew in seconds what I'd be doing for those free days!</p>

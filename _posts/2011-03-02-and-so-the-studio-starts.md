@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553242'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've started teaching a design studio (believe it or not)!</p>
 <p>As is usually the way with things that I do, it's going to be pretty experimental. Here are some of the links to what they are up to:</p>

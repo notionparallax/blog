@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551881'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>GC user now has 1300 users, and the cheapo hosting that  it was on before just doesn't cut it any more.</p>
 <p>Jalal is in the process of transferring gcuser from the  old clunky DNN windows server to a new sparkly sever, and content management system.</p>

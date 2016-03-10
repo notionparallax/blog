@@ -13,12 +13,7 @@ tags:
 - house keeping
 - life
 - rmit
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>right, I've been awake for 20 hours now, and i'm showing no signs of slowing down, a double hit of <a href="http://www.newscientist.com/article/mg18925391.300" title="mmm, go pills!">modafinil</a> at 5:30 today showed it's usual 16 hour hill, but thanks to a big sugary hit of hot chocolate hit, i'm bouncing like loon to <a href="http://www.ninjatune.net/solidsteel/" title="DK and Food get funky!">solid steel radio</a> (the savior of my sanity during my third year of degree, but foolishly forgotten)</p>
 <p>My trip to RMIT is all on now, and it all hinges about gettign the correct forms filled in and sent to the right people, but with very little guidance, and an 11 hour time difference at play it's tricky, I should be going some time in January, and the couple of weeks to get my head around the city, and all the prime coffee.</p>

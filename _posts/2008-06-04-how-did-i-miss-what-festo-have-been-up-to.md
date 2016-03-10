@@ -10,12 +10,7 @@ tags:
 - flying
 - geek
 - toys
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Everyone has seen the festo muscles doing their stuff under the <a href="http://www.bk.tudelft.nl/live/pagina.jsp?id=ee8041d7-2296-4ffd-abe4-ca76045c0b7b&amp;lang=en" target="_blank">chaps at delft</a>, but take a look at these!<br />
 <embed src="http://www.youtube.com/v/lrmiJ9PLrR8&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed><br />

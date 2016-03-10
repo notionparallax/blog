@@ -12,12 +12,7 @@ tags:
 - future
 - major study
 - web
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignright" style="width: 300px;" src="{{ site.baseurl }}/assets/exampleAnswer.png" alt="example answer image" />Finally it is launched!!</p>
 <p>There have been a lot of long nights of faffing about with learning about the technology that runs the internet, But now the <em>building performance quiz</em> is live, working reasonably well in most browsers, and has started producing results!</p>

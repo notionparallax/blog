@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - cool links
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://www.informationisbeautiful.net/visualizations/the-hierarchy-of-digital-distractions/">This diagram</a> of potential distractions is pretty cool (and painfully thought provoking).</p>
 <p><a href="http://www.informationisbeautiful.net/2009/the-hierarchy-of-digital-distractions/"><img class="alignnone" title="THE HIERARCHY OF DIGITAL DISTRACTIONS" src="{{ site.baseurl }}/assets/hierarchy_distractions_960.gif" alt="" width="550" /></a></p>

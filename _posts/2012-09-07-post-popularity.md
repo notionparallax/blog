@@ -9,12 +9,7 @@ categories: []
 tags:
 - blog
 - statistics
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I had a look at the stats for what people look at on this site. I was amazed at the drop off rate from the popular ones to posts that have only ever had one view (probably me checking that it posted properly!).</p>
 <p>After the front page and the tutorials, <a href="http://notionparallax.co.uk/wordpress/?p=130">centroid of points on the surface of a sphere</a> got the most hits by a long way, and it also has the most comments. I'm in the process of writing a summary of the comments and some example code to show the results, but in the mean time, here's the graph.<br />

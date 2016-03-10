@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551871'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>here's a little flick through a sequence of how a multi touch floor could work in a train station to make the experience "well betta' "</p>
 <p><img src="{{ site.baseurl }}/assets/feetonplatformanim.gif" width="500" height="374" /></p>

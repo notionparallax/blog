@@ -11,12 +11,7 @@ tags:
 - education
 - future
 - rant
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>These two tweets showed up this morning within about an hour of each other. There was a lot of discussion by panelists at the <a title="the talks shop videos aren't actually there yet, but you can watch the cluster summaries" href="http://vimeo.com/smartgeometry/videos">SG</a> talkshop about what <em>ought</em> to be on the curriculum in architecture schools to equip students for future practice. Some said compulsory biology courses, others said compulsory physics, and a few days before <a href="https://twitter.com/#!/Mcfblair">MB</a> and I had been discussing the merits of including some industrial design courses into the course gamut.</p>
 <div style="margin: 2px; padding: 2px; border: 1px solid #808080; font-family: 'Cambria','Times New Roman', Times, serif; font-style: italic;">

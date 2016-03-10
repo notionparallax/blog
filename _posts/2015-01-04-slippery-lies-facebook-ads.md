@@ -17,12 +17,7 @@ meta:
   _wpas_mess: |-
     Facebook adverts: 35% of spend going to Russian bots?
     http://wp.me/p3wwRK-rS
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <style type="text/css">
 .fb-help {

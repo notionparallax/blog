@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552321'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Being a bit of a massive nerd I've amassed a few music videos that I like to watch when I'm in a particular mood.</p>
 <p>    <object width="500" height="390"><param name="movie" value="http://www.youtube.com/v/zSgiXGELjbc&hl=en_US&feature=player_embedded&version=3" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://www.youtube.com/v/zSgiXGELjbc&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="390"></embed></object><br />

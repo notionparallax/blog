@@ -9,12 +9,7 @@ categories: []
 tags:
 - books
 - life
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p style="margin-bottom: 0cm;">I've just had a look at the 'items you own' section of my Amazon profile, and it's over 300!</p>
 <p style="margin-bottom: 0cm;">It's like that moment in sex and the city when Cary does the mental arithmetic about her shoes and realises that's why she can't afford a house (shamefully metaphor I know)</p>

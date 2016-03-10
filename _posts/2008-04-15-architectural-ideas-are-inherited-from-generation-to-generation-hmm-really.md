@@ -10,12 +10,7 @@ tags:
 - architecture
 - australia
 - writing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>This is my Thinking Architecture essay, i thought i'd got out of doing it, but obviously not.<br />
 It has some images in the <a href="http://www.notionparallax.co.uk/benDoherty-ThinkingArch.pdf" target="_blank">PDF (here)</a> but their absence doesn't really detract from the content, just the visual appeal.</p>

@@ -14,12 +14,7 @@ meta:
   _wpas_mess: Offline reading - here's how I do it. Any ideas on how to make it better?
     http://wp.me/p3wwRK-r5
   dsq_thread_id: '4503553574'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <style type="text/css">
   .plus-circle{

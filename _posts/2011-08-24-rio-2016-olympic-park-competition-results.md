@@ -14,12 +14,7 @@ tags:
 - Rio
 - video
 - work
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>For the last few months I've been a bit invisible. I've had my time monopolised by the competition for the <a title="Competition website" href="http://concursoparqueolimpicorio2016.iabrj.org.br/">Rio 2016 Olympic park masterplan</a>.</p>
 <p>We needed to produce a design, and also a video, all in an incredibly short time. I was notionally running the job for <a title="Where I work!!!" href="http://www.bvn.com.au/">BVN</a> but, I know it's a cliché, it was far more of a team effort than I'd expected. Everyone did an incredible job.  I ended up more as a project mum than the iconic architect figure (more Mrs Doubtfire than Fountainhead). I'm really pleased with the results. we got an honourable mention, so obviously the judges liked it too.</p>

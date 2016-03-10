@@ -18,12 +18,7 @@ meta:
   _wpas_mess: |-
     A 'Thinking about the future' game for stretching your brain's legs.
     Let me know what you think.
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>There are probably lots of serious, data backed, ways that futurists[1. I don't consider myself to be a futurist.] use to predict the future[1. I guess that there is a possiblity my method is the same as theirs, but it feels very unlikley!]. My method is pretty adhoc. I just pick a thread to obsess about and see what happens when I smash other things into it.</p>
 <p>I did this a while ago with <a href="http://notionparallax.co.uk/?p=1419">driverless cars</a>, and I've been smashing ideas into the driverless cars brain-thread ever since.</p>

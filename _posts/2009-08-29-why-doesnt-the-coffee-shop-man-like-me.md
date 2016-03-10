@@ -11,12 +11,7 @@ tags:
 - Bath
 - coffee
 - organisation
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p> To  say that I'm a little disorganised* would be a gross understatement  of the truth, but I'm developing ways to deal with it.</p>
 <p> I've  got a mobile internet dongle, so I can indulge my outrageous  dependency on the internet from wherever I am, I carry at least one  of my laptops almost everywhere I go, and I did have a fantastic todo  list linked to my blackberry, (but alas no more, when I left  Australia I surrendered my badge and gun) - so I'm getting there.</p>

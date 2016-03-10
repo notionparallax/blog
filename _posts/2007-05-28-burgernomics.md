@@ -9,12 +9,7 @@ categories: []
 tags:
 - economics
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /></p>
 <p>i find this idea fascinating, it's the modern equivalent of asking how many loaves of bread something cost</p>

@@ -23,12 +23,7 @@ enclosure: |
     http://notionparallax.co.uk/JuditKimpian_on_CarbonBuzz.mp3
     45986183
     audio/mpeg
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>A couple of weeks ago <a href="http://www.notionparallax.co.uk/wordpress/index.php/2010/03/carbon-buzz-interview/">I said I was going to interviw Judit Kimpian about Carbon Buzz</a>, and believe it or not, I actually did!</p>
 <p><img src="{{ site.baseurl }}/assets/0b8a1306-57c3-4b2d-9d26-def217991dd9.jpg" alt="a picture of Judit Kimpian" style="width:100%;" /></p>

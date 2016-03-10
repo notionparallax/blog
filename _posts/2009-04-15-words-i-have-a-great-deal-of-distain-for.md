@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552360'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I don't want to bang on about this too much today, as I've got a much more spectacular tirade planned, but I wanted to single out these two words for a particular savaging.when I hear otherwise intelligent people use these words, it makes me sad and angry. Sad that they have been sucked into the collective delusion that they are good words to use, and angry that nobody has the courage to stand up and say '<em>Stop! these words make you sound like an idiot.</em>'</p>
 <h2>Materiality</h2>

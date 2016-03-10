@@ -9,12 +9,7 @@ categories: []
 tags:
 - GC
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignleft" src="{{ site.baseurl }}/assets/OpenPlatformPoster.jpg" alt="sg poster" width="300" height="284" /> There is going to be a Smart geometry workshop at the end of this month at TU Delft.<br />
 I'm going to be there as a tutor (I think) and it looks like it is going to be really interesting.<br />

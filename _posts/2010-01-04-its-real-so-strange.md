@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - GC
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/assets/ImreSoltDubaiPhotos64.jpg" alt="Dubai metro station entrance" /><br />
 When I worked at Aedas (straight after my degree) the main project I was assigned to was the dubai metro stations. Photos of the finished stations are startign to pop up now that it's open, and it is very odd to see the real thing. It looks a lot like it did in  microstation while I was working on it!</p>

@@ -14,12 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552721'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>There are a few things that I want you to hold in your mind for a second.</p>
 <ul>

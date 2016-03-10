@@ -9,12 +9,7 @@ categories:
 - coffee
 tags:
 - coffee
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Check out<a href="http://www.jimseven.com/2009/12/17/gwilyms-disloyalty-card/"> this post</a> on James Hoffman's blog. I'm going to try and find a day to go and do this as a walking tour. let me know if you want to come too!</p>
 <p><img class="alignnone" title="Disloyalty Card" src="{{ site.baseurl }}/assets/4191014161_f9d38e5c20_d.jpg" alt="" width="250" height="383" /><img class="alignnone" title="Disloyalty Card 2" src="{{ site.baseurl }}/assets/4191778090_7704401c50_d.jpg" alt="" width="250" height="381" /></p>

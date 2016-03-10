@@ -16,12 +16,7 @@ tags:
 - major study
 - Post occupancy evaluation
 - simulation
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>On Monday I’m going to go and interview <a href="http://www.aedas.com/Europe/JuditKimpian">Judit Kimpian</a> about her involvement in the <a href="http://www.bre.co.uk/carbonbuzz/">Carbon Buzz</a> project.</p>
 <p>Carbon Buzz is a platform where people who design buildings can put their design stage building performance data from their simulations, and then compare it with real, in-use data. Check out the <a href="http://www.bre.co.uk/carbonbuzz/">website</a>, and there is the <a href="http://www.bre.co.uk/carbonbuzz/docs/CarbonBuzz_Handbook.pdf">Carbon Buzz handbook</a> too.</p>

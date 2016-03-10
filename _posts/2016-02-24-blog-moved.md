@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "Touchdown, I'm in Vancouver and blog is in GH pages"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 
 I warned a few weeks ago that we'd be moving, and now we have!

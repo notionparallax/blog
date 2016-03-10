@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552231'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/12/tour-of-disloyalty/">promised to organise a coffee crawl a while ago</a>, so here it is.<br />
 A whole bunch of cafes, topped off with a cocktail or two at <a href="http://www.69colebrookerow.com/">69 Colebrooke Row</a> to calm the nerves.</p>

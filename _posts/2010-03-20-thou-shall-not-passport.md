@@ -12,12 +12,7 @@ tags:
 - passport
 - smart geometry
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>The first day of <a href="http://www.smartgeometry.org/">Smart Geometry</a> is more or less over now, last night's tutors' dinner is now just a memory and a crumpled receipt in someone's pocket.</p>
 <p>I'm sat in Oxford, in my house, <a href="http://upload.wikimedia.org/wikipedia/en/6/64/Pooh_Shepard_1926.png">Winnie-the-Pooh</a>-ing about and putting things in the dishwasher.</p>

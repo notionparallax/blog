@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/n541400612_786535_5655.jpg" height="375" width="500" /></p>
 <p>Forgive me father for I have sinned - I've been really slack keeping this thing up to date, but as I have a bit more time at the moment, I will try and be a bit better. (not being in the slightest bit religious, I have no idea what comes next)</p>

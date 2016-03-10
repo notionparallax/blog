@@ -20,12 +20,7 @@ meta:
 
     http://wp.me/p3wwRK-s4
   dsq_thread_id: '4503553635'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I hear that line all the time. To begin with I believed the hype, then it started to niggle, now my annoyance at that idea has pushed me out of the energy well that I wallow in most of the time and got me to write about it.</p>
 <p><img class="" style="width: 100%;" src="{{ site.baseurl }}/assets/cylinda-line-water-jug-tray-spoon-saf-affect.jpg" alt="" /></p>

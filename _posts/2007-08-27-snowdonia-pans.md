@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - climbing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/charlieChat.gif" height="382" width="361" /></p>
 <p><a href="http://www.youtube.com/watch?v=MVPcoZ3Mxhs">charlie says</a>...</p>

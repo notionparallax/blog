@@ -15,12 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552785'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I had a bit of mixed weekend of cycling. Friday night was the <acronym title="Bicycle film festival">BFF</acronym> Goldsprints, and after doing OK in last years event I felt that I ought to give it a go.</p>
 <p><iframe src="http://www.youtube.com/embed/nE4pqE0JKtg" frameborder="0" width="560" height="315">

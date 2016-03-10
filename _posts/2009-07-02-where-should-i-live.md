@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - life
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've got a new job in england, it's for three months, and it involves moving about a bit. I'm in a bit of a quandry about where I should live. </p>
 <p>I need to be in London, Cambridge and Farnborough, although I don't really know how much as I'll be working from home a bit too, and the splits are undecided so far.</p>

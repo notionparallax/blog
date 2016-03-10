@@ -11,12 +11,7 @@ description:
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>This is something I spend a lot of time thinking about. That means I've developed some opinions!</p>
 <p><a href="https://uk.linkedin.com/pub/andrew-godwin/19/687/316">Andrew Godwin</a> and <a href="https://au.linkedin.com/pub/matthew-blair/70/64/a7">Matthew Blair</a> asked me to write a bit of a manifesto that explains what I think we should be thinking about. Read the posts below in any order, but this one first.<!--more--></p>

@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - GC
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><span id="spBody" class="Forum_Normal">here's another strategies tutorial, there is a pdf and gct that's more beautifully formatted over at <a href="http://www.gcuser.com">GCuser.com</a> in the gallery.</span></p>
 <p>This is about making flat quad panels using sheared cones.</p>

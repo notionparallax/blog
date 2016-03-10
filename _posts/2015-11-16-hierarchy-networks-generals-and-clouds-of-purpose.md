@@ -19,12 +19,7 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Hierarchy, Networks, Generals and Clouds of Purpose
   TODO: get the code from WP, too complex to import
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script type="text/javascript" src="../js/velocity.js"></script>

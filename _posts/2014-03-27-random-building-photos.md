@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I'm not sure if I've mentioned it, but I've been working on a project at work to organise as much of our information as we can, a bit like Goggle organising all the world's information, but <em>WAY</em> smaller in scope. It's called <a href="https://github.com/notionparallax/ShadowWolf">Shadow wolf</a>.</p>
 <p>We're using the excellent ruby library <a href="http://faker.rubyforge.org/">Faker</a> to fill the database up with pretend people and projects so that the tests don't freak out and so that we know what sort of shape the layout needs to be.</p>

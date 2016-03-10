@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - major study
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Through some bizzaro twist of fate my major study has stopped being about the future of the whole world, and has focused in quite a lot. I'll post about this a bit more later on, but as a very quick explanation of what I'm on about...</p>
 <p>Designers make <em>decisions</em> about what to do based on what <strong>they</strong> <em>know</em>.  So what happens if they <em>know</em> wrong?</p>

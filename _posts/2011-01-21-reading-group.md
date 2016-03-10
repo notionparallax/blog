@@ -12,12 +12,7 @@ tags:
 - learning
 - Reading
 - theory
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/01/Andrew-Metcalf_013.jpg"><img class="alignright size-full wp-image-506" title="Andrew Metcalf_013" src="{{ site.baseurl }}/assets/Andrew-Metcalf_013.jpg" alt="" width="213" height="213" /></a>I'm starting teaching my first studio this semester, so this is probably a really bad time to admit that I don't really know much about architecture. It was something that some of my tutors at uni were quite happy to admit and they weren't at all hampered by it, so it never really worried me. That said, I'm lucky enough to work with <a title="This is andrew's new blog" href="http://formandwords.com/">Andrew Metcalf</a> (who is BVN's <em>critic-in-residence</em>) who is about to start running a reading group. This is going to be a small seminar group for 6 people; each week a person presents their text to the others.</p>
 <ul>

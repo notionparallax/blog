@@ -10,12 +10,7 @@ tags:
 - language
 - thinking
 - writing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I'm going to start a new 'idea auditing' process for my thoughts. English Wikipedia has a parallel site in a language called <a title="Simple English Wikipedia" href="http://simple.wikipedia.org/wiki/Simple_English_Wikipedia">Simple English</a>. In the explanation page the quote is "<em>The language is simple, but the ideas don't have to be</em>".</p>
 <p>The articles are written using a <a href="http://simple.wikipedia.org/wiki/Wikipedia:How_to_write_Simple_English_pages#Basic_English_and_VOA_Special_English">somewhat restricted word list</a>, and it should force me to think clearly about what I really mean.</p>

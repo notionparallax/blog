@@ -14,12 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552892'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've been thinking a lot recently about super markets. As I cruise up and down the aisles, indulging in one of my favourite pastimes of telling the tsunami of information flow over me without any pressure to take it in. It's almost as if it is scouring the accumulated excess information of the week off me. </p>
 <p>I've been thinking mainly about the services that super markets could provide over and above selling food. </p>

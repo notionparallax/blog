@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552378'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/n541400612_6690815_1580614.jpg" width="453" height="604" /></p>
 <p>I saw a certain something in this image, and having showed several other people, without pre-priming them they saw it too.</p>

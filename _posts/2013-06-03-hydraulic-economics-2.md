@@ -14,12 +14,7 @@ tags:
 - mental models
 - models
 - thinking
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I just started reading[^1] <a href="http://en.wikipedia.org/wiki/Herbert_A._Simon">Herbert Simon</a>'s <a href="http://www.amazon.com/gp/product/0262691914/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0262691914&amp;linkCode=as2&amp;tag=notioparal-20">The Sciences of the Artificial</a><img style="border: none !important; margin: 0px !important;" alt="" src="{{ site.baseurl }}/assets/ir?t=notioparal-20&amp;l=as2&amp;o=1&amp;a=0262691914" width="1" height="1" border="0" />[^2] and he has a couple of references to models of economic processes implemented hydraulically.</p>
 <p style="text-align: center;"><img class="aligncenter" alt="" src="{{ site.baseurl }}/assets/Phillips_and_MONIAC_LSE.jpg" width="338" height="468" /></p>

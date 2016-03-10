@@ -11,12 +11,7 @@ tags:
 - future
 - supermarket
 - tracking
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I <a href="/wordpress/?p=961">wrote on Monday</a> about what it'd be like to have a web api into a supermarket's online shopping system. I've been tanking about a non-shopping app that would be able to use that.</p>
 <p>One of the biggest pains about trying to accurately track your dietary intake is searching through the database on whatever service you're using, discovering that they don't have your brand of frozen peas, hoping that the generic one is OK and using that even though you count in grams and they count in cups or 'portions' (whatever that means!).<br />

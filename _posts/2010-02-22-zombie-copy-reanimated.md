@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - writing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://www.alistapart.com/articles/zombiecopy/"><img class="alignright" title="Zombie Copy" src="{{ site.baseurl }}/assets/proofers_tools.jpg" alt="Axe writer" width="260" height="405" /></a>Take a look at this article: <a href="http://www.alistapart.com/articles/zombiecopy/">Zombie Copy</a>.</p>
 <p>It is could have been written specifically for architects!</p>

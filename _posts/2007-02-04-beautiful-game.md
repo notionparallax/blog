@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - interaction
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <div style="text-align: center;"><img title="screenshot" alt="screenshot" src="{{ site.baseurl }}/assets/flow.jpg" /></div>
 <p><a href="http://intihuatani.usc.edu/cloud/flowing/">this game</a> is really engaging they don't really tell you what's going on, but the rules become apparent along the way.</p>

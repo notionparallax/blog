@@ -13,12 +13,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Open Source (some of) the things!
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Architects seem to act in a 'us vs them' way to other architects. I'll bet that this is the case in lots of other industries but if we want to see the explosive growth that we see in software-backed industries we need to be different.</p>
 <p>I don't think that it should be an 'us vs them' situation. I prefer to think about it as 'us vs nature'. When there are more of <em>us</em> then it becomes easier to overcome nature.<!--more--></p>

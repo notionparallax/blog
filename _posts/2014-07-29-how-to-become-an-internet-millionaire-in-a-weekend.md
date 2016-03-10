@@ -30,12 +30,7 @@ meta:
   
 
   dsq_thread_id: '4503553548'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Have you ever had a great idea for a website or a product, but were put off by not being sure it would work or not having the technical chops to make it a reality?<!--more--></p>
 <p>A couple of weeks ago I did an experiment into how <em>much</em> website I could build on how <em>little</em> infrastructure. Out of that was born: <a href="http://postednot.es">postedNot.es</a></p>

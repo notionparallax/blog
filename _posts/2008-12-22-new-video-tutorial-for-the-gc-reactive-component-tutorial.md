@@ -9,12 +9,7 @@ categories: []
 tags:
 - GC
 - tutorials
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><object width="500" height="377"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2598293&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=2598293&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="377"></embed></object><br /><a href="http://vimeo.com/2598293">Reactive component video tutorial</a> from <a href="http://vimeo.com/user973949">ben doherty</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 <p>This video goes with the <a href="http://www.notionparallax.co.uk/wordpress/?p=92" target="_blank">pdf tutorial of the same name</a>.</p>

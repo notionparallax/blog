@@ -12,12 +12,7 @@ tags:
 - home
 - house keeping
 - tip
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>"Take a load of supermarket mushroom bags home to put your compost into."</p>
 <p>This is more like a pikey tip than a pro tip. Once upon a time Tesco did really nice compostable bags, everyone I knew took them home and used them to put their kitchen scraps in to before they took them into the garden. Tesco noticed that they were getting screwed by the customers, and stopped making them.</p>

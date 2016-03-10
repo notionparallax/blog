@@ -20,12 +20,7 @@ tags:
 description:
 meta:
   _thumbnail_id: '1380'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"><br />
 {"dataSourceUrl":"//docs.google.com/a/notionparallax.co.uk/spreadsheet/tq?key=0AgIWT_wqd-VmdGxnamtuUG8yZEo3UzViel8xV1o0b2c&transpose=0&headers=0&range=A191%3AD358&gid=0&pub=1",<br />

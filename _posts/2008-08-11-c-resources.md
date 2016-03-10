@@ -10,12 +10,7 @@ tags:
 - architecture
 - GC
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>People are always looking to get a bit of a jump on this GC programming stuff.</p>
 <p>GC script is a cut down version of C#, so if you can write C# then you'll be laughing, especially as in a while you'll probably want to  write external plugins for GC that live out in C# land!</p>

@@ -9,12 +9,7 @@ categories: []
 tags:
 - thinking
 - writing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've been telling a lot of people about this recently, so I thought I'd put up a link to the source.</p>
 <p><a href="http://www.paulgraham.com/" title="essayist of spectacular insight">Paul Graham</a> has written an excelent guide to levels of didagreement, and by understanding these it makes it easier to upgrade your responses.</p>

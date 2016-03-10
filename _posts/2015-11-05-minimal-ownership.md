@@ -12,12 +12,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: What is minimal ownership?
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>For a while, when Netflix was a DVD rental thing. There were lots of services that popped up that were 'Netflix for X'. E.g. <a href="http://www.bagborroworsteal.com/" data-cke-saved-href="http://www.bagborroworsteal.com/">Bagborroworsteal</a> was Netflix for handbags. This was a pretty big idea; having access to something luxurious without actually owning it.</p>
 <p>Renting or leasing something isn't a new idea, it's just got forgotten about while I was growing up. When I was a student you could rent a massive TV, but it didn't seem to stack up as a good idea. It seemed that renting was a tax on people who didn't have the self control to save up enough to buy.</p>

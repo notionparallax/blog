@@ -14,12 +14,7 @@ description:
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><!--more--></p>
 <p>Who is responsible for your[1. Remember that in this series, <em>your</em> data is any data that is about you, or is data that you have responsibility for.] data? I'd imagine that most of us would identify ourselves as the person with that responsibility. At least in a perfect world we'd control a large proportion of data that we produce. We'd also want access to the data that others collect about us.</p>

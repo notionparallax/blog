@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553059'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/chris-jordan-midway-atoll1.jpg" alt="albatross chick full of plastic" /></p>
 <p>This photo has been popping up all over the <a href="http://www.chrisjordan.com">internet</a> today. It has galvanised me into writing down an idea that I've been kicking about for a few weeks. I'll try and be as structured as I can and rant as little as possible.</p>

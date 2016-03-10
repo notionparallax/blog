@@ -9,12 +9,7 @@ categories: []
 tags:
 - cool links
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've spent my <a href="http://www.explosm.net/comics/858/">easter Sunday</a> tucked up in the <a href="http://www.sial.rmit.edu.au/">sial lab</a> with two of my urban best friends, my laptop for doing some work, and a whole load of video lectures.</p>
 <p><img src="{{ site.baseurl }}/assets/200803_martin.jpg" align="left" height="50" width="100" /><a href="http://www.21school.ox.ac.uk/video/200803_martin.cfm" target="_blank">'Target Earth' by James Martin </a> - a high speed trip through the possibilities and problems facing the human race in the next century, and what the 21st century school is doing to try and increase our chances of living through it!</p>

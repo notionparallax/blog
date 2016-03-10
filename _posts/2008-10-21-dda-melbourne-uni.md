@@ -12,12 +12,7 @@ tags:
 - GC
 - geek
 - teaching
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/dda_sorting.jpg" width="400" height="300" /></p>
 <p>Here are the first images from the class that I've been teaching with Bharat Dave at Melbourne Uni.</p>

@@ -11,12 +11,7 @@ tags:
 - food
 - gardening
 - house keeping
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/seedlings.jpg" title="tiny weeny plants" alt="tiny weeny plants" height="360" width="480" /><br />
 I came home today to the first signs of life getting started in my grow bag.</p>

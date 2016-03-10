@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553347'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>For quite a while now I've been thinking about the effects of driverless cars. To begin with I didn't realise that this was what I was thinking about. When I was a student I looked at how to use car parks as schools and <a title="mushroom carpark" href="http://notionparallax.co.uk/?p=107">farms</a> once they no longer housed cars, but that'd getting off track - we haven't got to that point yet.</p>
 <p>I'm going to lay out one way that I think driverless cars could change the world. Each point could ramify significantly and I could chase each one, but let me take this one path and try to make it compelling. Then we can go back over it if it makes sense.</p>

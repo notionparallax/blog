@@ -9,12 +9,7 @@ categories: []
 tags:
 - ecotect
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I've been telling people that turning up the analysis resolution on their Ecotect models is a bad idea, but I'd never stopped to figure out just how bad.</p>
 <p>This table shows the rate at which the numbers grow as you go up through the resolution steps.</p>

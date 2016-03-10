@@ -9,12 +9,7 @@ categories: []
 tags:
 - advertising
 - cool links
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://store.artlebedev.com/interior/posters/evacuation-plan/"><img src="{{ site.baseurl }}/assets/7ie6n9un.jpg" alt="" /></a></p>
 <p>I've been a fan of <a style="color: #0055cc;" href="http://www.artlebedev.com/">Art. Lebedev Studio</a> for a while now ever since I started salivating over their optimus maximus keyboard, but this poster is a bit cheaper, and still pretty beautiful.</p>

@@ -12,12 +12,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: How would you price a lucky dip of unknown data?
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Imagine that we're on some kind of imaginary data black market. Someone offers a hard drive that they say contains a data set. They won't say what it is, but they can guarantee that we don't already have it. How much should you be willing to pay? What should new knowledge do to the price? I've made some notes, but they are mainly just me rambling[1. I wrote this on a train in Spain!]<!--more--></p>
 <p><img class="alignright size-full wp-image-2289" src="{{ site.baseurl }}/assets/data-space.png" alt="data-space" />Most people, myself included, have the intuition that zero is pretty close to the right number. I'm going to try and argue that's a little bit more complicated.</p>

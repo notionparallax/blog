@@ -9,12 +9,7 @@ categories: []
 tags:
 - geek
 - hardware
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2009/11/cup-holder.jpg"><img class="alignnone size-full wp-image-333" title="cup holder" src="{{ site.baseurl }}/assets/cup-holder.jpg" alt="cup holder" width="490" height="368" /></a></p>
 <p>...yup</p>

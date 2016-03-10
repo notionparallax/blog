@@ -14,12 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551795'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I seem to have taken a pretty long walk away from architecture recently, so I thought I'd do something to contribute to the profession again. </p>
 <p>I have a curious obsession with scalpel blades, there are so many types, and the Swann Morton website is so bad, that I really didn't know what they all looked like. </p>

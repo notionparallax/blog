@@ -11,12 +11,7 @@ tags:
 - coffee
 - geek
 - hardware
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>[caption id="attachment_290" align="alignleft" width="233" caption="my current coffee making setup"]<a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2009/10/coffeeKit500.png"><img class="size-medium wp-image-290 " title="coffeeKit500" src="{{ site.baseurl }}/assets/coffeeKit500-233x300.png" alt="my current coffee making setup" width="233" height="300" /></a>[/caption]</p>
 <p>This is mostly for Andrew's benefit, but I thought I'd use it as a chance to show off a bit.<br />

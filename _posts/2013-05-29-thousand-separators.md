@@ -15,12 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552939'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>There's been some discussion about the correct way to write numbers today at work. Here's my take on it:</p>
 <p><img class="alignnone size-full wp-image-1384" alt="thousandSeparators" src="{{ site.baseurl }}/assets/thousandSeparators.png" /></p>

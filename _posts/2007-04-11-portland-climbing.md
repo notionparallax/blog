@@ -9,12 +9,7 @@ categories: []
 tags:
 - climbing
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/portland.jpg" title="incredible view, shame the climb looks so easy!" alt="incredible view, shame the climb looks so easy!" height="592" width="453" /></p>
 <p>having not climbed out doors for about six years, i was a little apprehensive about this trip to Portland, everyone else has been climbing indoors at least once a week over the winter and tales of grades far harder than I can even dream of have been filtering down to me.</p>

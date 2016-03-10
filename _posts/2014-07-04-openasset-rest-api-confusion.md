@@ -28,12 +28,7 @@ meta:
   
 
   dsq_thread_id: '4503553490'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>The <a href="http://axomic.com/">Axomic</a> <a href="https://www.axomic.com/media">OpenAsset</a> <a title="The REST docs" href="http://help.axomic.com/07_Technical_Stuff/APIs_and_Integration/REST_API">REST API</a> is doing its best to totally confuse me. I tend to find that if I write and do, then things become clearer.</p>
 <p><a href="http://stackoverflow.com/questions/22676924/how-to-construct-image-url-from-axomic-openasset-rest-api" title="How to construct image url from Axomic OpenAsset REST API">Stack overflow</a> only has one question about this particular API, and I asked it... and answered it[1. after getting a very helpful reply to an email that I sent to Axomic help]. The idea of this post is to document the steps I've gone through to try to solve the problem so that it is easier for someone who knows what they are doing to fill in the gaps in my knowledge!</p>

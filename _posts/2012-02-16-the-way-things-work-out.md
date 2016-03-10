@@ -14,12 +14,7 @@ tags:
 - GC
 - glass
 - Melbourne
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><a href="http://www.walkingmelbourne.com/forum/viewtopic.php?f=23&amp;t=5944"><img class="alignnone" src="{{ site.baseurl }}/assets/5455271ml1223600552.jpg" alt="" width="45%" /></a><a href="http://www.tourism.vic.gov.au/piecesofvictoria/december_2009/index.php?page=melbournes_newest_asian_cuisine_and_retail_complex"><img class="alignnone" src="{{ site.baseurl }}/assets/Village%20redevelopment%20-%20artist%20impression.jpg" alt="" width="45%" /></a></p>
 <p><a href="http://www.trishnicolagency.com.au/clientgallery/206-Bourke-Street/"><img class="alignnone" src="{{ site.baseurl }}/assets/img_814.jpg" alt="" width="45%" /></a><a href="http://www.heraldsun.com.au/news/redeveloped-bourke-tops-mayoral-menu/story-e6frfk9f-1111117934900"><img class="alignnone" src="{{ site.baseurl }}/assets/206-Bourke-St-6332420.jpg" alt="" width="45%" /></a></p>

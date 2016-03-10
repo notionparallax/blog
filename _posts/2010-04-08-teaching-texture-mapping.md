@@ -10,12 +10,7 @@ tags:
 - teaching
 - texturing
 - visualisation
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignleft" style="width: 300; height: 300; margin: 3px;" src="{{ site.baseurl }}/assets/wonder_woman.jpg" alt="wonder woman toy" />This seems like a great way to teach  texturing. People often struggle to start using UVW maps, and it is probably because it is a pretty unintuitive thing to do. We don't skin animals much any more, and not many novelty Christmas jumpers are knitted so putting skins back on is even less likely.</p>
 <p>This diy toy kit lets people make something, and hold it in their hands, and then put it back into the computer a few times until it is perfect.</p>

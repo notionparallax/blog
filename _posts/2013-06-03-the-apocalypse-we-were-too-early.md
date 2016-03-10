@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553283'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignnone size-large wp-image-1391" alt="world war z poster" src="{{ site.baseurl }}/assets/worldwarzposter1-1024x463.jpg" /></p>
 <p>I took a double take at this poster for <a href="http://www.worldwarzmovie.com/">WWZ</a>, I thought that it might be one of my students getting into recycling their work!</p>

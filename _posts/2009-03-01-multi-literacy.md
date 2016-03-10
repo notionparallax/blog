@@ -12,12 +12,7 @@ tags:
 - life
 - thinking
 - writing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>There was some discussion last night about <em>spatial literacy</em>,  and how it was affected by signage etc. We managed to largely avoid  getting into tedious 90s discussions about how spaces should be  designed so that they didn't need it, and then that was it - our  grapefruit/wine mix propelled us off onto another tangent and all was  forgotten.</p>
 <p>Then  today I was walking through the park thinking about exactly what it is  that I do, or would like to do (I’m still no closer to an answer on  that one), and the word literacy came up again, but this time in a  totally different context.</p>

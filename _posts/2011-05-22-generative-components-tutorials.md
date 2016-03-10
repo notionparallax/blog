@@ -10,12 +10,7 @@ tags:
 - GC
 - teaching
 - tutorials
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>One of my students asked what order they ought to do the GC tutorials that are on the <a title="tutorials" href="http://www.notionparallax.co.uk/wordpress/index.php/2008/09/tutorials/">tutorials page</a>. For some reason I hadn't actually thought about that - duh!</p>
 <p>So here it is:</p>

@@ -10,12 +10,7 @@ tags:
 - architecture
 - geek
 - hardware
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>In order to make any sort of meaningful map or information visualisation, I think you need a <em>lot</em> of data, especially when it is related to the unpredictable nature of humans.</p>
 <p>Manually capturing that much information is for people with more time and patience than me.</p>

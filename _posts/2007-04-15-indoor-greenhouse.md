@@ -12,12 +12,7 @@ tags:
 - gardening
 - house keeping
 - life
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/greenmyhouse.jpg" title="the bit in the middle will be full of tomatoes soon!" alt="the bit in the middle will be full of tomatoes soon!" height="483" width="480" /></p>
 <p>I've been talking about this to anyone who will listen for ages now!</p>

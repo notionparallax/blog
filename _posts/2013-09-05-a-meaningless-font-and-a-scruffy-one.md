@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503553371'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I was doing some wireframes last week and I kept running into a problem of not knowing how much space to give to any particular text area.</p>
 <p style="text-align: center;"><a href="/wordpress/wp-content/uploads/2013/09/wfFont.gif"><img class="size-full wp-image-1493 aligncenter" alt="wfFont" src="{{ site.baseurl }}/assets/wfFont.gif" width="600" height="196" /></a></p>

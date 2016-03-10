@@ -12,12 +12,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'Major study: Results review experience'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><!--more--></p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image048.png" rel="attachment wp-att-2105"><img class="alignnone size-full wp-image-2105" src="{{ site.baseurl }}/assets/image048.png" alt="image048" /></a><br />

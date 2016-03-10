@@ -13,12 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552641'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>
   <embed style="float:left" src="http://notionparallax.co.uk/wordpress/wp-content/uploads/2009/09/cutting-edge.swf" type="application/x-shockwave-flash" wmode="transparent" width="300" height="360"></embed><br />

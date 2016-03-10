@@ -9,12 +9,7 @@ categories: []
 tags:
 - GC
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p >I'm officially going to New York at the end of the month now for the smart geometry workshop and conference thingy.</p>
 <p >That means that apart from having to collect order for about a million ipods and things like that, I'm actually going to have to work on my proposed plan a bit too!</p>

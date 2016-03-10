@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552154'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Here are the notes and audio that I took at the talk this evening at the Museum of the History of Science by Dr Stephen Johnston - Architecture as Instrument.</p>
 <blockquote><p>"Dr Johnston is one of Compass and Rule’s curators. He discusses how the ingenuity of instrument makers was tied to the world of architectural design."</p></blockquote>

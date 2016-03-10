@@ -12,12 +12,7 @@ meta:
   geo_latitude: "-27.415650"
   geo_longitude: '153.076790'
   geo_public: '1'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Over coffee yesterday [1 a decaf, believe it or not] I was moaning about how good it would be to be able to pause time so that I could get my work done. Something a bit like the way that Bill and Ted do at the end of Bogus Journey.<br />
 We set up the rule that even if you were to go into frozen time, you couldn't bring anyone with you, and you'd keep ageing at a normal rate; a bit like if you were in light speed travel.<br />

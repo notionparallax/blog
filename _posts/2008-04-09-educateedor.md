@@ -15,12 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503551736'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I'm starting to find that teaching is actually really hard. I think that when I started that I was just terrified that I'd run out of stuff to say, or that I'd look like an idiot. I remember the panic when my first hour long lecture, which i was convinced would over run ended after 35 minutes.</p>
 <p>I'm much calmer now these days, but begin in the situation where I'm  teaching, and being taught at the same academic level is still a very strange situation to be in.</p>

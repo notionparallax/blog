@@ -10,12 +10,7 @@ tags:
 - architecture
 - BVN
 - Computer science
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>The navigation project that Dan &amp; Bin have been working on over the summer is about to finish. We've got one week left, so it's mostly commenting and tidying up.</p>
 <p>It's a long way from being a commercial product, but it is certainly useful as an in-house tool. There will be more on the blog about where we are now, and where we could go from here, in the next week, but just as a reminder - here's the link <a href="http://blog.bvn-usyd.com/">blog.bvn-usyd.com</a>.</p>

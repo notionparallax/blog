@@ -11,12 +11,7 @@ tags:
 - graph
 - mathematics
 - statistics
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I was always a bit confused by one of  the lyrics of Tricky's <em>Struglin'</em> - "I think I'm more normal than most".</p>
 <p>I've just finished the <a title="you can buy it from amazon, woooo" href="http://www.amazon.co.uk/Statistics-Very-Short-Introduction-Introductions/dp/019923356X">very short introduction to statistics</a>, and now I get it!</p>

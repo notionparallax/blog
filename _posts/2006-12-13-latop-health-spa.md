@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - hardware
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img alt="specoid" title="specoid" src="{{ site.baseurl }}/assets/specs.jpg" /></p>
 <p>My laptop is going to a healthspa for a week or two, so i'll have to fire up my desktop for the firt time since i decided i hated visa.</p>

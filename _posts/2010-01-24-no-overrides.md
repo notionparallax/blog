@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/assets/victoria-beckham-out-in-her-nazi-style-coat-hat-2.jpg" alt="" width="200" />I've become a real style nazi. Not in the way that most people think of it in that I disapprove of people's brightly patterned leggings and quiff combo, but in the sense that they are used in word processing.</p>
 <p>This is really very sad, but I like it. It goes along with my doctrine of extreme laziness.</p>

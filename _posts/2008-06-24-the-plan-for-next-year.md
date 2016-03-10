@@ -10,12 +10,7 @@ tags:
 - diploma
 - enhancement
 - future
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>It seemed fitting that while I struggled to print this semester's work, that I should be thinking about the next one. Now that I've finished this semester I can start writing it all down...</p>
 <p><a href="http://photos-d.ak.facebook.com/photos-ak-sf2p/v117/100/0/538805146/n538805146_982859_6587.jpg" target="_blank">Matt Gaskin</a> has a little something planned, which will be in place ready for my return. It's essentially an extension of  the existing and already very successful <a href="http://www.brookes.ac.uk/schools/be/architecture/postgraduate/diploma/majorstudy.html" target="_blank">major study</a> special route. As far as I can tell from afar, it's notionally a student led studio, with a remit to do whatever we like. The initial discussions are happening via a <a href="http://www.facebook.com/groups.php?ref=sb#/group.php?gid=19762371453">facebook group</a>.</p>

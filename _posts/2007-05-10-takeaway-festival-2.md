@@ -10,12 +10,7 @@ tags:
 - cool links
 - geek
 - interaction
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>the <a href="http://www.danacentre.org.uk/">dana centre</a> has put on a really interesting (but sadly under attended) series of workshops and talks.<br />
 there is still one more day tomorrow, so it might well be worth dropping in. it's free, so that's good i suppose!</p>

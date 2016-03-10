@@ -9,12 +9,7 @@ categories: []
 tags:
 - hardware
 - life
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>If anyone tries calling me in the next few days, there is only a very tiny chance that I will pick up.</p>
 <p><img src="{{ site.baseurl }}/assets/n541400612_1641463_9558.jpg" height="604" width="400" /></p>

@@ -11,12 +11,7 @@ tags:
 - books
 - geek
 - masters
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p> <img src="{{ site.baseurl }}/assets/0674627512.jpg" title="book cover, exciting isn't it!" alt="book cover, exciting isn't it!" align="left" height="254" width="164" /></p>
 <p>I'm currently writing a piece about Christopher Alexander's book Notes on the synthesis of form. I've read part one about 4 times now and it's either warpign my brain, or he had a good point to start with because I'm starting to agree with a lot of what he says (part 2 is a differnt story)<br />

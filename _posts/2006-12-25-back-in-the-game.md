@@ -8,11 +8,6 @@ status: publish
 categories: []
 tags:
 - hardware
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 My laptop is back and i've put a suse linux boot on it for playing with blender. there are new versions of GC coming out at an incredible rate, so i'm going to be super cool and spend christmas day playing with it.

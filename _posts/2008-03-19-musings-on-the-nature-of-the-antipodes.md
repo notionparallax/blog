@@ -9,12 +9,7 @@ categories: []
 tags:
 - architecture
 - rmit
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>This is a bit of writing/ranting that i did in order to try and understand my view of the studio's ideas. I'll put up the details of the experiment in a bit.</p>
 <p><img src="{{ site.baseurl }}/assets/1092948687_f58f8c6f10.jpg" height="500" width="500" /><br />

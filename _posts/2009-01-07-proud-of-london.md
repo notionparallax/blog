@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags:
 - bikes
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>The more of the world I see, the more impressed I am with the london system of transport, public and otherwise.</p>
 <blockquote>

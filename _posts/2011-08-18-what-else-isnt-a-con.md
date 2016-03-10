@@ -15,12 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552413'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>A few weeks ago I got sick of being constantly sore after exercise and I bought some <a href="http://www.optimumnutrition.com/products/Platinum-Hydrowhey-p-271.html">protein powder</a> from some <a title="Health nuts" href="http://maps.google.com.au/maps?q=health+nuts+kings+cross&amp;ll=-33.875324,151.222748&amp;spn=0.002044,0.003962&amp;fb=1&amp;gl=au&amp;cid=0,0,11995746981336015269&amp;t=h&amp;z=19&amp;vpsrc=6">nice french chaps</a> in Kings Cross. I'd always thought of it as a massive con, but miraculously I felt fine the next day after an epic gym session, so I kept going, and I've felt great after everything I've done since.</p>
 <p><img class="alignright" title="Protein from Wikipedia" src="{{ site.baseurl }}/assets/Protein_ARF1_PDB_1hur.png" alt="" width="200" />Whilst this sounds like a ringing endorsement of the wonders of nutritional supplements, really it is a combined shriek of frustration and an a big ah-ha moment. It all leaves me thinking "well if this isn't a con, then what else isn't a con too?" I've had a few suggestions, with "Jesus" being the most worrying ;) (If that's all real then I'm stuffed!)</p>

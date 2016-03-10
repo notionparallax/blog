@@ -12,12 +12,7 @@ tags:
 - SEWHA
 - thinking
 - tools
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>People love measuring energy and there seems to be an insatiable appetite for different ways of doing it. Watts, foot-pounds, joules, <a href="http://en.wikipedia.org/wiki/Calorie">calories</a> (gram calories <em>and</em> food calories), Btu, horesepower, the <a href="http://en.wikipedia.org/wiki/Units_of_energy#Other_units_of_energy">list goes on</a>.</p>
 <p>Historically, each industry seems to have come up with its own way of measuring energy based on quantities that make sense to them. This might have been fine when people worked mainly in their silos, but these units of energy are used by normal people these days.</p>

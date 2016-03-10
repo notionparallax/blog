@@ -9,12 +9,7 @@ categories: []
 tags:
 - graph
 - major study
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>The <a href="http://bpquiz.co.uk/">bpQuiz </a>site is up and rolling along nicely.</p>
 <p>I thought I’d start building the results graphs so that you can see how they are starting to form.</p>

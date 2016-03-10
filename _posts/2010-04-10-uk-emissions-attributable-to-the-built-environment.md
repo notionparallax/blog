@@ -10,12 +10,7 @@ tags:
 - emissions
 - major study
 - thinking
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I’m trying to write about how much the built environment contributes to UK CO<sub>2</sub> emissions, and i’m finding it to be very murky.</p>
 <p>There is a figure of about 47 to 50%-ish but nobody references where they got this from, and nobody then subdivides it to show what that is made up of.</p>

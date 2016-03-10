@@ -10,12 +10,7 @@ tags:
 - eco stuff
 - scooter
 - trips
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/h2vsVespa.jpg" alt="mine's black though" title="mine's black though" align="left" /></p>
 <p>On Saturday morning I got up early and rode down to Weymouth on my Vespa, and apart from the excitement of riding through Islington listening to Love Shack (the strange archaeological effect of having an mp3 collection that has only ever grown over the last 7 years combined with the way that my system randomly loads my player), and the 80mph touring cars extravaganza that is driving through the new forest, it was surprisingly uneventful.</p>

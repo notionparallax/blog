@@ -8,12 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>As I get busier, I find that it's important to streamline my procrastination. I've done my procrastinating for today, so a little meta procrastination is in order.<br />
 below are some good ways to waste time</p>

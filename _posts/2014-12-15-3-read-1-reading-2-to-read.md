@@ -19,12 +19,7 @@ meta:
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: 'This is a series that I’m trying to get going at work. This is my go
     at fulfilling this format: 3 Read, 1 reading, 2 to read'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p style="padding-left: 60px;"><em>This is a series that I'm trying to get going at work. This is my go at fulfilling this format.</em></p>
 <h1>Read</h1>

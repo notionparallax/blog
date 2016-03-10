@@ -12,12 +12,7 @@ tags:
 - hardware
 - house keeping
 - toys
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/n541400612_786533_5224.jpg" height="604" width="453" /></p>
 <p>I'm feeling a bit virtuous at the moment, I've just fixed my digital thermometer after I burned through the cable in a fit of retardedness.<br />

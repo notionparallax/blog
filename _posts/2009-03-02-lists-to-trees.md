@@ -12,12 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: '4503552113'
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>Gennaro asked me about data structures to contain a tree for his genetic programming in GC (little does he know how clueless I am about data structures), and I recommended a nested list.</p>
 <p>It seemed sensible to me, so I set about turning a nested list into a tree diagram, and I have to admit that there were moments that I doubted the plausibility of it, but it turned out OK in the end!</p>

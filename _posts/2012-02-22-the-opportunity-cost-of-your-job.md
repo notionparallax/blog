@@ -11,12 +11,7 @@ tags:
 - life
 - thinking
 - writing
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I have a theory:</p>
 <blockquote><p>All people of equal ability are of eligible to equal reimbursement for their labour, therefore any salary difference between you and your friends is the opportunity cost of your life decisions.</p></blockquote>

@@ -12,12 +12,7 @@ meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Deep work, and my first steps
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I just read <a href="https://kindle.amazon.com/work/deep-work-focused-success-distracted-ebook/B00X4S82SM/B013UWFM52">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport. It sits well with a lot of the stuff I've been reading recently as a member of the commons at BVN. His main argument is that being able to do deep work gives you a huge competitive advantage.<!--more--></p>
 <p>By deep work he means something that will advance your agenda in life, but also needs your specific skills. So I can send a bunch of emails, or go to a load of meetings, but really I could delegate that. Deep work is the stuff that you are uniquely suited to, and that required your undivided attention.</p>

@@ -12,12 +12,7 @@ description:
 meta:
   _wpas_mess: A couple of little ideas
   _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>I feel like I'm a bit less constrained now that the first milli workshop is out of the way so I thought I'd just get some other ideas down. I haven't looked very hard to see if they exist; if they do that that's great and I'd love to hear about them!</p>
 <h2>Rememberable Link service</h2>

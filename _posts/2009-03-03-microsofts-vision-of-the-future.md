@@ -9,12 +9,7 @@ categories: []
 tags:
 - future
 - geek
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><embed src="http://images.video.msn.com/flash/soapbox1_1.swf" id="7cj40bo8" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" pluginspage="http://macromedia.com/go/getflashplayer" flashvars="c=v&amp;v=a517b260-bb6b-48b9-87ac-8e2743a28ec5&amp;ifs=true&amp;fr=shared&amp;mkt=en-GB" width="490" height="412"></embed></p>
 <p>There is a lot of interesting stuff in here that seems reasonably plausable, seeing how far we've come in the last 10 years.</p>

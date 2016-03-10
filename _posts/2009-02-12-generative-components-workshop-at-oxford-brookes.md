@@ -9,12 +9,7 @@ categories: []
 tags:
 - GC
 - teaching
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p><img src="{{ site.baseurl }}/assets/gc1.jpg" width="500" height="451" /></p>
 <p>Today was the second day of the GC workshop at Brookes. It's always nice to be back on home turf with familliar people about.</p>

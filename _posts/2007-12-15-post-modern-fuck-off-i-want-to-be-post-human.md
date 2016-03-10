@@ -10,12 +10,7 @@ tags:
 - architecture
 - cool links
 - economics
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>having been to a few of the james martin institute lectures and seminars this term I've been getting really interested in the idea that we may be approaching a singularity point in human development. technology is getting to the point that  whatever it is that sucks about being a human, we have the power to do something about it.</p>
 <p>take a look at <a href="http://www.nickbostrom.com/">Nick Bostrom's</a> papers and see what it's all about!</p>

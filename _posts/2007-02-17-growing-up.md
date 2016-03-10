@@ -10,12 +10,7 @@ tags:
 - ecotect
 - GC
 - life
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+
 ---
 <p>i'm feeling quite grown up, i've just go myself my second piece of legal commercial software (third if you include windows)</p>
 <p>so now i have legit copies of <a href="http://www.gcuser.com">Generative Components</a> and of <a href="http://ecotect.com/home">Ecotect</a>, one day i might have lots of legal commercial software, but i might go open source for a few things like office.</p>
