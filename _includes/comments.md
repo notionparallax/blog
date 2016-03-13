@@ -6,7 +6,7 @@
 */
 
 var disqus_config = function () {
-  this.page.url        = "{{page.url | prepend: site.baseurl}}"; // Replace PAGE_URL with your page's canonical URL variable
+  this.page.url        = "{{page.url | prepend: site.baseurl | prepend: site.url}}"; // Replace PAGE_URL with your page's canonical URL variable
   {% if include.PAGE_IDENTIFIER %}
   this.page.identifier = {{include.PAGE_IDENTIFIER}}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
   {% endif %}
