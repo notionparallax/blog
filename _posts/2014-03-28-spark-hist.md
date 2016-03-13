@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Spark hist
-date: 2014-03-28 04:47:55.000000000 +11:00
+date: 2014-03-28 04:47:55 +11:00
 type: post
 published: true
 status: publish
 categories: []
 tags: []
-description:
+description: "Ever need a histogram in a spreadsheet?▁░░░▃░▁▅▁█ █▄▁▁▂▃▇▆▂░ ▁▄▁▃▃▂▂█▂░ █░▃▂█▁▅▁░▁ ▂░░░░▄▆█▅░ ▄░▁▁▃░█▅▁▁ ▆▂▁░▃▁▄▇█▁ ▇▆█▅▅▃▄▅▂░ ▂█▃▂▂▂▄█▂"
 meta:
   _wpas_mess: |-
     Spark hist http://wp.me/p3wwRK-pz
