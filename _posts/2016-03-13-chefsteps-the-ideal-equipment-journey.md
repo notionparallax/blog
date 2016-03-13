@@ -22,7 +22,7 @@ They use a lot more specialist equipment than your average cook book, but there 
 * What order of acquisition would unlock the most recipes?
 * Are there a lot of recipes that require pieces of equipment that no other recipe uses?
 
-The quick summary is that there are 370ish bits of unique kit, but you seem to be able to get by very nicely on 50 or so.
+The quick summary is that there are 300ish bits of unique kit, but you seem to be able to get by very nicely on 50 or so.
 
 I did a little scrape to get the equipment from each recipe. The [python to do that is here](https://github.com/notionparallax/ChefstepsEquipment) and the results are below:
 <figure>
