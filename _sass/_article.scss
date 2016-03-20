@@ -2,7 +2,24 @@
   max-width: 45em;
 }
 
-article {
+article.post {
+  font-family: $body-font-family;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {font-family: $heading-font-family;}
+
+  h1 {font-size: 270%;}
+  h2 {font-size: 230%;}
+  h3 {font-size: 200%;}
+  h4 {font-size: 180%;}
+  h5 {font-size: 140%;}
+
+  li {
+    margin-bottom: 1em;
+  }
 
   .small-caps {
     font-style: initial;
