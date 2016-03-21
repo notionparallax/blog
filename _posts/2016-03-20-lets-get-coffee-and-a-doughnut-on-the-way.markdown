@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's get coffee and a doughnut on the way"
+title: Let's get coffee and a doughnut on the way
 date: 2016-03-21 15:34:23 PDT
 type: post
 published: true
