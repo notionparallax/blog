@@ -19,6 +19,10 @@ article.post {
 
   li {
     margin-bottom: 1em;
+
+    p {
+      margin-top: 0.5em;
+    }
   }
 
   .small-caps {
@@ -47,9 +51,13 @@ article.post {
   .half-width {
     @include span-columns(6);
     @include omega();
+    padding-top: 1em;
   }
 
-  .right {float: right;}
+  .right {
+    float: right;
+    margin-left: 1em;
+  }
 
   .left {float: left;}
 
