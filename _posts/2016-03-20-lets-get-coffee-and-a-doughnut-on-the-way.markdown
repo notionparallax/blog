@@ -16,20 +16,20 @@ One of the bits of it has the protagonist picking up dinner on his way home from
 
 This kind of query is quite natural for a human brain to do. It is a bit taxing sometimes to come up with an answer, but it's not possible with the way the mapping systems I know of are implemented.
 
-####Why do I care about this?
+#### Why do I care about this?
 This week's obsession is conversational interfaces. A lot of the things we do with computers rely on graphical interfaces to communicate. This means that they can offload a lot of the processing to the visual cortex by displaying a map.
 
 Conversational interfaces are like talking on the phone so there's no way to cheat, they need to offer actionable options. In this case, where to refil my snack-tank!
 
-#What things does the map AI need to think about?
+# What things does the map AI need to think about?
 
-####Where I am (Point A)
+#### Where I am (Point A)
 This one is simple, GPS has you totally covered here.
 
-####Where I'm going (Point B)
+#### Where I'm going (Point B)
 Things like Google Maps have a pretty solid grasp of all the places you could want to go. They know their coordinates and they know their opening hours. What they don't warn you about yet is if you are going to get there after they close; it'll just merrily send you on a route to get there at five past six as they are walking out of the door.
 
-####Places that can service the desire
+#### Places that can service the desire
 Let's stick to the plan here and get coffee and a doughnut! I need to filter for all the businesses that sell coffee _and_ doughnuts. This also isn't that hard, but it will take a fair but of work on the part of business owners to keep their offerings updated. Foursquare, Yelp and Google will ask a bunch of questions about a place that you've been to or reviewed.
 
 <figure>
@@ -39,7 +39,7 @@ Google [asks people about places they've been](https://www.seroundtable.com/goog
 </figcaption>
 </figure>
 
-####Places that I'd like
+#### Places that I'd like
 Up to this point has been pretty straight forward, OG database stuff. All we're doing is putting points on a map. The next thing it to work out if I'll like any of those places. I have preferences, and communicating them to an AI would be really hard if I had to do it manually. My revealed preferences are probably more useful to an AI; Google Now already asks me if I am in a certain place or not. 
 
 I've been thinking for a while that a social pressure to review will emerge eventually. This is enforced by Uber because you can't book your next one without reviewing the last one, but it doesn't account for taste, Uber just wants to make sure that you got acceptable service. In [Building Web Reputation Systems](http://shop.oreilly.com/product/9780596159801.do) they talk about how almost all reviews on a five star system come out as 1s or 5s so you don't get much nuance[^2]. This is something that we need to get over because if we all rate 5* then there's no way to say _this place is fine, but it's not for me_. If we can do that then the AI can start to build us into tribes[^3] and recommend places that other people in our tribe liked.
