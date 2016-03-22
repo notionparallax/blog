@@ -14,7 +14,7 @@ There's been a pretty good discussion on the BVN Slack channel, _#future-of-work
 
 There was fair bit of discussion that's been of the sort where we can't seem to agree on basic premises. Once we got that sorted out things all seemed to flow quite nicely. I thought I'd write down some of those premises so that new people to the discussion can catch up quickly. Also to sort them out in my own mind.
 
-#What's the point of this post?
+# What's the point of this post?
 
 There is going to be a time period that the future is going to unfold over. This seems to be a trivially obvious thing to say, but it seemed like the key to making everyone agree. I think that there are several periods of the past and the future that are useful to think about.
 
