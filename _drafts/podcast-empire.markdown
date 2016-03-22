@@ -27,6 +27,8 @@ With [WebRTC](https://webrtc.org/) you can handle the broadcast part of the setu
 
 That is the big question but I think I have a solution.
 
+(Of course this is only a problem if you care about this as a commercially viable product and not just an open source toy.)
+
 #Solution to the other problem
 
 One of the other problems in podcast land is that they are monolithic chinks of audio data. The ads are the same for everyone, no matter where they live or what they're like. If you are mixing the audio on a server for the podcast host then it'd be pretty easy to put in flexible chunks of time that can be filled however you want.
