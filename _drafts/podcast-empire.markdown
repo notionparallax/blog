@@ -31,7 +31,7 @@ That is the big question but I think I have a solution.
 
 #Solution to the other problem
 
-One of the other problems in podcast land is that they are monolithic chinks of audio data. The ads are the same for everyone, no matter where they live or what they're like. If you are mixing the audio on a server for the podcast host then it'd be pretty easy to put in flexible chunks of time that can be filled however you want.
+One of the other problems in podcast land is that they are monolithic chinks of audio data. The ads are the same for everyone, no matter where they live or what they're like. If you are mixing the audio on a server for the podcast host then it'd be pretty easy to insert flexible chunks of time that can be filled however you want.
 
 Once you've got a series of content segments then it's easy to concatenate them together with advert segments, potentially even to order. Then each person has their own download link to the podcast.
 
