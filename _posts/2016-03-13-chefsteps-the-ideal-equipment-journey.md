@@ -26,7 +26,7 @@ The quick summary is that there are 300ish bits of unique kit, but you seem to b
 
 I did a little scrape to get the equipment from each recipe. The [python to do that is here](https://github.com/notionparallax/ChefstepsEquipment) and the results are below:
 <figure>
-<iframe src="https://docs.google.com/spreadsheets/d/1tf2GLSQexYe3346Gj7arfgbUxX9-3apWmRWRvjPzkYg/pubhtml?gid=2142707859&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1tf2GLSQexYe3346Gj7arfgbUxX9-3apWmRWRvjPzkYg/pubhtml?gid=1735103416&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 <figcaption>
 You can get the data from the repo, or [a slightly tidied version from here](https://docs.google.com/spreadsheets/d/1tf2GLSQexYe3346Gj7arfgbUxX9-3apWmRWRvjPzkYg/pub?output=xlsx). This table shows the recipes ordered by number of bits of kit needed to make them. For an easy life, start at the bottom!
 
