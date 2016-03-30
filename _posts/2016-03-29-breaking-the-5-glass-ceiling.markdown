@@ -41,7 +41,7 @@ What if there was a log or exponential scale of tip that it would cost to rate a
 That money could then go directly to the driver, overcoming some of the objections to the forced-obsequiousness that has been mentioned elsewhere.
 
 
-[^1]: He's an even more severe yak shaver than me. He has built his blog engine from scratch and hasn't even got around to putting an index page in yet.
+[^1]: He's an even more severe yak shaver than me. He has built his blog engine from scratch and hasn't even got around to putting an index page in yet. We've talked about all kinds of interesting things over the years and it's going to be interesting to see some of them written down. A lot of them were on the boundaries of what I can understand, so it'll be good to be able to re-read them until I am _sure_ I don't understand.
 
 [^2]: This is unlike tipping in a restaurant where there is social pressure because you are being watched.
 
