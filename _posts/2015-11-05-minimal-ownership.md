@@ -16,7 +16,7 @@ Renting or leasing something isn't a new idea, it's just got forgotten about whi
 
 Now when you do the numbers on owning a car it goes in favour of renting. For a weekly trip to the supermarket and a few road trips having a Goget membership makes much more sense. I'm going to make an assumption that it is due to better communication and efficient use of resources, enabled by the internet.
 
-Lets take a little side step for a moment. In a recent episode of <a href="http://www.bbc.co.uk/programmes/b04hz49f" data-cke-saved-href="http://www.bbc.co.uk/programmes/b04hz49f">In Our Time</a> one of Melvin's guests was explaining <em><a href="https://en.wikipedia.org/wiki/E_(mathematical_constant)" data-cke-saved-href="https://en.wikipedia.org/wiki/E_(mathematical_constant)">e</a>. </em>It was 'discovered' by imagining what would happen if compound interest accrued continuously[^1]. It turns out that interest accrues at <em>e</em> if your calculations use continuous time periods. I really like the idea of taking things to infinity  to see what happens[^2].
+Lets take a little side step for a moment. In a recent episode of <a href="http://www.bbc.co.uk/programmes/b04hz49f">In Our Time</a> one of Melvin's guests was explaining <em><a href="https://en.wikipedia.org/wiki/E_(mathematical_constant)">e</a>. </em>It was 'discovered' by imagining what would happen if compound interest accrued continuously[^1]. It turns out that interest accrues at <em>e</em> if your calculations use continuous time periods. I really like the idea of taking things to infinity  to see what happens[^2].
 
 What happens when we take ownership to zero? This isn't in the same way that a monk might own just his robes and his rice bowl. More the idea that once there's ubiquitous fast access to spotify then there's very little use in having a vast cd collection.
 
@@ -26,10 +26,14 @@ In a world where you don't own something but you still want access to it there a
 
 There has been a bit of noise recently about Google and Amazon[^8] working up to drone delivery.
 
-Amazon seems to be talking about it from the point of view of being you <em>things</em> to own. Their fast delivery is all about making it easier to <em>own</em> things. That'll get even easier once drones can bring things to you[^9] .
+Amazon seems to be talking about it from the point of view of bringing you <em>things</em> to own. Their fast delivery is all about making it easier to <em>own</em> things. That'll get even easier once drones can bring things to you[^9] .
+
+<figure>
 <blockquote>
-"People don't want to buy a quarter-inch drill. They want a quarter-inch hole!"</blockquote>
-<p style="text-align: right;">Theodore Levitt
+"People don't want to buy a quarter-inch drill. They want a quarter-inch hole!"
+</blockquote>
+<figcaption>Theodore Levitt</figcaption>
+</figure>
 
 Google has been talking about the idea that you might want a spoon or a hammer for an hour or two. The Google model seems much more focussed on access to the amenity of an object. They are also talking about providing medical help to places that aren't served by roads (e.g. in Africa). It's not far to go after that to offer access to spoons etc. to the same people.
 
