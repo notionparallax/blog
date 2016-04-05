@@ -32,7 +32,9 @@ Amazon seems to be talking about it from the point of view of bringing you <em>t
 <blockquote>
 "People don't want to buy a quarter-inch drill. They want a quarter-inch hole!"
 </blockquote>
-<figcaption>Theodore Levitt</figcaption>
+<figcaption>
+Theodore Levitt
+</figcaption>
 </figure>
 
 Google has been talking about the idea that you might want a spoon or a hammer for an hour or two. The Google model seems much more focussed on access to the amenity of an object. They are also talking about providing medical help to places that aren't served by roads (e.g. in Africa). It's not far to go after that to offer access to spoons etc. to the same people.
