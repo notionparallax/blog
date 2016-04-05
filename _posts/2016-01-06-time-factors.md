@@ -7,18 +7,18 @@ published: true
 status: publish
 categories: []
 tags: []
-description: I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
+description: I've been thinking about _time_ recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
 
 special-class: time-factors
 ---
-I've been thinking about <em>time</em> recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
+I've been thinking about _time_ recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
 
 <div class="reading-stats">
 
-<strong>Reading stats</strong> <small>(no footnotes)</small>
+**Reading stats** <small>(no footnotes)</small>
 
 <span class="thing">Readability</span><span class="value">Grade 7</span>
 
@@ -64,7 +64,9 @@ If we talk about manufacturing, there's a long history.
 <figure markdown="0" class="fuse">
   <img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" /> 
 
-  <figcaption>One summer I did a week as a temp making these. It's an industrial fuse. Two Bakelite pieces, screwed together over a middle fuse. I got pretty quick. So quick that my 2 week temping gig ended up only being a week because I'd finished my allocation.</figcaption>
+  
+<figcaption>One summer I did a week as a temp making these. It's an industrial fuse. Two Bakelite pieces, screwed together over a middle fuse. I got pretty quick. So quick that my 2 week temping gig ended up only being a week because I'd finished my allocation.
+</figcaption>
 
 </figure>
 
@@ -159,8 +161,10 @@ Google famously had 20% time. Zara runs their operations at something like 80% o
 The general idea is that if you are running flat out, then it's really hard to change direction. Architecture, as a profession, is running so flat out that it doesn't even have time to tie its shoe laces! People are bored of The Axe Quote, but I'll put it in anyway[^13]:
 
 <figure class="quote" markdown="0">
-<blockquote>Time spent in sharpening the axe may well be spared from swinging it.</blockquote>
-<figcaption>Josiah Strong, <cite>The Times and Young Men</cite></figcaption>
+<blockquote>Time spent in sharpening the axe may well be spared from swinging it.
+</blockquote>
+<figcaption>Josiah Strong, <cite>The Times and Young Men</cite>
+</figcaption>
 </figure>
 
 The spare time that Google, 3M and Zara create allows them to invest in improvements. In Google's case, they were mainly investing in making new products. They were in a divergent phase where they were experimenting to see if there were new areas that they could grow into. Zara uses the slack to be able to respond immediately to market forces.
@@ -175,7 +179,7 @@ Then--again as Google did--we'd go into a convergent phase where we focus on the
 
 <img class="scruffy alignleft  size-full" src="{{ site.baseurl }}/assets/donated.png" alt="donated" />This is a nuanced topic, and it really gets people on edge.
 
-If one's salary 'pays for' 8 hours of work, then any additional work done is donated. This is a definitional minefield. What is <em>work</em>? Are we <em>time</em> based or <em>task</em> based?
+If one's salary 'pays for' 8 hours of work, then any additional work done is donated. This is a definitional minefield. What is _work_? Are we _time_ based or _task_ based?
 
 Currently, the way most contracts are written, we are time based, so I'm going to go from that basis.
 
@@ -183,11 +187,11 @@ Sometimes it's easy; paid overtime means that there is no trade off to work out,
 
 Given that hardly anyone in architecture pays overtime, there must be some other motivation to sacrifice time that one could be using in other ways. Why would you work for free when you could be spending time with your kids or your friends? You could be doing some other work that earns money, or doing something for yourself that you currently need to pay someone to do.
 
-In other words what do <em>we</em> gain by working these donated hours?
+In other words what do _we_ gain by working these donated hours?
 
 I've asked quite a few people, I got a lot of answers.
 
-One that comes up a lot is that people try to <em>work</em> for 8 hours day. They offset trips to the toilet and coffee breaks--times that they are doing non-productive things--against the platonic 8 hours. This is admirable I guess, but it feels a bit wrong. That would make sense if we were production drones. If we stamped widgets, or were doing process work, but we claim that we are doing thought-work[^16]. If we are thinking then most of the progress in thinking happens during coffee breaks and on the toilet. If making up for lost time is the reason then we'd expect to see the levels of work being more consistent. E.g. people would work 8.5 hours because they spend 30 minutes drinking coffee and pooping.
+One that comes up a lot is that people try to _work_ for 8 hours day. They offset trips to the toilet and coffee breaks--times that they are doing non-productive things--against the platonic 8 hours. This is admirable I guess, but it feels a bit wrong. That would make sense if we were production drones. If we stamped widgets, or were doing process work, but we claim that we are doing thought-work[^16]. If we are thinking then most of the progress in thinking happens during coffee breaks and on the toilet. If making up for lost time is the reason then we'd expect to see the levels of work being more consistent. E.g. people would work 8.5 hours because they spend 30 minutes drinking coffee and pooping.
 
 The next most common is that there is a sense of career advancement that comes from 'putting in the hard yards'[^17]. You just need to do the hours to show your love for the work. People feel that they have a responsibility to the project and that translates into doing extra work on their own time[^17a]. <img class="alignright" style="width: 25%;" src="{{ site.baseurl }}/assets/pick-two.png" alt="" />The last argument relates to the previous one, but the time is given less willingly. If there is
 
@@ -203,17 +207,17 @@ Craig also has a great diagram that explains this problem (and how to fix it).
 There really should be an iframe here :( 
 </iframe>
 
-The problem is that the <em>how</em> is only specified as <em>do things better</em>. Finding an actionable <em>how</em> is going to be hard.
+The problem is that the _how_ is only specified as _do things better_. Finding an actionable _how_ is going to be hard.
 
 # Conclusion
 
 I've presented 7 ideas. They don't explain everything about time but I've found them very useful as a common touch-point with people.
 
-I've tried (not very hard) to keep my opinions to the footnotes. I have some conclusions that <em>I've</em> drawn from these premises. What I'd really like is to see if others come to different conclusions!
+I've tried (not very hard) to keep my opinions to the footnotes. I have some conclusions that _I've_ drawn from these premises. What I'd really like is to see if others come to different conclusions!
 
 I'll share mine in another post.
 
-[^1]: This is talked about a lot in The Mythical Man Month, about how many lines of code a person writes in a day. Then software people have been trying to <em>not</em> do that ever since.
+[^1]: This is talked about a lot in The Mythical Man Month, about how many lines of code a person writes in a day. Then software people have been trying to _not_ do that ever since.
 
 [^2]: New York Times <a href="http://www.nytimes.com/learning/general/onthisday/big/0105.html#article">"Ford Gives $10,000,000 To 26,000 Employees"</a>, <i>The New York Times</i>, January 5, 1914, accessed April 23, 2011.
 
@@ -239,7 +243,7 @@ I'll share mine in another post.
 
 [^8]: the first was done using <a href="https://www.eventzero.com/Greentrac/">Greentrac</a> to measure the number of active computers. This isn't perfect because not everyone at a desk is using their computer. They may be leaning back in their chair on the phone, or drawing. Even if we bump up the occupancy rate by a generous 5% that's still much lower than 100%. The actual number went from a peak of 60% down to 40% during lunch time.
 
-[^8a]: I don't think anyone feels bad about exploiting chairs and software licences, but I'm using <em>exploited</em> in the economics sense, not the bleeding hearts sense.
+[^8a]: I don't think anyone feels bad about exploiting chairs and software licences, but I'm using _exploited_ in the economics sense, not the bleeding hearts sense.
 
 [^9]: I don't have the exact quote, Matthew has my copy of <a href="http://www.amazon.co.uk/Parkinsons-Law-Northcote-Parkinson/dp/1568490151">the book</a> at the moment.
 
@@ -257,6 +261,6 @@ I'll share mine in another post.
 
 [^16]: maybe we're not, but nobody ever admits to it. Some of history's most famous people didn't work crazy hours. E.g. Descartes's laziness was legendary!:
 
-[^17]: which is odd in a fully metric society, surely you'd be <em>putting in the hard meters</em>?
+[^17]: which is odd in a fully metric society, surely you'd be _putting in the hard meters_?
 
 [^17a]: in the spirit of keeping my opinions to the footnotes: I think that this is really dangerous. It sets a precedent that if you are unable to put in extra time because of commitments to family or something like that, then you aren't as valuable. This seems completely at odds with the cultural change that organisations like <a href="http://archiparlour.org/">Parlour</a> are trying to bring about. More selfishly, if the reason you are working longer hours isn't because you did something wrong and are fixing it, then it's probably a project resourcing error. As I've said above, the MMM idea that more people means less work done doesn't apply any more.

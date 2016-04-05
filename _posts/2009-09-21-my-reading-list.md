@@ -12,9 +12,9 @@ tags:
 
 ---
 <p>If you are going to stop smoking, the advice is to tell as many people of your intention. The reasoning going something along the lines of 'if you tell a lot of people, and you fail, failure is embarrassing, so you put more effort into not failing'. Respect seems to be a powerful motivator!</p>
-<p>I don't smoke, but I do read, and I'm going to go all Philip Morris on some books by telling people of my intention to read <em>more </em>of them.</p>
+<p>I don't smoke, but I do read, and I'm going to go all Philip Morris on some books by telling people of my intention to read _more _of them.</p>
 <p>if you are reading this on facebook, follow this link to read it in glorious <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/09/my-reading-list/">technicolour</a>.<br />
-<!--more--></p>
+ </p>
 <p><iframe style="width:120px;height:240px;" src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=notioparal-21&o=2&p=8&l=as1&m=amazon&f=ifr&md=0M5A6TN3AXP2JHJBWT02&asins=0141034599" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
 There really should be an iframe here :(
 </iframe>To start with, the book I'm reading now, 'The Black Swan'. This is a bit ranty, but it goes through a few biases with an interesting slant. My favorite bit so far has been 'given that a coin lands 98 times in a row on heads, and it is a fair coin, what is the likelihood of it landing tails the next time?' and then it gives two answers<br />
@@ -24,7 +24,7 @@ It is a good warning against taking too computational approach to things. (altho
 So far, it's an enjoyable read, so you might as well have a crack at it.</p>
 <p><iframe style="width:120px;height:240px;" src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=notioparal-21&o=2&p=8&l=as1&m=amazon&f=ifr&md=0M5A6TN3AXP2JHJBWT02&asins=0809058405" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
 There really should be an iframe here :(
-</iframe>Next up is <em>Innumeracy: Mathematical Illiteracy and Its Consequences</em>. This comes highly recommended by both Erika, and the author of <em>Irrationality</em>, so it gets on the list. My mathematical abilities have atrophied beyond recognition, so I need to get on top of them quick smart!</p>
+</iframe>Next up is _Innumeracy: Mathematical Illiteracy and Its Consequences_. This comes highly recommended by both Erika, and the author of _Irrationality_, so it gets on the list. My mathematical abilities have atrophied beyond recognition, so I need to get on top of them quick smart!</p>
 <p><iframe style="width:120px;height:240px;" src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=notioparal-21&o=2&p=8&l=as1&m=amazon&f=ifr&md=0M5A6TN3AXP2JHJBWT02&asins=0199299722" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
 There really should be an iframe here :(
 </iframe>This book is more specifically related to my major study topic (which will be revealed in the next couple of weeks). It's another collection of essays and papers about the issues surrounding human enhancement.</p>

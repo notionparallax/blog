@@ -17,7 +17,7 @@ meta:
   _wpas_mess: Card chastity http://wp.me/p3wwRK-q1
 
 ---
-<p>Every time I need to slide it into the slot it feels a little bit peculiar. I can only imagine this feeling of insertion into the unknown increasing as time goes by.<!--more--></p>
+<p>Every time I need to slide it into the slot it feels a little bit peculiar. I can only imagine this feeling of insertion into the unknown increasing as time goes by. </p>
 <p>With the widespread adoption of paywave, and the sydney transport system finally getting an NFC based ticketing system[1. a relief, even if it is painfully slow to register.], it is getting rare to ever need to poke one's card into a hole. Holes are where scratches happen, where details get scraped and cloned, and where things go in and sometimes never come out. </p>
 <p>With NFC[1. or whatever mystical technology Apple have up their sleeves in their long battle to fuck up mobile payments - wankers] chips in cards now there's no need to ever put your card into anything. That would mean that you could just touch on the glass surface of an ATM then only needing a hole to get the money out (as they email you a receipt). </p>
 <p>The same seems to be happening with other cables that you need to poke into things</p>

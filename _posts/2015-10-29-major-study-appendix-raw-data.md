@@ -14,7 +14,7 @@ meta:
   _wpas_mess: 'Major study appendix: Raw data'
 
 ---
-<p><!--more--></p>
+<p> </p>
 <h2><a name="_Toc260017730"></a>data collected</h2>
 <p>The table of data collected just fits onto four A1 sheets. It isn’t attached to this document, but it is available freely online at: <a href="http://tinyurl.com/BPquizData">http://tinyurl.com/BPquizData</a></p>
 <p>The private data relating to companies and email addresses is removed, but otherwise it is the complete set of data collected.</p>

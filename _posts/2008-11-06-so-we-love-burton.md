@@ -23,8 +23,8 @@ words crossed out and replaced with snowboardy words.<br />
 I don't suppose you have an archive of old ads, or any other way that I can get to see it again?<br />
 thanks<br />
 Ben</font></p>
-<p><strong><font color="blue" size="2">Hey Ben,</font></strong></p>
-<p><strong><font color="blue" size="2">This one is a classic. Thanks for the awesome question.</font></strong></p>
-<p><strong><font color="blue" size="2">-Yianni</font></strong></p>
-<p><strong><font color="blue" size="2">The Info@Burton Team</font></strong></p>
-<p><strong><font color="blue" size="2">(800)-881-3138</font></strong></p>
+<p>**<font color="blue" size="2">Hey Ben,</font>**</p>
+<p>**<font color="blue" size="2">This one is a classic. Thanks for the awesome question.</font>**</p>
+<p>**<font color="blue" size="2">-Yianni</font>**</p>
+<p>**<font color="blue" size="2">The Info@Burton Team</font>**</p>
+<p>**<font color="blue" size="2">(800)-881-3138</font>**</p>

@@ -33,10 +33,11 @@ meta:
 <p>The <a href="http://axomic.com/">Axomic</a> <a href="https://www.axomic.com/media">OpenAsset</a> <a title="The REST docs" href="http://help.axomic.com/07_Technical_Stuff/APIs_and_Integration/REST_API">REST API</a> is doing its best to totally confuse me. I tend to find that if I write and do, then things become clearer.</p>
 <p><a href="http://stackoverflow.com/questions/22676924/how-to-construct-image-url-from-axomic-openasset-rest-api" title="How to construct image url from Axomic OpenAsset REST API">Stack overflow</a> only has one question about this particular API, and I asked it... and answered it[1. after getting a very helpful reply to an email that I sent to Axomic help]. The idea of this post is to document the steps I've gone through to try to solve the problem so that it is easier for someone who knows what they are doing to fill in the gaps in my knowledge!</p>
 <h3>My goal</h3>
-<blockquote><p>I want to be able to go to a specific project, and then ask that project to give me its <a href="http://help.axomic.com/05_Manage/02_Projects#Hero_Image" title="the axomic docs">hero image</a></p></blockquote>
-<p>That's the short term goal, I'm sure I'll want to do more in the future, but here's my attempts to solve <em>that</em> problem.<br />
-<!--more--></p>
-<p>This is a simple ruby file that will send GET requests to an OA server[1. You don't need to be told to put <em>your</em> details in to the top bit do you?].</p>
+<blockquote><p>I want to be able to go to a specific project, and then ask that project to give me its <a href="http://help.axomic.com/05_Manage/02_Projects#Hero_Image" title="the axomic docs">hero image</a></p>
+</blockquote>
+<p>That's the short term goal, I'm sure I'll want to do more in the future, but here's my attempts to solve _that_ problem.<br />
+ </p>
+<p>This is a simple ruby file that will send GET requests to an OA server[1. You don't need to be told to put _your_ details in to the top bit do you?].</p>
 <p><script src="https://gist.github.com/notionparallax/48c6c68577b17c95c0e5.js"></script></p>
 <p>This is asking for file number 2 from the general array of files. They don't seem to be in any sort of order that could be used to one's advantage.</p>
 <pre>{
@@ -160,9 +161,10 @@ resourses.each{|r|
 <p>gives the <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2014/07/OA_REST.txt">outcome here</a>.</p>
 <p><a href="http://stackoverflow.com/questions/22676924/how-to-construct-image-url-from-axomic-openasset-rest-api" title="How to construct image url from Axomic OpenAsset REST API">Stack overflow</a> only has one question about this particular API, and I asked it... and answered it[^1]. The idea of this post is to document the steps I've gone through to try to solve the problem so that it is easier for someone who knows what they are doing to fill in the gaps in my knowledge!</p>
 <h3>My goal</h3>
-<blockquote><p>I want to be able to go to a specific project, and then ask that project to give me its <a href="http://help.axomic.com/05_Manage/02_Projects#Hero_Image" title="the axomic docs">hero image</a></p></blockquote>
-<p>That's the short term goal, I'm sure I'll want to do more in the future, but here's my attempts to solve <em>that</em> problem.<br />
-<!--more--></p>
+<blockquote><p>I want to be able to go to a specific project, and then ask that project to give me its <a href="http://help.axomic.com/05_Manage/02_Projects#Hero_Image" title="the axomic docs">hero image</a></p>
+</blockquote>
+<p>That's the short term goal, I'm sure I'll want to do more in the future, but here's my attempts to solve _that_ problem.<br />
+ </p>
 <p>This is a simple ruby file that will send GET requests to an OA server[^2].</p>
 <p><script src="https://gist.github.com/notionparallax/48c6c68577b17c95c0e5.js"></script></p>
 <p>This is asking for file number 2 from the general array of files. They don't seem to be in any sort of order that could be used to one's advantage.</p>
@@ -282,5 +284,5 @@ resourses.each{|r|
 
 [^1]: after getting a very helpful reply to an email that I sent to Axomic help
 
-[^2]: You don't need to be told to put <em>your</em> details in to the top bit do you?
+[^2]: You don't need to be told to put _your_ details in to the top bit do you?
 

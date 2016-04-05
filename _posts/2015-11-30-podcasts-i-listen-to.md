@@ -48,7 +48,7 @@ By a lot, I mean that I've listened to tens&endash;hundreds of hours of these.
 <div class="big-grid">
 ##<a href="http://www.dancarlin.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3ec78c50-0d62-012e-fb9c-00163e1b201c.jpg" alt="" />Hardcore History</a>
 
-This is the only podcast I <em>actively</em> look forward to. That might be because he only does two or three a year, but each one is 3 or four hours long. The recent series on WW1 was 6 episodes, each of 3ish hours.
+This is the only podcast I _actively_ look forward to. That might be because he only does two or three a year, but each one is 3 or four hours long. The recent series on WW1 was 6 episodes, each of 3ish hours.
 
 Because he has a lot of time he's able to go on tangents. These make understanding the main players' motivations much clearer. He also loves quoting original sources, reading letters etc. which he does in his special quoting-things voice.
 
@@ -70,7 +70,7 @@ I feel like IOT does more for rounding out my general knowledge than anything el
 
 Very ocasionally it'll go off the rails, maybe once a year, on current science topics where there's uncertainty. (The climate change episode was a bit of a disaster.)
 
-The back catalogue is a good place to look if you need to know a <em>lot</em> about a subject but only have 45 minutes.
+The back catalogue is a good place to look if you need to know a _lot_ about a subject but only have 45 minutes.
 </div>
 <div class="big-grid">
 ##<a href="http://www.philosophybites.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c91eec00-0423-012e-f9a0-00163e1b201c.jpg" alt="" />Philosophy Bites</a>
@@ -292,4 +292,4 @@ Women Who Startup Radio
 
 I made this list more or less manually by copying bits of the <a href="https://play.pocketcasts.com">Pocketcasts</a> web app. It'd be pretty nice to be able to make something like this automagically as a way to publish podcast loyalty. Maybe a public page that had a list and some generic details (name, link, frequency of release) and then some person specific stuff (number of these podcasts listened to, number of total hours spent listening etc.).
 
-It might even be a good way to follow specific people. E.g. <em>I think that person's cool, I wonder what they listen to?</em>
+It might even be a good way to follow specific people. E.g. _I think that person's cool, I wonder what they listen to?_

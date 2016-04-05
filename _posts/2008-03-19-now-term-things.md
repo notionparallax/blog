@@ -18,7 +18,7 @@ tags:
 <p>Term has started here, and things have got considerably more hectic. I'm doing an elective to do with food production and distribution in the city, and one called 'death by architecture' which is basically entering loads of competitions.
 </p>
 
-<p ><!--more-->The food one is really interesting, it actually belongs to the industrial design school, and is being led by an anthropologist, so it's focus is a lot more on the way that the systems of food distribution work rather than what they look like. I took a walk around my block, and within probably a 300m radius, I found pomegranates, tomatoes, aubergines, lemons, figs, what i think are mulberries, and something that looks like it is an apricot. I've still got a bit of reading to do on the plants I'm likely to find, so there may well be others that I've photographed, but not recognised.
+<p > The food one is really interesting, it actually belongs to the industrial design school, and is being led by an anthropologist, so it's focus is a lot more on the way that the systems of food distribution work rather than what they look like. I took a walk around my block, and within probably a 300m radius, I found pomegranates, tomatoes, aubergines, lemons, figs, what i think are mulberries, and something that looks like it is an apricot. I've still got a bit of reading to do on the plants I'm likely to find, so there may well be others that I've photographed, but not recognised.
 </p>
 
 <p >The death by architecture elective is a bit less well defined, not least because I totally forgot to go to the first session, but there is a list of competitions to enter, so I think I just need to enter them!

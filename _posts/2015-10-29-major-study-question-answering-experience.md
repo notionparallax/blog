@@ -14,7 +14,7 @@ meta:
   _wpas_mess: 'Major study: Question answering experience'
 
 ---
-<p><!--more--></p>
+<p> </p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image021.png" rel="attachment wp-att-2078"><img class="alignnone size-full wp-image-2078" src="{{ site.baseurl }}/assets/image021.png" alt="image021" /></a></p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image022.png" rel="attachment wp-att-2079"><img class="alignnone size-medium wp-image-2079" src="{{ site.baseurl }}/assets/image022.png" alt="image022" /></a></p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image023.png" rel="attachment wp-att-2080"><img class="alignnone size-medium wp-image-2080" src="{{ site.baseurl }}/assets/image023.png" alt="image023" /></a></p>

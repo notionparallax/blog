@@ -10,18 +10,19 @@ tags:
 - BVN
 - data
 - manifesto
-description: '"<em>Categories are an emergent way of describing set creation operations based on attributes</em>"'
+description: '"_Categories are an emergent way of describing set creation operations based on attributes_"'
 meta:
   _publicize_facebook_user: http://www.facebook.com/541400612
   _publicize_twitter_user: "@notionparallax"
   _wpas_mess: Fluid categories - define things by their attributes not their name
 
 ---
-<p><!--more--></p>
-<blockquote><p>Categories[1. I recognise that I don't know any Category Theory and not a great deal of Set Theory. I might be committing horrible sins with this statement. It works in it's naive context though.] are an emergent way of describing set creation operations based on attributes</p></blockquote>
-<p>Most of what I want to say here is taken directly from an old post on the BVN internal blog that I called <em>Taxonomy.</em> I'll summarize it here and copy that post below so that you don't need to go looking.</p>
+<p> </p>
+<blockquote><p>Categories[1. I recognise that I don't know any Category Theory and not a great deal of Set Theory. I might be committing horrible sins with this statement. It works in it's naive context though.] are an emergent way of describing set creation operations based on attributes</p>
+</blockquote>
+<p>Most of what I want to say here is taken directly from an old post on the BVN internal blog that I called _Taxonomy._ I'll summarize it here and copy that post below so that you don't need to go looking.</p>
 <p>https://youtu.be/05WS0WN7zMQ</p>
-<p>In the video above Richard Feynman[1. one of my heroes. If he isn't one of yours then he really should be!] tells a story about naming things. He separates the <em>name</em> of something from what that thing <em>is</em>[1. I think that this is the way ]. This is a safe and future proof way of thinking about categories. Directly categorising things is lazy thinking and asking for trouble!</p>
+<p>In the video above Richard Feynman[1. one of my heroes. If he isn't one of yours then he really should be!] tells a story about naming things. He separates the _name_ of something from what that thing _is_[1. I think that this is the way ]. This is a safe and future proof way of thinking about categories. Directly categorising things is lazy thinking and asking for trouble!</p>
 <hr />
 <p>I made this presentation to explain how data is organised these days.</p>
 <p>It's part of the work on the People and Projects data cleaning, so I'll refer to that throughout. It's applicable to a lot of other things though so keep an open mind and it might be interesting.</p>
@@ -35,7 +36,7 @@ meta:
 <p>How do we know if she's a witch? She's either a witch or not a witch right?</p>
 <p>https://www.youtube.com/watch?v=zrzMhU_4m-g</p>
 <p>Luckily a new method of filing has emerged. By adding metadata to things[1. yes the same metadata that all the fuss is about in the news] we are able to filter things out of a giant pile really quickly.<img class="alignnone wp-image-18182 size-full" src="{{ site.baseurl }}/assets/pile.gif" alt="pile" width="800" height="450" /></p>
-<p>The computer is able to make a big sieve that only lets through things that have certain <strong>attributes</strong>.</p>
+<p>The computer is able to make a big sieve that only lets through things that have certain **attributes**.</p>
 <p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_11.png"><img class="alignnone wp-image-18186 size-full" title="This is a small dolphin. Orca are technically dolphin too and they are a lot more than 40kg!" src="{{ site.baseurl }}/assets/taxonomy_Page_11.png" alt="taxonomy_Page_11" width="2880" height="1620" /></a></p>
 <p>A person can have attributes, a project can too. The big questions of our time are about what that means, and what we can do with that knowledge!</p>
 <p>What's really cool is that you can stack these sieves so that you can combine the filters. <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_14.png"><img class="alignnone size-full wp-image-18187" src="{{ site.baseurl }}/assets/taxonomy_Page_14.png" alt="taxonomy_Page_14" width="5334" height="3000" /></a> <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_15.png"><img class="alignnone size-full wp-image-18188" src="{{ site.baseurl }}/assets/taxonomy_Page_15.png" alt="taxonomy_Page_15" width="5334" height="3000" /></a></p>
@@ -46,16 +47,18 @@ As a major nerd, set theory is my favourite type of maths. One of the main set t
 <p>Eventually getting really complicated</p>
 <p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_18.png"><img class="alignnone size-full wp-image-18191" src="{{ site.baseurl }}/assets/taxonomy_Page_18.png" alt="taxonomy_Page_18" width="3067" height="1725" /></a></p>
 <h2>That's cool, but why?</h2>
-<p>You will have seen this kind of thing used a lot in online shopping. You want <em>shoes</em>, in <em>your size</em>, in <em>black</em>... coming up!</p>
+<p>You will have seen this kind of thing used a lot in online shopping. You want _shoes_, in _your size_, in _black_... coming up!</p>
 <p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_19.png"><img class="alignnone size-full wp-image-18192" src="{{ site.baseurl }}/assets/taxonomy_Page_19.png" alt="taxonomy_Page_19" width="3414" height="1920" /></a></p>
 <p>But this is only one facet of things. Internally Mr Porter is tracking a whole lot more stuff. There is loads of metadata but they make a call about what to expose to the public.</p>
 <p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_20.png"><img class="alignnone size-full wp-image-18193" src="{{ site.baseurl }}/assets/taxonomy_Page_20.png" alt="taxonomy_Page_20" width="5334" height="3000" /></a></p>
 <p>It's a curatorial process, so you can change your mind whenever you want as long as your data is in good shape.</p>
 <p>All of this stuff is brilliant when everyone uses a common set of words to describe things, but what about when they might use different ones?</p>
-<p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_21.png"><img class="alignnone size-full wp-image-18194" src="{{ site.baseurl }}/assets/taxonomy_Page_21.png" alt="taxonomy_Page_21" width="<blockquote><p>Categories[^1] are an emergent way of describing set creation operations based on attributes</p></blockquote>
-<p>Most of what I want to say here is taken directly from an old post on the BVN internal blog that I called <em>Taxonomy.</em> I'll summarize it here and copy that post below so that you don't need to go looking.</p>
+<p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_21.png"><img class="alignnone size-full wp-image-18194" src="{{ site.baseurl }}/assets/taxonomy_Page_21.png" alt="taxonomy_Page_21" width="
+<blockquote><p>Categories[^1] are an emergent way of describing set creation operations based on attributes</p>
+</blockquote>
+<p>Most of what I want to say here is taken directly from an old post on the BVN internal blog that I called _Taxonomy._ I'll summarize it here and copy that post below so that you don't need to go looking.</p>
 <p>https://youtu.be/05WS0WN7zMQ</p>
-<p>In the video above Richard Feynman[^2] tells a story about naming things. He separates the <em>name</em> of something from what that thing <em>is</em>[1. I think that this is the way ]. This is a safe and future proof w[^3]irectly categorising things is lazy thinking and asking for trouble!</p>
+<p>In the video above Richard Feynman[^2] tells a story about naming things. He separates the _name_ of something from what that thing _is_[1. I think that this is the way ]. This is a safe and future proof w[^3]irectly categorising things is lazy thinking and asking for trouble!</p>
 <hr />
 <p>I made this presentation to explain how data is organised these days.</p>
 <p>It's part of the work on the People and Projects data cleaning, so I'll refer to that throughout. It's applicable to a lot of other things though so keep an open mind and it might be interesting.</p>
@@ -69,7 +72,7 @@ As a major nerd, set theory is my favourite type of maths. One of the main set t
 <p>How do we know if she's a witch? She's either a witch or not a witch right?</p>
 <p>https://www.youtube.com/watch?v=zrzMhU_4m-g</p>
 <p>Luckily a new method of filing has emerged. By adding metadata to things[^4] we are able to filter things out of a giant pile really quickly.<img class="alignnone wp-image-18182 size-full" src="{{ site.baseurl }}/assets/pile.gif" alt="pile" width="800" height="450" /></p>
-<p>The computer is able to make a big sieve that only lets through things that have certain <strong>attributes</strong>.</p>
+<p>The computer is able to make a big sieve that only lets through things that have certain **attributes**.</p>
 <p><a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_11.png"><img class="alignnone wp-image-18186 size-full" title="This is a small dolphin. Orca are technically dolphin too and they are a lot more than 40kg!" src="{{ site.baseurl }}/assets/taxonomy_Page_11.png" alt="taxonomy_Page_11" width="2880" height="1620" /></a></p>
 <p>A person can have attributes, a project can too. The big questions of our time are about what that means, and what we can do with that knowledge!</p>
 <p>What's really cool is that you can stack these sieves so that you can combine the filters. <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_14.png"><img class="alignnone size-full wp-image-18187" src="{{ site.baseurl }}/assets/taxonomy_Page_14.png" alt="taxonomy_Page_14" width="5334" height="3000" /></a> <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_15.png"><img class="alignnone size-full wp-image-18188" src="{{ site.baseurl }}/assets/taxonomy_Page_15.png" alt="taxonomy_Page_15" width="5334" height="3000" /></a></p>

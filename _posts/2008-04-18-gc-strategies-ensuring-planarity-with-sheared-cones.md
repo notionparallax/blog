@@ -15,7 +15,7 @@ tags:
 <p>This is about making flat quad panels using sheared cones.</p>
 <p>For those of us in Melbourne, there is a particularly horrific example of this in Melbourne central. if you look carefully, you can see the module size split halfway up when the panels get too small.</p>
 <p><img src="{{ site.baseurl }}/assets/glass_08.jpg" height="200" /><img src="{{ site.baseurl }}/assets/Melb-Central-shot-tower.jpg" height="200" /></p>
-<p><!--more--></p>
+<p> </p>
 <p>The default solution to panelling anything is to do it in triangles. Any surface can be tiled in triangles. Any three points in space define a triangle, and also a plane.<br />
 Quadrilateral panels are a bit trickier as there are only a certain number of ways of making a surface be predictably tillable using four sided shapes.<br />
 The way outlined here is the sheared cones method.</p>

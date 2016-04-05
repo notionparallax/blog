@@ -21,7 +21,7 @@ dsq_thread_id: '4503552061'
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682582904/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377751821_9a22e0bb3f_o.jpg" width="490" height="228" /></a></p>
 <p>the water falls so far that by the time it gets to the bottom it's just a very fast mist that hits a rock and flys out horizontally!</p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3681777317/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378569952_e76b73987b_o.jpg" width="490" height="249" /></a></p>
-<p>    <!--more--></p>
+<p>     </p>
 <p>Almost immediately after that is Nevada fall, by the top of this I was 1500 feet off the valley floor. (Americans still use imperial measures, cue imperial march music.)</p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682646340/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378569970_f6926613b6_o.jpg" width="490" height="276" /></a></p>
 <p>I thought that Josie would like this, when an item falls on the snow, it's a bit warmer than the snow, and it absorbs more solar radiation that the surrounding snow, so it burrows down into it and makes a little pocket the same shape as the object.</p>
@@ -67,7 +67,7 @@ dsq_thread_id: '4503552061'
 </tr>
 </table>
 <p>    <img src="{{ site.baseurl }}/assets/3377752173_b77d7c1eec_o.jpg" width="490" height="245" /></p>
-<p>The second night I spent quite a long time melting snow as the lake I'd been heading for had been frozen over. Never again will I say &quot;<em>just</em> melt some snow to drink&quot;, it takes ages, and your water bottle ends up pretty full of tiny bits of tree!</p>
+<p>The second night I spent quite a long time melting snow as the lake I'd been heading for had been frozen over. Never again will I say &quot;_just_ melt some snow to drink&quot;, it takes ages, and your water bottle ends up pretty full of tiny bits of tree!</p>
 <p><img src="{{ site.baseurl }}/assets/3377752197_b186428010_o.jpg" width="490" height="250" /></p>
 <p><img src="{{ site.baseurl }}/assets/3378570308_cc2d08fd22_o.jpg" width="490" height="276" /></p>
 <p>I slept with my shoes inside the bivi, but outside the sleeping bags, which meant that there was quite a lot of shoe defrosting to be done the next day.</p>
@@ -136,7 +136,7 @@ There really should be an iframe here :(
 <p><a href="http://www.flickr.com/photos/95698107@N00/3683484998/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570746_15f9d3ca22_o.jpg" width="490" height="276" /></a></p>
 <p>I ended up crawling over this log in a very inelegant way, and then discovering that I'd actually made it to an island, and that I had to crawl back. The people in the catalogues make water crossings look like so much fun, so I  found a rocky bit, and whipped of my shoes. </p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3683492802/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570762_26992525ee_o.jpg" width="490" height="164" /></a></p>
-<p>when I woke up on the last morning, there was frost on the <em>inside</em> of my bivi bag.</p>
+<p>when I woke up on the last morning, there was frost on the _inside_ of my bivi bag.</p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682698051/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752651_328c4f764d_o.jpg" width="490" height="223" /></a></p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682713675/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752671_399c83eb7e_o.jpg" width="490" height="196" /></a></p>
 <p><a href="http://www.flickr.com/photos/95698107@N00/3682711605/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752693_00fb7a598f_o.jpg" width="490" height="276" /></a></p></p>

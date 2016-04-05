@@ -16,7 +16,7 @@ meta:
 
 ---
 <p>Ladies and gents, allow me to introduce <a title="Posted Notes" href="http://postednot.es">postedNot.es</a>!</p>
-<p>It's a service to send hand written letters to people with minimal friction. You mash out a short note on the train to work and we transcribe it onto classy looking paper and post it.<!--more--></p>
+<p>It's a service to send hand written letters to people with minimal friction. You mash out a short note on the train to work and we transcribe it onto classy looking paper and post it. </p>
 <p>&nbsp;</p>
 <p><a title="&quot;We&quot; in this case is Irina Belova and me" href="http://postednot.es/#rules">We've</a> been working on it for a couple of weeks in between the perils of real life and we're quite pleased with it.</p>
 <p>Of course it is better to send a nice 'Thank You' letter to someone, but at least for me this is always thwarted by at least one of these parts being missing:</p>

@@ -23,8 +23,8 @@ dsq_thread_id: '4503553294'
 ---
 <p>If I really smash it I can hit 0.18 <a href="http://en.wikipedia.org/wiki/Horsepower">horsepower</a>!</p>
 <p><a href="http://jsfiddle.net/mnUWA/35/"><img class="alignnone  wp-image-1403" title="click the image to go to the real thing" alt="A scatter plot of workout power outputs" src="{{ site.baseurl }}/assets/powerGraph.png" width="100%" /></a></p>
-<p>I've been meaning to try using d3 a bit more proper like after I skimmed it for <a title="My nearest…" href="http://notionparallax.co.uk/?p=1348"><em>my nearest</em></a> a few weeks ago. I've got the <a href="http://shop.oreilly.com/product/0636920026938.do">Interactive Data Visualization</a> for the Web book by Scott Murray, and I read it as prose, then jumped straight into the middle of it and tried the code examples and I really should have worked through it methodically. (Maybe feeling stupid will give me some motivation now!)</p>
-<p><!--more--></p>
+<p>I've been meaning to try using d3 a bit more proper like after I skimmed it for <a title="My nearest…" href="http://notionparallax.co.uk/?p=1348">_my nearest_</a> a few weeks ago. I've got the <a href="http://shop.oreilly.com/product/0636920026938.do">Interactive Data Visualization</a> for the Web book by Scott Murray, and I read it as prose, then jumped straight into the middle of it and tried the code examples and I really should have worked through it methodically. (Maybe feeling stupid will give me some motivation now!)</p>
+<p> </p>
 <p><a title="This will take you to a fiddle" href="http://jsfiddle.net/mnUWA/35/">This graph</a> displays my workouts since I started tracking them using Beyond the whiteboard 6 months ago</p>
 <ul>
 <li>The x axis is length of workout, i.e. how long it took me to complete it.</li>

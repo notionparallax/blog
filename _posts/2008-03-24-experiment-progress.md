@@ -13,7 +13,7 @@ tags:
 <p><img src="{{ site.baseurl }}/assets/69175.png" align="right" width="100" />After much faffing about, I've bought a webcam to do my mapping with.</p>
 <p>There seem to be a couple of  little processing sketches that do almost what I want, so the first step (finding the blobs that are people) should just be a case of wiring them together.</p>
 <p><img src="{{ site.baseurl }}/assets/first%20tries%20at%20blob%20detection__0000_Layer%202.jpg" height="333" width="500" /></p>
-<p><!--more--></p>
+<p> </p>
 <p>The first problem is that the blob detection software finds all the blobs, even if they don't move. There is an example where it takes an source image and then compares the current frame with it. If the pixels match, then they get painted in in black. that solves the problem of static blobs.</p>
 <p><img src="{{ site.baseurl }}/assets/first%20tries%20at%20blob%20detection1__0003_Layer%201.jpg" width="500" /></p>
 <p>The resulting image is still a bit dark, but you can push the contrast pretty hard because you know that there are going no problems with things n the background popping up.</p>

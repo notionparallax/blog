@@ -14,7 +14,7 @@ tags:
 
 ---
 <p>it's rant time again!</p>
-<p>this is another of my design studio writings, it's a little off topic, but I've only just got the internet at home, so I've been drinking coffee and sitting at my kitchen table without a connection and battering my keyboard. I might go back over this and put in some pictures and  references, but then again...<!--more--></p>
+<p>this is another of my design studio writings, it's a little off topic, but I've only just got the internet at home, so I've been drinking coffee and sitting at my kitchen table without a connection and battering my keyboard. I might go back over this and put in some pictures and  references, but then again... </p>
 <p>This is an incredibly complex issue, and I've spent hours debating it with numerous people. Each of whom have had incredibly different views on the current position and future direction of the profession.</p>
 <p>One thing that I have noticed is that the views tend to group themselves into three distinct camps.</p>
 <p>Those outside the profession seem to take the view that nothing has change, and that architects do what architects do what they always do. I still frequently encounter the idea, spawned in the postwar  period of frantic rebuilding, that architects make the 'ideal husband'. Although the gender bias has levelled off a little, the idea is still perpetuated by Hollywood portraying architects as sensitive and artistic, but respectable and with a steady job.</p>
@@ -33,5 +33,6 @@ tags:
 <p><a href="http://wiki.sial.rmit.edu.au/student/DigitalAntipodes/BdRoleOfTheArchitect/#sdfootnote1anc" class="sdfootnotesym">1</a>The 	concept of the T shaped person was first introduced to me by Rob 	Woodbury at the 2007 Smart Geometry conference, but it was first coined;</p>
 <blockquote><p> The hunt for a new breed of computer manager is on. The British Computer Society, in a controversial report published last year, described the quarry as a ''hybrid'' manager who would combine business expertise with IT skills. The hybrid manager, it said, would be distinguished by his or her ability to relate to ''the broad picture'' and to people, understanding their motivation and aspirations; he or she would also be energetic, intuitive, a good listener, and (cryptically) would have ''an unusual set of interests''.</p>
 <p>This type of rounded personality is also sought in other branches of the same theory, which prizes individuals known as T-shaped People. These are a variation on Renaissance Man, equally comfortable with information systems, modern management techniques and the 12-tone scale.<br />
-—David Guest, "The hunt is on for the Renaissance Man of computing," The Independent (London), September 17, 1991</p></blockquote>
+—David Guest, "The hunt is on for the Renaissance Man of computing," The Independent (London), September 17, 1991</p>
+</blockquote>
 <p><a title="root" class="sia-title" name="root"></a></p>

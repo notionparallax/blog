@@ -14,7 +14,7 @@ tags:
 ---
 <p>upon getting stuck into any seemingly simple problem, more complicated things always seem to arise.</p>
 <p>I think I'll get something at least a little bit useful out of this soon though.</p>
-<p>lots of tests and diagrams after this<!--more--></p>
+<p>lots of tests and diagrams after this </p>
 <table>
 <tr>
 <td><img src="{{ site.baseurl }}/assets/08-03-31_tracker_progress_0005_Layer%201.jpg" height="271" /></td>

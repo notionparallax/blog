@@ -16,7 +16,7 @@ meta:
   _wpas_mess: 'What''s in my bag? #edc'
 
 ---
-<p>While tidying up yesterday I realised that my bag contents was getting pretty close to a stable ideal that I'm happy with. Here's what and why:<!--more--></p>
+<p>While tidying up yesterday I realised that my bag contents was getting pretty close to a stable ideal that I'm happy with. Here's what and why: </p>
 <ul>
 <li>
 <h4><a href="http://www.bogear.com.au/cellblock-m">Red Cellblock M</a></h4>
@@ -72,7 +72,7 @@ Less penny dreadful, more Lindisfarne gospel! Being able to define words and hig
 <p>These make me look like a serial killer, but they make me sleep well, so I'm not too bothered.</li>
 <li>
 <h4><a href="http://www.sacredsoundaudio.com/products/infinityone?variant=271791260">Headphones</a></h4>
-<p>Nice <em>and</em> cheap, not just cheap. Irina lost one of the ear bits, so now I have one ear that gets some extra ambient noise. I also have a set of massive Sennheiser cans--their main job is to make people leave me alone!</li>
+<p>Nice _and_ cheap, not just cheap. Irina lost one of the ear bits, so now I have one ear that gets some extra ambient noise. I also have a set of massive Sennheiser cans--their main job is to make people leave me alone!</li>
 <li>
 <h4>Key ring</h4>
 <p>The actual ring is from a fancy keyring. It was massive and I coudn't get the whole thing into my pocket. I scrapped the decorative bit and just kept the ring! It lives clipped into my bag now and it's hardly ever not there.</p>
@@ -149,7 +149,7 @@ Less penny dreadful, more Lindisfarne gospel! Being able to define words and hig
 <p>These make me look like a serial killer, but they make me sleep well, so I'm not too bothered.</li>
 <li>
 <h4><a href="http://www.sacredsoundaudio.com/products/infinityone?variant=271791260">Headphones</a></h4>
-<p>Nice <em>and</em> cheap, not just cheap. Irina lost one of the ear bits, so now I have one ear that gets some extra ambient noise. I also have a set of massive Sennheiser cans--their main job is to make people leave me alone!</li>
+<p>Nice _and_ cheap, not just cheap. Irina lost one of the ear bits, so now I have one ear that gets some extra ambient noise. I also have a set of massive Sennheiser cans--their main job is to make people leave me alone!</li>
 <li>
 <h4>Key ring</h4>
 <p>The actual ring is from a fancy keyring. It was massive and I coudn't get the whole thing into my pocket. I scrapped the decorative bit and just kept the ring! It lives clipped into my bag now and it's hardly ever not there.</p>

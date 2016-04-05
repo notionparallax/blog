@@ -32,7 +32,8 @@ They must be something that is more refined than the raw material, but is also n
 So as architectural tool makers (or architects that make tools of themselves) what is the step into being an architectural instrument maker? I suppose a good start would be to make things less deterministic, once the output is uncertain, yet controllable by a skilled operator then we might be some of the way along. If I can build something, and then someone else can do amazing things with it, then maybe we have an instrument. We needn't even have intersecting skill sets, but we could work together to produce something great.<br />
 So what have I managed to define? Well probably not much, but it's helped my thinking, partially by just filling the time between the three pints I had after this afternoon's meeting,and partially by putting my thoughts down.<br />
 I'm going to be provocative and define instruments (without recourse to a dictionary as I'm on the train).</p>
-<blockquote><p>“An instrument is something that allows us to go beyond our normal range of ability”</p></blockquote>
+<blockquote><p>“An instrument is something that allows us to go beyond our normal range of ability”</p>
+</blockquote>
 <p>There are probably a lot of problems with that (the difference between an instrument and an augmentation springs to mind).<br />
 I'd love to see examples of instruments that confirm my theory, and any caveats to the definition would be welcome too.</p>
 <p>If you are reading this on facebook and you feel moved to make a comment, spare a thought for my online karma and copy the comment from facebook to <a href="http://www.notionparallax.co.uk/wordpress" target="_blank">www.notionparallax.co.uk/blog</a> so that it shows up in both places. Ta.</p>

@@ -18,7 +18,7 @@ tags:
 <div style="font-size: 10px;">     <a href="http://vodpod.com/watch/5616473-canyon-pics?pod=">Canyon pics</a>, posted with <a href="http://vodpod.com?r=wp">vodpod</a>  </div>
 <p></span><br />
 Here's some pics from the trip to the Blue Mountains.<br />
-<!--more--><br />
+ <br />
 I had an earlyish start, I decided at about 3:30 that the 10 to 4 train was far too early. The 10 to 7 was still full of partied out kids on their way home. I got a puncture on the way to the canyon carpark, so walked my bike a few km, and then dived into the bushes. The walk in really explained why the canyon was only 'discovered' in the 60s, there's some dense bush, followed by a trickle of water. That then becomes a slimy fall/ wet cliff, and it's only once you've got down past that that the canyon proper starts.</p>
 <p>As far as I can tell canyoning is really about getting down a tight gorge with water flowing down it, whilst staying as dry as possible and avoiding getting dunked at the end of abseils.</p>
 <p>I didn't actually do the grand canyon as I got onto the way out trail by mistake, and was out before I'd noticed!</p>

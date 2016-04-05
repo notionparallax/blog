@@ -16,7 +16,7 @@ tags:
 <div align="left">
 <p align="left">I've been thinking a lot recently about what I really want to do with my life, and I'm pretty sure that I'm heading in the right direction, but the lures of being a pastry chef, a carpenter, or a tokyo bike courier are still pretty strong.</p>
 <div align="left">
-<p align="left">after a lot of soul searching I've decided to make a life changing move. I've bought an alarm clock. now i can get up in the <em>morning</em> and get something done with my days!</p>
+<p align="left">after a lot of soul searching I've decided to make a life changing move. I've bought an alarm clock. now i can get up in the _morning_ and get something done with my days!</p>
 </div>
 </div>
 </div>

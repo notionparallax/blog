@@ -86,5 +86,5 @@ of divisions</td>
 <td style="text-align: right" bgcolor="#99ffcc">12656250000</td>
 </tr>
 </table>
-<p>For those of you who are a bit rusty on your powers of ten (like me), that bottom right number <em>is</em> <strong>12.5 billion!</strong> That's for each panel, so if you have a 5x5 subdivision on a grid, that'd be into the <em>trillions</em> of calcs for your analysis. No wonder it takes a long time.</p>
+<p>For those of you who are a bit rusty on your powers of ten (like me), that bottom right number _is_ **12.5 billion!** That's for each panel, so if you have a 5x5 subdivision on a grid, that'd be into the _trillions_ of calcs for your analysis. No wonder it takes a long time.</p>
 <p>I thought I'd check to see if I was supposed to be using British billions, or American billions, and it turns out (<a href="http://en.wikipedia.org/wiki/Long_and_short_scalesB">Long_and_short_scales</a>) that all billions have been the same in the English speaking world since 1974!</p>

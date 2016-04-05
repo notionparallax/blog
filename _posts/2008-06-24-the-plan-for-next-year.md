@@ -22,4 +22,4 @@ tags:
 <p>There are plenty more, and I really ought to do a proper 'literature reviw at some point, but the general gist of things is:</p>
 <p>The future is coming, in my opinion, far faster than we think it is (sounds like an impossibility, but as a question of perceptions, it's very possible)</p>
 <p>I have no idea what this all has to do with architecture, it may well render architecture totally irrelevant if we all end up hooked into an experience machine, but it's probably best that we are aware of what's going on, and hopefully something will come of it.</p>
-<p>I need to read a <em>lot</em> more and then try and pin down a question.</p>
+<p>I need to read a _lot_ more and then try and pin down a question.</p>

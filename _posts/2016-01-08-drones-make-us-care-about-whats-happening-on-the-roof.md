@@ -29,7 +29,7 @@ figcaption{
     height: 23vh !important;
 }
 </style>
-<p>Suddenly it is normal to get site photography from a drone at the start of an architectural project. As buildings get designed they get montaged into site photos. Traditionally those photos were from ground level. Now that has changed, the the designer is continually reminded of the roof[^1].<!--more--></p>
+<p>Suddenly it is normal to get site photography from a drone at the start of an architectural project. As buildings get designed they get montaged into site photos. Traditionally those photos were from ground level. Now that has changed, the the designer is continually reminded of the roof[^1]. </p>
 
 <div class="sketch">
 <img class="alignnone wp-image-2738" src="{{ site.baseurl }}/assets/IMG_20160108_091336-02.jpeg" alt="IMG_20160108_091336-02" /> <img class="alignnone wp-image-2739" src="{{ site.baseurl }}/assets/IMG_20160108_091336-01.jpeg" alt="IMG_20160108_091336-01" />

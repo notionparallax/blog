@@ -31,14 +31,23 @@ featured_image: books.jpg
     clear: both;
   }
 </style>
-<p>I did a lot of reading on holiday. Somehow I managed to do a lot of holiday too! It's amazing how much mental energy not going to work frees up for thinking.</p>
-<p>I finished 12 books in just over 4 weeks. Here's what I read and what I thought!<!--more--></p>
-<p>Kindle's give you the option to highlight, then <a href="https://kindle.amazon.com/your_highlights">those highlights are collected</a>. I've put the highlights below the descriptions. There is a strong correlation between number of highlights and how useful the book seemed at the time, but a weaker one with enjoyment.</p>
-<h2>Influence by Robert B. Cialdini</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=006124189X&amp;asins=006124189X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>I started reading this because it was mentioned in <a href="http://hpmor.com/">Harry Potter and the Methods of Rationality</a>. My motivation was that it doesn't matter how clever you are, if you can't get others to help you then you won't get anywhere.</p>
-<p>The book goes through methods that "compliance professionals" get people to do things. It's partially a playbook, and partially a self defence manual. He talks about influence being like jujitsu; you need to exert it over others without yourself being influenced unwillingly.</p>
-<p>It's quite long, but quite chatty so it's easy going. In a strange twist of fate, just after finishing it someone I know was a victim of a criminal compliance professional (or in normal speech, a conman!). Reading through their emails it was amazing how many of the techniques from the book they's used. It was like some kind of worked example of how to get people's trust.</p>
+
+I did a lot of reading on holiday. Somehow I managed to do a lot of holiday too! It's amazing how much mental energy not going to work frees up for thinking.
+
+I finished 12 books in just over 4 weeks. Here's what I read and what I thought!
+
+Kindle's give you the option to highlight, then <a href="https://kindle.amazon.com/your_highlights">those highlights are collected</a>. I've put the highlights below the descriptions. There is a strong correlation between number of highlights and how useful the book seemed at the time, but a weaker one with enjoyment.
+
+## Influence by Robert B. Cialdini
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=006124189X&amp;asins=006124189X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+I started reading this because it was mentioned in <a href="http://hpmor.com/">Harry Potter and the Methods of Rationality</a>. My motivation was that it doesn't matter how clever you are, if you can't get others to help you then you won't get anywhere.
+
+The book goes through methods that "compliance professionals" get people to do things. It's partially a playbook, and partially a self defence manual. He talks about influence being like jujitsu; you need to exert it over others without yourself being influenced unwillingly.
+
+It's quite long, but quite chatty so it's easy going. In a strange twist of fate, just after finishing it someone I know was a victim of a criminal compliance professional (or in normal speech, a conman!). Reading through their emails it was amazing how many of the techniques from the book they's used. It was like some kind of worked example of how to get people's trust.
 <ul class="quotes-i-like">
 <li>Alfred North Whitehead recognized this inescapable quality of modern life when he asserted that “civilization advances by extending the number of operations we can perform without thinking about them.”</li>
 <li>“A foolish consistency is the hobgoblin of little minds.”</li>
@@ -50,10 +59,15 @@ featured_image: books.jpg
 <li>PINE: I guess your long hair makes you a girl. ZAPPA: I guess your wooden leg makes you a table.</li>
 <li>The University of Chicago jury experiment on inadmissible evidence was reported by Broeder (1959).</li>
 </ul>
-<h2>Be Slightly Evil: A Playbook for Sociopaths by Venkatesh Rao</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=B00F8JTYH8&amp;asins=B00F8JTYH8&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>This is along the same lines as Influence. It's a the condensation of a long running email newsletter that was about how to use evil techniques to achieve your ends. I suppose it means good ends because otherwise it'd be straight up evil. Being slightly evil recognises that "evil" methods are usually more powerful that their "good" counterparts, so if you want to get to an endpoint, then the evil way is the path of least resistance. The book's tagline is "a playbook for sociopaths".</p>
-<p>I read it after influence, but I think that it has more methods that you can act on. There are lots of methods for adjusting others' perception of your status, and theirs relative to you. This kind of status play is really powerful in setting yourself up to be listened to in a room.</p>
+
+## Be Slightly Evil: A Playbook for Sociopaths by Venkatesh Rao
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=B00F8JTYH8&amp;asins=B00F8JTYH8&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+This is along the same lines as Influence. It's a the condensation of a long running email newsletter that was about how to use evil techniques to achieve your ends. I suppose it means good ends because otherwise it'd be straight up evil. Being slightly evil recognises that "evil" methods are usually more powerful that their "good" counterparts, so if you want to get to an endpoint, then the evil way is the path of least resistance. The book's tagline is "a playbook for sociopaths".
+
+I read it after influence, but I think that it has more methods that you can act on. There are lots of methods for adjusting others' perception of your status, and theirs relative to you. This kind of status play is really powerful in setting yourself up to be listened to in a room.
 <ul class="quotes-i-like">
 <li>On the good/evil axis, Slightly Evil drives towards action whether or not the consequences are clearly good or evil upfront, and starts with the assumption that simply acting for the sake of acting (otherwise known as creative destruction), and choosing churn over stability, is central to life. This is not “good” because it does not equal a belief in change as progress. But it is also not “evil” because it is not a belief in value-driven stability.</li>
 <li>Action for the Slightly Evil favors chaos creation.</li>
@@ -75,10 +89,15 @@ featured_image: books.jpg
 <li>unlike artificial games, where everybody notices when the game starts, real-world games can begin stealthily and asymmetrically. Some players may start before others. They can also close stealthily: early, big winners might stealthily cash out and move on and as part of the setup for the next game, to try to keep potential competitors playing the last game as though it still mattered.</li>
 <li>When resources are exhausted, players simply drop out. When resources remain, but attention is fully absorbed on multiple active fronts, fatal vulnerabilities open up for others to exploit, even without FUD-creation. These are unforced errors. So ceding some contests in order to create a reserve of attention, before a fatal number of unforced errors accumulate, is a necessary strategy.</li>
 </ul>
-<h2>Superforecasting: The Art and Science of Prediction by Philip Tetlock, Dan Gardner</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=184794714X&amp;asins=184794714X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>I put my Diploma Major Study up on here a few days ago. Embarrassingly, I hadn't read Philip Tetlock's first book, Expert Political Judgement (EPG), when I wrote it. This book is his pop-version of EPJ, with examples from his recent DARPA funded prediction project - The Good Judgement Project.</p>
-<p>It is to his body of work what Thinking Fast and Slow was to Daniel Kahneman's work. It's much more accessible than EPJ, and makes the case in a much friendlier way[1. EPJ was dense and wasn't really trying to make a case as much as it was reporting the state of the world.].</p>
+
+## Superforecasting: The Art and Science of Prediction by Philip Tetlock,Gardner</h2>
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=184794714X&amp;asins=184794714X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+I put my Diploma Major Study up on here a few days ago. Embarrassingly, I hadn't read Philip Tetlock's first book, Expert Political Judgement (EPG), when I wrote it. This book is his pop-version of EPJ, with examples from his recent DARPA funded prediction project - The Good Judgement Project.
+
+It is to his body of work what Thinking Fast and Slow was to Daniel Kahneman's work. It's much more accessible than EPJ, and makes the case in a much friendlier way[1. EPJ was dense and wasn't really trying to make a case as much as it was reporting the state of the world.].
 <ul class="quotes-i-like">
 <li>“like blind men arguing over the colors of the rainbow.”</li>
 <li>Physicians and the institutions they controlled didn’t want to let go of the idea that their judgment alone revealed the truth, so they kept doing what they did because they had always done it that way—and they were backed up by respected authority. They didn’t need scientific validation. They just knew. Cochrane despised this attitude. He called it “the God complex.”</li>
@@ -100,13 +119,22 @@ featured_image: books.jpg
 <li>The catch is that the Kahneman-Klein collaboration presumed good faith. Each side wanted to be right but they wanted the truth more. Sadly, in noisy public arenas, strident voices dominate debates, and they have zero interest in adversarial collaboration.</li>
 <li>inscription at the St. Paul’s tomb of the architect Christopher Wren: “look around you.”</li>
 </ul>
-<h2>Speaker For The Dead <em>and</em> Xenocide by Orson Scott Card</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=035650185X&amp;asins=035650185X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0356501868&amp;asins=0356501868&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>These are books 2 &amp; 3 from the Ender saga. Trying to remember where the gap between to two books is might get a bit blurry, so I'll do them together.</p>
-<p>At the end of Ender's Game, the child Ender has killed a whole sentient species except for one hive queen. These books deal with an older Ender (30s) who is travelling the world in the role of a secular priest. He's only aged a little, but it's 3000 years later because he's spent so much of his life in near-light-speed travel.</p>
-<p>They encounter a new sentient species the 'piggies' who have a strange culture and reproductive system. Most science fiction is physics based, this is anthropology-fiction. There is a lot of discussion of how humans deal with otherness. (There's a fair bit of physics and biology too.)</p>
-<p>The story line can get a bit slow occasionally, but I'm really enjoying the saga in general. I find that it sparks a lot of other ideas, so as a catalyst for other thoughts it's really productive!</p>
+
+## Speaker For The Dead _and_ Xenocide by Orson Scott Card
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=035650185X&amp;asins=035650185X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0356501868&amp;asins=0356501868&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+These are books 2 &amp; 3 from the Ender saga. Trying to remember where the gap between to two books is might get a bit blurry, so I'll do them together.
+
+At the end of Ender's Game, the child Ender has killed a whole sentient species except for one hive queen. These books deal with an older Ender (30s) who is travelling the world in the role of a secular priest. He's only aged a little, but it's 3000 years later because he's spent so much of his life in near-light-speed travel.
+
+They encounter a new sentient species the 'piggies' who have a strange culture and reproductive system. Most science fiction is physics based, this is anthropology-fiction. There is a lot of discussion of how humans deal with otherness. (There's a fair bit of physics and biology too.)
+
+The story line can get a bit slow occasionally, but I'm really enjoying the saga in general. I find that it sparks a lot of other ideas, so as a catalyst for other thoughts it's really productive!
 <h5>Speaker for the dead</h5>
 <ul class="quotes-i-like">
 <li>Since we are not yet fully comfortable with the idea that people from the next village are as human as ourselves, it is presumptuous in the extreme to suppose we could ever look at sociable, tool-making creatures who arose from other evolutionary paths and see not beasts but brothers, not rivals but fellow pilgrims journeying to the shrine of intelligence.</li>
@@ -121,7 +149,8 @@ featured_image: books.jpg
 <li>‘You treated me the way you like to be treated when you grieve, and now I’m treating you the way I like to be treated. We prescribe our own medicine for each other.’</li>
 <li>There are many different purposes in this world, many different causes of everything. Just because one cause you believed in turned out to be false doesn’t mean that there aren’t other causes that can still be trusted.’</li>
 <li>A real god doesn’t care about control. A real god already has control of everything that needs controlling. Real gods would want to teach you how to be just like them.’</li>
-<li>‘Our great civilizations are nothing more than social machines to create the ideal female setting, where a woman can count<p>It is to his body of work what Thinking Fast and Slow was to Daniel Kahneman's work. It's much more accessible than EPJ, and makes the case in a much friendlier way[^1].</p>
+<li>‘Our great civilizations are nothing more than social machines to create the ideal female setting, where a woman can count
+It is to his body of work what Thinking Fast and Slow was to Daniel Kahneman's work. It's much more accessible than EPJ, and makes the case in a much friendlier way[^1].
 <ul class="quotes-i-like">
 <li>“like blind men arguing over the colors of the rainbow.”</li>
 <li>Physicians and the institutions they controlled didn’t want to let go of the idea that their judgment alone revealed the truth, so they kept doing what they did because they had always done it that way—and they were backed up by respected authority. They didn’t need scientific validation. They just knew. Cochrane despised this attitude. He called it “the God complex.”</li>
@@ -143,13 +172,22 @@ featured_image: books.jpg
 <li>The catch is that the Kahneman-Klein collaboration presumed good faith. Each side wanted to be right but they wanted the truth more. Sadly, in noisy public arenas, strident voices dominate debates, and they have zero interest in adversarial collaboration.</li>
 <li>inscription at the St. Paul’s tomb of the architect Christopher Wren: “look around you.”</li>
 </ul>
-<h2>Speaker For The Dead <em>and</em> Xenocide by Orson Scott Card</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=035650185X&amp;asins=035650185X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0356501868&amp;asins=0356501868&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>These are books 2 &amp; 3 from the Ender saga. Trying to remember where the gap between to two books is might get a bit blurry, so I'll do them together.</p>
-<p>At the end of Ender's Game, the child Ender has killed a whole sentient species except for one hive queen. These books deal with an older Ender (30s) who is travelling the world in the role of a secular priest. He's only aged a little, but it's 3000 years later because he's spent so much of his life in near-light-speed travel.</p>
-<p>They encounter a new sentient species the 'piggies' who have a strange culture and reproductive system. Most science fiction is physics based, this is anthropology-fiction. There is a lot of discussion of how humans deal with otherness. (There's a fair bit of physics and biology too.)</p>
-<p>The story line can get a bit slow occasionally, but I'm really enjoying the saga in general. I find that it sparks a lot of other ideas, so as a catalyst for other thoughts it's really productive!</p>
+
+## Speaker For The Dead _and_ Xenocide by Orson Scott Card
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=035650185X&amp;asins=035650185X&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0356501868&amp;asins=0356501868&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+These are books 2 &amp; 3 from the Ender saga. Trying to remember where the gap between to two books is might get a bit blurry, so I'll do them together.
+
+At the end of Ender's Game, the child Ender has killed a whole sentient species except for one hive queen. These books deal with an older Ender (30s) who is travelling the world in the role of a secular priest. He's only aged a little, but it's 3000 years later because he's spent so much of his life in near-light-speed travel.
+
+They encounter a new sentient species the 'piggies' who have a strange culture and reproductive system. Most science fiction is physics based, this is anthropology-fiction. There is a lot of discussion of how humans deal with otherness. (There's a fair bit of physics and biology too.)
+
+The story line can get a bit slow occasionally, but I'm really enjoying the saga in general. I find that it sparks a lot of other ideas, so as a catalyst for other thoughts it's really productive!
 <h5>Speaker for the dead</h5>
 <ul class="quotes-i-like">
 <li>Since we are not yet fully comfortable with the idea that people from the next village are as human as ourselves, it is presumptuous in the extreme to suppose we could ever look at sociable, tool-making creatures who arose from other evolutionary paths and see not beasts but brothers, not rivals but fellow pilgrims journeying to the shrine of intelligence.</li>
@@ -158,9 +196,13 @@ featured_image: books.jpg
 <ul class="quotes-i-like">
 <li>within a few years their hunger had given way to patience and trust</li>
 <li>Hierarchy of Foreignness. Utlannings are strangers from our own world. Framlings are strangers of our own species, but from another world. Ramen are strangers of another species, but capable of communication with us, capable of coexistence with humanity. Last are varelse" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>I'm not really sure where to start with this. I feel a bit like I missed out having not read this earlier in life. That said, maybe I needed to have a lot of concepts in place before I could really enjoy it.</p>
-<p>It's a philosophy book, disguised as a story about a motorbike trip. It helped me settle my <a href="http://notionparallax.co.uk/?p=1882">ideas about categories</a>.</p>
-<p>I think the number of highlights is a good indicator of how useful I found it. I also really enjoyed it. Give it a go, you might too!</p>
+</iframe>
+
+I'm not really sure where to start with this. I feel a bit like I missed out having not read this earlier in life. That said, maybe I needed to have a lot of concepts in place before I could really enjoy it.
+
+It's a philosophy book, disguised as a story about a motorbike trip. It helped me settle my <a href="http://notionparallax.co.uk/?p=1882">ideas about categories</a>.
+
+I think the number of highlights is a good indicator of how useful I found it. I also really enjoyed it. Give it a go, you might too!
 <ul class="quotes-i-like">
 <li>‘What’s new?’ is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question ‘What is best?’, a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.</li>
 <li>Although motorcycle riding is romantic, motorcycle maintenance is purely classic.</li>
@@ -196,14 +238,23 @@ featured_image: books.jpg
 <li>Thus the hero of the Odyssey is a great fighter, a wily schemer, a ready speaker, a man of stout heart and broad wisdom who knows that he must endure without too much complaining what the gods send; and he can both build and sail a boat, drive a furrow as straight as anyone, beat a young braggart at throwing the discus, challenge the Pheacian youth at boxing, wrestling or running; flay, skin, cut up and cook an ox, and be moved to tears by a song. He is in fact an excellent all-rounder; he has surpassing aretê.</li>
 <li>Degeneracy can be fun but it’s hard to keep up as a serious lifetime occupation.</li>
 </ul>
-<p>&nbsp;</p>
-<h2>Fahrenheit 451 by Ray Bradbury</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0006546064&amp;asins=0006546064&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>In this world, firemen are there to burn books. Books are too subversive to be allowed. The only thing people do is to act a role in a soap opera on a pseudo VR stage. Cracks appear in one fireman's experience of this, his life unravels.</p>
-<p>That's a pretty condensed version of the book, but although I enjoyed it I fear I am too far into his future. So m<li>‘Our great civilizations are nothing more than social machines to create the ideal female setting, where a woman can count" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>I'm not really sure where to start with this. I feel a bit like I missed out having not read this earlier in life. That said, maybe I needed to have a lot of concepts in place before I could really enjoy it.</p>
-<p>It's a philosophy book, disguised as a story about a motorbike trip. It helped me settle my <a href="http://notionparallax.co.uk/?p=1882">ideas about categories</a>.</p>
-<p>I think the number of highlights is a good indicator of how useful I found it. I also really enjoyed it. Give it a go, you might too!</p>
+
+
+## Fahrenheit 451 by Ray Bradbury
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0006546064&amp;asins=0006546064&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+In this world, firemen are there to burn books. Books are too subversive to be allowed. The only thing people do is to act a role in a soap opera on a pseudo VR stage. Cracks appear in one fireman's experience of this, his life unravels.
+
+That's a pretty condensed version of the book, but although I enjoyed it I fear I am too far into his future. So m<li>‘Our great civilizations are nothing more than social machines to create the ideal female setting, where a woman can count" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+I'm not really sure where to start with this. I feel a bit like I missed out having not read this earlier in life. That said, maybe I needed to have a lot of concepts in place before I could really enjoy it.
+
+It's a philosophy book, disguised as a story about a motorbike trip. It helped me settle my <a href="http://notionparallax.co.uk/?p=1882">ideas about categories</a>.
+
+I think the number of highlights is a good indicator of how useful I found it. I also really enjoyed it. Give it a go, you might too!
 <ul class="quotes-i-like">
 <li>‘What’s new?’ is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question ‘What is best?’, a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.</li>
 <li>Although motorcycle riding is romantic, motorcycle maintenance is purely classic.</li>
@@ -239,10 +290,16 @@ featured_image: books.jpg
 <li>Thus the hero of the Odyssey is a great fighter, a wily schemer, a ready speaker, a man of stout heart and broad wisdom who knows that he must endure without too much complaining what the gods send; and he can both build and sail a boat, drive a furrow as straight as anyone, beat a young braggart at throwing the discus, challenge the Pheacian youth at boxing, wrestling or running; flay, skin, cut up and cook an ox, and be moved to tears by a song. He is in fact an excellent all-rounder; he has surpassing aretê.</li>
 <li>Degeneracy can be fun but it’s hard to keep up as a serious lifetime occupation.</li>
 </ul>
-<p>&nbsp;</p>
-<h2>Fahrenheit 451 by Ray Bradbury</h2>
-<p><iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0006546064&amp;asins=0006546064&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe>In this world, firemen are there to burn books. Books are too subversive to be allowed. The only thing people do is to act a role in a soap opera on a pseudo VR stage. Cracks appear in one fireman's experience of this, his life unr<p>That's a pretty condensed version of the book, but although I enjoyed it I fear I am too far into his future. So m
+
+&nbsp;
+
+## Fahrenheit 451 by Ray Bradbury
+
+<iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0006546064&amp;asins=0006546064&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe>
+
+In this world, firemen are there to burn books. Books are too subversive to be allowed. The only thing people do is to act a role in a soap opera on a pseudo VR stage. Cracks appear in one fireman's experience of this, his life unr
+That's a pretty condensed version of the book, but although I enjoyed it I fear I am too far into his future. So m
 
 [^1]: EPJ was dense and wasn't really trying to make a case as much as it was reporting the state of the world.
 

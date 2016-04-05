@@ -21,7 +21,7 @@ meta:
 <p>They aren't the prettiest of statements, but they get the job done in very little code.</p>
 <p>Dan's been on at me to get my head around more functional language concepts, so this is probably a good place to start.<br />
 The spreadsheet is confidential, but there is noting special about the code, so it's included here. I've done the filters using a for loop and using a comprehension so that you can see the difference.<br />
-<!--more--><br />
+ <br />
 <script src="https://gist.github.com/3564342.js"> </script></p>
 
 [^1]: But I am going to do the <a href="https://www.coursera.org/course/stats1">coursera statistics course</a> starting next week.

@@ -14,11 +14,6 @@ tags:
 - Stan McChrystal
 - thinking
 description:
-meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: Hierarchy, Networks, Generals and Clouds of Purpose
-  TODO: get the code from WP, too complex to import
 
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
@@ -61,9 +56,9 @@ What Stan’s saying here is that the power of the network is that each of his c
 
 <iframe class="the-man" src="https://www.youtube.com/embed/37oJqWp4rJM?enablejsapi=1&amp;origin=http://notionparallax.co.uk" frameborder="0" allowfullscreen="" seamless="" id="ba_yt_0"></iframe>
 
-People don’t really like hierarchies because, unless you are the king, it feels a bit like <em>the man</em> is keeping you down. This is mainly an excuse to get a video into this; it’s not really about <em>you</em>, it’s about outcomes. If the outcomes are good, then there’s a pretty good chance it’ll be good for you too.
+People don’t really like hierarchies because, unless you are the king, it feels a bit like _the man_ is keeping you down. This is mainly an excuse to get a video into this; it’s not really about _you_, it’s about outcomes. If the outcomes are good, then there’s a pretty good chance it’ll be good for you too.
 
-The big thing that networks give you automatically is robustness. (Some people call it self healing.) If one part of the network is broken then information can still flow around it. Information also <em>diffuses</em> in a network. That means that as soon as some information is made or discovered then it starts being useful to people. The number of people that it’s useful to just keeps growing as more people know. (If you are feeling nerdy, it’s a geometric growth, exponential if you must!) That makes it hard to control information if you are a secretive type, but being secretive is the enemy of being successful in the modern world![^3]
+The big thing that networks give you automatically is robustness. (Some people call it self healing.) If one part of the network is broken then information can still flow around it. Information also _diffuses_ in a network. That means that as soon as some information is made or discovered then it starts being useful to people. The number of people that it’s useful to just keeps growing as more people know. (If you are feeling nerdy, it’s a geometric growth, exponential if you must!) That makes it hard to control information if you are a secretive type, but being secretive is the enemy of being successful in the modern world![^3]
 
 Networks don’t automatically get information to the right person straight away. Diffusion isn’t a directed phenomenon. When you let them be, humans are smart. They solve that problem by sending information straight to the person who needs it. This doesn’t work in strict hierarchies because of chain of command issues.
 
@@ -87,7 +82,7 @@ In huge networks that can get a bit hectic. It’s like being expected to keep u
 </figcaption>
 </figure>
 
-This is starting to sound a bit chaotic! How are we supposed to know that everyone knows what’s going on? This is where <em>purpose</em> comes in. The point of the purpose is to give each of the nodes in the network a direction. It’s like a magnetic field that makes migrating animals go in the right direction. This is an important thing! If there’s no sense of purpose then as soon as the explicit commands break down everyone panics!
+This is starting to sound a bit chaotic! How are we supposed to know that everyone knows what’s going on? This is where _purpose_ comes in. The point of the purpose is to give each of the nodes in the network a direction. It’s like a magnetic field that makes migrating animals go in the right direction. This is an important thing! If there’s no sense of purpose then as soon as the explicit commands break down everyone panics!
 
 ![von-Moltke](http://i1.wp.com/upload.wikimedia.org/wikipedia/commons/8/8d/Helmuth_Karl_Bernhard_von_Moltke.jpg?w=580)
 {: class="von-moltke}
@@ -106,14 +101,16 @@ Everyone has been giving General McChrystal a lot of credit for these sorts of i
 Von Moltke was a big deal in the [Franco Prussian War][https://en.wikipedia.org/wiki/Franco-Prussian_War]. His quote above has morphed into: “No plan survives first contact with the enemy” which is a bit snappier. In the intro to my version of [Moltke on the Art of War][http://www.amazon.com/gp/product/0891415750/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0891415750&amp;linkCode=as2&amp;tag=notioparal-20&amp;linkId=X6LKUABXII7DBF4V] the editor says:
 
 <figure class="quote">
-<blockquote>New guidelines established two points that became the hallmarks of Moltke’s ideas on command. Commanders should order as little as possible (leaving details to subordinate commanders) and they should take care to limit their orders to what was practicable.</blockquote>
+<blockquote>New guidelines established two points that became the hallmarks of Moltke’s ideas on command. Commanders should order as little as possible (leaving details to subordinate commanders) and they should take care to limit their orders to what was practicable.
+</blockquote>
 <figcaption>
 Moltke on the Art of War, <cite>Daniel Hughes</cite>
 </figcaption>
 </figure>
 
 <figure class="quote pull">
-<blockquote><em>Auftragstaktik</em> blended strategic coherence and decentralized decision making with a simple principle: commanders were to tell subordinates what their goal is but not how to achieve it.</blockquote>
+<blockquote>_Auftragstaktik_ blended strategic coherence and decentralized decision making with a simple principle: commanders were to tell subordinates what their goal is but not how to achieve it.
+</blockquote>
 <figcaption>
 [Superforecasters][http://www.amazon.com/gp/product/0804136696/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0804136696&amp;linkCode=as2&amp;tag=notioparal-20&amp;linkId=TBYNCMZKNFBIHP3S], <cite>Philip Tetlock</cite> talking about von Moltke
 </figcaption>
@@ -138,5 +135,5 @@ This is all pretty in depth, I’m amazed that you’ve made it this far! Perhap
 
 [^4]: Stan's chief of staff, <a href="https://twitter.com/fussellchris">Chris Fussell</a> wrote a thesis about it: <a href="http://handle.dtic.mil/100.2/ADA514114">What Makes Fusion Cells Effective?</a> (PDF)
 
-[^5]: In the case of fusion centres, they will also try to get it to the right person. Something that journalists aren't <em>yet</em> able to do; I bet they will soon though!
+[^5]: In the case of fusion centres, they will also try to get it to the right person. Something that journalists aren't _yet_ able to do; I bet they will soon though!
 

@@ -27,7 +27,7 @@ meta:
     }
 </style>
 <p>
-<!--more--></p>
+ </p>
 <h1>Question set</h1>
 <p>This is the raw data used to generate the questions, mark them and provide the extra information. Some of the HTML code has been replaced with its corresponding standard text rendering.</p>
 <h6>1</h6>
@@ -58,7 +58,7 @@ meta:
 <p>../image5.gif</p>
 <p>tags. climate science</p>
 <h6>3</h6>
-<p>Mass for mass, how many times more potent as a greenhouse gas is <em>methane</em> than <em>carbon dioxide</em>?</p>
+<p>Mass for mass, how many times more potent as a greenhouse gas is _methane_ than _carbon dioxide_?</p>
 <ol>
 <li>25 times</li>
 <li>12 times</li>
@@ -99,7 +99,7 @@ meta:
 <p>Department of Energy &amp; Climate Change and Energy Saving Trust. 2009</p>
 <p>http://www.lowcarboneconomy.com/Resources/NewsImages/Department+of+Energy+and+Climate+Change_1235_19456644_1_0_7047855_300320x320.jpg</p>
 <p>tags. UK, Government, energy, subsidy</p>
-<h6><strong>6</strong></h6>
+<h6>**6**</h6>
 <p>What is a ‘Feed in Tariff’?</p>
 <ol>
 <li>A way for the grid to pay consumers for energy they have generated</li>
@@ -161,7 +161,7 @@ In climates that are constantly hot or constantly cold, the thermal mass effect 
 <li>100</li>
 </ol>
 <p>Moving 1 Newton 1 metre uses 1 joule. This is about equivalent to moving an apple from the floor to a table. Using 1 joule in 1 second is 1 watt. So running a 100 watt light bulb uses enough power to move 100 apples 1 metre every second. (In an ideal world with no friction, and with a perfect machine...)</p>
-<p>Saul Griffith does a great job of explaining what a watt actually <em>is</em> in his talk about Energy Literacy</p>
+<p>Saul Griffith does a great job of explaining what a watt actually _is_ in his talk about Energy Literacy</p>
 <p>http://blip.tv/file/1018152</p>
 <p>Griffith, S. (2008). Energy Literacy. In O’Reilly Emerging Technology Conference. San Diego: O’Reilly. Retrieved from <a href="http://blip.tv/file/1018152.">http://blip.tv/file/1018152.</a></p>
 <p>1-watt.png</p>
@@ -176,7 +176,7 @@ In climates that are constantly hot or constantly cold, the thermal mass effect 
 <p>Using the Energy Performance Certificate’s (EPC) energy efficiency rating bands, two out of five homes in England and Wales (44 per cent) rate ‘average’ for energy efficiency falling into band D, whilst only a tiny proportion (1 per cent) of homes achieve the highest ranking of band A or B.</p>
 <p>See the Halifax press release here.</p>
 <p>http://www.lloydsbankinggroup.com/media/pdfs/200109epc.pdf</p>
-<p><em>Halifax Estate Agents survey of the energy labelling of domestic buildings </em>released Friday 23<sup>rd</sup> January 2009</p>
+<p>_Halifax Estate Agents survey of the energy labelling of domestic buildings _released Friday 23<sup>rd</sup> January 2009</p>
 <p>http://epc.direct.gov.uk/images/content/barchart.gif</p>
 <h6>12</h6>
 <p>What is a Trombe wall for?</p>
@@ -314,7 +314,7 @@ The EU’s Target for Renewable Energy: 20% by 2020</p>
 <p>http://www.green-planet-solar-energy.com/fossil-fuel-formation.html</p>
 <p>http://www.green-planet-solar-energy.com/images/oil_prod_img_4.gif</p>
 <h6>22</h6>
-<p>How many times more efficient is an <em>A+</em> rated fridge-freezer than a <em>G</em> rated one?</p>
+<p>How many times more efficient is an _A+_ rated fridge-freezer than a _G_ rated one?</p>
 <ol start="4">
 <li>4.3 times more efficient</li>
 <li>9.0 times more efficient</li>
@@ -348,7 +348,7 @@ Appliances sold in Europe since 1992 have had an efficiency rating label.</p>
 <li>Through the windows</li>
 <li>Through the roof</li>
 </ol>
-<p>According to the Centre for Alternative Technology’s <em>Energy Efficiency in the Home</em> fact sheet, 35% of the heat lost from an average home is through the walls.<br />
+<p>According to the Centre for Alternative Technology’s _Energy Efficiency in the Home_ fact sheet, 35% of the heat lost from an average home is through the walls.<br />
 If you have cavity walls you can easily get insulation blown in. This takes less than a day to do and causes minimum disruption. It is a little more expensive and disruptive to insulate solid walls, but still worthwhile. Internal insulation can be put up on the inside of external walls. You lose a little of the room space and will need to re-plaster, but you will save on energy from heating. External insulation is less disruptive, and it means you keep the ‘thermal mass’ of wall inside. The wall will then act as a form of heat storage, absorbing heat and slowly releasing it &amp;#150; so making a comfortable living environment.</p>
 <p>Centre for Alternative Technology</p>
 <p>http://www.cat.org.uk/information/catinfo.tmpl?command=search&amp;db=catinfo.db&amp;eqSKUdatarq=InfoSheet_EnergyEfficiency</p>

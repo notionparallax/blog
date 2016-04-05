@@ -30,7 +30,7 @@ span.direction {
 }
 </style>
 <p>I like <a href="https://habitica.com" title="formerly Habit RPG">Habitica</a> a lot. I find that it's good at <a href="http://habitica.wikia.com/wiki/Adapting_HabitRPG_for_ADHD">directing my attention</a> and motivating me to do things that are aligned with my goals[^1]. I also use <a href="https://www.rescuetime.com">Rescue Time</a>, it's job is to tell me what I really do with my life. It stops me lying to myself about what my days look like.
-    <!--more-->
+     
 </p>
 <figure>
 <svg markdown="0" class="prod-graph" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none" viewbox="0 0 310 181" height="181">
@@ -203,7 +203,7 @@ span.direction {
 <h2>How do I unlock this sorcery?</h2>
 <p>I'll do this for Zapier because it's easier to test, but the same holds for IFTTT[^3]. You can also swap out Rescue Time for any other trigger too. So if you want to get a reward when you go into the gym's geofence then you can.</p>
 <p>Obvious stuff: get a Zapier/IFTTT and Habitica account.</p>
-<p>You are going to need to get your <a href="https://habitica.com/#/options/settings/api">Habitica API details; they live here</a>. (The <em>User ID</em> and <em>API Token</em>.)</p>
+<p>You are going to need to get your <a href="https://habitica.com/#/options/settings/api">Habitica API details; they live here</a>. (The _User ID_ and _API Token_.)</p>
 <p>Once you've got your ingredients all ready then you can get going!</p>
 <p>Pick something you want to be rewarded (or punished) for. Something that Rescue Time tracks. Then make <a href="https://www.rescuetime.com/categories">a custom subcategory for it</a>.[^4] Then set a <a href="https://www.rescuetime.com/goals">new goal</a>. </p>
 <figure>

@@ -18,7 +18,7 @@ dsq_thread_id: '4503551871'
 <p>here's a little flick through a sequence of how a multi touch floor could work in a train station to make the experience "well betta' "</p>
 <p><img src="{{ site.baseurl }}/assets/feetonplatformanim.gif" width="500" height="374" /></p>
 <p>There have been plenty of examples of people using multi touch displays for useful and interesting things, but the idea behind this totally ignores the practical things like the cost element of having hundreds of beamers and a server farm to rival Google, and just goes for the hope that something cool might come from the thought experiment (such is the nature of architectural education)<br />
-<!--more--></p>
+ </p>
 <p>so what's going on?</p>
 <ol>
 <li>when you first arrive, the floor's inactive</li>

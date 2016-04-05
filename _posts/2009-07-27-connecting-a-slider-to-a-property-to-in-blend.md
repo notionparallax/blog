@@ -13,7 +13,7 @@ tags:
 ---
 <p><img class="alignleft size-full wp-image-191" title="thermo1" src="{{ site.baseurl }}/assets/thermo1.png" alt="thermo1" width="157" height="454" />I felt pretty stupid for a couple of days trying to wire a slider up to a property in Expression Blend. I finally figured it out, so I thought I'd share the love as I didn't see any tutorials on line.</p>
 <p>So you have a new project in blend, it doesn't much matter if it's destined for wpf or silverlight, as far as I can tell the procedure is the same.</p>
-<p>I've used a mega pointless thermometer to illustrate this, hopefully you'll pick something less crap. (if you do, put a link to it in the comments!)<!--more--></p>
+<p>I've used a mega pointless thermometer to illustrate this, hopefully you'll pick something less crap. (if you do, put a link to it in the comments!) </p>
 <p>So I've drawn the thermometer as a rectangle and a circle. The circle is red, and the rectangle is a gradient between red and blue. The slider is going to control where the gradient stop is so that it looks like we are controlling the temperature with the slider.</p>
 <p>So first thing's first, you need some elements, so draw a thermometer, and throw in a slider. You'll need to edit the slider's properties a bit to make it be vertical.</p>
 <p><img class="size-full wp-image-199 alignnone" title="thermo2" src="{{ site.baseurl }}/assets/thermo2.jpg" alt="thermo2" width="312" height="542" /></p>

@@ -48,7 +48,7 @@ p.tldr {
 <p class="tldr">Tl;dr: 35% of my budget seems to have gone to Russian bots, and Facebook seems to think that there is nothing they can do about it.</p>
 <p>To make a slightly longer version of the Tl;Dr: I was paying about $1 a click, which is fine but 35% of those clicks were coming from a single source in Russia. That person/bot clicked the Facebook advert 25 times on the day in question. My beef is that for all Facebook's fancy data analytics, that they aren't able to filter out that kind of user and keep their advertiser (i.e. me!) a bit happier. I'd love to know if this experience is replicated across other campaigns.</p>
 <p>This is basically just me complaining, but it's cathartic.<br />
-<!--more--></p>
+ </p>
 <hr />
 <p>&nbsp;</p>
 <p>Most of what follows is methodology and analysis; it's not very exciting. I didn't need to do anything magic to separate the clicks driven by facebook from the ones that came 'organically' as there weren't any of the latter type!</p>

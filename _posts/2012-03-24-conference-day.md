@@ -20,7 +20,7 @@ meta:
 
 ---
 <p>Notes from the conference</p>
-<p><!--more--></p>
+<p> </p>
 <h2>Cloud 9 - Enric Ruiz Geli</h2>
 <ul>
 <li><a href="http://studiobanana.tv/2010/10/11/villa-nurbs-enric-ruiz-geli/">Cloud house in bcn, nurbs house</a>.</li>
@@ -29,10 +29,10 @@ meta:
 <li><a href="http://en.wikipedia.org/wiki/File:Airship_Hangar.jpg"><img class="alignnone" src="{{ site.baseurl }}/assets/Airship_Hangar.jpg" alt="" width="100" /></a> What would the door to a zeppelin factory like?<br />
 <a href="http://obviousmag.org/en/archives/2008/12/airship_hangars.html"><img class="alignnone" src="{{ site.baseurl }}/assets/08011105_blog.uncovering.org_hangar-tustin.jpg" alt="" width="600" height="400" /></a><br />
 Same scale could build buildings inside that factory.</li>
-<li>"<em>when beauty emerges, every body gets sleepy</em>"</li>
+<li>"_when beauty emerges, every body gets sleepy_"</li>
 <li>Doesn't seem to be interested in manufacturing optimisation</li>
 <li>Using a projector to check positioning of parts</li>
-<li>"<em>Architects as a platform for contemporary art</em>"</li>
+<li>"_Architects as a platform for contemporary art_"</li>
 <li>Still more talk of innovation : but nobody is really talking about how to achieve it, just that it is a good thing, some sort of nebulous good</li>
 <li>"it's not like materials are here to fight with us... We should play with them"</li>
 <li>"Attack"</li>
@@ -153,7 +153,7 @@ Same scale could build buildings inside that factory.</li>
 </ul>
 <h3>Form follows flow</h3>
 <ul>
-<li>Exploring the flows <em>around objects</em></li>
+<li>Exploring the flows _around objects_</li>
 <li>Modelling a 60 storey building in a wind tunnel</li>
 <li>Playing around in wind tunnel to see what really happens rather than relying on cfd simulation</li>
 <li>I want some helium bubbles!</li>

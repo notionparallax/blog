@@ -13,7 +13,7 @@ tags:
 <p>I've got a new job in england, it's for three months, and it involves moving about a bit. I'm in a bit of a quandry about where I should live. </p>
 <p>I need to be in London, Cambridge and Farnborough, although I don't really know how much as I'll be working from home a bit too, and the splits are undecided so far.</p>
 <p>I'm going to start school again back in Oxford at the end of September, and then I'll live there, but for the next three months I'm floating a bit.</p>
-<p><!--more--></p>
+<p> </p>
 <h3>Oxford</h3>
 <p>If I live in Oxford, it's simple as I don't need to move again in a few months time, but there is the complication of actually going and finding a place to live.</p>
 <p>I could also get my stuff out of storage.</p>

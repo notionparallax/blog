@@ -14,7 +14,7 @@ meta:
   _wpas_mess: 'Major study: Results review experience'
 
 ---
-<p><!--more--></p>
+<p> </p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image048.png" rel="attachment wp-att-2105"><img class="alignnone size-full wp-image-2105" src="{{ site.baseurl }}/assets/image048.png" alt="image048" /></a><br />
 <a href="/wordpress/wp-content/uploads/2015/10/image049.png" rel="attachment wp-att-2106"><img class="alignnone size-full wp-image-2106" src="{{ site.baseurl }}/assets/image049.png" alt="image049" /></a><br />
 <a href="/wordpress/wp-content/uploads/2015/10/image050.png" rel="attachment wp-att-2107"><img class="alignnone size-medium wp-image-2107" src="{{ site.baseurl }}/assets/image050.png" alt="image050" /></a><br />

@@ -82,7 +82,7 @@ has-math: true
 
 <p>This is a really pretty graph, but that's about all it's got going for it. Out of 200 sample runs of this election it gave a tie between 13<sup>th</sup> and 14<sup>th</sup> place 189 times. So 94.5% of the time this method failed to give us what we were looking for.</p>
 <h2>Thirteen votes per voter</h2>
-<p>This is the closest we've got to electing the group as a whole, un-preferentially. Fans of direct mappings between metaphor and implementation will probably be drawn to this. It's a bit better than the previous method at avoiding clashes, but it's still not really <em>good enough</em> (131 out of 200 or 65.5% of the time it will give a clash).</p>
+<p>This is the closest we've got to electing the group as a whole, un-preferentially. Fans of direct mappings between metaphor and implementation will probably be drawn to this. It's a bit better than the previous method at avoiding clashes, but it's still not really _good enough_ (131 out of 200 or 65.5% of the time it will give a clash).</p>
 
 <iframe src="https://docs.google.com/spreadsheets/d/1YFYyntVfz4Z-jARA5lHeFqp_yK4PY0RcjJp6lgc2T0M/pubchart?oid=787908325&amp;format=interactive" >
 :(
@@ -135,24 +135,24 @@ has-math: true
 <li>Can be used anywhere (not locked behind a firewall) so that people can vote at home or on the train etc.</li>
 <li>Doesn't require much maintenance or developer skill (I had to make it, and to call myself a hobbyist is probably rude to hobbyists)</li>
 </ol>
-<p><a href="http://bvn-architecture.github.io/voting">Here's what we ended up with</a>, It's only tested in Chrome because that's the only browser we have at work[^7]. I also made it have a print stylesheet so that it could be filled in by people who are <em>totally</em> technophobic. Turns out that after staying exceptionally late to make this happen a grand total of ZERO votes were submitted on paper. Oh well.</p>
+<p><a href="http://bvn-architecture.github.io/voting">Here's what we ended up with</a>, It's only tested in Chrome because that's the only browser we have at work[^7]. I also made it have a print stylesheet so that it could be filled in by people who are _totally_ technophobic. Turns out that after staying exceptionally late to make this happen a grand total of ZERO votes were submitted on paper. Oh well.</p>
 <p>We've since used this to vote for a photo competition too, so it's pretty reusable. Here's the instructions I gave everyone. I thought I'd leave them more or less unchanged, mainly because I'm lazy.</p>
 <p> </p>
 <h1>How to vote – simple</h1>
 <ol>
-<li>First thing to do is to go to the voting page, but keep reading and <em>then</em> go.</li>
+<li>First thing to do is to go to the voting page, but keep reading and _then_ go.</li>
 <li>When you get there you'll see a list of people with some buttons next to them.<br>
 <a href="{{ site.baseurl }}/assets/voting.png"><img class="alignnone size-full wp-image-1818" style="background-color: black; border-radius: 1em;" src="{{ site.baseurl }}/assets/voting.png" alt="voting"></a></li>
 <li>You can reorder them by clicking–or tapping–the buttons</li>
 <li>Make sure you've put in your email address</li>
-<li>Press <strong>Submit vote</strong></li>
+<li>Press **Submit vote**</li>
 <li>Go about your business</li>
 </ol>
 <p>You can do this on your phone, tablet or on your regular computer. If you are afraid of technology you can also do a paper vote. To print a paper voting form–or to see all the candidates at once–go to the voting form and press [ctrl]+[p] to print one.</p>
 <h1>How to vote – less simple[^8]</h1>
-<p>I'm told that if you vote below the line you need to rank <em>all</em> the parties, that's a bit of a faff, so we've got a movable line.</p>
+<p>I'm told that if you vote below the line you need to rank _all_ the parties, that's a bit of a faff, so we've got a movable line.</p>
 <a href="{{ site.baseurl }}/assets/movable-line.png"><img class="alignnone size-full wp-image-1820" src="{{ site.baseurl }}/assets/movable-line.png" alt="movable-line"></a>
-<p>The all candidates above the red line line will be scored by their position in the list. All candidates below the line get the average of whatever is left over. <strong>Remember that every person who votes affects the ordering of all candidates. That means that your votes beyond the 13 are still important!</strong></p>
+<p>The all candidates above the red line line will be scored by their position in the list. All candidates below the line get the average of whatever is left over. **Remember that every person who votes affects the ordering of all candidates. That means that your votes beyond the 13 are still important!**</p>
 <p>I found that the easiest way to organise candidates is to scroll down the list, sending each person who I think I might like to vote for to the top. Once I get to the bottom I scroll back up to the top and do the detailed work of ordering people precisely. Only when that is done and I've decided who I'm voting for do I move the red line to level off the rest of the candidates.</p>
 <h1>How to vote – detailed</h1>
 <p>The red line stuff can be a bit confusing. I find this diagram useful:</p>

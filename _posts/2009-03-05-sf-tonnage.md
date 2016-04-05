@@ -12,6 +12,6 @@ tags:
 ---
 
 <p align="center">Melbourne--&gt; Sydney--&gt; San Francisco--&gt; Sydney--&gt; Melbourne</p>
-<p align="center"><strong><font color="red">** Carbon Footprint for the air portion of this itinerary is<br />
+<p align="center">**<font color="red">** Carbon Footprint for the air portion of this itinerary is<br />
 2792 kg,<br />
-or 2.79 metric tons. **</font></strong></p>
+or 2.79 metric tons. **</font>**</p>

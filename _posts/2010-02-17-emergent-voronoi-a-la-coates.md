@@ -23,5 +23,5 @@ There really should be an iframe here :(
 </iframe></div>
 <p><img style="float:left;" src="{{ site.baseurl }}/assets/avatar.php?gravatar_id=83cc0719bd5c4cf5817d2d721b53cd15" alt="Alasdair Turner<br />
 " /><a href="http://www.openprocessing.org/portal/?userID=1033">Alasdair Turner</a> has posted this processing version of Paul Coates' emergent Voronoi algorithm from his book <a href="http://www.amazon.co.uk/Programming-Architecture-Paul-Coates/dp/0415451884">Programming Architecture</a>  </p>
-<p>Alasdair says "<em>This is an implementation of an emergent Voronoi diagram, following an algorithm presented in programming.architecture by Paul Coates. It adapts the algorithm slightly to give a good convergence. Coates simply says "move away from the nearest node", which is wonderfully elegant!</em>"</p>
+<p>Alasdair says "_This is an implementation of an emergent Voronoi diagram, following an algorithm presented in programming.architecture by Paul Coates. It adapts the algorithm slightly to give a good convergence. Coates simply says "move away from the nearest node", which is wonderfully elegant!_"</p>
 <p>It is an impressive and clear way of explainign what is really going on behind all those funny shapes people make.</p></p>

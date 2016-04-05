@@ -23,7 +23,7 @@ tags:
 <tbody>
 <tr>
 <td><img class="alignnone" src="{{ site.baseurl }}/assets/2" alt="" width="139" height="175" /></td>
-<td>WHY <em>vs</em> WHY Nuclear Power Barry Brook (YES) vs Ian Lowe (NO)</td>
+<td>WHY _vs_ WHY Nuclear Power Barry Brook (YES) vs Ian Lowe (NO)</td>
 </tr>
 <tr>
 <td>and</td>
@@ -53,5 +53,5 @@ tags:
 </tbody>
 </table>
 <p>but I haven't read either of them, and I'd be interested to hear what other people recommend, and what they think of the books mentioned.</p>
-<p>The current motion for the debate is: “<em>this house believes that Australia's energy supply mix is doing just fine the way it is</em>” and I'm a bit worried that nobody will come to support the motion with any enthusiasm.</p>
+<p>The current motion for the debate is: “_this house believes that Australia's energy supply mix is doing just fine the way it is_” and I'm a bit worried that nobody will come to support the motion with any enthusiasm.</p>
 <p>I'll be posting more studio related bits as it gets going, but I'd love some suggestions.</p>
