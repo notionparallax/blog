@@ -60,7 +60,7 @@ Now we've cut down the field to all the places that I'd like to go and that are 
 
 Let's say that [Cartems](http://cartems.com/), [Luckys](http://www.luckysdoughnuts.com/) and [Cin City](http://www.cincitydonuts.com/) are inside the shape. If we do a proper route analysis we see that there's a big chunk of water between me and Cin City, so that's that out of the way.
 
-####Reel me in
+#### Reel me in
 
 Now it's up to my preference, the system can present me with two options. Maybe the two places could battle it out to try and attract me now that I've stated an [intent](https://en.wikipedia.org/wiki/Intention_economy) to drink coffee and eat doughnuts by offering me deals!
 

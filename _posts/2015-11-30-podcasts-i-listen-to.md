@@ -46,7 +46,7 @@ I sent someone a link to a podcast episode at the weekend. They liked it and wan
 By a lot, I mean that I've listened to tens&endash;hundreds of hours of these.
 
 <div class="big-grid">
-##<a href="http://www.dancarlin.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3ec78c50-0d62-012e-fb9c-00163e1b201c.jpg" alt="" />Hardcore History</a>
+## <a href="http://www.dancarlin.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3ec78c50-0d62-012e-fb9c-00163e1b201c.jpg" alt="" />Hardcore History</a>
 
 This is the only podcast I _actively_ look forward to. That might be because he only does two or three a year, but each one is 3 or four hours long. The recent series on WW1 was 6 episodes, each of 3ish hours.
 
@@ -55,7 +55,7 @@ Because he has a lot of time he's able to go on tangents. These make understand
 I'd start with <a href="http://www.dancarlin.com/product/hardcore-history-43-wrath-of-the-khans-i/">Wrath of the Khans</a> as a gateway drug. Everyone loves the mongols!
 </div>
 <div class="big-grid">
-##<a href="http://heritageradionetwork.org/series/cooking-issues/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/902f6a60-49f6-012e-1a76-00163e1b201c.jpg" alt="" />Cooking Issues</a>
+## <a href="http://heritageradionetwork.org/series/cooking-issues/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/902f6a60-49f6-012e-1a76-00163e1b201c.jpg" alt="" />Cooking Issues</a>
 
 This is a weekly radio show. It took a couple of episodes to get into it.
 
@@ -64,7 +64,7 @@ Dave's a heavy duty cocktail and food science guy; he answers questions that peo
 It's perfect for getting nerdy about something that I enjoy.
 </div>
 <div class="big-grid">
-##<a href="http://www.bbc.co.uk/programmes/b006qykl"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/5e6125f0-0424-012e-f9a0-00163e1b201c.jpg" alt="" />In Our Time</a>
+## <a href="http://www.bbc.co.uk/programmes/b006qykl"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/5e6125f0-0424-012e-f9a0-00163e1b201c.jpg" alt="" />In Our Time</a>
 
 I feel like IOT does more for rounding out my general knowledge than anything else I do. It's weekly, and goes over history of science, religon, culture and ideas in general. The format is four subject experts talking about it in a very well directed, but not scripted conversation.
 
@@ -73,19 +73,19 @@ Very ocasionally it'll go off the rails, maybe once a year, on current science t
 The back catalogue is a good place to look if you need to know a _lot_ about a subject but only have 45 minutes.
 </div>
 <div class="big-grid">
-##<a href="http://www.philosophybites.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c91eec00-0423-012e-f9a0-00163e1b201c.jpg" alt="" />Philosophy Bites</a>
+## <a href="http://www.philosophybites.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c91eec00-0423-012e-f9a0-00163e1b201c.jpg" alt="" />Philosophy Bites</a>
 
 Focused, 15 minute interviews with philosophers about specific topics. Again, a pretty major contributor to the bits of my education that school left out.
 
 Over about a year I listened to most of the back catalogue. I think it's done me a lot of good.
 </div>
 <div class="big-grid">
-##<a href="http://www.bbc.co.uk/programmes/b00nrtd2"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c0879260-0423-012e-f9a0-00163e1b201c.jpg" alt="" />A History of the World in 100 Objects</a>
+## <a href="http://www.bbc.co.uk/programmes/b00nrtd2"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c0879260-0423-012e-f9a0-00163e1b201c.jpg" alt="" />A History of the World in 100 Objects</a>
 
 The British Museum did <a href="http://www.britishmuseum.org/explore/a_history_of_the_world.aspx">an exhibition with the same title</a>. This is the director of the museum talking through the significance of 100 things and how they fit into the story of why we're where we are now.
 </div>
 <div class="big-grid">
-##<a href="http://gizmodo.com/tag/meanwhile-in-the-future"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/2d8d14a0-daf5-0132-089d-059c869cc4eb.jpg" alt="" />Meanwhile in the Future</a>
+## <a href="http://gizmodo.com/tag/meanwhile-in-the-future"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/2d8d14a0-daf5-0132-089d-059c869cc4eb.jpg" alt="" />Meanwhile in the Future</a>
 
 These are a short, fun episodes where they take a possible future scenario and ask experts about what might happen.
 
@@ -94,12 +94,12 @@ They did one where the world had so many wind turbines that it stopped the weath
 The host's voice grated on me for couple of episodes, but I'm over that now.
 </div>
 <div class="big-grid">
-##<a href="http://www.bbc.co.uk/programmes/b04bwydw"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/083c37a0-4961-0132-cc34-5f4c86fd3263.jpg" alt="" />A History of Ideas</a>
+## <a href="http://www.bbc.co.uk/programmes/b04bwydw"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/083c37a0-4961-0132-cc34-5f4c86fd3263.jpg" alt="" />A History of Ideas</a>
 
 This is like a mini In Our Time, with only one person talking about a specific idea. There are weekly, broad topics, then daily specific ones.
 </div>
 <div class="big-grid">
-##<a href="http://www.econtalk.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/b67a4cf0-4b30-0130-e316-723c91aeae46.jpg" alt="" />EconTalk</a>
+## <a href="http://www.econtalk.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/b67a4cf0-4b30-0130-e316-723c91aeae46.jpg" alt="" />EconTalk</a>
 
 I've been listening to this one for a long time. The format is long interviews with economists.
 
@@ -108,24 +108,24 @@ The host is probably the most hard core libertarian that I'm likely to ever enco
 This is another one that has contributed a lot to my education. I'm a bit concious of the ideological bias, so if anyone has an economics podcast that's just as good, but from a different flavour of dogma then let me know.
 </div>
 <div class="big-grid">
-##<a href="http://www.dancarlin.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/86e084d0-1dae-012e-01b5-00163e1b201c.jpg" alt="" />Common Sense</a>
+## <a href="http://www.dancarlin.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/86e084d0-1dae-012e-01b5-00163e1b201c.jpg" alt="" />Common Sense</a>
 
 This is the Hardcore History guy, Dan Carlin, talking about politics. I got pretty into listening to him from the hostory show, and this is spillover.
 
 He tends to be pretty anti-partisan and has some interesting ideas.
 </div>
 <div class="big-grid">
-##<a href="http://99percentinvisible.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/0cc43410-1d2f-012e-0175-00163e1b201c.jpg" alt="" />99% Invisible</a>
+## <a href="http://99percentinvisible.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/0cc43410-1d2f-012e-0175-00163e1b201c.jpg" alt="" />99% Invisible</a>
 
 I find the style of storytelling that these guys use a little bit annoying, but they talk about some really interesting things. They have about 5 minutes of ads at the end that you can skip.
 </div>
 <div class="big-grid">
-##<a href="http://www.rationallyspeakingpodcast.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/04aa2810-1a2b-012e-ffea-00163e1b201c.jpg" alt="" />Rationally Speaking</a>
+## <a href="http://www.rationallyspeakingpodcast.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/04aa2810-1a2b-012e-ffea-00163e1b201c.jpg" alt="" />Rationally Speaking</a>
 
 Either interviews with interesting people, or the two hosts discussing something. Solid discussions and disagreement ensues. It's not dogmatically rationalist.
 </div>
 <div class="big-grid">
-##<a href="yogadownload.com/online-yoga-pilates-meditation-video-and-audio-classes.aspx"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/9b35b1f0-2460-012e-04d8-00163e1b201c.jpg" alt="" />Yoga Download</a>
+## <a href="yogadownload.com/online-yoga-pilates-meditation-video-and-audio-classes.aspx"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/9b35b1f0-2460-012e-04d8-00163e1b201c.jpg" alt="" />Yoga Download</a>
 
 This is more just because it makes life easy. I try to do one of these before bed. Once in a while I actually manage it.
 </div>
@@ -134,52 +134,52 @@ This is more just because it makes life easy. I try to do one of these before be
 
 I listen to these every so often, usually in binges.
 <div class="med-grid">
-###<a href="http://musicforprogramming.net/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/mfp.jpg" alt="" />Music for Programming</a>
+### <a href="http://musicforprogramming.net/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/mfp.jpg" alt="" />Music for Programming</a>
 
 Abstract beeping noises to listen to when I need to block out what's going on around me. It's not for when I need total focus, but great for when I need something to quiet the spare bit of my brain.
 </div>
 <div class="med-grid">
-###<a href="http://commonsenseatheism.com/?p=1911"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/04b3cbb0-202e-012e-02d6-00163e1b201c.jpg" alt="" />Conversations from the Pale Blue Dot</a>
+### <a href="http://commonsenseatheism.com/?p=1911"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/04b3cbb0-202e-012e-02d6-00163e1b201c.jpg" alt="" />Conversations from the Pale Blue Dot</a>
 
 This is a bit like rationally speaking (above) but I haven't really got into it properly.
 </div>
 <div class="med-grid">
-###<a href="http://gimletmedia.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/ada28710-1123-0132-aad3-5f4c86fd3263.jpg" alt="" />StartUp Podcast</a>
+### <a href="http://gimletmedia.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/ada28710-1123-0132-aad3-5f4c86fd3263.jpg" alt="" />StartUp Podcast</a>
 
 This is a podcast about starting a podcast company. It's good, but I've only just started it.
 </div>
 <div class="med-grid">
-###<a href="https://podcasts.ox.ac.uk/series/practical-ethics-bites"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/dbc94b60-2286-0132-b5b9-5f4c86fd3263.jpg" alt="" />Practical Ethics Bites</a>
+### <a href="https://podcasts.ox.ac.uk/series/practical-ethics-bites"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/dbc94b60-2286-0132-b5b9-5f4c86fd3263.jpg" alt="" />Practical Ethics Bites</a>
 
 Same guys as Philosophy Bites, but specifically about practical ethics.
 </div>
 <div class="med-grid">
-###<a href="http://utilitarian-essays.com/FRI-RSS.xml"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/cover170x170.jpeg" alt="" />Science, Ethics, and the Future</a>
+### <a href="http://utilitarian-essays.com/FRI-RSS.xml"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/cover170x170.jpeg" alt="" />Science, Ethics, and the Future</a>
 
 A guy reads essays. Really interesting topics, but because they were written to be read I sometimes zone out.
 </div>
 <div class="med-grid">
-###<a href="http://www.npr.org/planetmoney"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c59b45b0-0bc4-012e-fb02-00163e1b201c.jpg" alt="" />Planet Money</a>
+### <a href="http://www.npr.org/planetmoney"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/c59b45b0-0bc4-012e-fb02-00163e1b201c.jpg" alt="" />Planet Money</a>
 
 Fun when I remember to listen.
 </div>
 <div class="med-grid">
-###<a href="http://longnow.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/31ae3230-2c09-012e-096b-00163e1b201c.jpg" alt="" />Seminars About Long-term Thinking</a>
+### <a href="http://longnow.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/31ae3230-2c09-012e-096b-00163e1b201c.jpg" alt="" />Seminars About Long-term Thinking</a>
 
 These are long (90 minute) sessions. 45 minutes of talk, then another 45 of Q&amp;A. Wide range of topics, but the foundation is focussed on getting people to think about issues that span hundreds and thousands of years, not just weeks.
 </div>
 <div class="med-grid">
-###<a href="http://jobstobedone.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3d203f70-46c2-012f-08b2-525400c11844.jpg" alt="" />Jobs-to-be-Done Radio</a>
+### <a href="http://jobstobedone.org/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3d203f70-46c2-012f-08b2-525400c11844.jpg" alt="" />Jobs-to-be-Done Radio</a>
 
 A really interesting way of thinking about products and services. These are a good intro to it, but they seem to have dried up.
 </div>
 <div class="med-grid">
-###<a href="http://www.fourhourworkweek.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/046f9e00-a81a-0131-c656-723c91aeae46.jpg" alt="" />The Tim Ferriss Show</a>
+### <a href="http://www.fourhourworkweek.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/046f9e00-a81a-0131-c656-723c91aeae46.jpg" alt="" />The Tim Ferriss Show</a>
 
 Irina listens to this religiously, so I just get her to tell me about it.
 </div>
 <div class="med-grid">
-###<a href="http://www.barbellshrugged.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3c68d6d0-5d91-012f-1254-525400c11844.jpg" alt="" />Barbell Shrugged</a>
+### <a href="http://www.barbellshrugged.com/"><img class="podcast-thumb" src="{{ site.baseurl }}/assets/3c68d6d0-5d91-012f-1254-525400c11844.jpg" alt="" />Barbell Shrugged</a>
 
 Every so often I need a bit of motivation.
 </div>
