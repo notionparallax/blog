@@ -7,16 +7,6 @@ published: false
 status: draft
 categories: []
 tags: []
-meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _edit_last: '1'
-  _publicize_twitter_user: "@notionparallax"
-author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
 ---
 
 We all seem to be comfortable with the ideas of knowledge capital and status, but why did I write about them?
