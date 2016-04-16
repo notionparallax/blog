@@ -23,7 +23,7 @@ I've been learning things that push me past the limit of where I'm comfortable t
 
 I find learning really enjoyable, to the point where I'll do it as a leisure activity. The problem here is that it's often not goal oriented; that means that the goal becomes something like _finish this level_ when I'm doing a [Code School]() course. I Know that the knowledge I'm getting is useful, but often the incentive becomes the goal. Finishing the lesson, getting the badge, becomes the goal. It's like pressing the feeder-bar instead of building towards a more substantial goal.
 
-This week I've been trying to get my head around Android development. It's got a _lot_ of moving parts. Most of which are new to me. There's and IDE, Java, working with a real device, thread management, the list goes on. That gives a really steep learning curve.
+This week I've been trying to get my head around Android development. It's got a _lot_ of moving parts. Most of which are new to me. There's an IDE, Java, working with a real device, thread management, the list goes on. That gives a really steep learning curve.
 
 <figure class="half-width right">
 >hello world for a web page:
@@ -43,7 +43,7 @@ I think that I'm remembering this with a bit too much of a rose tinted viewpoint
 That painful period where things didn't work was also where I was learning the most new things. Trying a hundred wrong ways of doing a layout with CSS might not be that efficient, but I was getting foundational skills. The problem is that those foundational skills are usually on steep bits of a learning curve. Once the curve plateaus then it's much more comfortable but there aren't as many big gains in capacity.
 
 <figure>
-![alt text]({{ site.baseurl }}/assets/16/{{page.featuredimg}}) 
+![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
 <figcaption>
 I have let myself be in the comfy plateau for too long. I need to find a way to convince myself that being on a steep learning curve is fun.
 </figcaption>
@@ -51,7 +51,7 @@ I have let myself be in the comfy plateau for too long. I need to find a way to 
 
 On the graph above, the slope is how much new stuff you're learning. Problem is that if you don't make it to the comfy plateau then you don't get a chance to consolidate and use those new things. 
 
-The shape of that curve must have some relationship to how many people get to the comfy plateau[^2]. Curves that have lots of small steps are much more approachable than curves that have long scary steep bits. Those steps are like _save game_ points. I made progress with web dev because I could stop at any point and I had something useful, whereas I've given up on with mobile dev for the moment and I don't feel like I've got anything usable in my mental-tool-kit.
+The shape of that curve must have some relationship to how many people get to the comfy plateau[^2]. Curves that have lots of small steps are much more approachable than curves that have long scary steep bits. Those steps are like _save game_ points. I made progress with web dev because I could stop at any point and I had something useful, whereas I've given up on mobile dev for the moment and I don't feel like I've got anything usable in my mental-tool-kit.
 
 I've never seen [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) explained this way, but maybe when those steps become so small that they are virtually a straight line then it's conducive to a flow state. The learning and application are so integrated that you don't notice the difference[^3].
 

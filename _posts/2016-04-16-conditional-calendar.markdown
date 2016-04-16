@@ -20,7 +20,7 @@ featuredimg: 16/goal-cal.jpg
 ---
 
 <figure class="half-width right">
-![Some automatically scheduled goal times on a Google calendar]({{ site.baseurl }}/assets/16/{{page.featuredimg}}) 
+![Some automatically scheduled goal times on a Google calendar]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
 <figcaption>
 This is when Google thinks I should do these things. It's not a bad start!
 </figcaption>
