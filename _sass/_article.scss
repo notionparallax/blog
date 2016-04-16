@@ -75,10 +75,12 @@ article.post {
     //blockquote {}
 
     figcaption {
-      font-size: 90%;
+      font-size: 85%;
       font-weight: lighter;
       padding: .5em 1em;
 
+      p {text-align: center;}
+      
       //cite {}
     }
   }
