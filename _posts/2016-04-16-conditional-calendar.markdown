@@ -26,7 +26,7 @@ This is when Google thinks I should do these things. It's not a bad start!
 </figcaption>
 </figure>
 
-[Google has just launched goals](https://googleblog.blogspot.ca/2016/04/find-time-goals-google-calendar.html). It lets you pick things that you want to fit into your day, but they are a new type of event. They will automatically reschedule if something clashes with them[^1].
+[Google has just launched _Goals_](https://googleblog.blogspot.ca/2016/04/find-time-goals-google-calendar.html). It lets you pick things that you want to fit into your day, but they are a new type of event. They will automatically reschedule if something clashes with them[^1].
 
 I've had this post as a draft for far too long now and I thought that it'd be a good time to pull it out and finish it off.
 
