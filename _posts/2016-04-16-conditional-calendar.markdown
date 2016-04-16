@@ -15,8 +15,8 @@ description: Can our calendars be more useful? Can they make more time for the t
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: Can our calendars be more useful? Can they make more time for the things we want to do?
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/16/{{page.featuredimg}}) 
-featuredimg: goal-cal.jpg
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+featuredimg: 16/goal-cal.jpg
 ---
 
 <figure class="half-width right">

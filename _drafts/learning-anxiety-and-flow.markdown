@@ -15,8 +15,8 @@ description: I've been learning things that push me past the limit of where I'm 
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body:
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/16/{{page.featuredimg}}) 
-featuredimg: learningRate.jpg
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+featuredimg: 16/learningRate.jpg
 ---
 
 I've been learning things that push me past the limit of where I'm comfortable this week. It's left me feeling pretty edgy[^1]. 
