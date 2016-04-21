@@ -16,7 +16,6 @@ tags:
 description:
 
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script type="text/javascript" src="../js/velocity.js"></script>
 <script type="text/javascript" src="../js/velocity.ui.js"></script>
 <script type="text/javascript" src="../js/posts/von-moltke/animate-arrow.js"></script>
@@ -52,7 +51,7 @@ Stan McChrystal speaking on <cite>The Tim Ferriss Show: <a href="http://fourhour
 
 What Stan’s saying here is that the power of the network is that each of his chess pieces is empowered to make choices. Each node (person) in the network is imbued with agency! That is, they have explicit permission to make choices. This is very cool because instead of mechanically capturing the bridge, if it’s pointless because the bridge isn’t useful any more they can pick a different course of action. I’m getting ahead of myself, let’s cover the basic stuff first about why networks are good, then get onto the cool stuff.
 
-#Why networks are cool
+# Why networks are cool
 
 <iframe class="the-man" src="https://www.youtube.com/embed/37oJqWp4rJM?enablejsapi=1&amp;origin=http://notionparallax.co.uk" frameborder="0" allowfullscreen="" seamless="" id="ba_yt_0"></iframe>
 
@@ -62,7 +61,7 @@ The big thing that networks give you automatically is robustness. (Some people c
 
 Networks don’t automatically get information to the right person straight away. Diffusion isn’t a directed phenomenon. When you let them be, humans are smart. They solve that problem by sending information straight to the person who needs it. This doesn’t work in strict hierarchies because of chain of command issues.
 
-#What purpose does for networks
+# What purpose does for networks
 
 <figure class="svg-animation">
 {% include posts/von-moltke/hierarchy-two.svg %}
@@ -118,11 +117,11 @@ Moltke on the Art of War, <cite>Daniel Hughes</cite>
 
 What he’s saying is that the further from the action you are, the more abstract your directions should be. It’s a fancy way of saying don’t micro-manage people. Hughes goes on to say “<quote>Moltke was willing to allow subordinate commanders to deviate from the details of his directives so long as their actions were consistent with his overall concept.</quote>“. I’d say that “consistent with his overall concept” is in line with what I see “consistent with the stated purpose” doing for any other organisation. It’s pushing agency into the network. Diffusing decision making to the people best equipped to make those choices. There is a much better treatment of this in Superforcasters by Philip Tetlock. He says that when military people consult for business the businesses struggle with their preconceptions.  Getting them to abandon their command-and-control hierarchies is hard. Strange that the military has been doing for over a century now!
 
-#A modern example
+# A modern example
 
 <a href="http://martinfowler.com/articles/agileFluency.html#Four-starTeamsContributeToOptimizingTheSystem"><img src="http://i0.wp.com/martinfowler.com/articles/images/agileFluency/path.png?w=580" class="agile-fluency-model" >The Agile Fluency Model</a> is a way of classifying agile teams on how badass they are. I saw a [nice talk about this][http://www.agileaustralia.com.au/2015/program] at Agile Australia this year. A level 4 team isn’t just getting their work done, they are looking at the market and pre-empting what features to build next to capture the most value. You can’t micro manage a team like that, you just need to point them in the right direction and keep obstacles out of their way. If my memory serves me right they were saying that a lot of the teams at Spotify were level 4.
 
-#Conclusion
+# Conclusion
 
 This is all pretty in depth, I’m amazed that you’ve made it this far! Perhaps I’ve convinced you that having a clear purpose is useful. Not just as a marketing tool, but as a force that aligns all the nodes in your network.
 

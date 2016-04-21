@@ -44,7 +44,7 @@ Up to this point has been pretty straight forward, OG database stuff. All we're 
 
 I've been thinking for a while that a social pressure to review will emerge eventually. This is enforced by Uber because you can't book your next one without reviewing the last one, but it doesn't account for taste, Uber just wants to make sure that you got acceptable service. In [Building Web Reputation Systems](http://shop.oreilly.com/product/9780596159801.do) they talk about how almost all reviews on a five star system come out as 1s or 5s so you don't get much nuance[^2]. This is something that we need to get over because if we all rate 5* then there's no way to say _this place is fine, but it's not for me_. If we can do that then the AI can start to build us into tribes[^3] and recommend places that other people in our tribe liked.
 
-####Is it on the way?
+#### Is it on the way?
 This is much less nuanced and is just a straight up computing problem. My guess is that you'd want to do it in a few steps. 
 
 <figure class="half-width right">

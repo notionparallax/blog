@@ -8,13 +8,13 @@ status: publish
 categories: []
 tags: []
 
-#this goes on the index page, and into facebook shares
+# this goes on the index page, and into facebook shares
 description: Rating less than 5* is punitive. This means that reviewers can't express nuanced happiness. Here's one way to overcome that.
 
 # This is what twitter will pick up if someone tweets the link to this page 
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: Rating less than 5* is punitive. This means that reviewers can't express nuanced happiness.
-#Twitter and facebook will pick up this image. you can also use it in a post with:
+# Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
 featuredimg: rate_your_driver.png
 ---

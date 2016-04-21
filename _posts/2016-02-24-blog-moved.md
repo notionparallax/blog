@@ -13,7 +13,7 @@ description: "Touchdown, I'm in Vancouver and blog is in GH pages"
 
 I warned a few weeks ago that we'd be moving, and now we have!
 
-#The blog
+# The blog
 
 The old blog was on Wordpress, and had been there [since 2006](http://notionparallax.co.uk/2006/new-website). I remember moving it over from whatever it was before (frames I think) to a self hosted Wordpress site. The ‘famously simple’ installation process left me pretty unimpressed. It assumed a basic level of competence that I just didn't have. Things have changed a lot since then and I still really like Wordpress; it’s got so much easier to use.
 
@@ -26,7 +26,7 @@ The Ex-Presidents rip off banks to finance their endless summer (or winter).
 
 I've moved over to Jekyll and GitHub Pages because I can understand the whole process. I have a _good enough_ understanding of how every part of it works. That's also combined with my growing enthusiasm for writing in Sublime and waning love of the tiny<span class="small-caps">mce</span> editor that Wordpress uses; especially its tendency to 'help out' by deleting large chunks of content.
 
-##Warnings
+## Warnings
 
 There is a *lot* that still needs to be done. 
 
@@ -38,6 +38,6 @@ There's no search, 404 page, or any of the other things that I can't think of ri
 
 If you spot anything that looks munted, leave a comment on that page and I'll fix it up. (Or you can just email me about it: <ben@notionparallax.co.uk>.)
 
-#Me
+# Me
 
 I'm in Vancouver I've been here a week today, it's pretty great! More on that to come.

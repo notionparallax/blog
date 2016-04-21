@@ -8,11 +8,6 @@ status: publish
 categories: []
 tags: []
 description: "Here's a list of all the podcasts I listen to a lot."
-meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: Podcasts I listen to
-
 ---
 <style type="text/css">
 .podcast-thumb{
@@ -130,7 +125,7 @@ Either interviews with interesting people, or the two hosts discussing something
 This is more just because it makes life easy. I try to do one of these before bed. Once in a while I actually manage it.
 </div>
 
-#Podcasts I sometimes listen to
+# Podcasts I sometimes listen to
 
 I listen to these every so often, usually in binges.
 <div class="med-grid">
