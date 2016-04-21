@@ -1,9 +1,14 @@
-function randomArrows(){
+document.addEventListener("DOMContentLoaded", function(event) { 
+
+  console.log("I'm here, I have a purpose!");
+  console.log("velocity", $.Velocity);
+  function randomArrows(){
     // console.log("mess up arrows");
     jQuery.each($("svg#network-2 #nodes g"), function(key, value){
       $(this).css("transform","rotateZ("+(Math.random()*365)+"deg)")
     });
   }
+
   function straightArrows(){
     // console.log("straighten arrows");
     jQuery.each($("svg#network-2 #nodes g"), function(key, value){
@@ -48,33 +53,31 @@ function randomArrows(){
     { e: $("#network-1 #person04"),  p: { opacity:0.5                      }, o: {  duration: 70,  loop: 3 } }
   ];
 
-  $( document ).ready(  function () {
-    console.log("I'm here, I have a purpose!");
-    $("#hierarchy-trigger").click(function(){
-      console.log("you pressed the hierarchySequence button");
-      $.Velocity.RunSequence(hierarchySequence);
-    });
-    $("#network-trigger1" ).click(function(){
-      console.log("you pressed the networkSequence1 button");
-      $.Velocity.RunSequence(networkSequence1);
-    });
+  $("#hierarchy-trigger").click(function(){
+    console.log("you pressed the hierarchySequence button");
+    $.Velocity.RunSequence(hierarchySequence);
+  });
+  $("#network-trigger1" ).click(function(){
+    console.log("you pressed the networkSequence1 button");
+    $.Velocity.RunSequence(networkSequence1);
+  });
 
-    var arrowState = "random";
-    $("#network-trigger2").html("Infuse me with purpose");
-    randomArrows();
+  var arrowState = "random";
+  $("#network-trigger2").html("Infuse me with purpose");
+  randomArrows();
 
-    $("#network-trigger2" ).click(function(){
-      // console.log(arrowState);
-       if (arrowState == "random"){
-        straightArrows();
-        arrowState = "straight";
-        $("#network-trigger2").html("Let chaos rule!");
-       }else{
-        randomArrows();
-        arrowState = "random";
-        $("#network-trigger2").html("Infuse me with purpose");
-       }
-
-    });
+  $("#network-trigger2" ).click(function(){
+     console.log(arrowState);
+     if (arrowState == "random"){
+      straightArrows();
+      arrowState = "straight";
+      $("#network-trigger2").html("Let chaos rule!");
+     }else{
+      randomArrows();
+      arrowState = "random";
+      $("#network-trigger2").html("Infuse me with purpose");
+     }
 
   });
+
+});

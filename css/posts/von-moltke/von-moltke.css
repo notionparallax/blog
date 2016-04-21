@@ -24,47 +24,20 @@ svg path {
   transform-origin: center;
 }
 
-quote {
-  font-style: italic;
-}
-
-.quote {
-  font-size: 110%;
-}
-
-.quote.pull {
-  width: 40%;
-  float: right;
-}
-
-.quote p {
-  margin-bottom: 1em;
-}
-
-.quote.interview p {
-  padding-left: 3em;
-  text-indent: -3em;
-}
-
-.quote p.following-p {
-  padding-left: 3em;
-  text-indent: 0em;
-}
-
 span.speaker {
   display: inline-block;
   width: 3em;
 }
 
 figure.svg-animation {
-  width: 50%;
   float: right;
   min-width: 400px;
+  width: 50%;
 }
 
 figure.svg-animation.purpose {
-  width: 90%;
   float: none;
+  width: 90%;
 }
 
 figcaption {
@@ -88,36 +61,15 @@ figcaption {
 }
 
 figure button {
-  width: 100%;
   margin-bottom: 1em;
+  width: 100%;
 }
 
-iframe.the-man {
-  float: right;
-}
-
-img.agile-fluency-model {
+.agile-fluency-model {
   float: right;
   margin-left: 1.5em;
   width: 250px;
 }
-
-img.von-moltke {
-  float: left;
-  margin-right: 3em;
-}
-
-/* blockquote:before {
-  content: open-quote;
-}
-
-blockquote:after {
-  content: close-quote;
-}*/
-
-.quote.long blockquote{text-indent: 0;}
-.quote.long blockquote:before { content: none;  }
-.quote.long blockquote:after {  content: none;  }
 
 p.tldr {
   padding-left: 3em;
