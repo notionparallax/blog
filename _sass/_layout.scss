@@ -97,7 +97,7 @@
 }
 
 .footer-heading {
-  font-size: 18px;
+  font-size: 1em;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -108,7 +108,7 @@
 }
 
 .footer-col-wrapper {
-  font-size: 15px;
+  font-size: 85%;
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
@@ -169,11 +169,6 @@
   // }
 }
 
-.page-heading {
-  font-size: 20px;
-}
-
-
 .post-list {
   list-style: none;
   margin-left: 0;
@@ -223,14 +218,16 @@
 
     &:hover {
       background-color: $brand-color;
-      h2, h2 a, p, .read-more, .post-date {
+      h2, 
+      h2 a, 
+      p, .read-more, .post-date {
         color: $text-color-invert;
       }
     }
 
-    @include media(max-width 900px) {
-      //single column
-    }
+    // @include media(max-width 900px) {
+    //   //single column
+    // }
 
     @include media(min-width 900px max-width 1300px) {
       @include span-columns(6);
@@ -246,13 +243,13 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
   color: $grey-color;
+  font-size: $small-font-size;
 }
 
 .post-link {
   display: block;
-  font-size: 24px;
+  font-size: 1.7rem;
 }
 
 
@@ -263,12 +260,12 @@
 }
 
 .post-title {
-  font-size: 42px;
+  font-size: 1.7rem;
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 1.5rem;
   }
 }
 
@@ -276,26 +273,26 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    font-size: 32px;
+    font-size: 1.8rem;
 
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 1.5rem;
     }
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 1.5rem;
 
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 1.3rem;
     }
   }
 
   h4 {
-    font-size: 20px;
+    font-size: 1.3rem;
 
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 1.1rem;
     }
   }
 }
@@ -304,15 +301,18 @@
 .alignright {
   float: right;
 }
+
 .alignleft {
   float: left;
 }
 
-.footnotes{
-  ol{
-      @include columns(19em);
-      li{
-        margin-left: 2em;
-      }
+.footnotes {
+
+  ol {
+    @include columns(19em);
+
+    li {
+      margin-left: 2em;
+    }
   }
 }

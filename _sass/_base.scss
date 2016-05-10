@@ -109,7 +109,7 @@ code {
   background-color: $code-background;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  font-size: 15px;
+  font-size: 100%;
 }
 
 code {
@@ -118,7 +118,7 @@ code {
 
 pre {
   overflow-x: auto;
-  padding: 8px 12px;
+  padding: 1em 2em;
 
   > code {
     border: 0;
@@ -144,7 +144,7 @@ pre {
 //Clearfix
 %clearfix {
 
-  &:after {
+  &::after {
     clear: both;
     content: '';
     display: table;
@@ -158,9 +158,9 @@ pre {
 
   > svg {
     display: inline-block;
-    height: 16px;
+    height: 1.3em;
     vertical-align: middle;
-    width: 16px;
+    //width: 1.5em;
 
     path {
       fill: $grey-color;
