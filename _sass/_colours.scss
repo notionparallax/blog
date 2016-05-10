@@ -1,7 +1,7 @@
-$text-color:       rgba(0, 0, 0, .87);
-$text-color-invert:rgba(255, 255, 255, .87);
-$background-color: #fdfdfd;
-$brand-color:      hsla(202, 60%, 33%, .87);
+$background-color:  hsl(0, 0%, 99%);
+$text-color:        rgba(0, 0, 0, .87);
+$text-color-invert: $background-color;
+$brand-color:       hsl(202, 59%, 30%);
 
 $grey-color:       hsla(0, 0%, 30%, 1);
 $grey-color-light: lighten($grey-color, 40%);
