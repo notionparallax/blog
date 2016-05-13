@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concent - the Cafe with Constraints
+title: Concent - the Café with Constraints
 date: 2016-05-13 01:00:00  PDT
 type: post
 published: true
@@ -13,7 +13,7 @@ description: Could we make harsh, constraining enviroments that make work easier
 
 # This is what twitter will pick up if someone tweets the link to this page 
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body: Could we make harsh, constraining enviroments that make work easier? A few ideas:
+twitter-body: Could we make harsh, constraining enviroments that make work easier? A few ideas
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
 featuredimg: 16/pom-box.jpg
