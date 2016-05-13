@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Concent - the Cafe with Constraints
-date: 2016-05-01 13:25:59  PDT
+date: 2016-05-13 01:00:00  PDT
 type: post
 published: true
 status: publish
@@ -16,7 +16,7 @@ description:
 twitter-body:
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
-featuredimg: rate_your_driver.png
+featuredimg: 16/pom-box.jpg
 ---
 
 Imagine: You're sharpening a knife, it requires you to maintain focus. The closer you get to finished, the more likely it is to catch on the stone and ruin it all. This means that as you get closer and closer to the end, smaller and smaller breaks in your concentration can be catastrophic.
@@ -52,6 +52,13 @@ What we need is a more severe instrument of concentration modification. Enter th
 1. **There's a lock on the door:** It has a timer lock that is only controllable from the outside. By going in, you are committing yourself to a period of time. You don't have to work, but you might as well because you can't do anything else. This has some strange side effects. If you forget something vital you'll just twiddle your thumbs until you can get out; teaching you to be more organised. It also stops you from rage quitting and going for a walk as soon as you get stuck, maybe upping your persistence.
 2. **There's a Faraday cage around it:** You can't make calls, or get Instagram notifications in the cabin. You are committing to your concentration being controlled by an [internal locus](http://psychcentral.com/encyclopedia/locus-of-control/).
 3. **It has it's own WiFi:** to extend the previous point. The box can't get WiFi from outside, so it needs to provide its own. The key point here is that you can disconnect it before you go in. This cuts you off from any access to the outside world, further reducing opportunity for distraction. There is a lot of work that needs the internet, but if you can chop it into chunks that do and chinks that don't then you are more likely to stay focused in the _don't_ chunks.
+
+<figure>
+![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+<figcaption>
+When I started thinking about this I was using an air freight container to hold the box. I'm not sure why really. I think I also drew this with the person facing the wrong way!
+</figcaption>
+</figure>
 
 The idea for this might well rest on the stories people tell about being productive on long distance trains! (At least 'back in the day' before trains had WiFi.)
 
