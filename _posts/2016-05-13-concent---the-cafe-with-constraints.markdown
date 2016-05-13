@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concent - the Café with Constraints
+title: Concent - the Caf&eacute; with Constraints
 date: 2016-05-13 01:00:00  PDT
 type: post
 published: true
