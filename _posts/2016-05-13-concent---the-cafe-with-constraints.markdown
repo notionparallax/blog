@@ -9,11 +9,11 @@ categories: []
 tags: []
 
 #this goes on the index page, and into facebook shares
-description: 
+description: Could we make harsh, constraining enviroments that make work easier?
 
 # This is what twitter will pick up if someone tweets the link to this page 
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
+twitter-body: Could we make harsh, constraining enviroments that make work easier? A few ideas:
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
 featuredimg: 16/pom-box.jpg
@@ -23,7 +23,7 @@ Imagine: You're sharpening a knife, it requires you to maintain focus. The close
 
 This is how I feel about working on hard things. It's not just 'working hard' anyone can do that, I mean working on thing that are difficult. Focusing on hard things is hard in itself. It might be my ADHD that keeps me from concentrating like a 'normal person' but that constraint also gives me a motivation to find strategies to help.
 
-I've been meaning to write this post for a while now, so there's a lot to cover. Most of it is about imposing arbitrary constraints that make it easier to concentrate my making it hard to get distracted.
+I've been meaning to write this post for a while now, so there's a lot to cover. Most of it is about imposing arbitrary constraints that make it easier to concentrate, by making it hard to get distracted.
 
 # The Pomodoro Cabin
 
@@ -45,7 +45,7 @@ What we need is a more severe instrument of concentration modification. Enter th
 <figure class="half-width right">
 ![Black figure vase painting of Odysseus and the Sirens, eponymous vase of the Siren Painter, c. 480–470 BC, (British Museum). A man on a ship, tied to the mast. Birds with the heads of women swoop at him. His rowers are unperturbed as they have their ears plugged with wax.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Odysseus_Sirens_BM_E440_n2.jpg/1920px-Odysseus_Sirens_BM_E440_n2.jpg)
 <figcaption>
-<span class="mw-mmv-title" original-title="">Odysseus and the Sirens, eponymous vase of the <a href="/wiki/Siren_Painter" title="Siren Painter">Siren Painter</a>, c.&nbsp;480–470 BC, (<a href="/wiki/British_Museum" title="British Museum">British Museum</a>)</span>
+Odysseus and the Sirens, eponymous vase of the <a href="/wiki/Siren_Painter" title="Siren Painter">Siren Painter</a>, c.&nbsp;480–470 BC, (British Museum). I love me some Black Figure Vase painting. It's like <acronym title="Iota Nu Sigma Tau Alpha Gamma Rho Alpha Mu - Instagram duh!">Ινσταγραμ</acronym> for the Greeks!
 </figcaption>
 </figure>
 
@@ -63,6 +63,13 @@ When I started thinking about this I was using an air freight container to hold 
 The idea for this might well rest on the stories people tell about being productive on long distance trains! (At least 'back in the day' before trains had WiFi.)
 
 # The Concent Café
+
+<figure class="half-width right">
+![](https://medievalfragments.files.wordpress.com/2013/11/scriptorium-2.jpg)
+<figcaption>
+Mediævel Scriptorum, taken from [Where Are the Scriptoria?](https://medievalfragments.wordpress.com/2013/11/05/where-are-the-scriptoria/) on [medievalfragments](https://medievalfragments.wordpress.com/)
+</figcaption>
+</figure>
 
 This idea is pretty strongly based on Neal Stephenson's book Anathem[^4], but also on some other bits and bobs that I've been thinking about monastic life. _The Hours_ that "mark the divisions of the day in terms of periods of fixed prayer at regular intervals"[^5] is pretty comparable to the idea of work. In [Religion for Atheists](http://alaindebotton.com/religion/) Alain de Botton bemoans that we've ditched all the useful stuff that religion did, much of which pre-dated organised religion, or emerged as organisational strategies learnt while running the largest and most powerful organisations in the world.
 
@@ -85,7 +92,12 @@ The idea of the café is that you are doing your pomodoros, but in a group. Ther
 
 This gets tricky when you need to maintain for long periods. You'll get thirsty, your caffeine levels will drop. In general you need support[^8]. Enter _the novices_. These people are doing a job, it might be full time, or it might be a rota of people who would otherwise be working but want a longer break and a change. They would provide support, topping up people's water and cups on a schedule.
 
----
+<figure>
+![alt text](https://timeslipsblog.files.wordpress.com/2015/01/lindisfarne-ep21.jpg)
+<figcaption>
+[Lindisfarne](https://en.wikipedia.org/wiki/Lindisfarne_Gospels) monks working up to becoming the Xerox corporation. From The Vikings. Isn't TV great!
+</figcaption>
+</figure>
 
 As I was saying earlier about picking over the bones, I don't think that you'd use these things all the time. Maybe you'd use them more once you started to build up your [attention muscles](http://notionparallax.co.uk/2016/deep-work-and-my-first-steps), but these would be used in conjunction with other work settings. Figuring out what setting is best for what type of work is a skill that--as a society--we aren't good at. We value conformance and consistency too highly (as did the monks). We need to get out of that mind set and into thinking of picking the right tool for the job, where your setting/context is one of those tools.
 
