@@ -40,3 +40,4 @@ I'm going to try to cover all the latest stuff (Easy this week with all the stuf
 
 ![fozzy bear dressed as a MiB]({{ site.baseurl }}/assets/{{page.featuredimg}})
 
+I'm going to try to get the first one out in the middle of next week, and then they'll be weekly from then on.
