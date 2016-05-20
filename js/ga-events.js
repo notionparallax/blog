@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function(){
   //er, if I need events...
   //ga('send', 'event', 'scrolled', 'x', 'y');
+  //ga('send', 'event', [eventCategory], [eventAction], [eventLabel], [eventValue], [fieldsObject]);
   
   function registerPocketSave () {
     console.log("looking for pockets");
@@ -14,7 +15,8 @@ document.addEventListener('DOMContentLoaded', function(){
         let a = document.getElementById('pkt_ext_master');
         if (a){
           console.log(a, "found a pocket save - firing a GA event!");
-          ga('send', 'event', 'Pocketed', '{{page.title}}', 'y');
+          ga('send', 'event', 'Pocketed', '{{page.title}}');
+          observer.disconnect(); //once we've saved to pocket, stop so that we don't get ghost versions
         }
       });  
     });
