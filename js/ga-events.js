@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function(){
         let a = document.getElementById('pkt_ext_master');
         if (a){
           console.log(a, "found a pocket save - firing a GA event!");
-          ga('send', 'event', 'Pocketed', '{{page.title}}');
+          ga('send', 'event', 'Pocketed', document.title);
           observer.disconnect(); //once we've saved to pocket, stop so that we don't get ghost versions
         }
       });  
