@@ -15,7 +15,7 @@ article.post {
     font-size: 270%; line-height: 1;
     
     @include media-query($on-palm) {
-      font-size: 230%;
+      font-size: 220%;
     }
   }
 
@@ -76,6 +76,15 @@ article.post {
   blockquote {
     font-size: 120%;
     width: 80%;
+
+    @include media-query($on-palm) {
+      background-color: rgba($brand-color, .05);
+      border: 0;
+      font-size: 100%;
+      margin: 0 -1em 1em;
+      padding: 1em;
+      width: 100vw;
+    }
   }
 
   .site-title {
@@ -96,6 +105,19 @@ article.post {
   .left {float: left;}
 
   figure {
+
+    @include media-query($on-palm) {
+      margin-left: .5em;
+
+      &:not(.half-width) {
+        margin-left: 0;
+
+        >p {
+          margin: 0 -1em;
+        }
+      }
+    }
+
     img {
       width: 100%;
     }
@@ -104,7 +126,7 @@ article.post {
       border: 0;
       height: 40vh;
       width: 100%;
-}
+    }
 
     //blockquote {}
 
@@ -114,6 +136,11 @@ article.post {
       padding: .5em 1em;
 
       //cite {}
+
+      @include media-query($on-palm) {
+        font-size: 75%;
+        padding: initial;
+      }
     }
   }
 
