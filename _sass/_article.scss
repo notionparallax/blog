@@ -95,6 +95,11 @@ article.post {
     @include span-columns(6);
     @include omega();
     padding-top: 1em;
+
+    @include media-query($tiny) {
+      float: initial;
+      width: 100%;
+    }
   }
 
   .right {
