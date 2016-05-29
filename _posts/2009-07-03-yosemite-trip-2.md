@@ -10,5 +10,6 @@ tags:
 - trips
 
 ---
-<p>Here are the photos from my <a href="http://www.notionparallax.co.uk/wordpress/?p=120">yosemite trip</a> this march in glorious high res technicolour.</p>
-<p><object width="450" height="338"><param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2Fshow%2F&page_show_back_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2F&set_id=72157620889447712&jump_to=" /><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2Fshow%2F&page_show_back_url=%2Fphotos%2F95698107%40N00%2Fsets%2F72157620889447712%2F&set_id=72157620889447712&jump_to=" width="450" height="338"></embed></object></p>
+Here are the photos from my <a href="http://www.notionparallax.co.uk/wordpress/?p=120">yosemite trip</a> this March in glorious high res technicolour.
+
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/95698107@N00/albums/72157620889447712" title="Yosemite Trip"><img src="https://c7.staticflickr.com/3/2582/3682980542_109b10624e_b.jpg" width="576" height="1024" alt="Yosemite Trip"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
