@@ -2,49 +2,49 @@
 <!-- Docs here https://developers.facebook.com/docs/sharing/best-practices -->
 
 <meta property="og:url"
-      content="{{site.url}}{{page.url}}"></meta>
+      content="{{site.url}}{{page.url}}">
 <!-- The canonical URL for your page. This should be the undecorated URL, without session variables, user identifying parameters, or counters. Likes and Shares for this URL will aggregate at this URL. For example, mobile domain URLs should point to the desktop version of the URL as the canonical URL to aggregate Likes and Shares across different versions of the page. -->
 <meta property="og:title"
-      content="{{ page.title }}"></meta>
+      content="{{ page.title }}">
 <!-- The title of your article. This shouldn't include branding such as your site name. -->
 <meta property="og:description"
-      content="{{ page.description }}"></meta>
+      content="{{ page.description }}">
 <!-- A brief description of the content, usually between 2 and 4 sentences. This will displayed below the title of the page on Facebook. -->
 <meta property="og:site_name"
-      content="{{ site.title }}"></meta>
+      content="{{ site.title }}">
 <!-- The name of your website (such as IMDb, not imdb.com). -->
 <meta property="og:image"
       content="{% if page.featuredimg %}{{ site.url }}/assets/{{ page.featuredimg }}{% else %} {% endif %}">
 <!-- The URL of the image that will appear when someone shares the content to Facebook. Please see our best practices guide to learn how to specify a high quality preview image and our documentation on images to specify width and height. -->
-<!-- <meta property="fb:app_id"  content=""></meta> -->
+<!-- <meta property="fb:app_id"  content=""> -->
 <!-- In order to use Facebook Domain Insights you must add the app ID to your page. Domain Insights lets you view analytics for traffic to your site from Facebook. Find the app ID in your App Dashboard. -->
 <!-- You may also want to some additional tags to improve distribution and engagement: -->
 <meta property="og:type"
-      content="article"></meta>
+      content="article">
 <!-- The type of media of your content. This tag impacts how your content shows up in News Feed. If you don't specify a type,the default is website. Each URL should be a single object, so multiple og:type values are not possible. Find the full list of object types in our Object Types Reference -->
 <meta property="og:locale"
-      content="en_GB"></meta><!-- see this for why it's not en_au http://stackoverflow.com/questions/7707648/facebook-open-graph-locale-for-australia -->
+      content="en_GB"><!-- see this for why it's not en_au http://stackoverflow.com/questions/7707648/facebook-open-graph-locale-for-australia -->
 <!-- The locale of the resource. Defaults to en_US. You can also use og:locale:alternate if you have other available language translations available. Learn about the locales we support in our documentation on localization. -->
 <meta property="article:author"
       content="https://www.facebook.com/{{site.author-facebook}}" />
 <!-- Links to the authors of the article. The target of this can be either a Facebook Profile or a Facebook Page and Facebook will likely offer a chance to follow that author when it's displayed in the news feed. Note that your authors should have follow enabled so that people can follow them. -->
 <!-- <meta property="article:publisher"
-      content="{{site.facebook-publisher}}"></meta> -->
+      content="{{site.facebook-publisher}}"> -->
 <!-- Links to the publisher of the article. The target of this property must be a Facebook Page. When displayed in News Feed, Facebook may offer the ability to like the publisher. Note that this tag is only available to media publishers. -->
 
 <meta itemprop="name"
-      content="{{ page.title }}"></meta>
+      content="{{ page.title }}">
 
 <span itemprop="author"
       itemscope
       itemtype="http://schema.org/Person" />
 
 <meta itemprop="name"
-      content="{{page.author-name}}"></meta>
+      content="{{page.author-name}}">
 
 <span itemprop="publisher"
       itemscope
       itemtype="http://schema.org/Organization" />
 
 <meta itemprop="name"
-      content="{{site.publisher}}"></meta>
+      content="{{site.publisher}}">
