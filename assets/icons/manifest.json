@@ -1,5 +1,10 @@
 {
-	"name": "NP",
+  "manifest_version": 2,
+  "short_name": "Notion Parallax",
+  "name": "NP",
+  "default_locale": "en",
+  "start_url": "/?utm_source=homescreen",
+  "description": "Ben Doherty's blog",
 	"icons": [
 		{
 			"src": "\/assets\/icons\/android-chrome-36x36.png",
@@ -38,4 +43,8 @@
 			"density": 4
 		}
 	]
+  "background_color": "#FCFCFC",
+  "theme_color": "#1f597a",
+  "author":"Ben Doherty",
+  "display": "fullscreen"
 }
