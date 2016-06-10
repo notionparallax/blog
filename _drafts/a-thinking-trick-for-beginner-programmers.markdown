@@ -29,7 +29,7 @@ There is a lack of respect for the skill level that professional programmers nee
 
 # Ghetto TDD
 
-TDD stands for Test Driven Development. It, and all it's variants have one principle in common, _write a test before you write any code_. If you look up TDD methods you'll immediately come to a wall of complicated test frameworks. These are all totally overkill for the kind of code you'll be working on if you are reading this. This is because pro programmers can usually think their way through the kinds of problems beginners get stuck on, but you want a way to get your head around _your_ problems, not a way to make sure _their_ problems don't trip you up.
+TDD stands for Test Driven Development. It, and all it's variants have one principle in common, _write a test before you write any code_. If you look up TDD methods you'll immediately come to a wall of complicated test frameworks. These are all totally overkill for the kind of code you'll be working on if you are reading this. This is because pro programmers can usually think their way through the kinds of problems beginners get stuck on. You want a way to get your head around _your_ problems, not a way to make sure _their_ problems don't trip you up.
 
 I'm going to use some simple code here that you can probably run in your head. This might make you think that there's no point doing this, but I want you to be able to see what's going on. If I made the code hard it'd be too hard to grasp the bigger picture.
 
@@ -141,7 +141,7 @@ testAdding(4, 4, 8);
 
 This is all great! Our add function kicks arse until we get to the last case, and then it sucks. 
 
-We are doing things exactly right though. The model is _red, green, refactor_. This means that we write a test that we think is good, then we write a function that _fails_.
+We are doing things exactly right though. The model is _red, green, refactor_[^2]. This means that we write a test that we think is good, then we write a function that _fails_.
 
 Exercise for you: 
 
@@ -210,7 +210,7 @@ This still isn't fully general because it will always give you a grade of 8.2, b
 
 # Conclusion
 
-This method isn't one that you should necessarily take with you for the rest of your life as you get better, but it's a good drill to help at the start.
+This is a good drill to help at the start of your career. It's up to you if take with you for the rest of your life as you get better.
 
 It's extremely helpful to take the time to define your input and output data. Just doing that is often enough to make it clear how to solve the problem.
 
@@ -218,3 +218,5 @@ Learning to program is mostly about ways of mapping an input to an output. It's 
 
 
 [^1]: This is true for British, Australian and Americans, less so for mainland Europe, Russia as their architecture education requires a lot more maths. In my degree we had 2 lectures that included any calculations, and it was primary school level maths. I don't think there is _any_ maths in Australian architectural education.
+
+[^2]: By _green_  you made it work, but not be good. The _refactor_ part means taking the bad but working code (messy, slow, etc.) and make it good. The test will stop you from introducing _regression_ errors.
