@@ -4,7 +4,7 @@
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
-    caches.open('np-v1').then(function(cache) {
+    caches.open('np-v2').then(function(cache) {
       return cache.addAll([
         '/',
         '/css/main.css',
