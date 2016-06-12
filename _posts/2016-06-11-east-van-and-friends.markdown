@@ -54,7 +54,7 @@ It turns out that you can actually make a LOT of these things. I downloaded a wo
 
 One thing that has struck me is just how many of these words _seem_ to have a relationship. Making patterns is so baked into the brain!
 
-I downloaded a list of [English words](https://github.com/dwyl/english-words) that has over 350k words in it. It really shows because I have no idea what about half of these words mean. It'd be interesting to see what comes up if I used [simple English](https://en.wikipedia.org/wiki/Basic_English). I then processed these words into two sets of bins; one for the horizontal words and one for the vertical words.
+I downloaded a list of [English words](https://github.com/dwyl/english-words) that has over 350k words in it. It really shows because I have no idea what about half of these words mean. <strike>It'd be interesting to see what comes up if I used [simple English.</strike> **Edit:** _I actually did add the [Basic English](https://en.wikipedia.org/wiki/Basic_English) list; the crosses it pumps out are amazing!_ I then processed these words into two sets of bins; one for the horizontal words and one for the vertical words.
 
 Horizontal words need to have an odd number of letters and be more than three letters long. Vertical words just need to be more than 4 letters long. They are then 'binned' or grouped by the letter at the crossing. That's the middle letter for horizontal words and the second letter for vertical ones.
 
@@ -69,16 +69,17 @@ The [repo for all of this is here](https://github.com/notionparallax/east-van). 
 "use strict";
     document.addEventListener("DOMContentLoaded", function(event) { 
         var App = {};
-        $.getJSON("/js/posts/east-van/hwords.json",  function( data ) { 
+        $.getJSON("/js/posts/east-van/hsimple_words.json",  function( data ) { 
             App.hwords = data;
         
-            $.getJSON("/js/posts/east-van/vwords.json",  function( data ) { 
+            $.getJSON("/js/posts/east-van/vsimple_words.json",  function( data ) { 
                 App.vwords = data;
                 for (var i = 0; i < 10; i++) {
-                  let random_letter = "abcdefghijklmnopqrstuvwxyz"[Math.floor(Math.random()*26)]
+                  let alphabet = "abcdefghiklmnoprstuvwxy";//jqz removed bezause simple english doesn't have any words in those bins
+                  let random_letter = alphabet[Math.floor(Math.random()*alphabet.length)] ;
                   let hword = getWord(App.hwords, random_letter, 7);
                   let vword = getWord(App.vwords, random_letter, 8);
-                  console.log(hword,vword);
+                  console.log(random_letter, hword, vword);
                   addNewCross (hword, vword);
                   addDefinitions(hword, vword, "#definitions");
                 }
@@ -89,8 +90,14 @@ The [repo for all of this is here](https://github.com/notionparallax/east-van). 
             let wordLength = 100;
             let word = "";
             while (wordLength>limit) {
+              try{
                 word = words[letter][Math.floor(Math.random() * words[letter].length)];
                 wordLength = word.length;
+              }
+              catch(e){
+                console.log(e, word, letter);
+                break;
+              }
             }
             return word;
         }
@@ -125,10 +132,19 @@ The [repo for all of this is here](https://github.com/notionparallax/east-van). 
              
             let v_nudge = 7;
              
-            let blur = 10;
+            let blur = 5;
+            let letter_pad = "    "; //blur stops at box boundary, this makes the box bigger
+            let blur_colour = "hsla(180,70%,52%,1)";
 
             let svg_head = `<svg viewbox=\"0 0 ${vrr+(2*pad)} ${hll + (2 * pad)}\" xmlns=\"http://www.w3.org/2000/svg\">`;
-            let svg_filter = `<filter id=\"blurMe\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"${blur}\" /></filter>`;
+            let svg_filter = `<filter id=\"blurMe\">
+                                <feGaussianBlur in=\"SourceGraphic\" 
+                                                stdDeviation=\"${blur}\" 
+                                                x="-50%" 
+                                                y="-50%" 
+                                                width="280%" 
+                                                height="280%"/>
+                              </filter>`;
             let svg_bg = `<rect x=\"0\" y=\"0\" width=\"${vrr + (2 * pad)}\" height=\"${hll + (2 * pad)}\" fill=\"black\" />`;
 
             let path = `M${vll + rad} ${htm}`+ //1       
@@ -157,8 +173,8 @@ The [repo for all of this is here](https://github.com/notionparallax/east-van). 
                        `L  ${vll} ${htm+rad}`+ //24
                        `A ${rad} ${rad}, 0, 0, 1, ${vll + rad} ${htm}`;
 
-            let svg_path = `<path id=\"glow_path\" d=\"${path}\" stroke=\"blue\" `+
-                           `fill=\"none\" stroke-width=\"2\" fill-opacity=\"0.5\" filter=\"url(#blurMe)\"></path>`+
+            let svg_path = `<path id=\"glow_path\" d=\"${path}\" stroke=\"${blur_colour}\" stroke-width=\"10\"`+
+                           `fill=\"rgba(255, 255, 255, 0.55)\" opacity=\"0.6\" filter=\"url(#blurMe)\"></path>`+
                            `<path id=\"main_path\" d=\"${path}\" stroke=\"white\" `+
                            `fill=\"none\" stroke-width=\"2\" fill-opacity=\"0.5\"></path>`;
 
@@ -166,15 +182,15 @@ The [repo for all of this is here](https://github.com/notionparallax/east-van). 
             let svg_text = ""
             for (let index = 0, len = h_test_word.length; index < len; index++) {
               let letter = h_test_word[index];
-              svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\" filter=\"url(#blurMe)\">${letter}</text>`;
-              svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter}</text>`;
+              svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
+              svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
             }
 
             for (let index = 0, len = v_test_word.length; index < len; index++) {
               let letter = v_test_word[index];
               if(index !== 1){
-                svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\" filter=\"url(#blurMe)\">${letter}</text>`;
-                svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter}</text>`;
+                svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
+                svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
               }
             }
 
