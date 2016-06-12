@@ -42,7 +42,7 @@ From [“…that’s gangster and now the whole world will see…”](https://ma
 </figure>
 
 <figure class="half-width right">
-![A can of beer that says Craft Lager in the style of the east van sign](http://www.bcliquorstores.com/files/imagecache/product_larger/449959.png)
+![A can of beer that says Craft Lager in the style of the east van sign]({{ site.baseurl }}/assets/16/tinny.png)
 <figcaption>
 Looks like everyone's on the band wagon
 </figcaption>
