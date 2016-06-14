@@ -20,17 +20,41 @@ featuredimg: 16/east-van1.jpg
 ---
 <style type="text/css">
     .definition{
-        border-bottom: 2px solid;
-        display: inline-block;
-        width: 25%;
+      border-bottom: 2px solid;
+      display: inline-block;
+      width: 25%;
     }
     .cross-frame {
-        background-color: black;
-        display: inline-block;
-        height: 20em;
-        text-align: center;
-        vertical-align: top;
-        width: 33%;
+      background-color: black;
+      display: inline-block;
+      height: 20em;
+      text-align: center;
+      vertical-align: top;
+      width: 33%;
+    }
+    label {
+      margin-top: 1em;
+      display: inline-block;
+    }
+    #diy-cross-box {
+      background-color: black;
+      display: inline-block;
+      height: 30em;
+      margin-bottom: 2em;
+      padding-top: 1em;
+      text-align: center;
+      width: 50%;
+    }
+    #diy-cross-box .cross-frame {width: 70%;}
+    #cb-manual {
+      display: inline;
+      width: 2em;
+    }
+    .diy-input-box {
+      display: inline-block;
+      padding-left: 1em;
+      vertical-align: top;
+      width: 48%;
     }
 </style>
 
@@ -60,19 +84,86 @@ Horizontal words need to have an odd number of letters and be more than three le
 
 [^1]: That's my sketches on a chopstick wrapper. I was also faffing about with the [ESPN penis](https://www.buzzfeed.com/mrloganrhoades/fan-made-penis-sign-shown-on-live-tv-to-nations-delight) thing too.
 
+# DIY
+
+If you want to make your own, go right ahead. It'll find you a matching word for whatever you put in.
+
+<div class="diy-box">
+<div id="diy-cross-box"></div>
+<div class="diy-input-box">
+<label for="across">Across<input type="" name="across"></label>
+<label for="down">Down<input type="" name="down"></label>
+<!-- <label><input type="checkbox" id="cb-basic"  value="basic" > Basic</label><br> -->
+<label for="cb-manual">Full manual<input type="checkbox" id="cb-manual" value="manual"></label>
+
+Tick this if you want to be able to write in both boxes without it generating you the other word.
+</div>
+</div>
+
+# Basic English
+
 <div id="cross-box"></div>
 <div id="definitions"></div>
 
-The [repo for all of this is here](https://github.com/notionparallax/east-van). Thanks to dwyl for the [english-words](https://github.com/dwyl/english-words).
+# Hard English
 
 Here's some from the full list of english words:
 
 <div id="hard-cross-box"></div>
 <div id="hard-definitions"></div>
 
+The [repo for all of this is here](https://github.com/notionparallax/east-van). Thanks to dwyl for the [english-words](https://github.com/dwyl/english-words).
+
 <script type="text/javascript">
 "use strict";
 document.addEventListener("DOMContentLoaded", function(event) { 
+  
+  function triggerDIY(direction, input) {
+    let words, letter, complementWord;
+    input = input.trim();
+    if (input.length >= 3) { //&& input.length % 2 == 0 fuck it, lets be permissive
+      $("#diy-cross-box").html("");
+      if (direction == "across"){
+        words  = window.simple_words.vwords; //move this out if perf is an issue
+        letter = input[Math.floor(input.length / 2)];
+      } else {
+        words  = window.simple_words.hwords;
+        letter = input[1];
+      }
+      if($("#cb-manual").is(':checked')){
+        if (direction == "across"){
+          complementWord = $('input[name=down]').val();
+        } else {
+          complementWord = $('input[name=across]').val();
+        }
+      } else {
+        complementWord = getWord(words, letter, 9);
+      }
+
+      if (direction == "across"){
+        $('input[name=down]').val(complementWord);
+        addNewCross(input, complementWord, "#diy-cross-box");
+      } else {
+        $('input[name=across]').val(complementWord);
+        addNewCross(complementWord, input, "#diy-cross-box");
+      }
+    }
+  }
+
+  function setDIY () {
+    //Setup
+    $('input[name=across]').val("Van");
+    $('input[name=down]'  ).val("East");
+    addNewCross("van", "east", "#diy-cross-box");
+    // action
+    $('input[name=across]').on('input', function() {
+      triggerDIY("across", $(this).val());
+    });
+    $('input[name=down]').on('input', function() { 
+      triggerDIY("down", $(this).val());
+    });
+  }
+
   function addEverything (fileName, numberOfCrosses, hCharLimit, vCharLimit, defContainer, crossContainer) {  
     var App = {};
     $.getJSON(`/js/posts/east-van/h${fileName}.json`,  function( data ) { 
@@ -91,8 +182,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
             }
         });
     });
+    window[fileName] = App;
   }
-  addEverything("simple_words", 10, 7, 8, "#definitions", "#cross-box");
+  addEverything("simple_words", 11, 7, 8, "#definitions", "#cross-box");
   addEverything("words", 12, 7, 8, "#hard-definitions", "#hard-cross-box");
 
   function getWord(words, letter, limit){
@@ -214,7 +306,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
       $(container).append("<div class='cross-frame'>"+svg+"</div>");
   }
 
-  addNewCross   ("van", "east", "#cross-box");
+  setDIY ();
   addNewCross   ("craft", "lager", "#cross-box");
   addDefinitions("van", "east", "#definitions");
   addDefinitions("craft", "lager", "#definitions");
