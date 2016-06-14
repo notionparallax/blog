@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{{site.diary-entries}}
+  <ul class="post-list">
+    {% for entry in site.diary-entries %}
+    	<h1>an entry</h1>
+      {{ entry.content }}
+    {% endfor %}
+  </ul>

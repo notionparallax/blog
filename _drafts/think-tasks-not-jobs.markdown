@@ -18,11 +18,11 @@ twitter-body:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
 featuredimg: rate_your_driver.png
 ---
-The [robots are coming for your jobs](https://twitter.com/vgr/status/740224704565252097) idea is gaining some amazing momentum.
+The [robots are coming](http://www.nytimes.com/2016/06/08/business/economy/threatened-by-machines-a-once-stupid-concern-gains-respect.html) for [your jobs](https://twitter.com/vgr/status/740224704565252097) idea is gaining some amazing momentum.
 
 I've had lots of interesting conversations recently about this. I started off being sceptical of the claim, but I've become solidly ambivalent[^1]. My previous feeling was that creative destruction would always keep. It would replace the coopers and farriers with UX designers and IP lawyers;  I'm much less sure now. The sheer speed at which the change is likely to happen is so much greater than anything we've ever experienced before.
 
-<figure class="half-width right">
+<figure class="half-width right small-pop">
 <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1fWLSwxN2yEvHTBQIYaj3sqYjwNiKRDDLLd4VoZsh29Q/pubchart?oid=981052962&amp;format=interactive"></iframe>
 <figcaption>
 Northern British cities grew spectacularly in
