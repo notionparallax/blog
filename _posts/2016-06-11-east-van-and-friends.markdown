@@ -119,7 +119,7 @@ The [repo for all of this is here](https://github.com/notionparallax/east-van). 
 document.addEventListener("DOMContentLoaded", function(event) { 
   
   function triggerDIY(direction, input) {
-    let words, letter, complementWord;
+    let words, letter, complementWord, url;
     input = input.trim();
     if (input.length >= 3) { //&& input.length % 2 == 0 fuck it, lets be permissive
       $("#diy-cross-box").html("");
@@ -143,10 +143,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
       if (direction == "across"){
         $('input[name=down]').val(complementWord);
         addNewCross(input, complementWord, "#diy-cross-box");
+        url = `/2016/east-van-and-friends#diy?a=${input}&d=${complementWord}`;
       } else {
         $('input[name=across]').val(complementWord);
         addNewCross(complementWord, input, "#diy-cross-box");
+        url = `/2016/east-van-and-friends#diy?a=${complementWord}&d=${input}`;
       }
+      history.pushState({},"NP generator",url);
+
     }
   }
 
@@ -158,7 +162,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
       let d = params[1].split("=")[1]
       $('input[name=across]').val(a);
       $('input[name=down]'  ).val(d);
-      console.log("params",params,a,d);
       addNewCross(a, d, "#diy-cross-box");
     } else{
       $('input[name=across]').val("Van");
