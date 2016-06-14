@@ -58,12 +58,22 @@ featuredimg: 16/east-van1.jpg
     }
 </style>
 
-<figure>
-![The East Van Sign at night]({{ site.baseurl }}/assets/{{page.featuredimg}})
-<figcaption>
-From [“…that’s gangster and now the whole world will see…”](https://matthewjvandeventer.wordpress.com/2010/01/)
-</figcaption>
-</figure>
+<div class="diy-box">
+<div id="diy-cross-box"></div>
+<div class="diy-input-box">
+
+# DIY
+
+If you want to make your own, go right ahead. It'll find you a matching word for whatever you put in.
+
+<label for="across">Across<input type="" name="across"></label>
+<label for="down">Down<input type="" name="down"></label>
+<!-- <label><input type="checkbox" id="cb-basic"  value="basic" > Basic</label><br> -->
+<label for="cb-manual">Full manual<input type="checkbox" id="cb-manual" value="manual"></label>
+
+Tick this if you want to be able to write in both boxes without it generating you the other word.
+</div>
+</div>
 
 <figure class="half-width right">
 ![A can of beer that says Craft Lager in the style of the east van sign]({{ site.baseurl }}/assets/16/tinny.png)
@@ -84,22 +94,6 @@ Horizontal words need to have an odd number of letters and be more than three le
 
 [^1]: That's my sketches on a chopstick wrapper. I was also faffing about with the [ESPN penis](https://www.buzzfeed.com/mrloganrhoades/fan-made-penis-sign-shown-on-live-tv-to-nations-delight) thing too.
 
-# DIY
-
-If you want to make your own, go right ahead. It'll find you a matching word for whatever you put in.
-
-<div class="diy-box">
-<div id="diy-cross-box"></div>
-<div class="diy-input-box">
-<label for="across">Across<input type="" name="across"></label>
-<label for="down">Down<input type="" name="down"></label>
-<!-- <label><input type="checkbox" id="cb-basic"  value="basic" > Basic</label><br> -->
-<label for="cb-manual">Full manual<input type="checkbox" id="cb-manual" value="manual"></label>
-
-Tick this if you want to be able to write in both boxes without it generating you the other word.
-</div>
-</div>
-
 # Basic English
 
 <div id="cross-box"></div>
@@ -113,6 +107,13 @@ Here's some from the full list of english words:
 <div id="hard-definitions"></div>
 
 The [repo for all of this is here](https://github.com/notionparallax/east-van). Thanks to dwyl for the [english-words](https://github.com/dwyl/english-words).
+
+<figure>
+![The East Van Sign at night]({{ site.baseurl }}/assets/{{page.featuredimg}})
+<figcaption>
+From [“…that’s gangster and now the whole world will see…”](https://matthewjvandeventer.wordpress.com/2010/01/)
+</figcaption>
+</figure>
 
 <script type="text/javascript">
 "use strict";
