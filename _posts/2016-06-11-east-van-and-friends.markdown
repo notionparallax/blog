@@ -152,9 +152,19 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
   function setDIY () {
     //Setup
-    $('input[name=across]').val("Van");
-    $('input[name=down]'  ).val("East");
-    addNewCross("van", "east", "#diy-cross-box");
+    if(window.location.hash){
+      let params = window.location.hash.split("?")[1].split("&");
+      let a = params[0].split("=")[1]
+      let d = params[1].split("=")[1]
+      $('input[name=across]').val(a);
+      $('input[name=down]'  ).val(d);
+      console.log("params",params,a,d);
+      addNewCross(a, d, "#diy-cross-box");
+    } else{
+      $('input[name=across]').val("Van");
+      $('input[name=down]'  ).val("East");
+      addNewCross("van", "east", "#diy-cross-box");
+    }
     // action
     $('input[name=across]').on('input', function() {
       triggerDIY("across", $(this).val());
