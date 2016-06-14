@@ -149,6 +149,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         addNewCross(complementWord, input, "#diy-cross-box");
         url = `/2016/east-van-and-friends#diy?a=${complementWord}&d=${input}`;
       }
+      console.log(url);
       history.pushState({},"NP generator",url);
 
     }
