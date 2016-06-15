@@ -120,7 +120,7 @@ From [“…that’s gangster and now the whole world will see…”](https://ma
 document.addEventListener("DOMContentLoaded", function(event) { 
   
   function triggerDIY(direction, input) {
-    let words, letter, complementWord, url;
+    var words, letter, complementWord, url;
     input = input.trim();
     if (input.length >= 3) { //&& input.length % 2 == 0 fuck it, lets be permissive
       $("#diy-cross-box").html("");
@@ -159,9 +159,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
   function setDIY () {
     //Setup
     if(window.location.hash){
-      let params = window.location.hash.split("?")[1].split("&");
-      let a = params[0].split("=")[1]
-      let d = params[1].split("=")[1]
+      var params = window.location.hash.split("?")[1].split("&");
+      var a = params[0].split("=")[1]
+      var d = params[1].split("=")[1]
       $('input[name=across]').val(a);
       $('input[name=down]'  ).val(d);
       addNewCross(a, d, "#diy-cross-box");
@@ -186,11 +186,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
     
         $.getJSON(`/js/posts/east-van/v${fileName}.json`,  function( data ) { 
             App.vwords = data;
-            let alphabet = "abcdefghiklmnoprstuvwxy";//jqz removed bezause simple english doesn't have any words in those bins
+            var alphabet = "abcdefghiklmnoprstuvwxy";//jqz removed bezause simple english doesn't have any words in those bins
             for (var i = 0; i < numberOfCrosses; i++) {
-              let random_letter = alphabet[Math.floor(Math.random()*alphabet.length)] ;
-              let hword = getWord(App.hwords, random_letter, hCharLimit);
-              let vword = getWord(App.vwords, random_letter, vCharLimit);
+              var random_letter = alphabet[Math.floor(Math.random()*alphabet.length)] ;
+              var hword = getWord(App.hwords, random_letter, hCharLimit);
+              var vword = getWord(App.vwords, random_letter, vCharLimit);
               console.log(random_letter, hword, vword);
               addNewCross (hword, vword, crossContainer);
               addDefinitions(hword, vword, defContainer);
@@ -203,8 +203,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
   addEverything("words", 12, 7, 8, "#hard-definitions", "#hard-cross-box");
 
   function getWord(words, letter, limit){
-      let wordLength = 100;
-      let word = "";
+      var wordLength = 100;
+      var word = "";
       while (wordLength>limit) {
         try{
           word = words[letter][Math.floor(Math.random() * words[letter].length)];
@@ -229,31 +229,31 @@ document.addEventListener("DOMContentLoaded", function(event) {
       h_test_word = h_test_word.toUpperCase();
       v_test_word = v_test_word.toUpperCase();
        
-      let h_letters = h_test_word.length;
-      let v_letters = v_test_word.length;
+      var h_letters = h_test_word.length;
+      var v_letters = v_test_word.length;
        
-      let rad = 8;
-      let pad = 9;
-      let box = 50;
+      var rad = 8;
+      var pad = 9;
+      var box = 50;
        
-      let vll = (0) + pad;
-      let vlm = (Math.floor(h_letters/2) * box) + pad;
-      let vrm = (vlm + box) + pad;
-      let vrr = (h_letters * box) + pad;
+      var vll = (0) + pad;
+      var vlm = (Math.floor(h_letters/2) * box) + pad;
+      var vrm = (vlm + box) + pad;
+      var vrr = (h_letters * box) + pad;
        
-      let htt = (0) + pad;
-      let htm = (box) + pad;
-      let hlm = (box * 2) + pad;
-      let hll = (v_letters * box) + pad;
+      var htt = (0) + pad;
+      var htm = (box) + pad;
+      var hlm = (box * 2) + pad;
+      var hll = (v_letters * box) + pad;
        
-      let v_nudge = 7;
+      var v_nudge = 7;
        
-      let blur = 5;
-      let letter_pad = "    "; //blur stops at box boundary, this makes the box bigger
-      let blur_colour = "hsla(180,70%,52%,1)";
+      var blur = 5;
+      var letter_pad = "    "; //blur stops at box boundary, this makes the box bigger
+      var blur_colour = "hsla(180,70%,52%,1)";
 
-      let svg_head = `<svg viewbox=\"0 0 ${vrr+(2*pad)} ${hll + (2 * pad)}\" xmlns=\"http://www.w3.org/2000/svg\">`;
-      let svg_filter = `<filter id=\"blurMe\">
+      var svg_head = `<svg viewbox=\"0 0 ${vrr+(2*pad)} ${hll + (2 * pad)}\" xmlns=\"http://www.w3.org/2000/svg\">`;
+      var svg_filter = `<filter id=\"blurMe\">
                           <feGaussianBlur in=\"SourceGraphic\" 
                                           stdDeviation=\"${blur}\" 
                                           x="-50%" 
@@ -261,9 +261,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                           width="280%" 
                                           height="280%"/>
                         </filter>`;
-      let svg_bg = `<rect x=\"0\" y=\"0\" width=\"${vrr + (2 * pad)}\" height=\"${hll + (2 * pad)}\" fill=\"black\" />`;
+      var svg_bg = `<rect x=\"0\" y=\"0\" width=\"${vrr + (2 * pad)}\" height=\"${hll + (2 * pad)}\" fill=\"black\" />`;
 
-      let path = `M${vll + rad} ${htm}`+ //1       
+      var path = `M${vll + rad} ${htm}`+ //1       
                  `L ${vlm - rad} ${htm}`+ //2
                  `A ${rad} ${rad}, 0, 0, 0, ${vlm} ${htm - rad}`+ //3
                  `L ${vlm}  ${htt + rad}`+ //4
@@ -289,28 +289,28 @@ document.addEventListener("DOMContentLoaded", function(event) {
                  `L  ${vll} ${htm+rad}`+ //24
                  `A ${rad} ${rad}, 0, 0, 1, ${vll + rad} ${htm}`;
 
-      let svg_path = `<path id=\"glow_path\" d=\"${path}\" stroke=\"${blur_colour}\" stroke-width=\"10\"`+
+      var svg_path = `<path id=\"glow_path\" d=\"${path}\" stroke=\"${blur_colour}\" stroke-width=\"10\"`+
                      `fill=\"rgba(255, 255, 255, 0.55)\" opacity=\"0.6\" filter=\"url(#blurMe)\"></path>`+
                      `<path id=\"main_path\" d=\"${path}\" stroke=\"white\" `+
                      `fill=\"none\" stroke-width=\"2\" fill-opacity=\"0.5\"></path>`;
 
 
-      let svg_text = ""
+      var svg_text = ""
       for (let index = 0, len = h_test_word.length; index < len; index++) {
-        let letter = h_test_word[index];
+        var letter = h_test_word[index];
         svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
         svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
       }
 
       for (let index = 0, len = v_test_word.length; index < len; index++) {
-        let letter = v_test_word[index];
+        var letter = v_test_word[index];
         if(index !== 1){
           svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
           svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
         }
       }
 
-      let svg = svg_head + 
+      var svg = svg_head + 
                 svg_filter + 
                 svg_bg + 
                 svg_path +
