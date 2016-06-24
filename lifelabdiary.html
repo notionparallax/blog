@@ -2,10 +2,14 @@
 layout: default
 ---
 
-{{site.diary-entries}}
+
   <ul class="post-list">
     {% for entry in site.diary-entries %}
-    	<h1>an entry</h1>
-      {{ entry.content }}
+    <li>
+      <a href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
     {% endfor %}
+    </li>
   </ul>
+
+
+<div class="home">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: future things
-date: 2016-03-29 13:25:59  PDT
+date: 2016-06-24 12:18:00 PDT
 type: post
 published: true
 status: publish
@@ -100,18 +100,30 @@ http://www.curvedfolding.com/
 # Office ideas
 
 ## If desks are for putting paper on, are they needed? 
+
 ## Why floor mount everything? roof mounting? (power lifting rack)
+
 ## Room scale VR
+
 ## Wall scale displays with mixed pin/project
+
 ## Team coworking and amplified teams.
 
 # Factors that will affect how commercial towers are designed in the future
 
 ## Financing and insurance
+
 ## (x)aas: can amenity be made contractable?
+
 ## Flexibility: What sorts of things can be done in the space? What can't?
-## Peak IT: Architects need a lot of bandwidth for their work (synchronising models etc.), but does everone else?
+
+## Peak IT: Architects need a lot of bandwidth for their work (synchronising 
+models etc.), but does everone else?
+
 ## Decreasing org size
+
 ## People want to be expressive: (don't talk about generations, it's not really meaningful - ref OKC)
+
 ## speed of social change and technology change
+
 ## human capital optimisation
