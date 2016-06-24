@@ -79,7 +79,7 @@ Kite surfing kites are combination inflatable and tensile structures. The inflat
 
 Zorbs are balls inside other balls, where the natural shape of the inflation is constrained by internal cables. Here's an example of that used as a room.
 
-![](http://img.everychina.com/nimg/0f/ef/6194a10752d8544bb37da4bec285.jpg)
+![]({{ site.baseurl }}/assets/16/future_things_files/zorb_office.jpg)
 
 These people actually [sell a bunch of inflatable rooms](http://www.everychina.com/p-z52e3bf3-102620043-transparent-room-inflatable-tent-inflatable-bubble-tent-with-blower-cy-m2731.html)!
 
