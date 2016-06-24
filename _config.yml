@@ -37,5 +37,6 @@ default_locale: "en"
 
 #add collections
 collections:
-- diary-entries
+  diary-entries:
+    output: true
 
