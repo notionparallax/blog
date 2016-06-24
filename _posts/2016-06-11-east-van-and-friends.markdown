@@ -116,7 +116,7 @@ From [“…that’s gangster and now the whole world will see…”](https://ma
 </figure>
 
 <script type="text/javascript">
-"use strict";
+// "use strict";
 document.addEventListener("DOMContentLoaded", function(event) { 
   
   function triggerDIY(direction, input) {
