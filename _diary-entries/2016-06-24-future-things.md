@@ -1,6 +1,6 @@
 ---
 layout: post
-title: future things
+title: Future things
 date: 2016-06-24 12:18:00 PDT
 type: post
 published: true
@@ -21,7 +21,7 @@ featuredimg: rate_your_driver.png
 
 # Material / movement ideas
 
-## Shape memory alloys
+### Shape memory alloys
 
 ![Shape memory alloy actuator folds paper]({{ site.baseurl }}/assets/16/future_things_files/SMA_wires.gif)
 
@@ -29,7 +29,7 @@ These work like muscles, they change length when a current flows through them. T
 
 [![]({{ site.baseurl }}/assets/16/future_things_files/gaze.gif)](http://behnazfarahi.prosite.com/204244/7618948/gallery/caress-of-the-gaz)
 
-## Festo Muscles (and animals)
+### Festo Muscles (and animals)
 
 ![a skeleton tower moved by hydraulic muscles]({{ site.baseurl }}/assets/16/future_things_files/muscle_tower.gif)
 
@@ -51,7 +51,7 @@ There are lots of example of _[soft robotics](http://www.fastcompany.com/3037993
 
 [Here's some more examples as an image search](https://www.google.ca/search?q=soft+robotics&client=ubuntu&espv=2&biw=1855&bih=971&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjT5_mSo8HNAhVL6mMKHbRzDAoQ_AUIBygC)
 
-## Other industrial control mechanisms (pneumatics and hydraulics)
+### Other industrial control mechanisms (pneumatics and hydraulics)
 
 ![](https://robinx86.files.wordpress.com/2014/01/medium.gif) 
 
@@ -63,7 +63,7 @@ At the other there are subtle puffs of air that can sort things off conveyors
 
 [![](https://media.giphy.com/media/hKF9GnXC0JWkE/giphy.gif)](https://giphy.com/gifs/puff-hKF9GnXC0JWkE)
 
-## Kites (structures with constrained inflatable parts)
+### Kites (structures with constrained inflatable parts)
 
 Kite surfing kites are combination inflatable and tensile structures. The inflatable leading edge wants to be straight, but the wind force and cables want it to bend.
 
@@ -73,7 +73,7 @@ Kite surfing kites are combination inflatable and tensile structures. The inflat
 
 ![](https://www.imagine-inflatables.com/images/content/gallery-fullsize/Inflatable-Cube--Building-Large.jpg)
 
-## Zorbs (Tied back) and foams
+### Zorbs (Tied back) and foams
 
 ![]({{ site.baseurl }}/assets/16/future_things_files/zorb.gif)
 
@@ -89,41 +89,23 @@ I think that these would be interesting if combined with shape memory alloys or 
 
 We've seen this before!
 
-## Curved folds
+### Curved folds
 
 http://www.curvedfolding.com/
 
 [This video is a bit slow and boring, but it shows it in use.](https://www.youtube.com/watch?v=tQfmzCIe7jU)
 
-## Balanced joints
+### Balanced joints
 
 # Office ideas
 
-## If desks are for putting paper on, are they needed? 
+### If desks are for putting paper on, are they needed? 
 
-## Why floor mount everything? roof mounting? (power lifting rack)
+### Why floor mount everything? roof mounting? (power lifting rack)
 
-## Room scale VR
+### Room scale VR
 
-## Wall scale displays with mixed pin/project
+### Wall scale displays with mixed pin/project
 
-## Team coworking and amplified teams.
+### Team coworking and amplified teams.
 
-# Factors that will affect how commercial towers are designed in the future
-
-## Financing and insurance
-
-## (x)aas: can amenity be made contractable?
-
-## Flexibility: What sorts of things can be done in the space? What can't?
-
-## Peak IT: Architects need a lot of bandwidth for their work (synchronising 
-models etc.), but does everone else?
-
-## Decreasing org size
-
-## People want to be expressive: (don't talk about generations, it's not really meaningful - ref OKC)
-
-## speed of social change and technology change
-
-## human capital optimisation
