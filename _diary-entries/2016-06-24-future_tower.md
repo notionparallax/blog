@@ -16,7 +16,7 @@ description:
 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
-featuredimg: rate_your_driver.png
+featuredimg: 
 ---
 
 ### Financing and insurance
