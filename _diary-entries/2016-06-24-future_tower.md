@@ -43,14 +43,26 @@ Google's brief for their office was for a space that they could crane out differ
 
 ### Decreasing org size
 
-### People want to be expressive: (don't talk about generations, it's not really meaningful - ref OKC)
+Traditional organisations needed a lot of bodies to get work done. Modern companies have software to give them productivity leverage. They don't need to do a lot of jobs because software does those jobs for them. Wal-Mart has many employees each making the company a tiny amount. Berkshire Hathaway has very few employees making a very large amounts. More modern companies like Facebook do the same sort of thing.
 
-http://blog.okcupid.com/index.php/the-democrats-are-doomed-or-how-a-big-tent-can-be-too-big/
+(I seem to remember reading that average org size is actually going up, but that's from holding companies owning many subsidiaries. It doesn't change the above assertion that you can do more with fewer people.)
+
+### human capital optimisation
+
+As automation takes more and more tasks, a human being in a knowledge work process becomes more and more valuable. 
+
+I've written before about how [delegating is like programming](https://notionparallax.co.uk/2015/delegation-programming) as has HBR (somewhere, I can't find it). Buildings are going to be very important in amplifying people's value. There's no need to be _in the office_ to do work as we think of work now. Most of that production work will be automated soon, so what's left is discussing ideas and thinking.
+
+### People want to be expressive
+
+To start this section, as a disclaimer, [let's talk about generations](http://blog.okcupid.com/index.php/the-democrats-are-doomed-or-how-a-big-tent-can-be-too-big/), it's not really meaningful.
 
 ![]({{ site.baseurl }}/assets/16/future_things_files/soc_econ_age_permissive.png)
 
 ![]({{ site.baseurl }}/assets/16/future_things_files/soc_econ_age_permissive_walk.png)
 
-### speed of social change and technology change
+What seems to be more meaningful is to talk about age groups and factors. People who are in a certain stage of their lives share some traits regardless of when in time they exist. There are also factors that influence all age groups. I know very technologically able retirees and some completely luddite people in their 20s.
 
-### human capital optimisation
+The idea of being expressive really seemed to begin with the hippies in the 60s. (Don't quote me on that, I wasn't there.) Since then the ability to express oneself has been more and more important to people. To get maximum value out of people, we need a way for people to be able express themselves at work. This can be keeping colouring pencils and leaves on your desk, or working naked. Caring about these sorts of things decreases individual productivity in favour of an illusion born of conformity.
+
+### speed of social change and technology change
