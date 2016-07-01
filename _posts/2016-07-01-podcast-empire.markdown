@@ -19,7 +19,7 @@ twitter-body: A startup idea that I'm too lazy to implement
 featuredimg: 16/radioempire.jpg
 ---
 
-I had this idea a little while ago, but I doubt I'll ever get around to doing anything with it, so feel to build it out into million dollar business. Maybe, if you do, you could buy me a beer.
+I had this idea a little while ago, but I doubt I'll ever get around to doing anything with it, so feel free to build it out into million dollar business. Maybe, if you do, you could buy me a beer.
 
 [Podcasts that I listen to](https://notionparallax.co.uk/2015/podcasts-i-listen-to) seem to fit quite neatly into two camps. On one hand you have the high production levels of _This American life_, _99% Invisible_ and _Planet Money_[^1]. On the other you've got things like _Rationally Speaking_ or _EconTalk_, which are more like people chatting, often with one of those people on the phone.
 
