@@ -21,20 +21,23 @@ featuredimg: 16/radioempire.jpg
 
 I had this idea a little while ago, but I doubt I'll ever get around to doing anything with it, so feel to build it out into million dollar business. Maybe, if you do, you could buy me a beer.
 
-[Podcasts that I listen to](https://notionparallax.co.uk/2015/podcasts-i-listen-to) seem to fit quite neatly into two camps. On one hand you have the high production levels of _This American life_, _99% Invisible_ and _Planet Money_. On the other you've got things like _Rationally Speaking_ or _EconTalk_, which are more like people chatting, often with one of those people on the phone.
+[Podcasts that I listen to](https://notionparallax.co.uk/2015/podcasts-i-listen-to) seem to fit quite neatly into two camps. On one hand you have the high production levels of _This American life_, _99% Invisible_ and _Planet Money_[^1]. On the other you've got things like _Rationally Speaking_ or _EconTalk_, which are more like people chatting, often with one of those people on the phone.
+
+[^1]: I don't actually listen to _This American life_, but a lot of people do, so I put it in as an illustrative example.
 
 # Problem
 
 The latter type need a bit of help! No matter how fancy you get with digital phones and recording setups, the audio quality will always be a bit crap for the person who's calling in. 
 
-_But_ most podcasts aren't live. Why not record the audio at high quality at both ends. There's no need to have all the sound mixed immediatly, so just don't.
+_But_ most podcasts aren't live. Why not record the audio at high quality at both ends. There's no need to have all the sound mixed immediately, so just don't.
 
 # Solution
+
 With [WebRTC](https://webrtc.org/) you can handle the broadcast part of the setup, and with the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) you can record high quality files at each endpoint. Then you just merge the two sound files and you've got something that feels like both people were in the studio together!
 
 # Err, there's another problem
 
-> This seems like a good idea, but what's to stop an engineer at skype ripping it off in an hour?
+> This seems like a good idea, but what's to stop an engineer at Skype ripping it off in an hour?
 
 That is the big question but I think I have a solution.
 
