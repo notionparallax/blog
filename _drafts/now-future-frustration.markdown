@@ -18,7 +18,6 @@ twitter-body:
 featuredimg: rate_your_driver.png
 ---
 
-
 I'm not claiming to be able to predict what will _actually_ happen in the future, but I do feel like I can make guesses about certain parts of the future with more confidence than others. I'm probably no better than chance at guessing what will happen in spectator sports in the next 10 years. On the other hand, I feel like I have some insight into the things that I think about a lot.
 
 My biases are probably rampant here, I continually refine a version of the future that feels fairly detailed[^1]. I'm able to defend that future pretty well, and I feel like I'm able to change my mind based on new information and my vision of the future doesn't change all that much. That probably means that my vision is robust to minor changes in initial conditions. Which is either good because it's right, or bad because it's so trivial that it's not worth thinking about[^2]. 
