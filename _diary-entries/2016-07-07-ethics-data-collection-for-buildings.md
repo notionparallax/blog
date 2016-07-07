@@ -44,10 +44,13 @@ It _seems_ as if individuals have quite a complex attitude to data privacy. Peop
 
 ### How do we reimburse the measured person?
 The person being tracked is transferring value to another party. 
-Is it just that they get to live in a better world? Do we n 
+Is it just that they get to live in a better world?
+
+The first two of these are in tension, and the third brings an uncertain economic angle into the equation.
 
 ## Problems
 * Not all collection runs will collect all types of data
+one of the problems that this is trying to overcome is that each research team is recording their data differently. We need a way to standardise the collection methodology or the data format so that different groups can combine their results to provide a larger corpus.
 * Providing anonymity to users (those being tracked) is at odds with collecting detailed data
 * Collecting demographic data (e.g. ethnicity, gender, income etc.) is likely to be seen as overly intrusive, but without it there is no way to ensure diversity in the data.
 * These data are of benefit to everyone, but how can it be sufficiently anonymised to protect the privacy and safety of the individuals?
