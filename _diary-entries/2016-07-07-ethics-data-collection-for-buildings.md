@@ -81,7 +81,9 @@ There are two broad categories of problems; ethical concerns and technical conce
 
 ## A stab at a data format
 
-It seems like a fairly straight forward time series data collection exercise, but...
+It seems like a fairly straight forward time series data collection exercise, but there needs to be some sense of context. It's not really useful if there is a person, in a place, at a time, if we know nothing about the context. My guess is that we'd need some kind of 3d representation of the space, more detail is better[^12] with weather data and surrounding buildings for context.
+
+I think that it would be worth doing some scenarios for queries. That would enlighten me as to what the data would need to support.
 
 ## A stab at some kind of ethical framework
 
@@ -120,6 +122,12 @@ When I say _individuals_ I mean the person being tracked, when I say _organisati
 [^8]: I can see a potential problem here. If I want to simulate a building that contains only women I should be able to train on an all female data set. However I could also do an all men run and compare the results to produce a "ha, look how much better men are" headline. This might just be handled through existing experimental ethics. Also, context is going to be an issue here. For example, do men behave differently in all male environments? Is it valid to turn the gender bias all the way up when the data were sampled in a mixed environment. Don't read too much into these examples, I just picked men and women as an obvious grouping, I realise that it's more complicated!
 
 [^9]: A rational actor should be willing to endure some discomfort now (wearing a tracking device, knowing that they are being tracked) in exchange for a future pay off of having a much better life in the future. Humans are 'bad' at time discounting. (By _bad_ I mean that they don't behave like classical economics predicts that they will.) The future benefit needs to be sufficiently great, or the present discomfort sufficiently low, that people will do it for free. Otherwise they'll need to be _persuaded_.
+
+    Another way to incentiveise would be if the user owned the data, and the organisations had to buy it off them. Maybe they get paid every time a query touched their records? but maybe the data will be biased as only people in need of money will take the money. Not being tracked would be a signal of status and wealth?
+
+    Gamification may be another lever. Gamification isn't about points and badges and progress bars, it's about increasing agency and the significance of choices, but also leveling up and beating people! The steps on a Fitbit are meaningful, users interpret them as micro units of fitness and wellbeing---negative micromorts.
+
+    Organisations could tip (after the fact) in accordance with the value they gained, but that's ripe for freeriding.
 
 [^10]: While I think that everyone should be _able_ to opt out, I think that it would be extremely poor form for anyone involved in building design to do so. I'd argue that they have a moral duty to do everything in their power to improve the quality of their output---as long as it's not _too_ arduous---and I don't think that being tracked would count as being arduous.
 
