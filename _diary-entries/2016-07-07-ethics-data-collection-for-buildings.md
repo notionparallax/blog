@@ -79,18 +79,22 @@ There are two broad categories of problems; ethical concerns and technical conce
 
 [Carbon Buzz](http://www.carbonbuzz.org/) is a project that collects private data about building energy usage. The platform allows building owners/designers to upload their building performance data, and then to compare their building against the body of existing buildings. (Taking into account the type of building etc.) People can be nervous about releasing this information publicly, so the comparison can provide comparisons without specifics.
 
-## a stab at a data format
+## A stab at a data format
 
 It seems like a fairly straight forward time series data collection exercise, but...
 
-## a stab at some kind of ethical framework
+## A stab at some kind of ethical framework
 
 This is just me sketching to get the ball rolling. I'm sure that there are lots of bad edge cases wrapped up in here.
 
-* individuals must be able to opt out[^10]
-* individuals must have access to all the data that pertains specifically to them
-* organisations must not be able to make decisions based on an individual's data
-* the data must be queryable by everyone (public data)
+When I say _individuals_ I mean the person being tracked, when I say _organisations_ I mean whoever is doing the tracking.
+
+* Individuals must be able to opt out[^10]
+* Individuals must have access to all the data that pertains specifically to them[^11]
+* Organisations must not be able to make decisions based on an individual's data
+* Organisations must be held accountable for any bad outcomes (whatever that means) that come from their use of the data. (horrible wording)
+* The inability to query the data at an individual's grain must also be unavailable to law enforcement, GCHQ, NSA etc.
+* The data must be queryable by everyone (public data)
 * It must be possible to remove population bias from the data [^8]
 
 
@@ -120,3 +124,5 @@ This is just me sketching to get the ball rolling. I'm sure that there are lots 
 [^10]: While I think that everyone should be _able_ to opt out, I think that it would be extremely poor form for anyone involved in building design to do so. I'd argue that they have a moral duty to do everything in their power to improve the quality of their output---as long as it's not _too_ arduous---and I don't think that being tracked would count as being arduous.
 
     Of course there is the potential for bad actors, so being able to opt out of that maintains the same intent as the right to bear arms, but without the undesirable outcomes.
+
+[^11]: I'm not sure if people should be able to delete their past data. There is a network effect in the value of the data, and if the data can't be queried to such a fine grain then there's no way you could be caught in a broom cupboard with another staff member, so there's no value to the individual in deleting the data. (Other than some perverse peace of mind.)
