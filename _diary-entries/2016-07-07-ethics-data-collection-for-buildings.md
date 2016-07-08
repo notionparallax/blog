@@ -9,7 +9,7 @@ categories: []
 tags: []
 
 # this goes on the index page, and into facebook shares
-description:
+description: An attempt at outlining the problem faced by collecting data about building occupants and how to fix those problems
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
@@ -20,6 +20,10 @@ featuredimg:
 ---
 
 This is a topic I've thought about a lot, but know very little of the formal issues surrounding it. I had a coffee with [Rhys Goldstein](https://www.autodeskresearch.com/people/rhys-goldstein)[^1] today and he had the idea that a framework for collecting data about building occupants and their behaviour would be really valuable. It would make it possible to combine data from different environments and build up patterns across different situations. Currently there isn't a standard which means that the data can't be readily combined. Rhys has some great papers from around 2010 where they simulate user behaviour, but further progress in that area is held up behind a dearth of real data.
+
+## Tl;dr.
+
+Collecting lots of data is essential to making good simulations of buildings. People are the reason buildings exist. People are sometimes a bit odd about data being collected. This is reasonable because data is often used badly or leaked. Below is an attempt at outlining the problem and what to do about it.
 
 ## The ethical mandate
 
@@ -44,8 +48,6 @@ This is a multi-pronged problem.
 
     It _seems_ as if individuals have quite a complex attitude to data privacy[^4]. People are often hostile to efforts to collect more data about them, but are rarely motived to find out about what is harvested without their knowledge.
 
-
-
 * #### How do we reimburse the measured person?
 
     The person being tracked is transferring value to another party. Is it just that they get to live in a better world?
@@ -64,6 +66,7 @@ The first two of these are in tension, and the third brings an uncertain economi
     These data are generally considered not pertinent to most scenarios, it shouldn't matter to Pepsi that I am a mid 30s male[^7] but it does matter if we are creating simulate populations of people because we need to know that we have a representative sample. There has been a recent interest in [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) which, in summary, is that the training sets that machine learning algorithms are provided with are biased, and that bakes bias into the resulting classifier.
     Without the demographic information we run the risk of training the simulations on data sets that comprise of the habits and behaviour of an overwhelmingly male, middle class group of academic nerds.
 * #### These data are of benefit to everyone, but how can it be sufficiently anonymised to protect the privacy and safety of the individuals?
+    My initial feeling is that this needs an 
 
 ## Precedents
 
