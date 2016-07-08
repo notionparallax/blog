@@ -49,7 +49,7 @@ This is a multi-pronged problem.
 
 * #### How do we reimburse the measured person?
 
-    The person being tracked is transferring value to another party. Is it just that they get to live in a better world? The example that usually comes up is the exchange of value between Google search users and Google. They are given access to enormous amounts of data, in exchange for looking at some adverts. Fitbit activity trackers do something similar by recording data and then rewarding the user with an explanation of that data. I don't know what Fitbit plan to do with the giant data store they've built up.
+    The person being tracked is transferring value to another party. Is it just that they get to live in a better world?[^9] The example that usually comes up is the exchange of value between Google search users and Google. They are given access to enormous amounts of data, in exchange for looking at some adverts. Fitbit activity trackers do something similar by recording data and then rewarding the user with an explanation of that data. I don't know what Fitbit plan to do with the giant data store they've built up.
 
     In this context could enough value be created by just data products or would you need to provide some sort of other inducement to cooperate? (cash, free things etc.)
 
@@ -77,7 +77,21 @@ There are two broad categories of problems; ethical concerns and technical conce
 
 ## Precedents
 
-[Carbon Buzz](http://www.carbonbuzz.org/) is a project that collects private data about building energy usage. The platform allows building owners/designers to upload their building performance data, and then to compare their building against the body of existing buildings. (Taking into account the tpe of building etc.) People can be nervous about releasing this information publicly, so the comparison can provide comparisons without specifics.
+[Carbon Buzz](http://www.carbonbuzz.org/) is a project that collects private data about building energy usage. The platform allows building owners/designers to upload their building performance data, and then to compare their building against the body of existing buildings. (Taking into account the type of building etc.) People can be nervous about releasing this information publicly, so the comparison can provide comparisons without specifics.
+
+## a stab at a data format
+
+It seems like a fairly straight forward time series data collection exercise, but...
+
+## a stab at some kind of ethical framework
+
+This is just me sketching to get the ball rolling. I'm sure that there are lots of bad edge cases wrapped up in here.
+
+* individuals must be able to opt out[^10]
+* individuals must have access to all the data that pertains specifically to them
+* organisations must not be able to make decisions based on an individual's data
+* the data must be queryable by everyone (public data)
+* It must be possible to remove population bias from the data [^8]
 
 
 
@@ -87,7 +101,7 @@ There are two broad categories of problems; ethical concerns and technical conce
 
 [^3]: There's also a protectionist sense that anyone criticising the methodology must by definition be hostile and stopped.
 
-[^4]: I'm sure that there's lots written about the peculiarities of peoples' facebook settings vs their feelings about nudist beaches.
+[^4]: I'm sure that there's lots written about the peculiarities of peoples' Facebook settings vs their feelings about nudist beaches.
 
 [^5]: By _committed_ I mean that there is a chance to change things before you are fully committed to a path. An example that comes to mind is the difference between a trebuchet and a cruise missile.
 
@@ -98,3 +112,11 @@ There are two broad categories of problems; ethical concerns and technical conce
 [^6]: I think that it's important to record the building physics aspects of these things, but I'd prefer to not worry _just now_ about creating a super-format that would allow for the recording of all building related time series data - but it might be necessary eventually!
 
 [^7]: I [wrote about this kind of thing here](https://notionparallax.co.uk/2015/billing-the-gender-fluid-cardinal-no-forced-values) when I was doing some data collection work at BVN.
+
+[^8]: I can see a potential problem here. If I want to simulate a building that contains only women I should be able to train on an all female data set. However I could also do an all men run and compare the results to produce a "ha, look how much better men are" headline. This might just be handled through existing experimental ethics. Also, context is going to be an issue here. For example, do men behave differently in all male environments? Is it valid to turn the gender bias all the way up when the data were sampled in a mixed environment. Don't read too much into these examples, I just picked men and women as an obvious grouping, I realise that it's more complicated!
+
+[^9]: A rational actor should be willing to endure some discomfort now (wearing a tracking device, knowing that they are being tracked) in exchange for a future pay off of having a much better life in the future. Humans are 'bad' at time discounting. (By _bad_ I mean that they don't behave like classical economics predicts that they will.) The future benefit needs to be sufficiently great, or the present discomfort sufficiently low, that people will do it for free. Otherwise they'll need to be _persuaded_.
+
+[^10]: While I think that everyone should be _able_ to opt out, I think that it would be extremely poor form for anyone involved in building design to do so. I'd argue that they have a moral duty to do everything in their power to improve the quality of their output---as long as it's not _too_ arduous---and I don't think that being tracked would count as being arduous.
+
+    Of course there is the potential for bad actors, so being able to opt out of that maintains the same intent as the right to bear arms, but without the undesirable outcomes.
