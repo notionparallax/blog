@@ -31,8 +31,7 @@ I don't have a grounding in medical ethics, but to me the way that buildings are
 
 It feels irresponsible to create environments for people to live and work in without having a more rigorous way to assess our designs. Buildings have very long lifespans. It's not uncommon for a building to be expected to last 50 years. It is unlikely that we would tolerate experimentation over such a long time span in other domains when a less committed method[^5] is available. Our problem is that a less committed method is not yet available, but its availability is within our grasp. We have all the pieces in place, the mathematical foundation of simulation, the immersive environments of virtual reality, the building physics and meteorology to model the way that the physical environment influences the _building_. What we don't have is the data to back up a simulation of human behaviour in buildings.
 
-
-My assertion here is that we, as a field concerned with the human aspects of building design, are being negligent in not addressing the lack of data that makes it impossible to do good occupancy simulations. Following from that, we ought to do something about it, but it's not obvious how to start. This is what I'll try and work out below.
+My assertion here is that we---as a field concerned with the human aspects of building design---are being negligent in not addressing the lack of data that makes it impossible to do good occupancy simulations. Following from that, we ought to do something about it, but it's not obvious how to start. This is what I'll try and work out below.
 
 ## What I'd like to come up with
 
@@ -50,11 +49,15 @@ This is a multi-pronged problem.
 
 * #### How do we reimburse the measured person?
 
-    The person being tracked is transferring value to another party. Is it just that they get to live in a better world?
+    The person being tracked is transferring value to another party. Is it just that they get to live in a better world? The example that usually comes up is the exchange of value between Google search users and Google. They are given access to enormous amounts of data, in exchange for looking at some adverts. Fitbit activity trackers do something similar by recording data and then rewarding the user with an explanation of that data. I don't know what Fitbit plan to do with the giant data store they've built up.
+
+    In this context could enough value be created by just data products or would you need to provide some sort of other inducement to cooperate? (cash, free things etc.)
 
 The first two of these are in tension, and the third brings an uncertain economic angle into the equation.
 
 ## Problems
+
+There are two broad categories of problems; ethical concerns and technical concerns. They overlap substantially.
 
 * #### Not all collection runs will collect all types of data
     One of the problems that this is trying to overcome is that each research team is recording their data differently. We need a way to standardise the collection methodology or the data format so that different groups can combine their results to provide a larger corpus.
@@ -66,7 +69,11 @@ The first two of these are in tension, and the third brings an uncertain economi
     These data are generally considered not pertinent to most scenarios, it shouldn't matter to Pepsi that I am a mid 30s male[^7] but it does matter if we are creating simulate populations of people because we need to know that we have a representative sample. There has been a recent interest in [Artificial Intelligence’s White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html) which, in summary, is that the training sets that machine learning algorithms are provided with are biased, and that bakes bias into the resulting classifier.
     Without the demographic information we run the risk of training the simulations on data sets that comprise of the habits and behaviour of an overwhelmingly male, middle class group of academic nerds.
 * #### These data are of benefit to everyone, but how can it be sufficiently anonymised to protect the privacy and safety of the individuals?
-    My initial feeling is that this needs an 
+    My initial feeling is that this needs a query engine working on an encrypted database.
+
+    The database that stores the data should probably not be directly accessible to anyone. This is a bit like the way that Apple can't crack their own phones and LastPass uses client side encryption so that nobody can access the data (it's encrypted before they get it so it's just garbage without the master password, which they don't have).
+
+    The query engine should have some kind of adaptive way of sensing specificity. It needs to have a way of seeing that the query provides only information about one person or a small subset. These queries would then be blocked. However, a blocked query is information in itself, so this isn't a trivial problem.
 
 ## Precedents
 

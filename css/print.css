@@ -1,3 +1,4 @@
+/*largely based on http://www.noupe.com/design/css-perfect-print-stylesheet-98272.html*/
 @media print {
   html,
   body {
@@ -122,8 +123,8 @@
   {
     display: none  !important;
   }
-  /* Benutzerdefinierte Nachrichten vor und nach dem Inhalt einfügen */
-  .entry:after {
+
+  /*.entry:after {
     content: "\ Alle Rechte vorbehalten. (c) 2014 - 2016 TechBrain - techbrain.de";
     color: #999 !important;
     font-size: 1em;
@@ -135,8 +136,8 @@
     font-size: 1em;
     padding-top: 30px;
     text-align: center !important;
-  }
-  /* Wichtige Elemente definieren */
+  }*/
+
   p,
   address,
   li,
@@ -148,7 +149,7 @@
     widows: 3;
     orphans: 3;
   }
-  /* Zeichensatz fuer Code Beispiele */
+
   code,
   pre {
     font-family: "Courier New", Courier, mono
