@@ -95,9 +95,6 @@ There are two broad categories of problems; ethical concerns and technical conce
 
     My initial feeling is that this needs a query engine working on an encrypted database. Raw data is too easy to deanonymise (E.g. Netflix[^19])
 
-    [^19]: From the article about [differential-privacy](http://blog.cryptographyengineering.com/2016/06/what-is-differential-privacy.html?m=1) that I previously linked to.
-
-        > Unfortunately, even well-meaning data collection can go bad. For example, in the late 2000s, Netflix ran a competition to [develop a better film recommendation algorithm](http://www.wired.com/2009/09/how-the-netflix-prize-was-won). To drive the competition, they released an "anonymized" viewing dataset that had been stripped of identifying information. Unfortunately, this de-identification turned out to be insufficient. In a well-known piece of work, [Narayanan and Shmatikov](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) showed that such datasets could be used to re-identify specific users -- and even predict their political affiliation! -- if you simply knew a little bit of additional information about a given user.
 
     The database that stores the data should probably not be directly accessible to anyone. This is a bit like the way that Apple can't crack their own phones and LastPass uses client side encryption so that nobody can access the data (it's encrypted before they get it so it's just garbage without the master password, which they don't have).
 
@@ -126,16 +123,41 @@ There is also the effect caused by people changing their behaviours because of h
 It seems like a fairly straight forward time series data collection exercise, but there needs to be some sense of context. It's not really useful if there is a person, in a place, at a time, if we know nothing about the context. My guess is that we'd need some kind of 3d representation of the space, more detail is better[^12]. It would need recorded weather data and surrounding buildings for context. It may even need things like national mood to explain things working at different scales.
 
 
-Here are some example scenarios for queries. These are just some ideas I had when I was having breakfast, there are _many_ more and not all of these will be useful.
+Here are some example scenarios for queries. These are just some ideas I had when I was having breakfast, there are _many_ more and not all of these will be useful. All of them have methodological problems, they are more of a thought experiment than a suggestion.
 
 1. Do office partition heights cause a sex bias?
-2. Do email, physical, IM etc. social networks correlate with eah other?
+
+    Taller people can see over higher obstructions. Does this mean that some office furniture advantages taller people? As men tend to be taller, this disadvantage would fall disproportionally onto women? I'm not sure why this was the first thing that came to mind. This would need height, sex, movement data, some other factor to stand in for success, and at least two locations that had different furniture.
+
+2. Do email, physical, IM etc. social networks correlate with each other?
+
+    Do people use different ways of communicating with different people? This seems intuitively true, but how? This would need access to the networks made by the communication platforms, and some people data to compare it to.
+
 3. Do certain members of an organisation act as movement attractors/repellors? Is that correlated with anything else?
+
+    Do some people get pestered more than others? Will others cause people to alter their path through a space to avoid them? You could think of this as a prom queen and a teacher whose class deadline is approaching. You'd  only need movement data. This may need to access quite granular data as you'd need to know if a single person was bending paths (rather than a class of people).
+
 4. How late do meetings start and end?
+
+    Meetings have a cost and generate a value (ideally). My guess is that their value is only realised once certain people are in the room. The shoulder of the meeting are a loss of productivity. Movement data would let us know how much is lost.
+
 5. Can movement patterns be generalised across spaces?
+
+If we train some kind of simulation on movement data, does that generalise to a different space? E.g. if a company moves, can we use their previous data to predict movement patterns in the new space? (That's a good way of controlling most other factors.)
+
 6. Do designers' intuitions about _bump spaces_ match reality?
+
+People run into each other and have impromptu meetings. Artificially encouraging this is a big selling point in many office designs. Do people _bump_ where they are expected to?
+
 7. What are occupancy percentages really? How does that vary? By sector? Role?
+
+Occupancy percentages are usually given as a single figure for the whole space. (e.g. 45%) but that varies across teams, across the space itself, across time of day and year etc. Can this be expressed in a more nuanced way?
+
 8. If we classify people based solely on movement behaviour? Does that match any other classification?
+
+If we use an automatic classifier to segment a group of people just looking at their movement data, do those groups line up with any groups we already understand? Maybe we can say that "Men walk more than women" but maybe that is meaningless and there is a new way of dividing a population[^20].
+
+
 9. If we can identify successful teams, does anything we measure correlate with that?
 10. How do movement patterns change? What influences that?
 11. What percentage of movement is universal and what is [org, sector, gender, geography, etc.] specific?
@@ -222,3 +244,11 @@ When I say _individuals_ I mean the person being tracked, when I say _organisati
 [^17]: one possible exception to the <q>shouldn't harm any of the parties involved</q> idea might be that building designs that don't work, or are objectively bad (whatever that means) could do reputational damage to their design teams. This might be a good thing because it would prevent people who introduce bad outcomes into the world would be selected against. It might go the other way though by making designers more risk averse (just copying an _acceptable_ precedent) or by making developers looking to make cheap-and-bad buildings choose to stay out of the assessment protocol.
 
 [^18]: By _data products_ I mean returning value to the user by deriving meaning from the data that have captured about them. It is probably easiest to go back to the Fitbit example. ![](http://www.gcdataconcepts.com/images/MissionSpace.png) Raw accelerometer data is of very little use to the majority of users. Fitbit processes the raw stream into things that the user cares about like steps or hours asleep. These sorts of things transfer value back to the user, and in fitbit's case are valuable enough to get them to shell out $150 to buy a wristband. In other cases they might end up neutral (things like Google search, although I'd imagine that people might pay if they were asked to) or nett negative (but we don't see that very often outside enterprise environments where people are forced to do these things. Even then they are being paid a salary, so you could claim that was payment enough. Examples of nett negative value transfers are hard to demonstrate because nobody would get into one!).
+
+[^19]: From the article about [differential-privacy](http://blog.cryptographyengineering.com/2016/06/what-is-differential-privacy.html?m=1) that I previously linked to.
+
+    > Unfortunately, even well-meaning data collection can go bad. For example, in the late 2000s, Netflix ran a competition to [develop a better film recommendation algorithm](http://www.wired.com/2009/09/how-the-netflix-prize-was-won). To drive the competition, they released an "anonymized" viewing dataset that had been stripped of identifying information. Unfortunately, this de-identification turned out to be insufficient. In a well-known piece of work, [Narayanan and Shmatikov](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) showed that such datasets could be used to re-identify specific users -- and even predict their political affiliation! -- if you simply knew a little bit of additional information about a given user.
+
+
+
+[^20]: I don't remember if it was Rayleigh or Cervelo, but _a_ bike company did some ergonomic studies and found that women didn't have different proportions to men (as the prevailing wisdom maintained) but that shorter people had different proportions to taller people. It was something that got into received wisdom through clumsy statistical analysis.
