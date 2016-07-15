@@ -147,7 +147,7 @@ If we train some kind of simulation on movement data, does that generalise to a 
 
 6. Do designers' intuitions about _bump spaces_ match reality?
 
-People run into each other and have impromptu meetings. Artificially encouraging this is a big selling point in many office designs. Do people _bump_ where they are expected to?
+    People run into each other and have impromptu meetings. Artificially encouraging this is a big selling point in many office designs. Do people _bump_ where they are expected to?
 
 7. What are occupancy percentages really? How does that vary? By sector? Role?
 
