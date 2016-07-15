@@ -143,7 +143,7 @@ Here are some example scenarios for queries. These are just some ideas I had whe
 
 5. Can movement patterns be generalised across spaces?
 
-If we train some kind of simulation on movement data, does that generalise to a different space? E.g. if a company moves, can we use their previous data to predict movement patterns in the new space? (That's a good way of controlling most other factors.)
+    If we train some kind of simulation on movement data, does that generalise to a different space? E.g. if a company moves, can we use their previous data to predict movement patterns in the new space? (That's a good way of controlling most other factors.)
 
 6. Do designers' intuitions about _bump spaces_ match reality?
 
@@ -151,15 +151,17 @@ If we train some kind of simulation on movement data, does that generalise to a 
 
 7. What are occupancy percentages really? How does that vary? By sector? Role?
 
-Occupancy percentages are usually given as a single figure for the whole space. (e.g. 45%) but that varies across teams, across the space itself, across time of day and year etc. Can this be expressed in a more nuanced way?
+    Occupancy percentages are usually given as a single figure for the whole space. (e.g. 45%) but that varies across teams, across the space itself, across time of day and year etc. Can this be expressed in a more nuanced way?
 
 8. If we classify people based solely on movement behaviour? Does that match any other classification?
 
-If we use an automatic classifier to segment a group of people just looking at their movement data, do those groups line up with any groups we already understand? Maybe we can say that "Men walk more than women" but maybe that is meaningless and there is a new way of dividing a population[^20].
+    If we use an automatic classifier to segment a group of people just looking at their movement data, do those groups line up with any groups we already understand? Maybe we can say that "Men walk more than women" but maybe that is meaningless and there is a new way of dividing a population[^20].
 
 
 9. If we can identify successful teams, does anything we measure correlate with that?
+
 10. How do movement patterns change? What influences that?
+
 11. What percentage of movement is universal and what is [org, sector, gender, geography, etc.] specific?
 
 ## A stab at some kind of ethical framework
