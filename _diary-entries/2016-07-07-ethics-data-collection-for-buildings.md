@@ -106,6 +106,8 @@ There are two broad categories of problems; ethical concerns and technical conce
 
     Its claims seem to fit the bill, but as I'm a bit mathematically disabled I can't evaluate the claims fully. The idea of the _budget_ is a bit of a concern as the point of this data store is to provide a queriable data set. It might be a big enough data set that the budget is essentially infinite. Maybe we could assume that multiple query makers will never collude to combine their results. (It seems likely that they would though.)
 
+    One way around the budget as a mathematical thing is to think of the data as permetual, but grant access via an ethics comittee. In the [MichiganX: DS101x Data Science Ethics](https://courses.edx.org/courses/course-v1:MichiganX+DS101x+2T2016/info) course[^21], in the lecture "limits on recording and use" at 6:09 there is a mention of how governments collect data. They don't know what data they'll need in the future, so they collect everything but aren't allowed to look at it. They then get a warrant to access specific parts of it. This solves the budgetry constraints, but risks abuse by coordinated requests from different parties that could then combine their data to produce a specific outcome. There might be ways around this by doing things like indexing queries differenty so that it's harder to combine different queries, but I'd imagine that this would provide little obstruction to a motivated nefarious actor.
+
 ## Harms
 
 What sorts of harms could be caused by this? Could harm be caused by collecting data or only by the use (abuse) of it afterwards? 
@@ -254,3 +256,5 @@ When I say _individuals_ I mean the person being tracked, when I say _organisati
 
 
 [^20]: I don't remember if it was Rayleigh or Cervelo, but _a_ bike company did some ergonomic studies and found that women didn't have different proportions to men (as the prevailing wisdom maintained) but that shorter people had different proportions to taller people. It was something that got into received wisdom through clumsy statistical analysis.
+
+[^21]: I'm still looking for a reference to this concept. My guess is that it's wrapped up in NSA type stuff
