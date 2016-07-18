@@ -29,7 +29,7 @@ featuredimg:
 </figure>
 
 <figure class="half-width right">
-![](http://gif-finder.com/wp-content/uploads/2016/06/Physics-ball-drop-experiment-gone-wrong-.gif)
+![]({{ site.baseurl }}/assets/16/Physics-ball-drop-experiment-gone-wrong.gif)
 </figure>
 
 
