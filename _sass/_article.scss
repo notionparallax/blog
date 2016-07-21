@@ -112,9 +112,19 @@ article.post {
   .right {
     float: right;
     margin-left: 1em;
+
+    @include media-query($on-palm) {
+      float: none;
+    }
   }
 
-  .left {float: left;}
+  .left {
+    float: left;
+
+    @include media-query($on-palm) {
+      float: none;
+    }
+  }
 
   figure {
 
