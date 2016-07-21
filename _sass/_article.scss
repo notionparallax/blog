@@ -78,12 +78,8 @@ article.post {
     width: 80%;
 
     @include media-query($on-palm) {
-      background-color: rgba($brand-color, .05);
       border: 0;
       font-size: 100%;
-      margin: 0 -1em 1em;
-      padding: 1em;
-      width: 100vw;
     }
   }
 
@@ -112,24 +108,20 @@ article.post {
   .right {
     float: right;
     margin-left: 1em;
-
-    @include media-query($on-palm) {
-      float: none;
-    }
   }
 
   .left {
     float: left;
-
-    @include media-query($on-palm) {
-      float: none;
-    }
   }
 
   figure {
 
     @include media-query($on-palm) {
+      background-color: rgba($brand-color, .05);
       margin-left: .5em;
+      margin: 0 -1em 1em;
+      padding: 1em;
+      width: 100vw;
 
       &:not(.half-width) {
         margin-left: 0;

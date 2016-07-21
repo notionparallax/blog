@@ -19,7 +19,7 @@ twitter-body:
 featuredimg: 16/Dobryna.jpg
 ---
 
-<figure class="half-width left">
+<figure class="half-width left small-pop">
 >The term work was introduced in 1826 by the French mathematician Gaspard-Gustave Coriolis as "weight lifted through a height", which is based on the use of early steam engines to lift buckets of water out of flooded ore mines. The SI unit of work is the joule (J).
 <figcaption>
 [Wikipedia](https://en.wikipedia.org/wiki/Work_(physics))
@@ -44,7 +44,7 @@ Terminator gives the most obvious example of this kind of thing. Intelligent rob
 
 In [Future Visions](http://amzn.to/29KASJy)[^2] there is a story by [Seanan McGuire](http://seananmcguire.com/) titled _Hello, Hello_. The difference from reality is that there's a Skype like system that can learn your language. It is based on the current [Skype translate](https://www.skype.com/en/features/skype-translator/) but with an amped up learning system. I.e. not all that different to now. The interesting thing is [what is unlocked by that tiny change](https://notionparallax.co.uk/2016/progress-enabling-more-progress). It's not as exciting as watching Arnie shooting stuff but it provides much more traction on the near future.
 
-<figure class="half-width right">
+<figure class="half-width right small-pop">
 >The future is already here---it's just not very evenly distributed
 <figcaption >
 <cite>William Gibson</cite> [wikiquote](https://en.wikiquote.org/wiki/William_Gibson)
