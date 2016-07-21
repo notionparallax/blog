@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The work of speculative fiction
-date: 2016-07-15 14:01:59  PDT
+date: 2016-07-21 13:00:00  PDT
 type: post
 published: true
 status: publish
@@ -16,7 +16,7 @@ description:
 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg:
+featuredimg: 16/Dobryna.jpg
 ---
 
 <figure class="half-width left">
