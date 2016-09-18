@@ -30,7 +30,12 @@ math {
 .bruno img {
     width: 50% !important;
 }
+.beard{height: 1.3em;transition: all 2s;}
+.beard:hover{transform: scale(10);}
 </style>
+
+# Sensicorn: The big picture
+[TODO: write this post!]
 
 # Wearing the badge
 
@@ -73,6 +78,20 @@ At the end of the day, put your badge on your peg on the special badge wall and 
 # How does privacy work with the tracking? Or 'The ethics post'
 
 This is the biggest concern that people bring up; it's completely justified! There are more ways of harvesting your data than ever and not all of them are in your best interests. Hopefully I'll be able to convince you that what we're doing is---at worst---ethically neutral to you. Ideally I'd like to be able to convince you that it's actually great!
+
+<figure class="half-width right">
+I'm not an expert in these issues so I consulted our resident expert in all issues: Mr Kirkland. He nodded solemnly and I left it with him. A couple of days later he gave me some words.
+
+>We are not collecting any personal or sensitive information.
+>
+>We intend to keep the data anonymous.
+>
+>We will collect and maintain the data in accordance with the Australian Privacy Principles (see [Privacy fact sheet 17: Australian Privacy Principles](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles)).
+<figcaption>
+The word from Ian
+</figcaption>
+The data we're collecting is an extension to the data that is already collected and held. Again, it's important to remember that the data we hold isn't actually about you, it's about your badge, and without the rest of the data BVN holds it doesn't identify you. The most useful bit of _Privacy fact sheet 17: Australian Privacy Principles_ is 1.4, and if you want me to write a post about it then say so in the comments and I will.
+</figure>
 
 First thing to cover is what is collected, and where it goes. Your badge broadcasts a message about once a second. That message is unique to you, but it never changes; it's not actually measuring anything about you. So no microphone or heart rate. It's just a lighthouse sending out an invisible signal. Because the base stations are in fixed positions, when one records that message, we can infer that you are near that base station.
 
@@ -156,21 +175,6 @@ So to go over the important things:
 I actually really care about this stuff, so I'm going to work really hard to make sure that the data we gather is used responsibly. I've been really shallow in this post (and it's already over a thousand words) so if you have any questions then go crazy in the comments or come and see me.
 
 
-
-
-
-TODO:
->Ben, To put in writing.
->
->We are not collecting any personal or sensitive information.
->
->We intend to keep the data anonymous.
->
->We will collect and maintain the data in accordance with the Australian Privacy Principles (see https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles).
->
-> Suggest forms and signatures, from either BVN people or visitors, is overkill but visitors will need a concise summary of what we're doing for them to read and acknowledge as they collect to device.
-
-
 ---
 
 # What's these things? Are the Daleks coming? Or 'The why post'
@@ -246,17 +250,28 @@ Here it all is in textual form. There are a lot of reasons, here's a few of them
 
 The technical term for the class of things that this is one of is _Indoor positioning system_. We're not currently using it as one, and we're not using the standard way of doing things, so internet-reading about this might be a bit confusing.
 
+This is a badge:
+
+<figure class="full-width">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BKYTVCyhxj8/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Get ready people #BVN</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by T I A R A D O B B S (@tiaradobbs) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-09-15T14:20:51+00:00">Sep 15, 2016 at 7:20am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</figure>
+
+and this is a base station:
+
+<figure class="full-width">
+![]({{ site.baseurl }}/assets/16/trackingPostImages/basestation_close.jpg)
+<figcaption>
+This one is called Monkey, say "hello monkey".
+</figcaption>
+</figure>
+
 Like most important topics in this post, there is another post about how this all actually works in detail. Here's a broad overview.
 
-1. Everyone wears a badge. That badge broadcasts a fixed message, which is a bit like a light flashing a pattern unique to each badge. [TODO: picture of a badge]
+
+1. Everyone wears a badge. That badge broadcasts a fixed message, which is a bit like a light flashing a pattern unique to each badge.
 
 1. A base station picks up that signal. The base stations are in known locations.
-    <figure class="half-width right">
-    ![]({{ site.baseurl }}/assets/16/trackingPostImages/basestation_close.jpg)
-    <figcaption>
-    This figure is half-width and floated right
-    </figcaption>
-    </figure>
 
 1. The base station sends all the detections it makes to a server.
 
@@ -264,14 +279,11 @@ Like most important topics in this post, there is another post about how this al
 
 That's the data recording process. To get the data out we use database queries to pick out specific things. E.g. tell me how many people were detected by the lifts on Tuesday before 1pm.
 
-<figure class="half-width right">
-[diagram]
-<figcaption>
-This figure is half-width and floated right
-</figcaption>
-</figure>
 
-How do detections work - [TODO]
+
+<figure class="half-width right">
+I wasn't going to talk about this but lots of people have asked. BLE uses  0.01 to 0.5 W, a mobile phone on a 3g connection uses [1.73W](https://blog.famzah.net/2010/05/24/2g-gprs-vs-3g-umts-connection-battery-usage-on-mobile-phones/). That's between 35 and 173 times more powerful. I'm not an expert in mobile phones and cancer links (as far as I can tell, nobody actually is) but that's enough of a reduction that I'm not concerned about it.
+</figure>
 
 That's a high level view---like from the moon---so read this post for more detail.
 
@@ -290,7 +302,7 @@ Privacy is a really important concern for this, so I've written a whole other po
 <figure class="half-width right">
 ![]({{ site.baseurl }}/assets/16/trackingPostImages/baseProto.jpg)
 <figcaption>
-This figure is half-width and floated right
+Our very first full prototype. Born on the 1<sup>st</sup> of September at 12:17pm. Weighing a couple of hundred grams and 225mm long. We're very proud.
 </figcaption>
 </figure>
 
@@ -311,7 +323,7 @@ The next stage is to upgrade the hardware. The current capability is just detect
 <figure class="half-width right">
 ![]({{ site.baseurl }}/assets/16/trackingPostImages/segments.png)
 <figcaption>
-This figure is half-width and floated right
+The three compartments do different things.
 </figcaption>
 </figure>
 
@@ -440,7 +452,7 @@ A simple Markov model with two states. The probabilities on the outgoing arrows 
 </figcaption>
 </figure>
 
-Andrey Markov had a great beard![]({{ site.baseurl }}/assets/16/trackingPostImages/beard2.png). He also gave his name to a way to describe the idea that some events follow other events more often than others.
+Andrey Markov had a great beard![]({{ site.baseurl }}/assets/16/trackingPostImages/beard2.png){:.beard}. He also gave his name to a way to describe the idea that some events follow other events more often than others.
 
 Talking about Markov chains makes you sound clever and arcane. Fear not! There is an example that we are all really comfortable with: predictive text.
 
@@ -465,7 +477,7 @@ Once we have a way of describing what people do, in an abstract way, then we can
 This is all very well, but we need a way of describing what test actually means. I've been using opportunity for face to face interaction to describe things so far, so I'll keep going.
 
 #### Defining data-backed Personas
-A persona is a way of describing some kind of abstract user of your system. Traditionally you'd do them by interviewing a _lot of people and then working out a few general characters. You'd make some sort of classification that makes sense to you and then try to describe that person in a useful amount of detail.
+A persona is a way of describing some kind of abstract user of your system. Traditionally you'd do them by interviewing a _lot_ of people and then working out a few general characters. You'd make some sort of classification that makes sense to you and then try to describe that person in a useful amount of detail.
 
 <figure class="half-width right">
 ![]({{ site.baseurl }}/assets/16/trackingPostImages/persona.png)
@@ -483,7 +495,7 @@ The Markov model describes the probabilistic behaviour of an agent in our simula
 
 We'd use one agent to represent each person in our simulation. Real people are [pretty complicated](https://bvnworkshop.slack.com/messages/philosophyofmind/) but we don't need to model everything about a person to get some insight, our model just needs to be _good enough_.
 
-<figure class="half-width right">
+<figure class="half-width left">
 > "All models are wrong but some are useful"
 <figcaption>
 [George Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
@@ -571,7 +583,7 @@ Knowing the likely order of this behaviour is important, and so it's also import
 To put your mind at rest, the base stations in the toilets _can't_ record anything other than a badge's proximity to it. The data will also never be available for making decisions about individuals. That means that you can continue to take hour long toilet breaks, we won't tell on you! (Someone might notice through more traditional means though.)
 
 <figure class="full-width">
-[photo of Fiona]
+[TODO: photo of Fiona]
 <figcaption>
 We've had _some_ form of people tracking in place for quite a while now.
 </figcaption>
