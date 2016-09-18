@@ -44,7 +44,7 @@ Our man Bruno showing off how to wear the badge.
 </figure>
 
 <figure class="half-width right">
-[TODO: Diagram of the signal being a D]
+![]({{ site.baseurl }}/assets/16/trackingPostImages/dShape.png)
 <figcaption>
 The broadcast is shaped by your body. For a much more detailed look at this, [Annisa has written about it here](http://where-in.space/2016/seeing-a-pattern).
 </figcaption>
