@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 
 	function replacePosts(theJSON) {
+		console.log(theJSON[0]);
 	    let newInnerHTML = ""
 
 	    for(let p of theJSON) {
