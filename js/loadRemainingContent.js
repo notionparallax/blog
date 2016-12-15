@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(event) { 
+document.addEventListener("DOMContentLoaded", function(event) {
 	var xmlhttp = new XMLHttpRequest();
 	var url = "/index-data.json";
 
@@ -13,13 +13,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	function replacePosts(theJSON) {
 	    let postList = document.getElementsByClassName("post-list").item(0);
 	    let newInnerHTML = ""
-	 
+
 	    for(let p of theJSON) {
 	      let liTemplate = `
 	        <li itemscope itemtype="http://schema.org/BlogPosting">
 	          <span class="post-date">${p.pretty_date}</span>
 	          <meta itemprop="datePublished" content="${p.date}" />
-	          <meta itemprop="dateModified" content="${p.date}" /> 
+	          <meta itemprop="dateModified" content="${p.date}" />
 	          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
 	            <span itemprop="name" content="${p.author}"></span>
 	          </span>
