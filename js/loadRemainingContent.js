@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     function replacePosts(theJSON) {
         console.log(theJSON[0]);
-        let newInnerHTML = ""
+        let newInnerHTML = "";
 
         // for(let p of theJSON) {
         //   let liTemplate = `
