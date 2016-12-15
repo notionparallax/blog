@@ -48,6 +48,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
         let postList = document.getElementsByClassName("post-list").item(0);
         postList.innerHTML = newInnerHTML;
         console.log("Added the extra posts");
-        console.log("this is just silly");
     }
 });
