@@ -27,7 +27,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 	makeRequest("GET", url)
 		.then(function (datums) {
-		  replacePosts( JSON.parse(datums) );
+		  console.log(datums);
+		  // replacePosts( JSON.parse(datums) );
 		})
 		.catch(function (err) {
 		  console.error('Augh, there was an error!', err.statusText);
