@@ -1,17 +1,39 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-	var xmlhttp = new XMLHttpRequest();
 	var url = "/index-data.json";
 
-	xmlhttp.onreadystatechange = function() {
-	    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-	        replacePosts( JSON.parse(xmlhttp.responseText) );
-	    }
-	};
-	xmlhttp.open("GET", url, true);
-	xmlhttp.send();
+	function makeRequest (method, url) {
+	  return new Promise(function (resolve, reject) {
+	    var xhr = new XMLHttpRequest();
+	    xhr.open(method, url);
+	    xhr.onload = function () {
+	      if (this.status >= 200 && this.status < 300) {
+	        resolve(xhr.response);
+	      } else {
+	        reject({
+	          status: this.status,
+	          statusText: xhr.statusText
+	        });
+	      }
+	    };
+	    xhr.onerror = function () {
+	      reject({
+	        status: this.status,
+	        statusText: xhr.statusText
+	      });
+	    };
+	    xhr.send();
+	  });
+	}
+
+	makeRequest("GET", url)
+		.then(function (datums) {
+		  replacePosts( JSON.parse(datums) );
+		})
+		.catch(function (err) {
+		  console.error('Augh, there was an error!', err.statusText);
+		});
 
 	function replacePosts(theJSON) {
-	    let postList = document.getElementsByClassName("post-list").item(0);
 	    let newInnerHTML = ""
 
 	    for(let p of theJSON) {
@@ -44,6 +66,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	        </li>`
 	      newInnerHTML += liTemplate;
 	    }
+
+	    let postList = document.getElementsByClassName("post-list").item(0);
 	    postList.innerHTML = newInnerHTML;
+	    console.log("Added the extra posts");
 	}
 });
