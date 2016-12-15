@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
               <span itemprop="author" itemscope itemtype="http://schema.org/Person">
                 <span itemprop="name" content="${p.author || " "}"></span>
               </span>
+
               <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
                 <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
                   <meta itemprop="url" content="https://upload.wikimedia.org/wikipedia/commons/9/9e/Sus_scrofa_avionica.png">
@@ -30,14 +31,17 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 </span>
               <meta itemprop="name" content="Notion Parallax">
               </span>
+
               <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
                 <meta itemprop="url" content="https://upload.wikimedia.org/wikipedia/commons/9/9e/Sus_scrofa_avionica.png">
                   <meta itemprop="width"  content="700">
                   <meta itemprop="height" content="500">
               </span>
+
               <h2 itemprop="headline">
                 <a itemprop="mainEntityOfPage"  class="post-link" href="${p.url || " "}">${p.title || " "}</a>
               </h2>
+
               <p itemprop="description">${p.description || ">_"}</p>
               <a class="read-more" href="${p.url || " "}">read more</a>
             </li>`
