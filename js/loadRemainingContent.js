@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
               <p itemprop="description">${p.description || ">_"}</p>
               <a class="read-more" href="${p.url || " "}">read more</a>
-            </li>`
+            </li>`;
           newInnerHTML += liTemplate;
         }
 
