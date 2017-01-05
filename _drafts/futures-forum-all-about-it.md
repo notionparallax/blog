@@ -20,9 +20,16 @@ featuredimg: rate_your_driver.png
 ---
 
 <style>
-    svg.icon {
+    svg.iconathon-icon {
         width: 16%;
+        min-width: 95px;
     }
+
+    iframe {
+      width: 100%;
+      height: 640px;
+      border: none;
+  }
 </style>
 
 The Futures Forum was a 2 day conference to talk about ideas and the future.
@@ -30,7 +37,7 @@ It had a 6 month lead up program. I designed and drove the program of the event 
 
 I realised that I've never actually done any kind of overall write up of it, so here one is.
 
-# The point (or why have this thing at all?)
+# The point <small>(or why have this thing at all?)</small>
 
 BVN has retreats every so often where everyone gets together and reinforces the _one studio_ ethos. We were overdue for one of these. James asked me to come up with a plan that made it do more than just get people to mingle. We decided that if we were going to do something like this then it had to do more than just be a knees up.
 
@@ -82,13 +89,13 @@ Six icons finally made the cut for being illustrated[^ill].
 [^ill]: Final illustrations done by [Patrik Typpo](http://www.patriktyppo.com/)
 
 <figure class="">
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
+<svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
   <path d="M35.2 9.7c-.7-.5-1.7-.5-2.4 0l-22.7 17c-.5.4-.8 1-.8 1.6V59h4V29.3L34 13.8l14.2 10.6-2.5-6.9-10.5-7.8z"/>
   <path d="M64.1 1.7c-1.3-.9-3-.6-3.9.7l-4.7 6.8-5.8 8.3 4.6 3.3 5-7.2.8-1.1 1.5-2.1 3.3-4.6c.8-1.4.5-3.2-.8-4.1z"/>
   <path d="M49.1 18.2l-.9 6.3 5.6-3-4.7-3.3zm.3 3.3l.3-2 2.7 1.9-1.8 1-1.2-.9z"/>
 </svg>
 
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
+<svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
   <path d="M61.8 54.3l-3.1-4.4V28.3c0-.6-.3-1.2-.8-1.6l-5.1-3.9c.2-1 .3-2 .3-3.1 0-10.5-8.5-19-19-19s-19 8.5-19 19c0 1 .1 2.1.3 3l-5.1 3.9c-.5.4-.8 1-.8 1.6V59h4V29.3l3.1-2.3c2.7 7 9.5 11.8 17.4 11.8 3 0 5.8-.7 8.3-1.9l14.6 20.8c.6.8 1.5 1.3 2.5 1.3.6 0 1.2-.2 1.7-.5 1.3-1 1.6-2.9.7-4.2zM19.3 23l1.8 2.4 1.6-1.2-3.7-5c.3-8 6.9-14.4 15-14.4s14.6 6.4 15 14.4l-3.7 4.9 1.6 1.2 1.8-2.4c-1.4 6.8-7.5 11.9-14.7 11.9-7.2 0-13.2-5.1-14.7-11.8zm32.3 4l3.1 2.3v14.8l-7.5-10.7c1.9-1.7 3.4-3.9 4.4-6.4z"/>
   <rect x="24.9" y="14.5" transform="matrix(-.6 -.8 .8 -.6 32.917 47.581)" width="7" height="2"/>
   <rect x="22" y="16.7" transform="matrix(-.6 -.8 .8 -.6 26.669 48.717)" width="7" height="2"/>
@@ -99,7 +106,7 @@ Six icons finally made the cut for being illustrated[^ill].
   <rect x="39" y="16.7" transform="matrix(.6 -.8 .8 .6 2.851 41.084)" width="7" height="2"/>
 </svg>
 
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
+<svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
   <rect x="46.5" y="44.5" width="13.3" height="4.5"/>
   <rect x="21.8" y="13.9" width="4.5" height="15.6"/>
   <path d="M54.7 50.2H40.5v-6.8h18.2v-15c0-.6-.3-1.2-.8-1.6l-22.7-17c-.7-.5-1.7-.5-2.4 0l-5.3 4v21.6h-6.8V18.9l-10.6 7.9c-.5.4-.8 1-.8 1.6V59h4V29.3l5.9-4.5v11.9h9.6v-19l5.1-3.8 20.7 15.5V42H39.1v9.6h15.6V59h4v-8.8h-4z"/>
@@ -107,7 +114,7 @@ Six icons finally made the cut for being illustrated[^ill].
   <path d="M68 46.3h-4.1l1.5-1.5c.1-.1.2-.3.2-.5s-.1-.4-.2-.5c-.3-.3-.8-.3-1.1 0l-3.1 3.1 3.1 3.1c.3.3.8.3 1.1 0s.3-.8 0-1.1l-1.5-1.5H68v-1.1z"/>
 </svg>
 
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
+<svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
   <path d="M58.7 13.3v-4H9.4v4h1.4v18.8H9.4v4h1.4V55H9.4v4h49.3v-4h-1.4V36.2h1.4v-4h-1.4V13.3h1.4zm-4.8 9.4v-9.4h1.4v18.8h-8.5V31h-7.1v1.1H12.8V13.3h34v9.4h7.1zM39.7 53.8V55H12.8V36.2h34v9.4h7.1v-9.4h1.4V55h-8.5v-1.1h-7.1z"/>
   <rect x="39.7" y="22.7" width="7.1" height="1.1"/>
   <rect x="39.7" y="24.8" width="7.1" height="1.1"/>
@@ -119,13 +126,12 @@ Six icons finally made the cut for being illustrated[^ill].
   <rect x="39.7" y="51.8" width="7.1" height="1.1"/>
 </svg>
 
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
-  <rect fill="#FFF" width="68" height="68"/>
+<svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
   <path d="M57.9 26.7l-22.7-17c-.7-.5-1.7-.5-2.4 0l-22.7 17c-.5.4-.8 1-.8 1.6V59h4V29.3L34 13.8l20.7 15.5V59h4V28.3c0-.6-.3-1.2-.8-1.6z"/>
   <circle cx="34" cy="40.7" r="6.9"/>
 </svg>
 
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
+<svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
   <path d="M57.9 26.7l-22.7-17c-.7-.5-1.7-.5-2.4 0l-22.7 17c-.9.7-1.1 1.9-.4 2.8.7.9 1.9 1.1 2.8.4L34 13.8l21.5 16.1c.4.3.8.4 1.2.4.6 0 1.2-.3 1.6-.8.7-.8.5-2.1-.4-2.8z"/>
   <circle cx="24.7" cy="32" r="2.8"/>
   <circle cx="34" cy="30.3" r="2.8"/>
@@ -158,7 +164,7 @@ This was a collection of essays about the future of how architecture would be pr
 
 It was the first thing we did that was challenging. It didn't need everyone to be involved, but it had a great response. We had 23 essays that made it into the book in the end and a few more that were quite well formed ideas but that didn't get written up by the deadline. There was a pretty good spread of word counts and they were all well written, not just dashed off at the last minute. I was very impressed.
 
-<iframe style="width: 100%; height: 380px;" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1uV16hLKWbZhy6zvb4-TfSoJmkvhy9JK6SHYlIg3mHRE/pubchart?oid=924029215&amp;format=interactive"></iframe>
+<iframe style="height: 380px;" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1uV16hLKWbZhy6zvb4-TfSoJmkvhy9JK6SHYlIg3mHRE/pubchart?oid=924029215&amp;format=interactive"></iframe>
 
 The resulting essays were published in a book that everyone in the studio got as a valentine's present. (There was also a little chocolate heart.) Afterwards we moved as many of the essays as we could to [a Medium publication](https://medium.com/architectural-office-of-the-future), but Medium has a pretty nice password feature that makes it a bit tricky to upload _for_ people. Ultimately we didn't get too many uploaded.
 
@@ -179,7 +185,7 @@ The introduction to the [whole idea](https://notionparallax.co.uk/2015/architect
 
 This served two jobs: the obvious one of finding out what they questions really were, and the stealth reason of getting people to engage with Twitter. It wasn't specifically Twitter that mattered but engaging in a wider discourse. That discussions mediated by technology could be meaningful and not just 'teenage drivel'.
 
-[The results](https://notionparallax.co.uk/2015/architecture-bigquestions) were impressive. We were trending in Sydney for a little while. We had significant engagement from people outside the studio.
+[The results](https://notionparallax.co.uk/2015/architecture-bigquestions) were impressive. We were trending in Australia for a little while. We had some good engagement from people outside the studio as well as from within.
 
 
 <blockquote class="twitter-tweet" data-lang="en">
@@ -191,14 +197,34 @@ This served two jobs: the obvious one of finding out what they questions really 
 
 Based on the [Reddit AMAs](https://www.reddit.com/r/AMA/) we did 21 sessions where someone would sit for a known time and answer anyone's questions.
 
+These had quite good engagement, with about 10% of people asking questions. The answers were all very good too. Generally, people asked direct questions and got direct answers. Some of these things had probably been buring away for a long time and there hadn't been an opportunity to ask. This provided an opportunity, and also made everyone more aware of the diversity of people they work with.
+
 ### Lean canvas workshops
 
 <figure class="half-width right">
-![something or other]({{ site.baseurl }}/assets/16/ff/IMG_20141210_164853.jpg)
+![Ninotschka Titchkosky with a lean canvas pinned up behind her]({{ site.baseurl }}/assets/16/ff/IMG_20141210_164853.jpg)
 <figcaption>
-This figure is half-width and floated left
+Ninotschka Titchkosky explains her canvas-generated idea.
 </figcaption>
 </figure>
+
+I'm not sure about anyone else, but I find it much easier to edit someone else's work than write my own. I'll often get caught up in the details and struggle to get started. This workshop game people joke businesses, generated with [it's this for that](http://itsthisforthat.com/). (Go there, it's fun!)
+
+There were several rounds of short pitches where each person pitched _Wikipedia for hunters_ and _Pandora for cheap vodka_ to each other. Once everyone was well warmed up they started on the canvasses.
+
+
+The rigour imposed by the canvas turned several of the ludicrous inputs into some quite feasible businesses[^porc].
+
+[^porc]: I've seen a couple pitched, since, as actual real businesses! We still had our fair share of assassinations-for-diamonds proposals, but at least they were well thought through!
+
+<figure class="half-width right">
+![small pieces of paper with some silly things written on them, like "Wikipedia for hunters"]({{ site.baseurl }}/assets/16/ff/IMG_20141209_164936.jpg)
+<figcaption>
+The auto generated business ideas.
+</figcaption>
+</figure>
+
+This was a warm up for the next thing, the Design a design business challenge.
 
 ### Design a design business
 
@@ -229,6 +255,12 @@ DADB on the beach
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/3OGDKKivZy/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Bon fire time #bvntanga #futuresforum @bvn.architecture</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by elise_cuneo (@elise_cuneo) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-05-28T09:15:56+00:00">May 28, 2015 at 2:15am PDT</time></p></div></blockquote>
 
 ## Afterwards
+
+### general feeling in the studio
+
+### the commons
+
+voting, how it went over its first year, other things
 
 <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/4vmtwlDZsb/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by J O S E P H O &#39; M E A R A (@joseph_omeara)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-07-05T06:07:42+00:00">Jul 4, 2015 at 11:07pm PDT</time></p></div></blockquote> 
 
