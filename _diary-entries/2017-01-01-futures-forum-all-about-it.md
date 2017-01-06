@@ -16,7 +16,7 @@ description: Culminating in a two-day tropical retreat, this was actually a six-
 twitter-body:
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: rate_your_driver.png
+featuredimg:
 ---
 
 <style>
@@ -85,8 +85,6 @@ Here's [the Iconathon photos](https://goo.gl/photos/sMGMofMej47M2Rua7)[^icongall
 I went against one of their pieces of advice. They strongly advise that you get a fixed set of nouns, but I wanted people to converge on the important nouns of architecture. If I were to do it again I would have pre-chosen the words as a lot of the words that people were trying to illustrate weren't nouns. It made for a really interesting insight into what people value in the profession, but it did make for some tricky subjects to draw.
 
 Six icons finally made the cut for being illustrated[^ill].
-
-[^ill]: Final illustrations done by [Patrik Typpo](http://www.patriktyppo.com/)
 
 <figure class="">
 <svg class="iconathon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68">
@@ -215,7 +213,6 @@ There were several rounds of short pitches where each person pitched _Wikipedia 
 
 The rigour imposed by the canvas turned several of the ludicrous inputs into some quite feasible businesses[^porc].
 
-[^porc]: I've seen a couple pitched, since, as actual real businesses! We still had our fair share of assassinations-for-diamonds proposals, but at least they were well thought through!
 
 <figure class="half-width right">
 ![small pieces of paper with some silly things written on them, like "Wikipedia for hunters"]({{ site.baseurl }}/assets/16/ff/IMG_20141209_164936.jpg)
@@ -228,14 +225,47 @@ This was a warm up for the next thing, the Design a design business challenge.
 
 ### Design a design business
 
+DADB was an open call for people to come up with a proposal for how a future design business would work. We were already quite far along in the process of generating enthusiasm about the event, and the future more generally. This project was run based on the Valve model, sort of a holocracy. Anyone can be involved, people should form teams based on their interests, and anyone can leave a team any time they like if they think it's a dud.
+
+The only real constraint was that the idea needed to be proposed at the actual event, using the Pecha Kucha format of 20 slides of 20 seconds each.
+
+#### Tailored schedules
+Can we get the same (or more) output (however you measure that) with different work schedules? This group did some surveys to gague how the studio felt about their schedules. They then did some real experiments and lived a few different schedules for a few weeks to see how they went. They did another survey afterwards to see what the impact on the participants' lives were, and also the impact on those who had to interact with them (their team).
+
+#### Open Source
+How can we improve our situation by making the pie bigger for the whole industry? There are lots of assets that are created in order to practice, but that aren't differenciators. Things like drawing standards, health and safety forms, some contracts etc. could be shared with the whole industry and then instead of ten practices spending ten months making ten mediocre documents, one group could make it, and then nine others could help polish it up to be the best document possible.
+
+#### Wellness as an internal upgrade
+If we are healthier, are we also more profitable? Can we turn investment into employee health into business benefit? This group was looking into this as an internal thing that could make the existing work better.
+
+#### Wellness/PIM as a product
+If the group above was looking at doing wellness internally, this one was investigating if it could be done as a product. By adding telemetry to a building's occupants you can tell if the most important job of the building is being fulfilled -- occupant satisfaction.
+
+#### Idea investment
+Is there a way to turn some sweat equity into an actual investment, but from within an existing organisation? This group was looking into finding ways to make that happen.
+
+#### Diversification
+If the architect was also the developer, and the funding model was crowd funding, what would that look like? This group was looking into the potential, and the current legal barriers to this actually happening.
+
+#### AAC – architecture awareness campaign
+This group's premise was that the public knows about what forensic police do, they know what doctors do, even what airline check in staff do, but they are pretty much in the dark about what architects actually do. This was the only group to have one of their experiments fail, and to have a preconception overturned. This really strengthened their proposal in the end for a TV series.
 
 ## At the event
 
-location:
+We needed somewhere memorable, but at the same time practical and cost effective. I've never enjoyed any event I've been to inside a hotel. It's always felt like I've been cut off from the world. The location we ended up with couldn't have been more different to that.
 
-https://www.instagram.com/explore/tags/futuresforum/
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d888.6422104913696!2d153.37273064587376!3d-27.177598563216456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjfCsDEwJzM5LjMiUyAxNTPCsDIyJzIzLjMiRQ!5e1!3m2!1sen!2sau!4v1483743729201" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+Tangalooma resort on Moreton Island, just off the coast of Brisbane. It's an old whaling station, and we were under the flensing deck. A gigantic and fantastically brutal version of a butchers block. The space that we used once housed giant rendering tanks for blubber, but now mostly housed a basketball court.
+
+Unsurprisingly, people [took a lot of photographs](https://www.instagram.com/explore/tags/futuresforum/).
+
+<figure class="half-width right" style="width: 70px;">
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/12dU5BMdwn/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Tangalooma Flensing Deck #BVN #FuturesForum</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Brian Donovan (@donovan_brian) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-04-24T08:26:09+00:00">Apr 24, 2015 at 1:26am PDT</time></p></div></blockquote>
+<figcaption>
+The space we had the Futures Forum in, before we occupied it.
+</figcaption>
+</figure>
 
 http://bvn.camp/
 
@@ -262,11 +292,15 @@ DADB on the beach
 
 voting, how it went over its first year, other things
 
-<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/4vmtwlDZsb/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by J O S E P H O &#39; M E A R A (@joseph_omeara)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-07-05T06:07:42+00:00">Jul 4, 2015 at 11:07pm PDT</time></p></div></blockquote> 
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/4vmtwlDZsb/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by J O S E P H O &#39; M E A R A (@joseph_omeara)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-07-05T06:07:42+00:00">Jul 4, 2015 at 11:07pm PDT</time></p></div></blockquote>
 
 # footnotes
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+[^porc]: I've seen a couple pitched, since, as actual real businesses! We still had our fair share of assassinations-for-diamonds proposals, but at least they were well thought through!
+
+[^ill]: Final illustrations done by [Patrik Typpo](http://www.patriktyppo.com/)
 
 [^iphotos]: I can't for the life of me work out how to embed a slideshow from Google photos.
 
@@ -318,7 +352,11 @@ voting, how it went over its first year, other things
 
 
 [^s1]: I’ve been reading about configuration spaces recently and I’m more torn than ever about whether future ought to be plural in this context.
+
 [^s2]: where ‘everyone’ means everyone who works here, everyone who makes a contribution to our continued existence, not just those with an architectural education – I think that that kind of apartheid thinking is reprehensible, but if you disagree I’d love to hear why in your essay!
+
 [^s3]: To stave off accusations of pessimism: I believe the former, this is more of a case of disproving the null hypothesis. Also, if I really believed that we weren’t capable I wouldn’t be involved in this endeavour at any level.
+
 [^s4]: Before you think to yourself “I would never let the identity of the author influence my opinion of their ideas”, countless studies have shown that you won’t be able to prevent that from happening. They’ve also shown that you would have said that too!
+
 [^s5]: Although if you’d like to remain anonymous perpetually then that’s fine too! You get to control the release of your identity.
