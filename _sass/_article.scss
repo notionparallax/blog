@@ -36,7 +36,7 @@ article.post {
   }
 
   h4 {
-    font-size: 180%;
+    font-size: 160%;
 
     @include media-query($on-palm) {
       font-size: 140%;
@@ -44,7 +44,7 @@ article.post {
   }
 
   h5 {
-    font-size: 140%;
+    font-size: 120%;
 
     @include media-query($on-palm) {
       font-size: 120%;
