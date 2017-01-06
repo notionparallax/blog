@@ -1,15 +1,15 @@
 ---
 ---
 {
-  "manifest_version": 2                          ,
-  "short_name":       "{{site.short_name}}"      ,
-  "name":             "{{site.name}}"            ,
-  "default_locale":   "{{site.default_locale}}"  ,
-  "description":      "{{site.description}}"     ,
-  "background_color": "{{site.background_color}}",
-  "theme_color":      "{{site.theme_color}}"     ,
-  "display":          "{{site.display}}"         ,
-  "start_url": "/?utm_source=homescreen"         ,
+  "manifest_version": 2                              ,
+  "short_name":       "{{site.short_name}}"          ,
+  "name":             "{{site.name}}"                ,
+  "default_locale":   "{{site.default_locale}}"      ,
+  "description":      "{{site.manifest_description}}",
+  "background_color": "{{site.background_color}}"    ,
+  "theme_color":      "{{site.theme_color}}"         ,
+  "display":          "{{site.display}}"             ,
+  "start_url": "/?utm_source=homescreen"             ,
   "author":           "{{site.author.first_name}} {{site.author.last_name}}",
   "icons": [
     {
@@ -43,5 +43,5 @@
       "type": "image/png",
       "density": 4
     }
-  ]  
+  ]
 }

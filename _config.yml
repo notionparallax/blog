@@ -29,7 +29,7 @@ short_name: "NP"
 name: "Notion Parallax"
 default_locale: "en"
 start_url: "/?utm_source=homescreen"
-description: "Ben Doherty's blog"
+manifest_description: "Ben Doherty's blog"
 background_color: "#FCFCFC"
 theme_color: "#1f597a"
 display: fullscreen
@@ -39,4 +39,3 @@ default_locale: "en"
 collections:
   diary-entries:
     output: true
-
