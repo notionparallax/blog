@@ -30,10 +30,13 @@ featuredimg:
       height: 640px;
       border: none;
   }
+  .right>iframe#instagram-embed-0 {
+      height: 521px;
+  }
 </style>
 
 The Futures Forum was a 2 day conference to talk about ideas and the future.
-It had a 6 month lead up program. I designed and drove the program of the event and the lead-up.
+It had a 6 month lead up program. I designed the program of the event and drove the lead-up. [Mel Mury](https://au.linkedin.com/in/melanie-mury-1945b0121) handled all the logistics. all together, it was a big success.
 
 I realised that I've never actually done any kind of overall write up of it, so here one is.
 
@@ -57,12 +60,12 @@ The events before the main event each did a job, and contributed to the overall 
 
 There was:
 
-* An Iconathon
-* An _Architectural Office of the Future_ essay collection
-* A twitter campaign to find [#architecture #bigquestions](https://twitter.com/search?q=%23architecture%20AND%20%23bigquestions%20since%3A2014-06-01%20until%3A2015-05-30&src=typd)
-* I'm ----: Ask me anything
-* Lean canvas workshops
-* _Design a design business_ which ended with Pecha Kucha presentations on the beach by a bonfire.
+* An [Iconathon](#iconathon)
+* An [_Architectural Office of the Future_ essay collection](architectural-office-of-the-future-aootf)
+* A [twitter campaign](architecture-bigquestions to find [#architecture #bigquestions](https://twitter.com/search?q=%23architecture%20AND%20%23bigquestions%20since%3A2014-06-01%20until%3A2015-05-30&src=typd)
+* [I'm ----: Ask me anything](im---ask-me-anything-ama)
+* [Lean canvas workshops](lean-canvas-workshops)
+* [_Design a design business_](design-a-design-business) which ended with [Pecha Kucha presentations on the beach by a bonfire](dadb-on-the-beach).
 * A few informal sessions when everyone just got together to discuss things.
 
 Here's a better explanation of each of these bits.
@@ -176,6 +179,8 @@ The essays were printed, and posted on the blog without names. The intention the
 >In 1900 David Hilbert posed a series of 23 problems to the mathematical community.
 
 >These 23 questions have given the world of mathematics something to focus on for over a century. Some of the questions are still to be solved. Solving one pretty much guarantees that person a Field’s medal (Equivalent to a Nobel or a Pritzker prize). Architecture doesn’t have a set of key questions. This is a search to find some. A search to find if it’s even possible!
+
+>
 <figcaption>
 The introduction to the [whole idea](https://notionparallax.co.uk/2015/architecture-bigquestions-redux).
 </figcaption>
@@ -260,23 +265,36 @@ Tangalooma resort on Moreton Island, just off the coast of Brisbane. It's an old
 
 Unsurprisingly, people [took a lot of photographs](https://www.instagram.com/explore/tags/futuresforum/).
 
-<figure class="half-width right" style="width: 70px;">
+<figure class="half-width right">
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/12dU5BMdwn/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Tangalooma Flensing Deck #BVN #FuturesForum</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Brian Donovan (@donovan_brian) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-04-24T08:26:09+00:00">Apr 24, 2015 at 1:26am PDT</time></p></div></blockquote>
 <figcaption>
 The space we had the Futures Forum in, before we occupied it.
 </figcaption>
 </figure>
 
-http://bvn.camp/
 
-<figure class="half-width right" style="width: 70px;">
+### Speakers
+
+We had five invited speakers, representing different aspects of the way the things architects need to know about: Gitte Lindgaard[^Gitte], people; Simon Longstaff[^simon], ethics; Lucas Verweij[^lucas], design; Peter Buchanan[^peter], architecture and Anton Andrews[^anton], technology.
+
+Each of them gave a keynote on the first day, and then held court for a symposium on the second day.
+
+_There might be some videos of those talks coming soon!_
+
+### Web app
+
+Details were being finalised until very near the end, we didn't want to end up with printed information that was wrong. We also didn't want to spend a big chunk of our budget on an app that would only be used for a couple of days---especially when web technology is so capable these days. This was still pre service worker but we still managed to make a website that would install to the user's phone, and be available offline. The domain for the site has expired now, but it was [bvn.camp](http://bvn.camp/)[^cname]. You can still see a static version of the site if you click on the screenshot
+
+[^cname]: The site used a slightly overcomplicated setup with git hooks and another server in order to use `picture` tags instead of `img` tags. In hindsight, as everyone was using it on a phone, `img` would have been fine and the workflow would have been much simpler.
+
+<figure class="half-width left" style="width: 70px;">
 [![something or other]({{ site.baseurl }}/assets/16/ff/screencapture-bvn-camp-1482826450630-small.png)]({{ site.baseurl }}/assets/16/ff/screencapture-bvn-camp-1482826450630.png)
 <figcaption>
 This figure is half-width and floated left
 </figcaption>
 </figure>
 
-DADB on the beach
+### DADB on the beach
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style="  display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/3OFd5UulmB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">@bvn.architecture around the bon fire #FuturesForum #architecture #bigquestions #bvntanga</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Marc Hine (@marc_hine) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-05-28T09:10:50+00:00">May 28, 2015 at 2:10am PDT</time></p></div></blockquote>
 
@@ -349,8 +367,6 @@ voting, how it went over its first year, other things
     ![something or other]({{ site.baseurl }}/assets/16/ff/vase.jpg)
     </figure>
 
-
-
 [^s1]: I’ve been reading about configuration spaces recently and I’m more torn than ever about whether future ought to be plural in this context.
 
 [^s2]: where ‘everyone’ means everyone who works here, everyone who makes a contribution to our continued existence, not just those with an architectural education – I think that that kind of apartheid thinking is reprehensible, but if you disagree I’d love to hear why in your essay!
@@ -360,3 +376,113 @@ voting, how it went over its first year, other things
 [^s4]: Before you think to yourself “I would never let the identity of the author influence my opinion of their ideas”, countless studies have shown that you won’t be able to prevent that from happening. They’ve also shown that you would have said that too!
 
 [^s5]: Although if you’d like to remain anonymous perpetually then that’s fine too! You get to control the release of your identity.
+
+[^Gitte]: Gitte is a professor at [Carleton university](http://http-server.carleton.ca/~glindgaa/){:target="_blank"} in [Ontario, Canada](https://goo.gl/maps/uPtDm){:target="_blank"} and at [Swinburne](http://www.swinburne.edu.au/health-arts-design/staff-profiles/view.php?who=glindgaard){:target="_blank"} in [Melbourne](https://goo.gl/maps/yaXF2){:target="_blank"}. Her work on Neuroaffective Design is about how computers affect the brains that use them.
+
+    ![a picture of Gitte Lindgaard]({{ site.baseurl }}/assets/16/ff/gitte.jpg)
+
+    >Gitte Lindgaard, PhD, RN, is a Distinguished Research Professor at Carleton University in Ottawa, Canada, and a Professor of Neuroaffective Design at Swinburne University of Technology in Melbourne, Australia.
+    >
+    >Until 2012, she was Director of the Human Oriented Technology Lab (HOTLab) holding the prestigious Canadian Natural Science & Engineering Research Council’s NSERC/Cognos Senior Industry Research Chair in User-Centred Product Design. Prior to that, she was Principal Scientist and Head of the Human Factors Division at Telstra Research Laboratories in Melbourne for 15 years. She was Chair of CHISIG of the Human Factors & Ergonomics Society of Australia (HFESA) (1986-1992; 1998-2000) where she founded the OZCHI conference in 1986. She is a Fellow of the HF&ESA, and has been editor/associate editor of several international Human-Computer Interaction (HCI) journals since 1988.
+    >
+    >Her research interests include aesthetics, cognition, and emotion in computing, and human decision making, especially in diagnostic medicine. She has published over 200 refereed papers, books, and book chapters.
+
+    Here's some stuff about Gitte from the internet:
+
+    * [Gitte Lindgaard](https://ca.linkedin.com/pub/gitte-lindgaard/8/15a/bb){:target="_blank"} on LinkedIn
+    * [Swinburne staff profile](http://www.swinburne.edu.au/health-arts-design/staff-profiles/view.php?who=glindgaard){:target="_blank"}
+    * [Carleton staff profile](http://http-server.carleton.ca/~glindgaa/){:target="_blank"}
+
+[^simon]: Simon Longstaff
+
+    Simon is the executive director of [The Ethics Centre](http://www.ethics.org.au/){:target="_blank"}.
+
+    ![Simon longstaff's face]({{ site.baseurl }}/assets/16/ff/simon.jpg)
+
+    Here's what The Ethics Centre website says about him:
+
+    > #### Dr Simon Longstaff AO
+    > Simon’s distinguished career includes being named as one of AFR Boss True Leaders for the 21st century with Carol Schwartz noting "…I don’t know one CEO or chairman in corporate Australia who has not worked with Simon Longstaff". Simon has a PhD in Philosophy from Cambridge. Prior to becoming the inaugural Executive Director of The Ethics Centre in 1991, he worked in the Northern Territory in the Safety Department of BHP subsidiary, GEMCO, lectured at Cambridge University and consulted to the Cambridge Commonwealth and Overseas Trusts. Simon was inaugural President of The Australian Association for Professional & Applied Ethics and is a Fellow of the World Economic Forum. He is Chairman of the International Advisory Board of the Genographic Project and Deputy Chairman of the Global Reporting Initiative Board. He also serves on a number of Boards and Committees across a broad spectrum of activities in Australia.
+
+    The Ethics Centre (formerly the St James Ethics Centre) is entirely independent from the church. It is now a secular organisation that provides an open forum for the promotion and exploration of ethical questions.
+
+    Here's some of what the internet has to say about him:
+
+    * [10 questions - Simon Longstaff](http://www.theaustralian.com.au/life/weekend-australian-magazine/questions-simon-longstaff/story-e6frg8h6-1226049959062){:target="_blank"} (The Australian)
+    * [At home with Simon Longstaff](http://www.smh.com.au/national/at-home-with-simon-longstaff-20130504-2izen.html){:target="_blank"} (SMH)
+    * [St James Ethics Centre](http://en.wikipedia.org/wiki/St_James_Ethics_Centre){:target="_blank"} (wikipedia)
+
+
+[^peter]: Peter Buchanan
+
+    Peter has worked as architect and urban designer/planner in parts of Africa, Europe and the Middle East since. He wrote The *Big Rethink* series of essays in *The Architectural Review*, and is now expanding it into a book.
+
+    ![]({{ site.baseurl }}/assets/16/ff/peter.jpg)
+
+    *When you've had a career like Peter's it warrants going into it in a bit more detail:*
+
+    Born in Malawi and schooled in Zimbabwe, Peter Buchanan studied architecture at the University of Cape Town, graduating B.Arch in 1968. He then worked with two leading Cape Town architects: Gabriel Fagan (1969-70) and Revel Fox and Partners (1970-71).
+
+    In 1972 he moved to London and worked until 1976 for Halpern + Partners on commercial and planning projects. From 1976 until 1979 he worked for Sidell Gibson Partnership master-planning the extension of the city of Arak in Iran.
+
+    In 1979 he joined The Architectural Press as an editor and writer on the Architect’s Journal and The Architectural Review, becoming Deputy Editor of the latter in 1982.
+
+    Since 1992 he has freelanced as a writer, exhibition curator and consultant in environmental design and planning. He curated two exhibitions for The Architectural League of New York: Renzo Piano Building Workshop: Selected Projects in 1992 (for which he also wrote the catalogue) and Ten Shades of Green in 2000, both of which travelled extensively over several years. In 2000-01 he was a consultant to the Greater London Authority’s Planning Decisions Unit and its Spatial Development Strategy.
+
+    When an editor, he wrote copiously for The Architectural Review and Architect’s Journal, including entire special issues of the AR on the Netherlands, Spain and Northern Switzerland (and later the Kansai International Airport) and edited a commemorative issue on Le Corbusier. Many of his articles in AR and AJ were republished in other languages and he has written for journals in the Netherlands, Spain, France, Germany, Poland, Italy, USA, Canada, Japan and South Africa. He has been an editorial advisor to many journals, was on editorial boards of Architecture + Urbanism (Japan), Daidolos (Germany) and Harvard Design Magazine (USA) and now is on that of The Architectural Review.
+
+    Besides writing the catalogues to the exhibitions for which he was curator, he has contributed essays to other catalogues, including on Aldo and Hannie van Eyck and Thomas Herzog, and to several monographs on contemporary architects. His books include the five volumes (each in six different language editions) of Renzo Piano Building Workshop: Complete Works (Phaidon Press) and Ten Shades of Green (W W Norton).
+
+    He has featured on BBC radio programmes on James Stirling, Iannis Xenakis and Le Corbusier and television appearances have included programmes on Santiago Calatrava (BBC) and Kansai International Airport (Discovery Channel).
+
+    He has been studio tutor, visiting critic and lecturer at various universities, master classes and summer schools and given public lectures in many countries, including the UK, Spain, the Netherlands, Denmark, Norway, Finland, France, Greece, Switzerland, Croatia, Poland, Portugal, Japan, USA, Canada, Brazil, Argentina, Peru, Mexico, Curacao, South Africa and Uzbekistan.
+
+    In 2003 he gave the Sofia Gray Memorial Lecture in Bloemfontein, South Africa. In 2008 he taught a two-week theory course to Masters students at Pamplona University and a day-long CPD course in all the main New Zealand cities. In 2010 he taught a one-week master class setting architecture in a 21st-century context to professors at ITESM in Monterrey, Mexico.
+
+    In 2012-2013 he wrote a series of influential essays, The Big Rethink, for The Architectural Review. He is presently expanding these and adding more essays in a forthcoming book.
+
+[^lucas]: Lucas Verweij
+
+    Lucas is a designer and design critic.
+
+    ![Lucas Verweij presenting]({{ site.baseurl }}/assets/16/ff/lucas.jpg)
+
+    This is what he says about himself on his LinkedIn page:
+
+    >In 2009 I moved to Berlin to contribute to this vibrant city. I work as an event initiator, writer and moderator in the field of design. I was a guest professor at both the Berlin design faculties (Weißensee & UDK). I worked with organizations such as 'Design and Government', DMY, International Design Zentrum and Palomar5.
+    >
+    >I founded a design office in 1996. We designed projects for different governmental bodies. Some mapping projects (such as Randstad and Nieuwe Kaart) and public spaces.Quite some projects were self-initiated. Schie was a typical example of the nineties Dutch Design attitude, as described in 'Superdutch' and 'Artificial landscape'.
+    >
+    >In 2001 I moved to Premsela, Dutch platform for design. I worked as a program-manager. In 2005 I changed to the Academy for Architecture and Urban design in Rotterdam. I was the Dean (director) until 2009. I started a magazine (Huig) and initiated masterclasses for urban-planners. With students we researched the impact of Olympic games on cities, which ended in a show in the Dutch Architecture Institute (Nai). I co-founded a Design platform in Rotterdam (dpfr.nl), that still exist. We stage discussions and meetings for professionals in the creative industry.
+    >
+    >I have been writing during my whole career, for online and offline architecture and design magazines such as Dezeen, Items, Archis, SR & O, and Archined. Some of the articles are on my blog. I have moderated many discussions and sessions in the field of my work. I interviewed designers and architects in public. Some of those the interviews are on my blog as well.
+    >
+    >I train people in public speaking and communicating, in designschools (such as Design Academy Eindhoven and Royal Academy of Art, The Hague) and in private settings. Most of the customers work in design and innovation. With others I taught in winter-courses on Moderation.
+    >
+    >Specialties:Moderating and Interviewing on design, architecture and innovation.
+
+    Here's some more stuff about Lucas from the internet:
+
+    * [Lucas_Berlin](http://lucas-berlin.blogspot.com.au/){:target="_blank"} (his own blog)
+    * [Lucas Verweij](https://de.linkedin.com/in/lucasverweij){:target="_blank"} the linkedIn perspective
+    * [Lucas_Berlin](https://twitter.com/lucas_berlin){:target="_blank"} on Twitter
+    * [Lucas writes for Dezeen](http://www.dezeen.com/tag/lucas-verweij/){:target="_blank"}
+    * [What design can do](http://www.whatdesigncando.com/2014/01/22/lucas-verweij-many-design-solutions-just-illustrations/){:target="_blank"}
+
+[^anton]: Anton Andrews
+    Anton runs the Office Envisioning team in Microsoft.
+
+    ![A picture of Anton Andrews standing in front of a large display.]({{ site.baseurl }}/assets/16/ff/anton.jpg)
+
+    They create next generation prototypes and videos that portray a vision of the future of productivity. He previously founded the Design Strategy team in Microsoft’s Entertainment Division, focused on next gen experiences for Xbox, Zune and Windows Phone. Before coming to Microsoft, Anton was a creative director in design research at Philips Design in the Netherlands.
+
+    Whether facilitating hundreds of in-house engineers around a common vision, or working with executives to define it, Anton has maintained a focus on using experiential prototyping and design driven storytelling to bring human-centered experiences to organizational strategy.
+
+    Anton has a PhD in Biophysics from King’s College London and a degree in Product Design from Central Saint Martin’s School of Art and Design.
+
+    Here's some stuff about Anton from the internet:
+
+    * [LinkedIn](https://www.linkedin.com/in/antonandrews){:target="_blank"}
+    * [Microsoft Envisioning Center: A tour of the future lab](http://www.pocket-lint.com/news/120661-microsoft-envisioning-center-a-tour-of-the-future-lab){:target="_blank"}
+    * [Microsoft debuts its new concept of the future](http://www.seattletimes.com/business/microsoft-debuts-its-new-concept-of-the-future/){:target="_blank"}
+    * [Google search, lots here!](https://www.google.com.au/search?q=anton+andrews+microsoft&oq=anton+andrews&aqs=chrome.0.69i59j69i60j69i57j69i65j69i60l2.2803j0j7&sourceid=chrome&es_sm=0&ie=UTF-8){:target="_blank"}
