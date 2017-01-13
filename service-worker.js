@@ -2,7 +2,7 @@
 // layout: null
 //---
 
-var staticCacheName = 'np-v11';
+var staticCacheName = 'np-v12';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
@@ -14,10 +14,10 @@ self.addEventListener('install', function(event) {
         '/js/ga-events.js',
         'https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js',
         'https://cdnjs.cloudflare.com/ajax/libs/balance-text/1.6.0/jquery.balancetext.min.js',
-        'https://fonts.googleapis.com/css?family=Open+Sans:700,300|Lustria',
-        'https://fonts.gstatic.com/s/lustria/v4/P1zvvbOqCVCJzgypDg3MKw.woff2',
-        'https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2',
-        'https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2',
+        'https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif',
+        'https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nFtXRa8TVwTICgirnJhmVJw.woff2',
+        'https://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ_k_vArhqVIZ0nv9q090hN8.woff2',
+        'https://fonts.gstatic.com/s/notoserif/v4/1_daFS3X6gkNOcmGmHl7UiEAvth_LlrfE80CYdSH47w.woff2',
         '/js/loadRemainingContent.js'
       ]);
     })
