@@ -26,8 +26,8 @@ body {
 }
 
 p {
-    orphans: 2;
-    widows: 2;
+    orphans: 3;
+    widows: 3;
 }
 
 ol {
@@ -36,12 +36,13 @@ ol {
 
 li {
     break-inside: avoid;
-    list-style-position: inside;
+    list-style-position: outside;
 }
 
 .reference {
     margin-left: 1.5em;
     text-indent: -1.5em;
+    font-size: 80%;
 }
 
 .summary {
@@ -53,7 +54,7 @@ table {
 }
 
 td {
-    border: 1px solid silver;
+    border: 1px solid hsla(0, 0%, 0%, 0.2);
     padding: 0.3em;
     margin: 0;
     vertical-align: top;
@@ -68,11 +69,14 @@ td {
     background-position: 50% 5%;
 }
 
-section {
-  column-width: 16em;
-  border-left: 2px solid hsla(0, 0%, 0%, 0.28);
+.outline-section {
+  /*column-width: 16em;*/
+  border-left: 2px solid hsla(0, 0%, 0%, 0.2);
   margin-top: 3em;
   padding-left: 1em;
+}
+section {
+    break-inside: avoid;
 }
 
 h1,
@@ -94,21 +98,18 @@ article.post table li {
 <p>Lectures: 9000–1000, Fridays, Red Centre Central Wing M032 (K-H13-M032)</p>
 <p>Tutorials: 1000–1300, Fridays, FBE Studio Squarehouse 103 (K-E4-103)</p>
 <div class="cover-image"></div>
-<section>
+<article class="outline-section">
     <ol start="1">
         <li>
             <h2>Course Description</h2></li>
     </ol>
     <p><em>Design Computing</em> provides a theoretical and practical underpinning for the rest of the degree.</p>
-    <p>Programming is a vocational skill, a branch of philosophy and a culture. By the end of this course you will have the philosophical tools needed to design solutions and the technical skill to implement that plan. </p>
+    <p>Programming is simultaniously a vocational skill, a branch of philosophy and a culture. By the end of this course you will have the philosophical tools needed to design solutions and the technical skill to implement them. </p>
     <p>In the same way that being able to hold a pen doesn&#39;t make you a writer, being able to type code doesn&#39;t make you a programmer. </p>
-    <p>We&#39;ll learn how to manipulate symbols (type code), what those symbols mean, and how to decide which symbols to type in the first place. </p>
-    <p>We&#39;ll learn simple logic and strategies for decomposing problems. </p>
-    <p>We&#39;ll learn about the history and culture of computers in general, and more specifically in architecture.</p>
-    <p>The first half of the course will be focused on learning new skills, and the second on applying them.</p>
-    <p>We&#39;ll be exploring an open data set and creating graphs, maps and other visualisations from it. This will allow people insight to information that was previously hidden from them.</p>
-</section>
-<section>
+    <p>We&#39;ll learn how to manipulate symbols (type code), what those symbols mean, and how to decide which symbols to type in the first place. We&#39;ll learn simple logic and strategies for decomposing problems. We&#39;ll learn about the history and culture of computers in general, and more specifically in architecture.</p>
+    <p>The first half of the course will be focused on learning new skills. In the second half we will apply them by exploring an open data set. We'll create graphs, maps and other visualisations from it. This will allow people insight to information that was previously hidden from them.</p>
+</article>
+<article class="outline-section">
     <ol start="2">
         <li>
             <h2>Course Staff and Contributors</h2></li>
@@ -226,8 +227,8 @@ article.post table li {
             </tr>
         </tbody>
     </table>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="3">
         <li>
             <h2>Course Communication</h2>
@@ -236,27 +237,27 @@ article.post table li {
     <p>Most course related announcements are made in the lectures. It is essential that you attend the lectures to receive these announcements. In addition to these formal communication paths, online discussion forums will be available that will allow everyone to post questions and respond to other people&rsquo;s questions. All students will be expected to participate in the online discussions in Moodle.</p>
     <p>Individual student related communication, including the issue of assessment grades and feedback, will be via the Moodle. UNSW Student email will be used to communicate changes that occur with short notice. All students are assigned an e&#8208;mail account on the University&#39;s e&#8208;mail server, so that email address will be used as the primary means by which important correspondence is made. You must, therefore, get into the habit of checking your UNSW student email regularly.</p>
     <p>Details on setting up your UNSW student email are provided at:</p>
-    <p><a href="https://www.google.com/url?q=https://www.it.unsw.edu.au/students/index.html&amp;sa=D&amp;ust=1485378456000000&amp;usg=AFQjCNHxKmm1dT8Xj2WyH7P51RSU7r7N-Q">https://www.it.unsw.edu.au/students/index.html</a> </p>
+    <p><a href="https://www.google.com/url?q=https://www.it.unsw.edu.au/students/index.html&amp;sa=D&amp;ust=1485378456000000&amp;usg=AFQjCNHxKmm1dT8Xj2WyH7P51RSU7r7N-Q">https://www.it.unsw.edu.au/<wbr>students/<wbr>index.html</a> </p>
     <p>To manage your UNSW account and password, use the IDM site:</p>
-    <p><a href="https://www.google.com/url?q=https://idm.unsw.edu.au/idm/user/login.jsp&amp;sa=D&amp;ust=1485378456001000&amp;usg=AFQjCNHlNaOhYMtIoQNE13e4pI8Z71w12Q">https://idm.unsw.edu.au/idm/user/login.jsp</a> </p>
-    <p>Questions that cannot wait until the next allocated class are best handled by posting a message on the online forums in Moodle. If there are important or urgent matters that require a personal meeting, you are able make an appointment with your course staff. See 3. Course Staff and Contributors for more information on how and when to communicate with course coordinator and tutors.</p>
-</section>
-<section>
+    <p><a href="https://www.google.com/url?q=https://idm.unsw.edu.au/idm/user/login.jsp&amp;sa=D&amp;ust=1485378456001000&amp;usg=AFQjCNHlNaOhYMtIoQNE13e4pI8Z71w12Q">https://idm.unsw.edu.au/<wbr><wbr>idm/<wbr><wbr>user/login.jsp</a> </p>
+    <p>Questions that cannot wait until the next allocated class are best handled by posting a message on the online forums in Moodle. If there are important or urgent matters that require a personal meeting, you are able make an appointment with your course staff. See <em>3. Course Staff and Contributors</em> for more information on how and when to communicate with course coordinator and tutors.</p>
+</article>
+<article class="outline-section">
     <ol start="4">
         <li>
             <h2> Course Websites</h2>
         </li>
     </ol>
-    <p>Moodle&ndash;this is the UNSW wide online teaching platform and has many capabilities. You can access Moodle via: <a href="https://www.google.com/url?q=https://moodle.telt.unsw.edu.au/login/index.php&amp;sa=D&amp;ust=1485378456003000&amp;usg=AFQjCNHTX5596cOYHVvXWpuDVoi2Mlmd2Q">https://moodle.telt.unsw.edu.au/login/index.php</a> </p>
-    <p>Use <a href="https://www.google.com/url?q=https://teaching.unsw.edu.au/moodle-orientation&amp;sa=D&amp;ust=1485378456004000&amp;usg=AFQjCNHIYqxNbDla02ty1csbG8Q570blFg">https://teaching.unsw.edu.au/moodle-orientation</a> to familiarise yourself with Moodle. Please see section 7.1 Online Teaching for more information.</p>
+    <p>Moodle&ndash;this is the UNSW wide online teaching platform and has many capabilities. You can access Moodle via: <a href="https://www.google.com/url?q=https://moodle.telt.unsw.edu.au/login/index.php&amp;sa=D&amp;ust=1485378456003000&amp;usg=AFQjCNHTX5596cOYHVvXWpuDVoi2Mlmd2Q">https://moodle.telt.unsw.edu.au/<wbr>login/<wbr>index.php</a> </p>
+    <p>Use <a href="https://www.google.com/url?q=https://teaching.unsw.edu.au/moodle-orientation&amp;sa=D&amp;ust=1485378456004000&amp;usg=AFQjCNHIYqxNbDla02ty1csbG8Q570blFg">https://teaching.unsw.edu.au/<wbr>moodle-orientation</a> to familiarise yourself with Moodle. Please see section <em>7.1 Online Teaching</em> for more information.</p>
     <p>Note: There is the potential that your lectures will be automatically recorded under the echo 360 platform:</p>
-    <p><a href="https://www.google.com/url?q=https://teaching.unsw.edu.au/unsw-lecture-recordings-process&amp;sa=D&amp;ust=1485378456005000&amp;usg=AFQjCNGLwFK96pVQktFX7X0F4miUwVeiMA">https://teaching.unsw.edu.au/unsw-lecture-recordings-process</a></p>
+    <p><a href="https://www.google.com/url?q=https://teaching.unsw.edu.au/unsw-lecture-recordings-process&amp;sa=D&amp;ust=1485378456005000&amp;usg=AFQjCNGLwFK96pVQktFX7X0F4miUwVeiMA">https://teaching.unsw.edu.au/<wbr>unsw-lecture-recordings-process</a></p>
     <p>All OH&amp;S and workshop training courses are as well located on Moodle. Please follow the Moodle instructions to complete UNSW&rsquo;s OH&amp;S requirements. </p>
-    <p>A breakdown of marks and deadlines can be seen here: <a href="https://www.google.com/url?q=https://notionparallax.github.io/programming---a-new-hope/diagrams&amp;sa=D&amp;ust=1485378456006000&amp;usg=AFQjCNHir2OxT42wyqfOWO7EYrFMgATWzw">bit.ly/CODE1161-timetable</a>. This is a graphical view of the information in this document. In the case of any discrepancies you should treat the information here as true unless told otherwise.</p>
+    <p>A breakdown of marks and deadlines can be seen here: <a href="https://www.google.com/url?q=https://notionparallax.github.io/programming---a-new-hope/diagrams&amp;sa=D&amp;ust=1485378456006000&amp;usg=AFQjCNHir2OxT42wyqfOWO7EYrFMgATWzw">bit.ly/CODE1161-timetable</a>. This is a graphical view of the information in this document. In the case of any discrepancies you should treat the information in this document (the course outline) as true unless told otherwise.</p>
     <p>Lab Books are to be posted here: <a href="https://www.google.com/url?q=https://medium.com/code17&amp;sa=D&amp;ust=1485378456007000&amp;usg=AFQjCNEtO06nVy6DLSUSWsi07H-seL3JPQ">medium.com/code17</a> You will need a Medium account. The details of how to do this will be in lecture 1.</p>
     <p>You will also need an account at <a href="https://www.google.com/url?q=https://github.com&amp;sa=D&amp;ust=1485378456008000&amp;usg=AFQjCNF74YiUQ1y2AcYsTHsfp0oH9_FXyA">github.com</a> and <a href="https://www.google.com/url?q=http://stackoverflow.com/&amp;sa=D&amp;ust=1485378456008000&amp;usg=AFQjCNGdc0vMKeQ1ASJdksWB4ApUP4JpGA">stackoverflow.com</a></p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="5">
         <li>
             <h2>Lectures</h2>
@@ -379,12 +380,13 @@ article.post table li {
                 <td>
                 </td>
                 <td>
-                    <p class="reference"><strong>Polich, K.</strong> (2016). <em>Let&rsquo;s Kill the Word Cloud. </em><a href="https://www.google.com/url?q=http://dataskeptic.com/blog/episodes/2016/kill-the-word-cloud&amp;sa=D&amp;ust=1485378456039000&amp;usg=AFQjCNFXfHvx5hnZdqNuTBdlPTqyok4z2Q">dataskeptic.com/blog/episodes/2016/kill-the-word-cloud</a> </p>
+                    <p class="reference"><strong>Polich, K.</strong> (2016). <em>Let&rsquo;s Kill the Word Cloud. </em><a href="https://www.google.com/url?q=http://dataskeptic.com/blog/episodes/2016/kill-the-word-cloud&amp;sa=D&amp;ust=1485378456039000&amp;usg=AFQjCNFXfHvx5hnZdqNuTBdlPTqyok4z2Q">dataskeptic.com/blog/episodes/2016/kill-the-word-cloud</a></p>
+                    <p class="reference">TODO:<strong>Tufte, E.</strong> (????). <em>get a passage/section of a tufte book to put in here. </em><a href="">Tufte link if poss</a></p>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <p>Week 7 Topic</p>
+                    <p>Week 7</p>
                 </td>
                 <td>
                     <h3>Mid-Semester Break</h3></td>
@@ -405,7 +407,7 @@ article.post table li {
                 </td>
                 <td>
                     <p class="reference"><strong>Floridi, L.</strong>, &amp; Taddeo, M. (2016). What is data ethics? Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2083). Retrieved from <a href="https://www.google.com/url?q=http://rsta.royalsocietypublishing.org/content/374/2083/20160360.abstract&amp;sa=D&amp;ust=1485378456044000&amp;usg=AFQjCNGgRXxpg3Y05Ednwju_i6dX0YrOLQ">rsta.royalsocietypublishing.org/content/374/2083/20160360.abstract</a> </p>
-                    <p>Any article from the Council for Big Data, Ethics, and Society&rsquo;s website (<a href="https://www.google.com/url?q=http://bdes.datasociety.net/&amp;sa=D&amp;ust=1485378456045000&amp;usg=AFQjCNFrNVgmtHPf7YBB9iOF4KijD3PTFA">bdes.datasociety.net/</a>) to discuss in your lab book.</p>
+                    <p>Pick any article from the Council for Big Data, Ethics, and Society&rsquo;s website (<a href="https://www.google.com/url?q=http://bdes.datasociety.net/&amp;sa=D&amp;ust=1485378456045000&amp;usg=AFQjCNFrNVgmtHPf7YBB9iOF4KijD3PTFA">bdes.datasociety.net/</a>) to discuss in your lab book.</p>
                 </td>
             </tr>
             <tr>
@@ -423,7 +425,7 @@ article.post table li {
                     <p>Readings:</p>
                 </td>
                 <td>
-                    <p class="reference"><strong>Victor, B.</strong> Inventing On Principle. <a href="https://www.google.com/url?q=http://worrydream.com/%23!/InventingOnPrinciple&amp;sa=D&amp;ust=1485378456049000&amp;usg=AFQjCNFxIHX0CXuTO-q8EP_uYZ8oC5s1oQ">worrydream.com/#!/InventingOnPrinciple</a> </p>
+                    <p class="reference"><strong>Victor, B.</strong> <em>Inventing On Principle</em>. <a href="https://www.google.com/url?q=http://worrydream.com/%23!/InventingOnPrinciple&amp;sa=D&amp;ust=1485378456049000&amp;usg=AFQjCNFxIHX0CXuTO-q8EP_uYZ8oC5s1oQ">worrydream.com/#!/InventingOnPrinciple</a> </p>
                 </td>
             </tr>
             <tr>
@@ -431,7 +433,7 @@ article.post table li {
                     <p>Week 10 Topic</p>
                 </td>
                 <td>
-                    <p>Students&rsquo; choice</p>
+                    <h3>Students&rsquo; choice</h3>
                     <p>This lecture will be decided by student proposal and voting in week 6.</p>
                 </td>
             </tr>
@@ -472,12 +474,12 @@ article.post table li {
                     <p>Readings:</p>
                 </td>
                 <td>
-                    <p>TBC by guest lecturer / Project specific</p>
+                    <p class="reference"><strong>Samuel, A.</strong> (2015). <em>How to Give a Data-Heavy Presentation.</em> <a href="https://hbr.org/2015/10/how-to-give-a-data-heavy-presentation">hbr.org/2015/<wbr>10/<wbr>how-to-give-a-data-heavy-presentation</a></p>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <p>Week 14 Topic </p>
+                    <p>Week 14</p>
                 </td>
                 <td>
                     <h3>Open Data Assignment presentation</h3>
@@ -486,7 +488,7 @@ article.post table li {
             </tr>
             <tr>
                 <td>
-                    <p>Week 15 Topic </p>
+                    <p>Week 15</p>
                 </td>
                 <td>
                     <h3>Lab Book Completed</h3>
@@ -495,8 +497,8 @@ article.post table li {
             </tr>
         </tbody>
     </table>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="6">
         <li>
             <h2>Graduation Project </h2>
@@ -510,8 +512,8 @@ article.post table li {
     <p>We&#39;ll learn about the history and culture of computers in general, and more specifically in architecture.</p>
     <p>The first half of the course will be focused on learning new skills, and the second on applying them.</p>
     <p>We&#39;ll be exploring an open data set and creating graphs, maps and other visualisations from it. This will allow people insight to information that was previously hidden from them.</p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="7">
         <li>
             <h2>Assessment</h2>
@@ -735,7 +737,7 @@ article.post table li {
                 </td>
                 <td>
                     <p>There are deep divisions in programmer culture over seemingly trivial things. For example, the advocates of different text editors treat their allegiance with a religious fervour. Each student will pick one of these divisive topics and present it to their peers during the week 5 lab. the marks will be evenly split between defining the context, presenting both sides of the argument with balance, and stating their position on the matter and substantiating why they hold that belief.</p>
-                    <p>Deliverables: A 5 minute presentation in the week 5 Lab. A 20 slide presentation in .pptx format. Each slide should be set to have a 15 second automatic timer. The slides should be pushed to the student&#39;s repo no later than 1pm on Thursday week 5.</p>
+                    <p>Deliverables: A 5 minute presentation in the week 5 Lab. A 20 slide presentation in Google slides format. Each slide should be set to have a 15 second automatic timer. The slides should be shared no later than 1pm on Thursday week 5. Details on sharing will be given closer to the date.</p>
                 </td>
             </tr>
             <tr>
@@ -795,16 +797,16 @@ article.post table li {
             </tr>
         </tbody>
     </table>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="8">
         <li>
             <h2>Assessment criteria and standards</h2>
         </li>
     </ol>
     <h3>Assignment 1a: Lab Book (28%)</h3>
-    <p>15% is available for presence of a lab book entry. If a post is made by 7:00pm on Thursday of each week then <sup>1</sup>&frasl;<sub>14</sub><sup>th</sup> of the marks will be awarded.</p>
-    <p>The other 15% will be awarded based on the whole corpus of posts considered together in week 15.</p>
+    <p>14% is available for presence of a lab book entry. If a post is made by 7:00pm on Thursday of each week then <sup>1</sup>&frasl;<sub>14</sub><sup>th</sup> of the marks will be awarded.</p>
+    <p>The other 14% will be awarded based on the whole corpus of posts considered together in week 15.</p>
     <h4>Deliverables: </h4>
     <p>Write a medium blog post detailing what you did this week. It should include links to the documentation (blog posts, official docs, Stack Overflow questions, your peers' previous lab book posts) descriptions of problems you overcame, summaries of articles you've read, podcasts you've listened to and discussions you've had.</p>
     <p>Include sketches and diagrams. These can be hand drawn and then photographed. The Medium app makes this very easy.</p>
@@ -1013,15 +1015,16 @@ article.post table li {
     </table>
     <h3>Assignment 1b: Weekly programming exercises (20%)</h3>
     <p>These are marked automatically in a binary way each exercise will attract a certain mark for a passing test and no mark for a failing test. All tests will be worth an equal amount, i.e. <sup>1</sup>&frasl;<sub><em>n</em></sub><sup>th</sup> of the weeks mark where <em>n</em> is the number of exercises.</p>
-    <p>The other 15% will be awarded based on the whole corpus of posts considered together in week 15.</p>
-    <h4>Deliverables: </h4>
-    <p>At 7pm on Thursday of each week following exercises being set, automatic process will assess your work. it will <em>pull</em> your repo from GitHub and run tests against it. Therefore the deliverable for each week will be a specific set of files in specific locations, in your GitHub repository.</p>
+    <section>
+      <h4>Deliverables: </h4>
+      <p>At 7pm on Thursday of each week following exercises being set, automatic process will assess your work. it will <em>pull</em> your repo from GitHub and run tests against it. Therefore the deliverable for each week will be a specific set of files in specific locations, in your GitHub repository.</p>
+    </section>
     <h3>Assignment 1c: exam (5%)</h3>
     <p>This will be marked automatically in exactly the same way as your weekly exercises. The only difference will be that the submission dates will be different.</p>
     <h3>Assignment 2: Holy Wars (7%)</h3>
     <p>Marks are split evenly between each of the four parts.</p>
     <h4>Deliverables: </h4>
-    <p>Students will deliver a 5 minute presentation in the week 5 Lab. A 20 slide presentation in .pptx format should be pushed to the student's repo no later than 1pm on Thursday week 5. Each slide should be set to have a 15 second automatic timer. The presentations will be joined before the lab, so not submitting will result in no mark for any part of this assignment.</p>
+    <p>Students will deliver a 5 minute presentation in the week 5 Lab. A 5 minute presentation in the week 5 Lab. A 20 slide presentation in Google slides format. Each slide should be set to have a 15 second automatic timer. The slides should be shared no later than 1pm on Thursday week 5. Details on sharing will be given closer to the date. The presentations will be joined before the lab, so not submitting will result in no mark for any part of this assignment.</p>
     <table>
         <tbody>
             <tr>
@@ -1214,7 +1217,7 @@ article.post table li {
     <h3>Assignment 3a: Open Data Project (20%)</h3>
     <p></p>
     <h4>Deliverables for week 14:</h4>
-    <p>In week 14 each student will give an 8 minute presentation of their project. They should cover (as a minimum) the choice of data set, their manipulations, the design of their output and the insights they found while working with the data.</p>
+    <p>In week 14 each student will give an 8 minute presentation of their project. They should cover (at a minimum) the choice of data set, their manipulations, the design of their output and the insights they found while working with the data.</p>
     <h4>Deliverables for week 15:</h4>
     <p>At 7pm on Tuesday of week 15 all the repositories will be pulled for marking. It should contain well documented code that will run on a clean install of the VM.</p>
     <table>
@@ -1435,8 +1438,8 @@ article.post table li {
     <h4>Deliverables: </h4>
     <p>3% for: At some point during the Open Data project, demonstrate that you have made a pull request against someone else's repo and that it has been accepted. Document it in your lab book.</p>
     <p>2% for: At some point during the Open Data project, demonstrate that you have accepted a pull request.</p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="9">
         <li>
             <h2>Course assessment
@@ -1447,8 +1450,8 @@ article.post table li {
     <p>Firstly, The goals of the class are clearly defined in the course outline and discussed at the beginning of each Assignment and the learning steps within the assignment in the weekly lecture. Here students will understand how their performance relates to the broad goals of the course.</p>
     <p>Secondly, students will get feedback in each class (during the three tutorial hours) upon their performance. Tutors will help students in one-to-one sessions to discuss and analyse how successful they have been at addressing the task and its criteria of each assignment and the learning steps within the assignment.</p>
     <p>Thirdly, students will get feedback in each class (during the three tutorial hours) in how their response to the assignment and the learning steps within the assignment could be improved. Tutors will help students in one-to-one sessions to discuss and analyse how improvements could be made and which resources students could consult for an improvement. </p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="10">
         <li>
             <h2>Resources</h2>
@@ -1456,16 +1459,26 @@ article.post table li {
     </ol>
     <h3>Readings</h3>
     <p>This class has no mandatory reading other than that defined in the weekly lectures. However, it would be very much in your interest to read:</p>
-    <p class="reference"><strong>Coates, P.</strong> (2010). <em>Programming.Architecture</em> (1<sup>st</sup> ed.). Routledge.</p>
-    <p class="summary">This is a general history and theoretical grounding for computational design as a field.</p>
-    <p class="reference"><strong>Woodbury, R.</strong> (2010). <em>Elements of Parametric Design.</em> Taylor &amp; Francis Group.</p>
-    <p class="summary">Rob&rsquo;s book will take you through all the ideas that you&rsquo;ll need mastery of over your degree. Reading this will shortcut a lot of the pain that you are bound to encounter if you don&rsquo;t read it. I wish it had been available when I was learning.</p>
-    <p class="reference"><strong>Graham, P.</strong> (2010). <em>Hackers &amp; Painters: Big Ideas from the Computer Age.</em></p>
-    <p class="summary">A series of essays about the early-ish days of the dotcom boom and the ideas that came out of it. Graham is a controversial figure, but his essays give a lot of insight into the workings of the alpha-hacker mind.</p>
-    <p class="reference"><strong>Zupko, E.</strong> (2015). <em>STEM: Women Are All Over It.</em> SMLX Good. <a href="https://www.google.com/url?q=http://bit.ly/2ktZPvz&amp;sa=D&amp;ust=1485378457302000&amp;usg=AFQjCNEerTw5j4whaiZlsVakRCs12OEAZQ">bit.ly/2ktZPvz</a> </p>
+    <section>
+      <p class="reference"><strong>Coates, P.</strong> (2010). <em>Programming.Architecture</em> (1<sup>st</sup> ed.). Routledge.</p>
+      <p class="summary">This is a general history and theoretical grounding for computational design as a field.</p>
+    </section>
+    <section>
+      <p class="reference"><strong>Woodbury, R.</strong> (2010). <em>Elements of Parametric Design.</em> Taylor &amp; Francis Group.</p>
+      <p class="summary">Rob&rsquo;s book will take you through all the ideas that you&rsquo;ll need mastery of over your degree. Reading this will shortcut a lot of the pain that you are bound to encounter if you don&rsquo;t read it. I wish it had been available when I was learning.</p>
+    </section>
+    <section>
+      <p class="reference"><strong>Graham, P.</strong> (2010). <em>Hackers &amp; Painters: Big Ideas from the Computer Age.</em></p>
+      <p class="summary">A series of essays about the early-ish days of the dotcom boom and the ideas that came out of it. Graham is a controversial figure, but his essays give a lot of insight into the workings of the alpha-hacker mind.</p>
+    </section>
+    <section>
+      <p class="reference"><strong>Zupko, E.</strong> (2015). <em>STEM: Women Are All Over It.</em> SMLX Good. <a   href="https://www.google.com/url?q=http://bit.ly/2ktZPvz&amp;sa=D&amp;ust=1485378457302000&amp;usg=AFQjCNEerTw5j4whaiZlsVakRCs12OEAZQ">bit.ly/2ktZPvz</a> </p>
     <p class="summary">A short introduction to the work of some of the sung, and unsung heroes of computer history.</p>
-    <p class="reference"><strong>Raymond, E. S.</strong> (2001). <em>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary.</em> O&rsquo;Reilly Media.</p>
+  </section>
+    <section>
+      <p class="reference"><strong>Raymond, E. S.</strong> (2001). <em>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary.</em>  O&rsquo;Reilly Media.</p>
     <p class="summary">This book is an introduction to some pretty subversive ideas in computing and business. It&rsquo;s got some great answers to the question of &lsquo;Am I a hacker yet?&rsquo; It&rsquo;s also a pretty enjoyable read.</p>
+  </section>
     <h3>Online resources</h3>
     <p>GitHub will be used extensively throughout this course. It is a way for people to store, share, version control and collaborate on projects. As well as our code being hosted here, thousands of other people&rsquo;s code is too. That means that there might well be someone who has already solved your problem. (<a href="https://www.google.com/url?q=https://github.com/&amp;sa=D&amp;ust=1485378457305000&amp;usg=AFQjCNG8BRzkAvtPBAWiG98YrtSEp1pZMA">github.com</a>)</p>
     <p>Stack Overflow is a question and answer site for programmers. Whatever your question, there is an extremely high likelihood that it has has been asked before. It has strong community norms, so it is worth familiarising yourself with them before you post. (<a href="https://www.google.com/url?q=http://stackoverflow.com/&amp;sa=D&amp;ust=1485378457305000&amp;usg=AFQjCNHiyRGeZiCjwdp8OmNKFKxEdgqwNA">stackoverflow.com</a>)</p>
@@ -1479,8 +1492,8 @@ article.post table li {
     <p>It is expected that you will bring your laptop to each class. Not bringing a laptop means we cannot look, comment and help you with your work, as we do not run this class in a computer classroom. Using your friend&rsquo;s laptop means that they cannot work in the time given in class and thus is not an option either. </p>
     <p>Configuring a programming environment is a considerable challenge. Dealing with edge cases can use up significant amounts of valuable teaching time. We will be using a virtual machine in the class to put a layer of abstraction between each specific hardware configuration and a consistent setup. This will mean that everyone&rsquo;s environment will start out identical.</p>
     <p>If you break your VM, instructions to restore it to fresh will be posted.</p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="11">
         <li>
             <h2> Expectations</h2>
@@ -1489,9 +1502,9 @@ article.post table li {
     <p>The lectures and the tutorials are an integrated part of this class. Missing out on lectures will have the consequence that your will miss out on seeing and hearing about projects, ideas and concepts relevant to your understanding and progress.</p>
     <p>Programming is a mental activity. You are expected to come to to class fresh and ready to engage with challenging concepts.</p>
     <p>If you experience and difficulties please refer to Special Consideration, Late Work and other policies in the BE Policy Outline at:</p>
-    <p><a href="https://www.google.com/url?q=https://www.be.unsw.edu.au/sites/default/files/upload/pdf/currentstudents/LearningTeaching/BE_AcademicPolicyOutline2014.pdf&amp;sa=D&amp;ust=1485378457317000&amp;usg=AFQjCNEgDCgI2M-h7yNtFmw-PrCYOplHHQ">https://www.be.unsw.edu.au/<wbr>sites/<wbr>default/<wbr>files/<wbr>upload/pdf/<wbr>currentstudents/<wbr>LearningTeaching/<wbr>BE_AcademicPolicyOutline2014.pdf</a></p>
-</section>
-<section>
+    <p><a href="https://www.google.com/url?q=https://www.be.unsw.edu.au/sites/default/files/upload/pdf/currentstudents/LearningTeaching/BE_AcademicPolicyOutline2014.pdf&amp;sa=D&amp;ust=1485378457317000&amp;usg=AFQjCNEgDCgI2M-h7yNtFmw-PrCYOplHHQ">https://www.be.unsw.edu.au/<wbr><wbr>sites/<wbr><wbr>default/<wbr>files/<wbr>upload/pdf/<wbr>currentstudents/<wbr>LearningTeaching/<wbr>BE_AcademicPolicyOutline2014.pdf</a></p>
+</article>
+<article class="outline-section" style="background-color:yellow;">
     <ol start="12">
         <li>
             <h2>Learning experience and teaching strategies</h2>
@@ -1500,16 +1513,16 @@ article.post table li {
     <p>The graduation studio requires a comprehensive expertise level suitable for a bachelor degree, thus revisiting all skills demonstrated in previous years. The course will give students the step by majoring in one of the seven path within the program. Through the structure of the course students are able to conduct a project and test and apply all skills previously learned, in a supervised and mentored environment, applied in a industry context and reviewed by industry partners. The last graduation project should prepare them for the work live and enable students to make contacts to industry prior to their graduation. The teaching strategy sees student gaining knowledge in structuring a bachelor thesis proposal in form of an opening (Week 1) lecture + workshop (research methodology class for bachelor thesis) that also re-sets the scene of the &lsquo;Grand Narrative&rsquo;. Students will have then weekly lectures by a group of industry and academic experts in the &lsquo;Grand Narrative&rsquo; and group meetings (Week 2&ndash;14) to discuss their progress and any problems being encountered. Each of the seven paths will have a suitable expert tutor that will supervise students. During the session there are a number of Assignments as &ldquo;milestones&rdquo; including precedent studies and seminars that the students complete. In order to assess their skills and monitor the progress of their thesis / final project the course has two key objectives in week 2&ndash;14:</p>
     <p>Firstly, students will produce as a final thesis outcome a 4 - 6000 word report in form of a journal article or conference paper style submission (that can be later submitted via the supervising tutor and depending on the quality of the outcome) describing and discussing their project. The report outline in detail: (1) Research aims and motivation; (2) Research Objectives; (3) Research Question; (4) Methodology to answer question; (5) Background Research; (6) Case study or the specific project students worked on; (7) Significance of Research by position it to the work by others (Test cases); (8) Evaluation of work; and (9) Conclusion. This is the format for all projects and the projects form the main part to underpin the research and outline the direction. Each of the nine thesis details has an assignment deadline as outlined in the assignment description.</p>
     <p>Secondly, The Graduation Project outcomes are exhibited in a public exhibition. Here students will hand in the project work in Week 13 and CoDe staff members internally assess the work, all work is then showcased to the public. The Final Presentation is in Week 15 at the exhibition location. In addition to the weekly face-to-face contact, students will produce mind maps documenting their week&rsquo;s progress.</p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="13">
         <li>
             <h2> OH&amp;S and workshop training</h2>
         </li>
     </ol>
     <p>Please discuss with your tutor in week one if you plan to use the workshop in order to get OH&amp;S training in place. </p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="14">
         <li>
             <h2>Course aims</h2>
@@ -1517,8 +1530,8 @@ article.post table li {
     </ol>
     <p>Course Aim 1: The Course will teach fundamental computational thinking skills, specifically with the Python language. These mental tools are also applicable in all other courses.</p>
     <p>Course Aim 2: The course will be an introduction to the culture and history of your future field.</p>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="15">
         <li>
             <h2> Learning outcomes</h2>
@@ -1533,8 +1546,8 @@ article.post table li {
         <li>Students should have an understanding of some of the uses of computing in architecture, the culture and history of computing, and be prepared to engage with that culture.</li>
         <li>Students should be able to access, clean and manipulate open data and find a way to present it interactively.</li>
     </ol>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="16">
         <li>
             <h2>Course Graduate Attribute</h2>
@@ -1599,8 +1612,8 @@ article.post table li {
             </tr>
         </tbody>
     </table>
-</section>
-<section>
+</article>
+<article class="outline-section">
     <ol start="17">
         <li>
             <h2>Built Environment and UNSW Academic Policies</h2>
@@ -1621,4 +1634,4 @@ article.post table li {
         <li>Learning Support Services</li>
         <li>Occupational Health &amp; Safety</li>
     </ul>
-</section>
+</article>
