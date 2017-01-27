@@ -39,3 +39,5 @@ default_locale: "en"
 collections:
   diary-entries:
     output: true
+  CODE1161:
+    output: true
