@@ -17,9 +17,7 @@
     background: #fff !important;
     color: #000;
   }
-  .post-content, .post-body-inner {
-    column-count: 2;
-  }
+  
   a, blockquote {
     page-break-inside: avoid
   }
