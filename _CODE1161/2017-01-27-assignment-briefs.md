@@ -20,14 +20,17 @@ featuredimg:
 ---
 
 **Assignment 1**
+
 * [a--Lab-Book](#part-alab-book)
 * [b--Weekly Programming Exercises](#part-bweekly-programming-exercises)
 * [c--Exam](#part-cexam)
 
 **Assignment 2**
+
 * [Holy Wars](#assignment-2holy-wars)
 
 **Assignment 3**
+
 * [a--Open Data Project](#part-aopen-data-project)
 * [b--Git collaboration](#part-bgit-collaboration)
 
@@ -42,6 +45,7 @@ This is what it says in the course outline:
 
 > A lab book is a record of what you&rsquo;ve learned, what you are going to try next and a reference for next time you encounter the same problem. Students will assemble one document per week that they will post to the course&rsquo;s Medium publication ([medium.com/code17](https://medium.com/code17)).
 > This will cement concepts by writing about, and illustrating, them. There is also value in reading and commenting on other students&rsquo; lab books as a way of distributing the effort of learning.
+>
 > **DELIVERABLES**: 14 Medium blog posts. These will be marked in two parts. Half the mark is for weekly presence; is there something posted by 7pm on Thursday? The other pass will be for quality which will happen in one go in week 15, which will give time for tidying up and refinement.
 
 I find that the best way to do a lab book entry is to open a file, either in your editor or in Medium, and keep it open all week. (Save often!) Whenever you have an idea, or you get stuck on something, or you see something cool, write about it.
@@ -52,7 +56,7 @@ You can (and should) also use it for general musings. Perhaps you notice that th
 
 There are also specific things that we'll ask you to put into your lab book. There is going to be some discussion of data ethics, and there will probably be other things along those lines too.
 
-The medium app ([iOS](https://itunes.apple.com/ca/app/medium/id828256236?mt=8), [Android](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en)) makes it really easy to post from anywhere, so you could be on the bus or the beach and still posting. It's also easy to put in pictures. So do--lots of them! Draw diagrams in your sketch book and photograph them, take screen grabs, take photos of the world, then put them all into your lab book.
+The medium app ([iOS](https://itunes.apple.com/ca/app/medium/id828256236?mt=8), [Android](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en)) makes it really easy to post from anywhere, so you could be on the bus or the beach and still posting. It's also easy to put in pictures. So _do_; lots of them! Draw diagrams in your sketch book and photograph them, take screen grabs, take photos of the world, then put them all into your lab book.
 
 The way the marking for this works is that each week is worth 1% of your total mark. You get that mark _just_ for posting something. The other 14% is for the quality of your whole lab book. That part is assessed in week 15.
 
@@ -67,6 +71,7 @@ For the first part of the course there will be structured exercises for you to c
 Again, this is what it says in the course outline:
 
 > Each week until the mid semester break there will be tasks for you to complete. These will be briefed during the contact time. These are marked automatically, but the code used to mark them will be available to you so you can tell if your work will pass or not.
+>
 > DELIVERABLES: Each week at the cutoff time (7pm the following Wednesday) each student&rsquo;s GitHub repository will be parsed by a script and the code present will be marked. It will either pass or fail the tests. Feedback will be given in a communal way through the discussion forum. (No submission in week 7.)
 
 
@@ -103,6 +108,14 @@ Just to check that you can do this stuff under pressure, there will be an exam!
 The exam will work exactly like the weekly exercises, except we'll only release the actual tests at the start of the exam, and the cut off will be at the end of the exam.
 
 # Assignment 2--Holy wars
+
+<figure>
+![Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.](http://imgs.xkcd.com/comics/real_programmers.png)
+<figcaption>
+[Real Programmers](http://xkcd.com/378/), from xkcd
+</figcaption>
+</figure>
+
 > A very deep dive into a specific aspect of programmer culture.
 >
 > There are deep divisions in programmer culture over seemingly trivial things. For example, the advocates of different text editors treat their allegiance with a religious fervour. Each student will pick one of these divisive topics and present it to their peers during the week 5 lab. the marks will be evenly split between defining the context, presenting both sides of the argument with balance, and stating their position on the matter and substantiating why they hold that belief.
@@ -116,13 +129,13 @@ Here's a list of topics for you to pick from:
 * Vi vs Emacs
 * One True Brace vs K&R
 
-    ```
+    ```js
     if() {
         code
     }
     ```
   vs
-    ```
+    ```js
     if()
     {
       code
@@ -130,15 +143,19 @@ Here's a list of topics for you to pick from:
     ```
 * Tabs vs Spaces
 * Why python's lambda is bad or good
-* semicolons, yes or no
+* Semicolons, yes or no
 * double space after a full stop
 * Cherry brown vs Cherry blue
 * Imperative vs functional
 * IDE vs text editor
 * Standing vs sitting
-* pair programming or not?
-* agile vs waterfall
+* Pair programming or not?
+* Agile vs waterfall
 * 40%, 60% or full sized keyboard?
+* Long variable/object names versus short and/or abbreviated names
+* Mountain Dew versus Coffee
+* _j_if vs _g_if
+*
 
 You should record all your references and put them on the slide that they relate to. That'll mean that we can go through your slides and see where you've got your information from.
 
