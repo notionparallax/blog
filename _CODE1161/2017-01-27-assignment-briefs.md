@@ -79,9 +79,6 @@ Again, this is what it says in the course outline:
 >
 > DELIVERABLES: Each week at the cutoff time (7pm the following Wednesday) each student&rsquo;s GitHub repository will be parsed by a script and the code present will be marked. It will either pass or fail the tests. Feedback will be given in a communal way through the discussion forum. (No submission in week 7.)
 
-
-_TODO: check this with real tests_
-
 These exercises are very dependent on GitHub. Each week you'll update your fork with the latest version of the course repo using `git fetch upstream` ([as described here](https://help.github.com/articles/syncing-a-fork/)). That'll have the latest version of the exercises in it.
 
 A typical exercise will have a function stubbed out, e.g.:
@@ -91,7 +88,7 @@ A typical exercise will have a function stubbed out, e.g.:
         pass
 ```
 
-and then below that there will be another function that tests that function. You should be able to run the code right away and it'll fail all the tests.
+and then below that there will be another function that tests that function. You should be able to run the code right away and it'll fail all the tests. (_N.B._ the tests might also be in a `test.py` file to keep things neat.)
 
 ``` python
     def test_exercise1(dog, cat, pig):
