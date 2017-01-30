@@ -18,6 +18,11 @@ twitter-body:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg:
 ---
+<style>
+.maybe-columns {
+    column-width: 20em;
+}
+</style>
 
 **Assignment 1**
 
@@ -124,23 +129,12 @@ The exam will work exactly like the weekly exercises, except we'll only release 
 
 That says most of it already!
 
-Here's a list of topics for you to pick from:
+Here's a list of possible topics for you to pick from:
+
+<div class="maybe-columns">
 
 * Vi vs Emacs
 * One True Brace vs K&R
-
-    ```js
-    if() {
-        code
-    }
-    ```
-  vs
-    ```js
-    if()
-    {
-      code
-    }
-    ```
 * Tabs vs Spaces
 * Why python's lambda is bad or good
 * Semicolons, yes or no
@@ -148,14 +142,16 @@ Here's a list of topics for you to pick from:
 * Cherry brown vs Cherry blue
 * Imperative vs functional
 * IDE vs text editor
-* Standing vs sitting
+* Standing vs sitting vs treadmill
 * Pair programming or not?
 * Agile vs waterfall
 * 40%, 60% or full sized keyboard?
 * Long variable/object names versus short and/or abbreviated names
 * Mountain Dew versus Coffee
-* _j_if vs _g_if
-*
+* <em>j</em>if vs <em>g</em>if
+* Camel vs snake
+
+</div>
 
 You should record all your references and put them on the slide that they relate to. That'll mean that we can go through your slides and see where you've got your information from.
 
