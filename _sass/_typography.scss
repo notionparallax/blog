@@ -7,3 +7,9 @@ h2 {
 p {
   font-family: $body-font-family;
 }
+
+.emoji {
+  height: 1em;
+  transform: translateY(-0.2em);
+  width: 1em;
+}
