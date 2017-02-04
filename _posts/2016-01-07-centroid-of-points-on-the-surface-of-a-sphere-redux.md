@@ -40,7 +40,7 @@ There really should be an iframe here :(
 
 This problem comes up whenever someone is planning a conference or a wedding or anything that needs global travel.
 
-It's a bit of a toy problem because it doesn't take into account transport methods. It's a lot easier for me to meet a South African and an Argentinian in Dubai than it is to meet in Antarctica, even though that [minimises travel distance](http://www.geomidpoint.com/?ml=-80.95903&amp;mn=25.19528&amp;l=-33.867487|-33.924868|-54.93521&amp;n=151.20699|18.424055|-67.605854&amp;a=Sydney+NSW,+Australia|Cape+Town,+South+Africa|Puerto+Williams,+Cabo+de+Hornos,+Regi%C3%B3n+de+Magallanes+y+de+la+Ant%C3%A1rtica+Chilena,+Chile&amp;cl=-66.79489&amp;cn=41.80057&amp;z=1&amp;x=0&amp;c=0&amp;p=1&amp;r=0&amp;w=0). Ignoring the realities of planes, how _do_ you work it out?
+It's a bit of a toy problem because it doesn't take into account transport methods. It's a lot easier for me to meet a South African and an Argentinian in Dubai than it is to meet in Antarctica, even though that [minimises travel distance](http://bit.ly/2l4By3G). Ignoring the realities of planes, how _do_ you work it out?
 
 Back in 2009 I published a post called [centroid of points on the surface of a sphere](https://notionparallax.co.uk/2009/centroid-of-points-on-the-surface-of-a-sphere). Then in 2012 I did another one where I looked at [which posts get visited the most](https://notionparallax.co.uk/2012/post-popularity). Turns out that something like 6 times as many people want to look at that post than the next most popular one. This problem consumed me for ages in 2009! I dismissed the most obvious solution (vectors) because I spotted a degenerate solution. What if the points were evenly spaced? [Antonia J. Jones](http://users.cs.cf.ac.uk/O.F.Rana/Antonia.J.Jones/)[^1] pointed out that this was a problem in all situations, not a solution specific one.
 
@@ -79,7 +79,7 @@ function meanVector(people) {
 
 ### Equal spacing
 
-<a href="http://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere"><img class="alignright" src="{{ site.baseurl }}/assets/NsCif.png" alt="" width="240" /></a>The points don't need to be opposite. If the points are evenly spaced on the sphere then it'll fail too. This could be even spacing along a great circle, eg at exactly a quarter apart. In fact, direct opposites is a subset of this when they are exactly 1/2 apart.
+<a href="http://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere"><img class="alignright" src="{{ site.baseurl }}/assets/NsCif.png" alt="" width="240" /></a>The points don't need to be opposite. If the points are evenly spaced on the sphere then it'll fail too. This could be even spacing along a great circle, e.g. at exactly a quarter apart. In fact, direct opposites is a subset of this when they are exactly 1/2 apart.
 
 It could also be some kind of magnetic repulsions spacing over the whole surface. They are an equal distance from each other, but in 3 dimensions. (See [here](http://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere) and [here](http://web.archive.org/web/20120421191837/http://www.cgafaq.info/wiki/Evenly_distributed_points_on_sphere))
 
