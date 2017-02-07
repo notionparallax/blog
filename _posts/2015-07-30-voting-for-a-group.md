@@ -135,7 +135,7 @@ has-math: true
 <li>Can be used anywhere (not locked behind a firewall) so that people can vote at home or on the train etc.</li>
 <li>Doesn't require much maintenance or developer skill (I had to make it, and to call myself a hobbyist is probably rude to hobbyists)</li>
 </ol>
-<p><a href="http://bvn-architecture.github.io/voting">Here's what we ended up with</a>, It's only tested in Chrome because that's the only browser we have at work[^7]. I also made it have a print stylesheet so that it could be filled in by people who are _totally_ technophobic. Turns out that after staying exceptionally late to make this happen a grand total of ZERO votes were submitted on paper. Oh well.</p>
+<p><a href="https://bvn-architecture.github.io/voting">Here's what we ended up with</a>, It's only tested in Chrome because that's the only browser we have at work[^7]. I also made it have a print stylesheet so that it could be filled in by people who are _totally_ technophobic. Turns out that after staying exceptionally late to make this happen a grand total of ZERO votes were submitted on paper. Oh well.</p>
 <p>We've since used this to vote for a photo competition too, so it's pretty reusable. Here's the instructions I gave everyone. I thought I'd leave them more or less unchanged, mainly because I'm lazy.</p>
 <p> </p>
 <h1>How to vote – simple</h1>

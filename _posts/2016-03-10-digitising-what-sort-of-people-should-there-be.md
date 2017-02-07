@@ -17,7 +17,7 @@ I really enjoyed this book when I read it about 8 years ago. I wanted to read it
 
 This is an attempt to make it into an electronic version, eventually into an eBook. You can read it on a small screen quite happily, or add it to a reader like [Pocket](https://getpocket.com/). If you look at it on a big screen it'll break the text up into pages and put the scanned page that the text came from next to the HTML text.
 
-[The readable part is here](http://notionparallax.github.io/people/).
+[The readable part is here](https://notionparallax.github.io/people/).
 
 I'm doing the transfer via a very simple Jekyll site with a [GitHub repository that's here](https://github.com/notionparallax/people). 
 

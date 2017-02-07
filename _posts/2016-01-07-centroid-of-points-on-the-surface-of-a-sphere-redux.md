@@ -94,7 +94,7 @@ There really should be an iframe here :(
 
 While I'm a free agent[^3] I don't have access to any of the tools that I'm accustomed to having (Grasshopper etc.) so I thought I'd have a crack at doing it in something more universally accessible. [Three.js](http://threejs.org/) lets you do 3d geometry stuff in your browser[^4].
 
-It shows 12 people, randomly spaced all over the globe. The orange spike (which you might need to hunt for a bit) shows the centroid of those points. If the iframe is annoying, you can [see it full screen here](http://notionparallax.github.io/whereToMeet/sphere.html).
+It shows 12 people, randomly spaced all over the globe. The orange spike (which you might need to hunt for a bit) shows the centroid of those points. If the iframe is annoying, you can [see it full screen here](https://notionparallax.github.io/whereToMeet/sphere.html).
 
 I might add a bit more UI to it soon to pick cities etc. so that you can use it to pick the positions of your own friends. In the meantime, [this does almost exactly that](http://www.geomidpoint.com/)!
 
