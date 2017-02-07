@@ -65,10 +65,15 @@ td {
 }
 
 .outline-section {
-  /*column-width: 16em;*/
   border-left: 2px solid hsla(0, 0%, 0%, 0.2);
   margin-top: 3em;
   padding-left: 1em;
+}
+@media screen and (max-width: 600px){
+  .outline-section {
+    border-left-width: 1em;
+    margin-left: -1em;
+  }
 }
 section {
     break-inside: avoid;
@@ -108,121 +113,25 @@ article.post figure img.halfling{width:49%;}
 <article class="outline-section">
     <ol start="2">
         <li>
-            <h2>Course Staff and Contributors</h2></li>
+            <h2>Course Staff and Contributors</h2>
+        </li>
     </ol>
-    <table>
-        <tbody>
-            <tr>
-                <td colspan="2">
-                    <p>Course Convenor: Ben Doherty</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Room: </p>
-                </td>
-                <td>
-                    <p>External</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Phone:</p>
-                </td>
-                <td>
-                    <p>N / A</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Email:</p>
-                </td>
-                <td>
-                    <p><a href="mailto:ben@notionparallax.co.uk">ben@notionparallax.co.uk</a> (for questions please refer to the consultation times below and do not send emails)</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Consultation times:</p>
-                </td>
-                <td>
-                    <p>Please contact DD Admin on phone number above for consultation times at the DD unit admin desk on Level 4.</p>
-                </td>
-            </tr>
-          <tr>
-                <td colspan="2">
-                    <p>[title]: [magical TA person 1]</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Room: </p>
-                </td>
-                <td>
-                    <p>External</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Phone:</p>
-                </td>
-                <td>
-                    <p>N / A</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Email:</p>
-                </td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Consultation times:</p>
-                </td>
-                <td>
-                    <p>Directly before or after class, please contact tutor one day in advance per email to make a booking.</p>
-                </td>
-            </tr>
-          <tr>
-                <td colspan="2">
-                    <p>[title]: [magical TA person 2]</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Room: </p>
-                </td>
-                <td>
-                    <p>External</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Phone:</p>
-                </td>
-                <td>
-                    <p>N / A</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Email:</p>
-                </td>
-                <td>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Consultation times:</p>
-                </td>
-                <td>
-                    <p>Directly before or after class, please contact tutor one day in advance per email to make a booking.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <dl>
+      <dt class="new-topic">Course Convenor</dt>
+      <dd>Ben Doherty</dd>
+      <dt>Email</dt>
+      <dd><a href="mailto:ben@notionparallax.co.uk">ben@notionparallax.co.uk</a> (TODO, insert slack/etc details) for questions please refer to the consultation times below and do not send emails)</dd>
+      <dt class="new-topic">Tutor</dt>
+      <dd>Aiden Ray</dd>
+      <dt>Email</dt>
+      <dd><a href="mailto:aidenunsw@outlook.com">aidenunsw@outlook.com</a></dd>
+      <dt class="new-topic">Tutor</dt>
+      <dd>Ishaan Varshney</dd>
+      <dt>Email</dt>
+      <dd><a href="mailto:Ishaan@Varshney.email">Ishaan@Varshney.email</a></dd>
+      <dt class="new-topic">Consultation times</dt>
+      <dd>Directly before or after class, please contact tutor one day in advance per email to make a booking.</dd>
+    </dl>
 </article>
 <article class="outline-section">
     <ol start="3">
@@ -263,241 +172,170 @@ article.post figure img.halfling{width:49%;}
             <h2>Lectures</h2>
         </li>
     </ol>
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <p>Week 1</p>
-                </td>
-                <td>
-                    <h3>Programing, an introduction</h3>
-                    <p>An introduction to programming concepts, its impact on the world and how you can be a part of extending that impact.</p>
-                    <p>This week will contain a lot of information about how the course will function, how to stay healthy as a programmer, and the basics of Python syntax.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Graham, P.</strong> (2009). <a href="http://paulgraham.com/makersschedule.html"><em>Maker&rsquo;s Schedule, Manager&rsquo;s Schedule.</em></a></p>
-                    <p class="reference"><strong>Case, N.</strong> (2016). <a href="http://ncase.me/simulating/"><em>Simulating The World (In Emoji &#x1f618;).</em></a></p>
-                    <p class="reference"><strong>Davis, D.</strong> (2015). <a href="http://www.architectmagazine.com/technology/why-architects-cant-be-automated_o"><em>Why Architects Can&rsquo;t Be Automated.</em></a></p>
-                    <p class="reference"><strong>Doherty, B.</strong> (2015). <a href="https://notionparallax.co.uk/2015/architects-getting-automated"><em>Architects getting automated?</em></a></p>
-                    <p class="reference"><strong>Noll, A. M.</strong> (1967). <a href="http://noll.uscannenberg.org/Art%20Papers/Creative%20Medium.pdf">The digital computer as a creative medium</a>. IEEE Spectrum, 4(10), 89&ndash;95.  </p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 2</p>
-                </td>
-                <td>
-                    <h3>Programming on your own terms </h3>
-                    <p>This week you&rsquo;ll be working in your own <em>environment</em>. This is the beginning of a process of refinement that will last for your whole career.</p>
-                    <p>We&rsquo;ll talk about <em>abstraction<em> and problem <em>decomposition</em>. How to break up problems into small enough chunks to solve, and how to make those solutions as general as possible.</p>
-                    <p>You&rsquo;ll use <em>tests<em> to make sure that your code what you think it does.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Shaw, Z.</strong> A. (2013). <a href="https://learnpythonthehardway.org/book/appendixa.html">Appendix A: Command Line Crash Course.</a> (to cement existing learning)</p>
-                    <p class="reference"><strong>Victor, B.</strong> (2011). <a href="http://worrydream.com/%23!2/LadderOfAbstraction"><em>Up and Down the Ladder of Abstraction.</em></a></p>
-                    <p class="reference"><strong>Doherty, B.</strong> (2016). <a href="https://notionparallax.co.uk/2016/a-thinking-trick-for-beginner-programmers"><em>A thinking trick for beginner programmers - Ghetto TDD </em></a></p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 3</p>
-                </td>
-                <td>
-                    <h3>Introduction to algorithms</h3>
-                    <p>Now that you can write simple code we are going to start putting it to work. We&rsquo;ll learn to implement simple algorithms, and how to compare different ways of doing the same thing using time complexity.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Cormen, T. &amp; Balkcom, D.</strong>, <a href="https://www.khanacademy.org/computing/computer-science/algorithms"><em>Algorithms</em></a>.
-                        <br>Go through the Intro to algorithms, Binary search and Asymptotic notation sections</p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 4</p>
-                </td>
-                <td>
-                    <h3>IO</h3>
-                    <p>Programs that are completely self contained are never going to be all that useful. This week we&rsquo;ll learn how to read and write files, and <span class="small-caps">get</span> information from the internet.</p>
-                    <p>We&rsquo;ll also go over the history of computing in the world, and in architecture.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Victor, B.</strong> (2013). <a href="http://worrydream.com/%23!/dbx"><em>The Future of Programming.</em></a> </p>
-                    <p class="reference"><strong>Polich, K.</strong> (2016). <a href="http://dataskeptic.com/blog/episodes/2016/potholes"><em>Potholes.</em></a> </p>
-                    <p class="reference"><strong>Polich, K.</strong> (2015). <a href="http://dataskeptic.com/blog/episodes/2015/nyc-speed-camera-analysis"><em>NYC Speed Camera Analysis.</em></a> </p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 5</p>
-                </td>
-                <td>
-                    <h3>Refactoring, AI</h3>
-                    <p>Sooner or later you&rsquo;ll want to work with other people on a project. If you have a monolithic block of code this will be very difficult. Well refactored code is easy to maintain and easier to share with others.</p>
-                    <p>Artificial intelligence is a huge, but it&rsquo;s poorly defined. This will be a very broad introduction to some definitions of what it means.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><em>The Catalog of Refactoring.</em>  <a href="https://refactoring.guru/catalog">refactoring.guru</a>. Have a look around this site for inspiration.</p>
-                    <p class="reference"><strong>Urban, T.</strong> (2015). <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"><em>The Artificial Intelligence Revolution: Part 1 - Wait But Why.</em></a> </p>
-                    <p class="reference"><strong>Urban, T.</strong> (2015). <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"><em>The Artificial Intelligence Revolution: Part 2 - Wait But Why.</em></a> </p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 6 </p>
-                </td>
-                <td>
-                    <h3>Working with data</h3>
-                    <p>Python is one of the most commonly used scientific programming languages. It has comprehensive libraries for almost anything you can imagine needing to do to data. We&rsquo;ll go over Matplotlib and Pandas. We&rsquo;ll also cover data cleaning in a repeatable way.</p>
-                    <p>Visualising data is very fashionable, there are lots of whizzy ways to do this, but we&rsquo;ll go over the absolute basics of data-vis.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                </td>
-                <td>
 
-                    <p class="reference"><strong>Polich, K.</strong> (2016). <a href="http://dataskeptic.com/blog/episodes/2016/kill-the-word-cloud"><em>Let&rsquo;s Kill the Word Cloud.</em></a></p>
-                    <p class="reference"><strong>Tufte, E.</strong> (2001) <em>The Visual Display of Quantitative Information</em> Read chapter 4: <em>Data-Ink and Graphical Redesign</em>. If you feel so inclined, read the whole book!</p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 7</p>
-                </td>
-                <td>
-                    <h3>Mid-Semester Break</h3></td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 8</p>
-                </td>
-                <td>
-                    <h3>Tricks, patterns and ethics</h3>
-                    <p>This lecture will cover some useful python ideas that don&rsquo;t fit in anywhere else. Regex, list comprehensions, slicing.</p>
-                    <p>We&rsquo;ll also cover touch on the basics of data ethics.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Floridi, L.</strong>, &amp; Taddeo, M. (2016). <a href="http://rsta.royalsocietypublishing.org/content/374/2083/20160360.abstract">What is data ethics?</a> Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2083). </p>
-                    <p>Pick any article from the <a href="http://bdes.datasociety.net/">Council for Big Data, Ethics, and Society&rsquo;s website</a> to discuss in your lab book.</p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 9</p>
-                </td>
-                <td>
-                    <h3>Python in x, exam</h3>
-                    <p>Python is often used as a scripting language. It can be used to control Grasshopper and Dynamo. We&rsquo;ll go over how to do this, and how to find out what is available in the environment that you find yourself in.</p>
-                    <p>There will also be a programming exam to test recall on basic principles. The subject of the questions will be given ahead of time, but the specifics will only be revealed on the day.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Victor, B.</strong> <em>Inventing On Principle</em>. <a href="http://worrydream.com/%23!/InventingOnPrinciple">worrydream.com/#!/InventingOnPrinciple</a> </p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 10</p>
-                </td>
-                <td>
-                    <h3>Students&rsquo; choice</h3>
-                    <p>This lecture will be decided by student proposal and voting in week 6.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p>Dependent on choice of</p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 11</p>
-                </td>
-                <td>
-                    <h3>Guest Lecture</h3></td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p>TBC by guest lecturer</p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 12</p>
-                </td>
-                <td>
-                    <h3>Fitting it all together</h3>
-                    <p>You will know a lot of slightly disjointed things about python programming. This lecture will tie up the loose ends and help you transition into using your skills in &lsquo;real&rsquo; contexts.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Readings:</p>
-                </td>
-                <td>
-                    <p class="reference"><strong>Samuel, A.</strong> (2015). <a href="https://hbr.org/2015/10/how-to-give-a-data-heavy-presentation"><em>How to Give a Data-Heavy Presentation.</em></a></p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 14</p>
-                </td>
-                <td>
-                    <h3>Open Data Assignment presentation</h3>
-                    <p>You will present your work on the open data project.</p>
-                </td>
-            </tr>
-          <tr>
-                <td>
-                    <p>Week 15</p>
-                </td>
-                <td>
-                    <h3>Lab Book Completed</h3>
-                    <p>I will stop taking into account modifications to your lab book at 7pm Tuesday of week 15.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<style>
+.the_weeks {
+  counter-reset: my-badass-counter;
+}
+dt:nth-child(4n-1), dd:nth-child(4n) {
+  margin-bottom: 2em;
+}
+.week-description::before {
+  content: "Week " counter(my-badass-counter);
+  counter-increment: my-badass-counter;
+  text-align: left;
+  display: block;
+}
+.week-description::after{content: "" !important;}
+</style>
+
+    <dl class="the_weeks">
+      <dt class="week-description">
+        <h3>Programing, an introduction</h3></dt>
+      <dd>
+        <p>An introduction to programming concepts, its impact on the world and how you can be a part of extending that impact.</p>
+        <p>This week will contain a lot of information about how the course will function, how to stay healthy as a programmer, and the basics of Python syntax.</p></dd>
+      <dt>Readings</dt>
+      <dd>
+        <p class="reference"><strong>Graham, P.</strong> (2009). <a href="http://paulgraham.com/makersschedule.html"><em>Maker&rsquo;s Schedule, Manager&rsquo;s Schedule.</em></a></p>
+        <p class="reference"><strong>Case, N.</strong> (2016). <a href="http://ncase.me/simulating/"><em>Simulating The World (In Emoji &#x1f618;).</em></a></p>
+        <p class="reference"><strong>Davis, D.</strong> (2015). <a href="http://www.architectmagazine.com/technology/why-architects-cant-be-automated_o"><em>Why Architects Can&rsquo;t Be Automated.</em></a></p>
+        <p class="reference"><strong>Doherty, B.</strong> (2015). <a href="https://notionparallax.co.uk/2015/architects-getting-automated"><em>Architects getting automated?</em></a></p>
+        <p class="reference"><strong>Noll, A. M.</strong> (1967). <a href="http://noll.uscannenberg.org/Art%20Papers/Creative%20Medium.pdf">The digital computer as a creative medium</a>. IEEE Spectrum, 4(10), 89&ndash;95.</p></dd>
+    <dt class="week-description">
+      <h3>Programming on your own terms</h3></dt>
+    <dd>
+      <p>This week you&rsquo;ll be working in your own <em>environment</em>. This is the beginning of a process of refinement that will last for your whole career.</p>
+      <p>We&rsquo;ll talk about <em>abstraction</em> and problem <em>decomposition</em>. How to break up problems into small enough chunks to solve, and how to make those solutions as general as possible.</p>
+      <p>You&rsquo;ll use <em>tests</em> to make sure that your code what you think it does.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Shaw, Z.</strong> A. (2013). <a href="https://learnpythonthehardway.org/book/appendixa.html">Appendix A: Command Line Crash Course.</a> (to cement existing learning)</p>
+      <p class="reference"><strong>Victor, B.</strong> (2011). <a href="http://worrydream.com/%23!2/LadderOfAbstraction"><em>Up and Down the Ladder of Abstraction.</em></a></p>
+      <p class="reference"><strong>Doherty, B.</strong> (2016). <a href="https://notionparallax.co.uk/2016/a-thinking-trick-for-beginner-programmers"><em>A thinking trick for beginner programmers - Ghetto TDD </em></a></p>
+    </dd>
+    <dt class="week-description">
+      <h3>Introduction to algorithms</h3></dt>
+    <dd>
+      <p>Now that you can write simple code we are going to start putting it to work. We&rsquo;ll learn to implement simple algorithms, and how to compare different ways of doing the same thing using time complexity.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Cormen, T. &amp; Balkcom, D.</strong>, <a href="https://www.khanacademy.org/computing/computer-science/algorithms"><em>Algorithms</em></a>.
+          <br>Go through the Intro to algorithms, Binary search and Asymptotic notation sections</p>
+    </dd>
+    <dt class="week-description">
+      <h3>IO</h3></dt>
+    <dd>
+      <p>Programs that are completely self contained are never going to be all that useful. This week we&rsquo;ll learn how to read and write files, and <span class="small-caps">get</span> information from the internet.</p>
+      <p>We&rsquo;ll also go over the history of computing in the world, and in architecture.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Victor, B.</strong> (2013). <a href="http://worrydream.com/%23!/dbx"><em>The Future of Programming.</em></a> </p>
+      <p class="reference"><strong>Polich, K.</strong> (2016). <a href="http://dataskeptic.com/blog/episodes/2016/potholes"><em>Potholes.</em></a> </p>
+      <p class="reference"><strong>Polich, K.</strong> (2015). <a href="http://dataskeptic.com/blog/episodes/2015/nyc-speed-camera-analysis"><em>NYC Speed Camera Analysis.</em></a> </p>
+    </dd>
+    <dt class="week-description">
+      <h3>Refactoring, AI</h3></dt>
+    <dd>
+      <p>Sooner or later you&rsquo;ll want to work with other people on a project. If you have a monolithic block of code this will be very difficult. Well refactored code is easy to maintain and easier to share with others.</p>
+      <p>Artificial intelligence is a huge, but it&rsquo;s poorly defined. This will be a very broad introduction to some definitions of what it means.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><em>The Catalog of Refactoring.</em>  <a href="https://refactoring.guru/catalog">refactoring.guru</a>. Have a look around this site for inspiration.</p>
+      <p class="reference"><strong>Urban, T.</strong> (2015). <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"><em>The Artificial Intelligence Revolution: Part 1 - Wait But Why.</em></a> </p>
+      <p class="reference"><strong>Urban, T.</strong> (2015). <a href="http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html"><em>The Artificial Intelligence Revolution: Part 2 - Wait But Why.</em></a> </p>
+    </dd>
+    <dt class="week-description">
+      <h3>Working with data</h3></dt>
+    <dd>
+      <p>Python is one of the most commonly used scientific programming languages. It has comprehensive libraries for almost anything you can imagine needing to do to data. We&rsquo;ll go over Matplotlib and Pandas. We&rsquo;ll also cover data cleaning in a repeatable way.</p>
+      <p>Visualising data is very fashionable, there are lots of whizzy ways to do this, but we&rsquo;ll go over the absolute basics of data-vis.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Polich, K.</strong> (2016). <a href="http://dataskeptic.com/blog/episodes/2016/kill-the-word-cloud"><em>Let&rsquo;s Kill the Word Cloud.</em></a></p>
+      <p class="reference"><strong>Tufte, E.</strong> (2001) <em>The Visual Display of Quantitative Information</em> Read chapter 4: <em>Data-Ink and Graphical Redesign</em>. If you feel so inclined, read the whole book!</p>
+      <p class="reference"><strong>Wong, D.</strong> (2010) <em>The Wall Street Journal Guide to Information Graphics<small>: The Dos and Don'ts of Presenting Data, Facts, and Figures</small></em>.</p>
+    </dd>
+    <dt class="week-description">
+      <h3>Mid-Semester Break</h3></dt>
+    <dd>
+
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+
+    </dd>
+    <dt class="week-description">
+      <h3>Tricks, patterns and ethics</h3></dt>
+    <dd>
+      <p>This lecture will cover some useful python ideas that don&rsquo;t fit in anywhere else. Regex, list comprehensions, slicing.</p>
+      <p>We&rsquo;ll also cover touch on the basics of data ethics.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Floridi, L.</strong>, &amp; Taddeo, M. (2016). <a href="http://rsta.royalsocietypublishing.org/content/374/2083/20160360.abstract">What is data ethics?</a> Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2083). </p>
+      <p>Pick any article from the <a href="http://bdes.datasociety.net/">Council for Big Data, Ethics, and Society&rsquo;s website</a> to discuss in your lab book.</p>
+    </dd>
+    <dt class="week-description">
+      <h3>Python in x, exam</h3></dt>
+    <dd>
+      <p>Python is often used as a scripting language. It can be used to control Grasshopper and Dynamo. We&rsquo;ll go over how to do this, and how to find out what is available in the environment that you find yourself in.</p>
+      <p>There will also be a programming exam to test recall on basic principles. The subject of the questions will be given ahead of time, but the specifics will only be revealed on the day.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Victor, B.</strong> <em>Inventing On Principle</em>. <a href="http://worrydream.com/%23!/InventingOnPrinciple">worrydream.com/#!/InventingOnPrinciple</a> </p>
+    </dd>
+    <dt class="week-description">
+      <h3>Students&rsquo; choice</h3></dt>
+    <dd>
+      <p>This lecture will be decided by student proposal and voting in week 6.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p>Dependent on choice of topic.</p>
+    </dd>
+    <dt class="week-description">
+      <h3>Guest Lecture</h3></dt>
+    <dd>
+
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p>TBC by guest lecturer</p>
+    </dd>
+    <dt class="week-description">
+      <h3>Fitting it all together</h3></dt>
+    <dd>
+      <p>You will know a lot of slightly disjointed things about python programming. This lecture will tie up the loose ends and help you transition into using your skills in &lsquo;real&rsquo; contexts.</p>
+    </dd>
+    <dt>Readings</dt>
+    <dd>
+      <p class="reference"><strong>Samuel, A.</strong> (2015). <a href="https://hbr.org/2015/10/how-to-give-a-data-heavy-presentation"><em>How to Give a Data-Heavy Presentation.</em></a></p>
+    </dd>
+    <dt class="week-description">
+      <h3>No class</h3></dt>
+    <dd>
+      This is the assessment period, don't worry, you'll be busy.
+    </dd>
+    <dt class="week-description">
+      <h3>Open Data Assignment presentation</h3></dt>
+    <dd>
+      <p>You will present your work on the open data project.</p>
+    </dd>
+  </dl>
+  <dt class="week-description">
+    <h3>Lab Book Completed</h3></dt>
+  <dd>
+    <p>I will stop taking into account modifications to your lab book at 7pm Tuesday of week 15.</p>
+  </dd>
+</dl>
+
 </article>
 <article class="outline-section">
     <ol start="6">
@@ -522,24 +360,26 @@ article.post figure img.halfling{width:49%;}
     </ol>
     <h3>Summary</h3>
     <table>
-        <tbody>
+      <thead>
             <tr>
-                <td>
+                <th>
                     <p>Assessment task</p>
-                </td>
-                <td>
+                </th>
+                <th>
                     <p>Weight</p>
-                </td>
-                <td>
+                </th>
+                <th>
                     <p>Learning outcomes assessed</p>
-                </td>
-                <td>
+                </th>
+                <th>
                     <p>Graduate attributes assessed</p>
-                </td>
-                <td>
+                </th>
+                <th>
                     <p>Due date</p>
-                </td>
+                </th>
             </tr>
+          </thead>
+            <tbody>
             <tr>
                 <td>
                     <p>1a. Lab book</p>

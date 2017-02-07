@@ -5,6 +5,12 @@
 article.post {
   font-family: $body-font-family;
 
+  p {
+    @include media-query($on-palm) {
+      font-size: 1rem;
+    }
+  }
+
   h1,
   h2,
   h3,
@@ -12,42 +18,86 @@ article.post {
   h5 {font-family: $heading-font-family;}
 
   h1 {
-    font-size: 270%; line-height: 1;
+    font-size: 2.90rem; line-height: 1;
 
     @include media-query($on-palm) {
-      font-size: 220%;
+      font-size: 2.20rem;
     }
   }
 
   h2 {
-    font-size: 230%;
+    font-size: 2.30rem;
 
     @include media-query($on-palm) {
-      font-size: 200%;
+      font-size: 2.00rem;
     }
   }
 
   h3 {
-    font-size: 200%;
+    font-size: 2.00rem;
 
     @include media-query($on-palm) {
-      font-size: 180%;
+      font-size: 1.80rem;
     }
   }
 
   h4 {
-    font-size: 160%;
+    font-size: 1.60rem;
 
     @include media-query($on-palm) {
-      font-size: 140%;
+      font-size: 1.40rem;
     }
   }
 
   h5 {
-    font-size: 120%;
+    font-size: 1.20rem;
 
     @include media-query($on-palm) {
-      font-size: 120%;
+      font-size: 1.20rem;
+    }
+  }
+
+  dt, dd {
+    display: inline-block;
+    vertical-align: text-top;
+
+    @include media-query($on-palm) {
+      display: block;
+    }
+  }
+  dt {
+    width: 30%;
+    text-align: right;
+    padding-right: .5em;
+
+    @include media-query($on-palm) {
+      width: initial;
+      text-align: initial;
+      padding-right: initial;
+      font-weight: bold;
+    }
+  }
+  dt::after{
+    content: ":";
+
+    @include media-query($on-palm) {
+      content: none;
+    }
+  }
+  dd{
+    width: 69%;
+
+    @include media-query($on-palm) {
+      width: initial;
+    }
+  }
+  .new-topic{
+    font-weight: bold;
+
+    @include media-query($on-palm) {
+      margin-left: -0.7em;
+      margin-top: 0.6em;
+      font-size: 110%;
     }
   }
 
@@ -57,6 +107,11 @@ article.post {
     p {
       margin-top: .5em;
     }
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
   }
 
   .small-caps {
