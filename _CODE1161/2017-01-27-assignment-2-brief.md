@@ -60,6 +60,7 @@ Here's a list of possible topics for you to pick from:
 * Mountain Dew versus Coffee
 * <em>j</em>if vs <em>g</em>if
 * Camel vs snake
+* CRLF vs LF
 
 </div>
 
