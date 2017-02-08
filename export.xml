@@ -37787,7 +37787,7 @@ Now we know what sort of voting procedure will suit us the best, we need to be a
 	<li>Can be used anywhere (not locked behind a firewall) so that people can vote at home or on the train etc.</li>
 	<li>Doesn't require much maintenance or developer skill (I had to make it, and to call myself a hobbyist is probably rude to hobbyists)</li>
 </ol>
-<a href="http://bvn-architecture.github.io/voting">Here's what we ended up with</a>, It's only tested in Chrome because that's the only browser we have at work[1. we also have IE, apparently, but that's no a browser is it?]. I also made it have a print stylesheet so that it could be filled in by people who are <em>totally</em> technophobic. Turns out that after staying exceptionally late to make this happen a grand total of ZERO votes were submitted on paper. Oh well.
+<a href="https://bvn-architecture.github.io/voting">Here's what we ended up with</a>, It's only tested in Chrome because that's the only browser we have at work[1. we also have IE, apparently, but that's no a browser is it?]. I also made it have a print stylesheet so that it could be filled in by people who are <em>totally</em> technophobic. Turns out that after staying exceptionally late to make this happen a grand total of ZERO votes were submitted on paper. Oh well.
 
 We've since used this to vote for a photo competition too, so it's pretty reusable. Here's the instructions I gave everyone. I thought I'd leave them more or less unchanged, mainly because I'm lazy.
 
@@ -45568,7 +45568,7 @@ p.wp-caption-text {
 
 
 
-<iframe class="world" src="http://notionparallax.github.io/whereToMeet/sphere.html" width="300" height="150"></iframe>
+<iframe class="world" src="https://notionparallax.github.io/whereToMeet/sphere.html" width="300" height="150"></iframe>
 
 This problem comes up whenever someone is planning a conference or a wedding or anything that needs global travel.
 
@@ -45609,11 +45609,11 @@ It could also be some kind of magnetic repulsions spacing over the whole surface
 <h1>Three.js implementation</h1>
 Go on, click the world and drag it about!
 
-<iframe class="world" src="http://notionparallax.github.io/whereToMeet/sphere.html" width="300" height="150"></iframe>
+<iframe class="world" src="https://notionparallax.github.io/whereToMeet/sphere.html" width="300" height="150"></iframe>
 
 While I'm a free agent[1. where free agent == willingly unemployed.] I don't have access to any of the tools that I'm accustomed to having (Grasshopper etc.) so I thought I'd have a crack at doing it in something more universally accessible. <a href="http://threejs.org/">Three.js</a> lets you do 3d geometry stuff in your browser[1. There is some slightly strange stuff to get it going, but I found it surprisingly easy to pick up. The model above took me about 3 hours with no prior experience.<a href="http://twitter.com/andraconnect">Alexandra Etienne</a> and <a href="http://twitter.com/jerome_etienne">Jerome Etienne</a> have a super cool tutorial on <a href="http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/">how to make a planet</a> which helped a lot.].
 
-It shows 12 people, randomly spaced all over the globe. The orange spike (which you might need to hunt for a bit) shows the centroid of those points. If the iframe is annoying, you can <a href="http://notionparallax.github.io/whereToMeet/sphere.html">see it full screen here</a>.
+It shows 12 people, randomly spaced all over the globe. The orange spike (which you might need to hunt for a bit) shows the centroid of those points. If the iframe is annoying, you can <a href="https://notionparallax.github.io/whereToMeet/sphere.html">see it full screen here</a>.
 
 I might add a bit more UI to it soon to pick cities etc. so that you can use it to pick the positions of your own friends. In the meantime, <a href="http://www.geomidpoint.com/">this does almost exactly that</a>!
 
