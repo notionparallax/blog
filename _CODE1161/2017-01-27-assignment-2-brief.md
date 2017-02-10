@@ -25,7 +25,7 @@ featuredimg:
 </style>
 
 <figure>
-![Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.](http://imgs.xkcd.com/comics/real_programmers.png)
+![Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.](https://imgs.xkcd.com/comics/real_programmers.png)
 <figcaption>
 [Real Programmers](http://xkcd.com/378/), from xkcd
 </figcaption>
