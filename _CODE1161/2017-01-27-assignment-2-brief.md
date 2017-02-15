@@ -43,24 +43,25 @@ Here's a list of possible topics for you to pick from:
 
 <div class="maybe-columns">
 
-* Vi vs Emacs
-* One True Brace vs K&R
-* Tabs vs Spaces
-* Why python's lambda is bad or good
-* Semicolons, yes or no
-* double space after a full stop
-* Cherry brown vs Cherry blue
-* Imperative vs functional
-* IDE vs text editor
-* Standing vs sitting vs treadmill
-* Pair programming or not?
-* Agile vs waterfall
+* <em>j</em>if vs <em>g</em>if
 * 40%, 60% or full sized keyboard?
+* Agile vs waterfall
+* Camel vs snake
+* Cherry brown vs Cherry blue
+* CRLF vs LF
+* Double space after a full stop
+* IDE vs text editor
+* Imperative vs functional
 * Long variable/object names versus short and/or abbreviated names
 * Mountain Dew versus Coffee
-* <em>j</em>if vs <em>g</em>if
-* Camel vs snake
-* CRLF vs LF
+* Newbs vs noobs vs n00bs
+* One True Brace vs K&R
+* Pair programming or not?
+* Semicolons, yes or no
+* Standing vs sitting vs treadmill
+* Tabs vs Spaces
+* Vi vs Emacs
+* Why python's lambda is bad or good
 
 </div>
 
