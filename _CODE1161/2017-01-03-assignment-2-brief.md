@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment 2–Holy wars
-date: 2017-01-27 00:00:00  PDT
+date: 2017-01-03 00:00:00  PDT
 type: post
 published: true
 status: publish

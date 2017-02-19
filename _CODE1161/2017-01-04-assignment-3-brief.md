@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment 3–Open Data Project
-date: 2017-01-27 00:00:00  PDT
+date: 2017-01-04 00:00:00  PDT
 type: post
 published: true
 status: publish
