@@ -2,13 +2,16 @@
 layout: default
 ---
 
+  <style>
+  span.post-date {
+      display: none;
+  }
+  </style>
 
   <ul class="post-list">
-    {% for entry in site.CODE1161  %}
-    <li>
-      <a href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
+    {% for post in site.CODE1161  %}
+      {% include index_li.html %}
     {% endfor %}
-    </li>
   </ul>
 
 
