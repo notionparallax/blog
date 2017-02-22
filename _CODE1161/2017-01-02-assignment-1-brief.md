@@ -97,3 +97,12 @@ Just to check that you can do this stuff under pressure, there will be an exam!
 > This will test recall on basic principles and your ability to apply them. The subject of the questions will be given ahead of time, but the specifics will only be revealed on the day.
 
 The exam will work exactly like the weekly exercises, except we'll only release the actual tests at the start of the exam, and the cut off will be at the end of the exam.
+
+<figure>
+![](http://www.smbc-comics.com/comics/1487000736-20170213.png)
+<figcaption>
+<cite>[SMBC](http://www.smbc-comics.com/comic/finals-nightmare)</cite>
+
+Lucky for you, I'm not really motivated by approval ratings. I'm just hoping that in 5 years time, when one of you is a billionaire, you can give me a job. In order to do that I need to make sure that you are _actually_ competent!
+</figcaption>
+</figure>
