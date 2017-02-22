@@ -43,3 +43,5 @@ collections:
     output: true
   CODE1161:
     output: true
+  s: #static pages
+    output: true
