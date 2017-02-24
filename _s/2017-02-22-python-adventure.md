@@ -19,18 +19,20 @@ twitter-body:
 featuredimg:
 ---
 
-You've heard about the power of Python. Perhaps you think that it comes from a big snake. Perhaps you know that it's actually a programming language, but quite what that means you aren't sure. Maybe you've even marvelled at someone wielding it's immense power and wished that you could be a little bit more like them.
+You've heard about the power of Python. Perhaps you think that it comes from a big snake. :snake: Perhaps you know that it's actually a programming language, but quite what that means you aren't sure. Maybe you've even marvelled at someone wielding it's immense power and wished that you could be a little bit more like them.
 
 If you are one of a lucky band of 14 brave, snake charming, proto-nerds then you can learn the secrets of the giant snake!
 
 The [Sydney Computational Design Group](https://www.meetup.com/Sydney-computational-design-group/) is trying something new. We're going to run a Python course to teach the skills you'll need to start taking charge of the world around you with code.
 
-The course will run on Tuesday evenings, from 6--8:30. It'll be at [BVN's studio](https://goo.gl/maps/DHHBXW4FGyn). It'll start on the [7<sup>th</sup> or 14<sup>th</sup>, what do you think?] and run for 14 weeks, with a week off in week 7.
+The course will run on Tuesday evenings, from 6--8:30. It'll be at [BVN's studio](https://goo.gl/maps/DHHBXW4FGyn). It'll start on the 14<sup>th</sup> of March and run for 14 weeks, with a week off in week 7. (You can also stop at that point if you need your Tuesdays back.)
 
 The course will be in two halves. The first part will be about learning the language, and how to use it. The second half will apply it to an urban-scale, open-data project.
 
 It'll be taught by [Ben Doherty](https://notionparallax.co.uk/). It'll be a mirror of the UNSW course CODE1161, which Ben is also teaching. That is the core course for the computational design degree's first year. The course is already fully planned out; you can [see the materials here](https://notionparallax.co.uk/CODE1161). Because we'll be a smaller group, we will be able to move a bit faster, so we can have slightly shorter sessions. It assumes no prior knowledge of programming at all. If you can work a VCR or post a Facebook status you are already ahead of the requirements.
 
 "_How much will this heady extravaganza set me back?_" you ask. We're trialling an odd way of doing things. The course will be $200, but if you pass the whole thing you get $200 back! Also, like a Sydney bus, if you tap off after the first half you get $100 back. This seems like lunacy, but we'll see.
+
+You'll need your own laptop and the ability to install things. The course is taught on a virtual machine which keeps the course stuff separate to the rest of your computer. BVN has wifi
 
 If you want to be a part of this great adventure then sign up here: [make a sign up page, or just a paypal button maybe!]
