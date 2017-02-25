@@ -35,13 +35,7 @@ It'll be taught by [Ben Doherty](https://notionparallax.co.uk/). It'll be a mirr
 
 You'll need your own laptop and the ability to install things. The course is taught on a virtual machine which keeps the course stuff separate to the rest of your computer.
 
-Here's a summary of the exact details:
-* 13 classes that will teach you how to use the basics of python.
-* 6pm--8:30pm on Tuesdays.
-* Pay up front, get the money back if you complete the course.
-* Get $100 back if you stop at the half way point.
-* [Course outline here](https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline).
-
+<figure class="half-width right">
 If you have any questions then ask in the comments below, email me (ben&commat;notionparallax.co.uk) or phone me 0403 866 250 <small>(although I'm not very good with phone calls)</small>.
 
 If you want to be a part of this great adventure then sign up here:
@@ -52,3 +46,11 @@ If you want to be a part of this great adventure then sign up here:
 <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
 </form>
+</figure>
+
+Here's a summary of the exact details:
+* 13 classes that will teach you how to use the basics of python.
+* 6pm--8:30pm on Tuesdays.
+* Pay up front, get the money back if you complete the course.
+* Get $100 back if you stop at the half way point.
+* [Course outline here](https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline).
