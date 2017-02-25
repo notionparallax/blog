@@ -36,7 +36,7 @@ It'll be taught by [Ben Doherty](https://notionparallax.co.uk/). It'll be a mirr
 You'll need your own laptop and the ability to install things. The course is taught on a virtual machine which keeps the course stuff separate to the rest of your computer.
 
 <figure class="half-width right">
-If you have any questions then ask in the comments below, email me (ben&commat;notionparallax.co.uk) or phone me 0403 866 250 <small>(although I'm not very good with phone calls)</small>.
+If you have any questions then ask in the comments below, email me (ben@notionparallax.co.uk) or phone me 0403 866 250 <small>(although I'm not very good with phone calls)</small>.
 
 If you want to be a part of this great adventure then sign up here:
 
