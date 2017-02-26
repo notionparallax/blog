@@ -19,4 +19,11 @@ twitter-body:
 featuredimg:
 ---
 
-TODO: write a welcome message.
+Hello!
+I'm glad you've signed up for this course. It's going to be fun.
+
+To prepare for the course you don't really need to _do_ anything just yet. If you are a super keen bean, you can install (virtualbox)[https://www.virtualbox.org/wiki/Downloads] ready for the first class.
+
+If you are _still_ keen, you could make a start on some of the (reading)[https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline#lectures].
+
+Otherwise, just take it easy, reorganise your calendar to give yourself some free time, and I'll see you on the 14<sup>th</sup>.
