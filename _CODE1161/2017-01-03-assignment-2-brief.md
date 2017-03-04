@@ -43,7 +43,6 @@ Here's a list of possible topics for you to pick from:
 
 <div class="maybe-columns">
 
-* <em>j</em>if vs <em>g</em>if
 * 40%, 60% or full sized keyboard?
 * Agile vs waterfall
 * Camel vs snake
@@ -52,6 +51,7 @@ Here's a list of possible topics for you to pick from:
 * Double space after a full stop
 * IDE vs text editor
 * Imperative vs functional
+* <em>j</em>if vs <em>g</em>if
 * Long variable/object names versus short and/or abbreviated names
 * Mountain Dew versus Coffee
 * Newbs vs noobs vs n00bs
@@ -62,6 +62,7 @@ Here's a list of possible topics for you to pick from:
 * Tabs vs Spaces
 * Vi vs Emacs
 * Why python's lambda is bad or good
+* Working naked?
 
 </div>
 
