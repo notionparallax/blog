@@ -55,7 +55,7 @@ Here's a list of possible topics for you to pick from:
 * Long variable/object names versus short and/or abbreviated names
 * Mountain Dew versus Coffee
 * Newbs vs noobs vs n00bs
-* One True Brace vs K&R
+* One True Brace vs K&R vs Allman
 * Pair programming or not?
 * Semicolons, yes or no
 * Standing vs sitting vs treadmill
