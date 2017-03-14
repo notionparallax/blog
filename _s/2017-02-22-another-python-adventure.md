@@ -56,10 +56,11 @@ If you want to be a part of this great adventure then sign up here:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="79S7AZF7Z7YKC">
+<input type="hidden" name="hosted_button_id" value="ET625PCX3HG38">
 <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 </figure>
 
 Here's a summary of the exact details:
