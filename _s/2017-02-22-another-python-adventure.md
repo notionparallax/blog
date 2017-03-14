@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Python adventure
-date: 2017-02-22 00:00:00 AEST
+title: Another Python adventure
+date: 2017-03-14 00:00:00 AEST
 type: post
 published: true
 status: publish
@@ -19,13 +19,27 @@ twitter-body:
 featuredimg:
 ---
 
+> Hi everyone!
+>
+> Below is the text from the recruitment drive from the first band of brave snake charmers. We had such a good response that I've decided to run it again. This time we'll have a good chunk of experience at running the course, so we're going to see if we can get it done in only 10 weeks!
+>
+> The idea is that we'll have ironed out lots of the bugs, found the best analogies, etc. and we'll be able to get the info into your brain really efficiently.
+>
+> Same deal as last time:
+> * 14 spots
+> * $200
+> * $100 back if you make it to week 7 and pass everything
+> * $200 back if you pass the whole course.
+>
+> Looking forward to seeing another 14 keen [snek](http://i2.kym-cdn.com/photos/images/original/001/096/013/02d.jpg) charmers!
+
 You've heard about the power of Python. Perhaps you think that it comes from a big snake. :snake: Perhaps you know that it's actually a programming language, but quite what that means you aren't sure. Maybe you've even marvelled at someone wielding it's immense power and wished that you could be a little bit more like them.
 
 If you are one of a lucky band of 14 brave, snake charming, proto-nerds then you can learn the secrets of the giant snake!
 
 The [Sydney Computational Design Group](https://www.meetup.com/Sydney-computational-design-group/) is trying something new. We're going to run a Python course to teach the skills you'll need to start taking charge of the world around you with code.
 
-The course will run on Tuesday evenings, from 6--8:30. It'll be at [BVN's studio](https://goo.gl/maps/DHHBXW4FGyn). It'll start on the 14<sup>th</sup> of March and run for 14 weeks, with a week off in week 7. (You can also stop at that point if you need your Tuesdays back.)
+The course will run on Tuesday evenings, from 6--8:30. It'll be at [BVN's studio](https://goo.gl/maps/DHHBXW4FGyn). It'll start on the ~~14<sup>th</sup> of March~~ 3<sup>rd</sup> of April and run for ~~14~~ 10 weeks, with a ~~week off in week 7~~. (You can also stop at that point if you need your Mondays~~Tuesdays~~ back.)
 
 The course will be in two halves. The first part will be about learning the language, and how to use it. The second half will apply it to an urban-scale, open-data project.
 
@@ -49,8 +63,8 @@ If you want to be a part of this great adventure then sign up here:
 </figure>
 
 Here's a summary of the exact details:
-* 13 classes that will teach you how to use the basics of python.
-* 6pm--8:30pm on Tuesdays.
+* ~~13~~ 10 classes that will teach you how to use the basics of python.
+* 6pm--8:30pm on ~~Tuesdays~~ Mondays.
 * Pay up front, get the money back if you complete the course.
 * Get $100 back if you stop at the half way point.
 * [Course outline here](https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline).
