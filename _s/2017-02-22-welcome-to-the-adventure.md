@@ -22,8 +22,16 @@ featuredimg:
 Hello!
 I'm glad you've signed up for this course. It's going to be fun.
 
-To prepare for the course you don't really need to _do_ anything just yet. If you are a super keen bean, you can install (virtualbox)[https://www.virtualbox.org/wiki/Downloads] ready for the first class.
+To prepare for the course you don't really need to _do_ anything just yet. If you are a super keen bean, you can install [virtualbox](https://www.virtualbox.org/wiki/Downloads)[^1] ready for the first class.
 
-If you are _still_ keen, you could make a start on some of the (reading)[https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline#lectures].
+[^1]: if your laptop is a work one, check with your IT bods that virtualisation will work. Some laptops---Lenovo and HP are prime ones for this---and if you are on your own machine then it's easy to change, but if you are on a work computer there might be a bios password that you don't have. Better to be safe than sorry.
 
-Otherwise, just take it easy, reorganise your calendar to give yourself some free time, and I'll see you on the 14<sup>th</sup>.
+If you are _still_ keen, you could make a start on some of the [reading](https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline#lectures).
+
+You could also get an account with these guys:
+
+1. [GitHub](https://github.com/)
+2. [Stackoverflow](http://stackoverflow.com/)
+3. [Medium](https://medium.com/)
+
+Otherwise, just take it easy, reorganise your calendar to give yourself some free time, and I'll see you on the 3<sup>rd</sup> of April.
