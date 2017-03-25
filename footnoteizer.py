@@ -14,14 +14,14 @@ for filename in os.listdir(dirname):
                 fileFootnotes.append([i, m.group(0)])
                 # Example: replace 'sat' with 'slept'
                 line = line[:m.start()] + "[^"+str(i)+"]" + line[m.end():]
-                i=i+1
+                i = i + 1
                 found = True
             if found:
-            	f.write(line)
+                f.write(line)
 
         if len(fileFootnotes):
-        	f.write("\n\n")
-        	for note in fileFootnotes:
-        		actualFootnote = "[^"+str(note[0])+"]: "+note[1][4:-1]+"\n\n"
-        		print actualFootnote
-        		f.write(actualFootnote)
+            f.write("\n\n")
+            for note in fileFootnotes:
+                actualFootnote = "[^"+str(note[0])+"]: "+note[1][4:-1]+"\n\n"
+                print actualFootnote
+                f.write(actualFootnote)
