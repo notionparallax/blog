@@ -23,25 +23,23 @@ featuredimg:
 
 # all values
 
-1. Acceptance
 1. Accomplishment
 1. Accuracy
 1. Achievement
 1. Adaptability
 1. Adventure
-1. Aesthetics
-1. Altruism
 1. Authenticity
 1. Authority
+1. Change and Variety
 1. Autonomy
+1. Challenge
 1. Balance
 1. Beauty
 1. Belonging
-1. Challenge
-1. Change and Variety
 1. Choice
 1. Collaboration
 1. Commitment
+1. Acceptance
 1. Communication
 1. Community
 1. Compassion
@@ -52,6 +50,8 @@ featuredimg:
 1. Courage
 1. Creativity
 1. Education
+1. Aesthetics
+1. Altruism
 1. Empowerment
 1. Entrepreneurship
 1. Equality
@@ -61,15 +61,19 @@ featuredimg:
 1. Fairness
 1. Faith
 1. Fame
+1. Intellectual Stimulation
 1. Family
 1. Financial Security
 1. Flexibility
 1. Freedom
+1. Making a difference
 1. Friendship
 1. Fun
+1. Knowledge
 1. Giving
 1. Happiness
 1. Harmony
+1. Learning
 1. Health
 1. Helping Others
 1. High Income
@@ -79,19 +83,15 @@ featuredimg:
 1. Independence
 1. Influence
 1. Integrity
-1. Intellectual Stimulation
+1. Job Satisfaction
 1. Intimacy
 1. Intuition
-1. Job Satisfaction
 1. Joy
 1. Justice
 1. Kindness
-1. Knowledge
 1. Leadership
-1. Learning
 1. Leisure
 1. Love
 1. Loyalty
-1. Making a difference
 1. Nature
 1. Order
