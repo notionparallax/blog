@@ -9,7 +9,7 @@ categories: []
 tags: []
 
 #this goes on the index page, and into facebook shares
-description: Course admin and a tiny bit of syntax
+description: How to post to Medium, and add it to the publication
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
