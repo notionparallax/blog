@@ -31,9 +31,6 @@ article.post ol {
 
 
 
-
-> "a lot of trying to find novel ways to do usually banal things" CO - 2017-05-07
-
 # all values
 
 1.  Intellectual Stimulation
@@ -109,3 +106,6 @@ article.post ol {
 1.  Love
 1.  Loyalty
 1.  Order
+
+
+> "a lot of trying to find novel ways to do usually banal things" CO - 2017-05-07
