@@ -50,7 +50,7 @@ article.post ol {
 1.  Fun
 1.  Communication
 1.  Nature
-2.  ---- below this line is still un-picked | above this line is _somewhat_ ordered
+2.  *below this line is still un-picked --- above this line is _somewhat_ ordered*
 1.  Accomplishment
 1.  Accuracy
 1.  Comradeship
