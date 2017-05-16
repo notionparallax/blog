@@ -50,6 +50,8 @@ article.post ol {
 1.  Fun
 1.  Communication
 1.  Nature
+1.  Influence
+1.  Empowerment
 2.  *below this line is still un-picked --- above this line is _somewhat_ ordered*
 1.  Accomplishment
 1.  Accuracy
@@ -67,7 +69,6 @@ article.post ol {
 1.  Collaboration
 1.  Authority
 1.  Job Satisfaction
-1.  Empowerment
 1.  Acceptance
 1.  Commitment
 1.  Compassion
@@ -94,7 +95,6 @@ article.post ol {
 1.  High Income
 1.  Harmony
 1.  Independence
-1.  Influence
 1.  Integrity
 1.  Intimacy
 1.  Intuition
