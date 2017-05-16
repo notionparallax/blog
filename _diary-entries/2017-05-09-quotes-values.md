@@ -18,6 +18,19 @@ twitter-body:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg:
 ---
+<style>
+article.post li {
+    margin-bottom: 0;
+    font-size: 80%;
+    column-width:10em;
+}
+article.post ol {
+  column-width:10em;
+}
+</style>
+
+
+
 
 > "a lot of trying to find novel ways to do usually banal things" CO - 2017-05-07
 
