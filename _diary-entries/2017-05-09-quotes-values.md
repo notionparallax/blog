@@ -35,14 +35,14 @@ article.post ol {
 
 1.  Intellectual Stimulation
 1.  Imagination
-1.  Helping Others
 1.  Making a difference
-1.  Adventure
+1.  Helping Others
 1.  Learning
+1.  Adventure
 1.  Challenge
-1.  Community
 1.  Education
 1.  Change and Variety
+1.  Community
 1.  Excitement
 1.  Flexibility
 1.  Humour
@@ -107,5 +107,69 @@ article.post ol {
 1.  Loyalty
 1.  Order
 
+# quotes about me
 
 > "a lot of trying to find novel ways to do usually banal things" CO - 2017-05-07
+
+
+# How they are related
+
+<iframe src="http://arborjs.org/halfviz/#/MTEyNDU">
+</iframe>
+
+{color:yellow}
+values
+{color:blue}
+values--Intellectual Stimulation
+values--Imagination
+values--Making a difference
+values--Helping Others
+values--Learning
+values--Adventure
+values--Challenge
+values--Education
+values--Change and Variety
+values--Community
+values--Excitement
+values--Flexibility
+values--Humour
+values--Health
+values--Fun
+values--Communication
+values--Nature
+values--Influence
+values--Empowerment
+
+Nature--Adventure
+Excitement--Adventure
+Humour--Fun
+Communication--Education
+Flexibility--Change and Variety
+Health--Adventure
+Flexibility--Adventure
+
+{color:red}
+Making a difference->Teaching
+Helping Others->Teaching
+Empowerment->Teaching
+Influence->Teaching
+Learning->Teaching
+Intellectual Stimulation--Learning
+Intellectual Stimulation--Challenge
+
+{color:green}
+Teaching->Python courses
+Teaching->UNSW
+
+Community->compDesGrp
+
+Nature->Mountains
+Adventure->Mountains
+Challenge->Mountains
+
+Intellectual Stimulation->Programming
+Challenge->Programming
+Intellectual Stimulation->Writing
+Challenge->Writing
+Imagination->Writing
+Communication->Writing
