@@ -31,6 +31,9 @@ article.post ol {
   font-family: monospace;
   font-size:50%;
 }
+iframe {
+    width: 100%;
+}
 </style>
 
 
@@ -120,6 +123,10 @@ article.post ol {
 
 <iframe src="http://arborjs.org/halfviz/#/MTEyNjA">
 </iframe>
+
+[The iframe is blocked, so you need to visit this link](http://arborjs.org/halfviz/#/MTEyNjA)
+
+This is a bit hard to read, but if you stir it to explore how it goes together it's a bit easier.
 
 <div class="graph-spec">
 {color:yellow}
