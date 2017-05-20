@@ -27,6 +27,10 @@ article.post li {
 article.post ol {
   column-width:10em;
 }
+.graph-spec {
+  font-family: monospace;
+  font-size:50%;
+}
 </style>
 
 
@@ -114,12 +118,16 @@ article.post ol {
 
 # How they are related
 
-<iframe src="http://arborjs.org/halfviz/#/MTEyNDU">
+<iframe src="http://arborjs.org/halfviz/#/MTEyNjA">
 </iframe>
 
+<div class="graph-spec">
 {color:yellow}
-values
+values {shape:dot}
+
+; Why
 {color:blue}
+-> {color:white}
 values--Intellectual Stimulation
 values--Imagination
 values--Making a difference
@@ -139,6 +147,11 @@ values--Communication
 values--Nature
 values--Influence
 values--Empowerment
+values--Mastery
+values--Competence
+
+; How
+-> {color:silver ,weight:3}
 
 Nature--Adventure
 Excitement--Adventure
@@ -146,30 +159,135 @@ Humour--Fun
 Communication--Education
 Flexibility--Change and Variety
 Health--Adventure
+Fun--Adventure
 Flexibility--Adventure
+Intellectual Stimulation--Learning
+Intellectual Stimulation--Challenge
+Communication--Helping Others
+Teaching--Competence
 
+; What
 {color:red}
 Making a difference->Teaching
 Helping Others->Teaching
 Empowerment->Teaching
 Influence->Teaching
 Learning->Teaching
-Intellectual Stimulation--Learning
-Intellectual Stimulation--Challenge
+Humour->Teaching
 
-{color:green}
-Teaching->Python courses
-Teaching->UNSW
+Making a difference->Prototyping
+Programming--Prototyping
+Decision making--Prototyping
+Cooking--Prototyping
 
-Community->compDesGrp
+Prototyping->Electronics
+Helping Others->Inclusivity
+Influence->Writing
 
-Nature->Mountains
-Adventure->Mountains
-Challenge->Mountains
 
+Programming--Teaching
 Intellectual Stimulation->Programming
+Intellectual Stimulation->Reading
+Reading->Imagination
+Intellectual Stimulation->Cooking
+Mastery->Cooking
 Challenge->Programming
 Intellectual Stimulation->Writing
 Challenge->Writing
 Imagination->Writing
 Communication->Writing
+Making a difference->Process optimisation
+Intellectual Stimulation->Decision making
+
+{color:green}
+Teaching->Python courses
+Teaching->UNSW
+Teaching->USYD
+
+
+Process optimisation->Appraisals
+Programming->Appraisals
+Decision making->Data analysis
+Competence->Data analysis
+Decision making->Data Gathering
+Data Gathering->Data analysis
+Helping Others->Data Gathering
+Inclusivity->Data Gathering
+Data Gathering->Electronics
+
+Community->compDesGrp
+Community->BVN
+Community->Gym
+Community->Global Arch Nerds
+Health->Gym
+
+Nature->Mountains
+Adventure->Mountains
+Challenge->Mountains
+
+Nature->Canada
+Adventure->Canada
+Mountains--Canada
+
+Imagination->Daydreaming
+Daydreaming->Future worlds
+Reading->Future worlds
+
+Writing->NP blog
+Writing->Tropos
+Communication->Tropos
+Communication->Slack
+Communication->Toast masters
+BVN--Tropos
+Tropos--Making a difference
+
+Adventure->Solo trips
+Adventure->trips with friends
+
+Flexibility->4 day week
+
+
+Reading->50 books a year
+Reading->Pocket articles
+Cooking->Cook all of chefsteps
+Python courses->Automatic marking
+Programming->Automatic marking
+Process optimisation->Automatic marking
+Cooking->Batch food prep
+Health->Batch food prep
+Community->Sydney family people
+Cooking->Sydney family people
+
+;Past projects
+Imagination->Futures forum
+Futures forum--Competence
+Competence->Commons Voting
+Prototyping->Commons Voting
+Commons--Commons Voting
+Influence->Commons
+
+
+;Current Projects
+Decision making->AI room layout
+Decision making->Sensicorn data analysis
+Intellectual Stimulation->AI room layout
+Imagination->AI room layout
+Empowerment->AI room layout ;by removing dull work
+Sensing->New fitout power
+Sensing->New fitout lighting
+Sensing->V2 sensor stick
+Electronics->Sensing
+Data Gathering->Sensing
+
+;Things I rant about
+Inclusivity->Data openness
+GitHub Documents--Data openness
+Making a difference->Remote first work
+Flexibility->Working at < 100%
+
+Electronics->Keyboards
+Fun->Keyboards
+Mastery->Omlettes
+Cooking->Omlettes
+
+</div>
