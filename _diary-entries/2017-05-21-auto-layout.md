@@ -86,10 +86,12 @@ Results are targeted at games development, not sure if they are good enough for 
 
 Simulated annealing appears to be a good approach to this optimisation-style strategy. If we think of this as a multi stage approach, this might be a good way of doing the last bit (actual arrangement)
 
-<iframe src="https://www.youtube.com/watch?v=vlDoSv6uDKQ">
+<iframe src="https://www.youtube.com/embed/vlDoSv6uDKQ" frameborder="0" allowfullscreen>
 </iframe>
 
-<iframe src="https://www.youtube.com/watch?v=AHwr9MzCMKg">
+Also, on a similar theme:
+
+<iframe src="https://www.youtube.com/embed/AHwr9MzCMKg" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Intelligent critic system for architectural design
