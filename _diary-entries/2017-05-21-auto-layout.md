@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An exploration of my values
+title: Altspace automatic test fits
 date: 2017-05-09 00:00:00 AEST
 type: post
 published: true
