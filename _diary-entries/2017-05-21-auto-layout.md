@@ -68,11 +68,40 @@ What do we actually want to know?
 
 Then do an observed activity, with them narrating and me asking why a lot. Probably just laying out an altspace space.
 
-# review of papers and products
+# Review of papers and products
 
 ## Interactive Furniture Layout Using Interior Design Guidelines
 
 * Merrell, P., Schkufza, E., Li, Z., Agrawala, M., Koltun, V. **2011**. *Interactive Furniture Layout Using Interior Design Guidelines.* ACM Trans. Graph. 30, 4, Article 87 (July 2011), 9 pages. [DOI=10.1145/1964921.1964982](http://doi.acm.org/10.1145/1964921.1964982)
+
+This seems like a good idea, provide support for designers, rather than dictating ideas.
+
+Paper is very mathematically expressed. (Which made it a bit tricky for me to understand everything quickly.)
+
+<figure class="half-width right">
+![](http://4.bp.blogspot.com/_7C47xzBkV5Q/Sp5yeB_b65I/AAAAAAAAG-s/cPNJioe3yPQ/s320/afid2.jpg)
+<figcaption>
+They have explicitly taken interior design guidelines from [Anatomy for interior designers](https://www.amazon.com/Anatomy-Interior-Designers-Julius-Panero/dp/0823070263)
+</figcaption>
+</figure>
+
+They use the configuration space to decide where you can walk. We've done a bit of this before with SQ&AT, but with furniture it migh tbe different to walls, I'd be happy brushing a leg against a stool, but not a wall. (Worth thinking about.)
+
+They have a concept of 'focal point' which positively weights being able to view something like a fireplace.
+
+There is also a concept of conversation, chair-occupants that might be able to talk to each other should be within a radius.
+
+They use simulated annealing to run the optimisation. They put a lot of effort into computational performance.
+
+They ran a study to see if people preferred assisted layout to fully manual mode. in most cases there is a moderate to weak preference.
+
+<figure class="half-width right">
+![ratios of preference]({{ site.baseurl }}/assets/17/assistedPreference.png)
+</figure>
+
+Similarly to _Make it home_, this approach requires explicit definition of pairwise relationships between furniture. This seems to result in fairly predictable structures that just move about in the space. E.g. sofa next to coffee table. What I'm less sure about is if this is a problem. We are generally fine with cad-blocks of sofas and coffee tables, or beds and bedside tables; this is just more of the same, but a bit more adaptive.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xu7CUP9OQY8" frameborder="0" allowfullscreen></iframe>
 
 ## Make it Home: Automatic Optimization of Furniture Arrangement
 * Yu, L., Yeung, S., Tang, C., Terzopoulos, D., Chan, T., Osher, S. **2011**. *Make it Home: Automatic Optimization of Furniture Arrangement.* ACM Trans. Graph. 30, 4, Article 86 (July 2011), 11 pages. [DOI=10.1145/1964921.1964981](http://doi.acm.org/10.1145/1964921.1964981).
@@ -100,12 +129,116 @@ Simulated annealing appears to be a good approach to this optimisation-style str
 <iframe src="https://www.youtube.com/embed/vlDoSv6uDKQ" frameborder="0" allowfullscreen>
 </iframe>
 
-Also, on a similar theme:
-
-<iframe src="https://www.youtube.com/embed/AHwr9MzCMKg" frameborder="0" allowfullscreen>
-</iframe>
 
 ## Intelligent critic system for architectural design
 
 
 ## [floored.com](http://www.floored.com/plans/)
+
+Floored were a technology company that did a couple of things, they sold to CBRE. The CBRE press release about the acquisition describes those things as:
+
+>Floored’s two main existing SaaS products are:
+> * Protofit, which allows users to visualize and edit floor plans in 2D and 3D (including accurate external window views from each floor) and to create customized space layouts in real-time.  Protofit, which is being rebranded as Floored Plans, has been utilized in over 65 million sq. ft. of properties.
+> * Luma, which enables a high-quality, interactive, next-generation customized 3D “walk-through” experience for new, unbuilt and repositioned spaces. This technology has been used to visualize space from project concept and design all the way through leasing and marketing efforts and is now being re-branded as Floored Build.
+
+It's a bit hard to see what the state of things is now as they've been pretty quiet since joining CBRE (as far as I can tell).
+
+It seems like the two products they have now are:
+
+> [Floored Build](http://www.floored.com/build/). A bespoke, videogame-like experience for real estate professionals.
+
+> [Floored Plans](http://www.floored.com/plans/). A breakthrough marketing and leasing tool for office space.
+
+#### Summary of their site:
+---
+##### Floored Plans. A breakthrough marketing and leasing tool for office space.
+Smart, interactive floor plans in 2D and 3D.
+
+Floored Plans puts you in control of your leasing process. Create unlimited layouts, customized for each prospect. Be an expert on every property with live metrics and measurements.
+And wow prospects with one-click, immersive 3D walkthroughs complete with accurate panoramic views from every floor.
+
+*   Share and track
+    Share test fits with your prospects and they’ll be able to customize the space for themselves. Then, visit the Sent Spaces dashboard to track activity and gauge interest. See how tenants customize the space, how long they spend on the page, and more.
+
+*   Edit test fits
+    Turn around most changes in seconds with simple tools. Floored Plans complies with code and makes architect-approved layout decisions.
+
+*   **Interactive measurements**
+    Zoom in to see the measurements of any room in your plans right from your browser. It’s more convenient and more accurate than a step-count guesstimate.
+
+*   **Floored Plans 3D**
+    With one click, instantly turn any floor plan into a fully interactive 3D tour. Show tenants not just how they’ll fit, but how they’ll live in the space.
+
+*   **Panoramic Views**
+    Look out the window of any 3D space and you’ll find accurate views. Plans automatically pull the latest images from Google Earth.
+
+
+1.  **Send Floored your architectural files**
+    We convert your CAD into smart, simple, online plans, making your space available from any browser.
+
+2.  **Customize a plan**
+    Start with as-built conditions or a Floored-supplied template like “Legal Office” or “Open Plan.” Then, customize the layout to your tenants’ needs in seconds.
+
+3.  **Be an Expert**
+    Provide accurate headcount and measurements, and give tenants a feel for the space with an interactive 3D tour.
+
+4.  **Share**
+    Send a link to any layout or 3D tour, or print a PDF.
+
+---
+
+This has all now been rolled into [CBRE Vantage](http://www.cbre.com/about/tech-vantage) (worth a look!)
+<figure class="half-width right">
+> CBRE brokers now use Floored’s products to help clients who are looking for new office space virtually “walk” through a potential location they are vetting; ...The technology is meant to save the brokerage’s clients up to hundreds of thousands of dollars in architectural costs and countless hours they would normally spend physically touring spaces.
+
+<figcaption>
+From [Floored to Ceiling: Inside CBRE’s Tech Revolution, Led by David Eisenberg](https://commercialobserver.com/2017/04/a-look-inside-cbres-tech-revolution-led-by-david-eisenberg/)
+</figcaption>
+</figure>
+
+They seem to have stopped talking about automatic testfits, before they had a product called protofit that was looking into this. There isn't any proof that it's AI though (it might just be concierged). They might have pivoted away from test fits because it's hard, or because the market size isn't big enough?
+
+What they were doing before:
+
+
+http://www.floored.com/protofit returns a 404
+
+[introducing protofit tenant](http://www.floored.com/blog/introducing-protofit-tenants/)
+
+[Introducing Protofit: Test Fits Finally Made Simple](http://www.floored.com/blog/introducing-protofit/)
+
+There is also the possibility that protofit never really did automatic layouts, but it was just the demented rantings of either a journalist or myself.
+
+<figure class="half-width right">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8G1Ukdz1-8" frameborder="0" allowfullscreen>
+</iframe>
+<figcaption>
+This video seems to say that they _do_ have some automation, but it's not clear what it is, or if they ever actually finished building it. (From 17 Apr 2015)
+</figcaption>
+</figure>
+
+[](https://medium.com/cre-tech/space-hq-announces-it-s-platform-is-now-powered-by-floored-s-protofit-technology-4d21100d7dd9)
+
+https://medium.com/cre-tech/space-hq-is-on-product-hunt-custom-48-hour-test-fits-for-the-workplace-79ea3032eca8 points to http://spacehq.co/testfits.html, but that's expired, but http://spacehq.co/ still works. Most likely the test fit part is now subsumed into their main product.
+
+# [Project Fractal]()
+
+* [1]( http://insidethefactory.typepad.com/thebuildinglab/2016/01/project-fractal-part-1-out-of-akaba.html)
+* [2]( http://insidethefactory.typepad.com/thebuildinglab/2016/02/project-fractal-part-2-you-know-what-we-did-last-summer.html)
+* [3]( http://insidethefactory.typepad.com/thebuildinglab/2016/02/project-fractal-part-3-from-akaba-to-fractal.html)
+* [4](http://insidethefactory.typepad.com/thebuildinglab/2016/03/project-fractal-practice-partners.html)
+
+
+# nice, but unrelated quotes
+<figure>
+
+> What remains hard is modeling. The structure inherent in three-dimensional models is difficult for people to grasp and difficult too for user interfaces to reveal and manipulate. Only the determined model three dimensional objects, and they rarely invent a shape at a computer, but only record a shape so that analysis or manufacturing can proceed. The grand challenges in three-dimensional graphics are to make simple modeling easy and to make complex modeling accessible to far more people.
+
+<figcaption>
+Robert F. Sproull 1990. Parts of the frontier are hard to move.
+_Computer Graphics_ 24, 2, 9
+</figcaption>
+</figure>
+
+<iframe src="https://www.youtube.com/embed/AHwr9MzCMKg" frameborder="0" allowfullscreen>
+</iframe>
