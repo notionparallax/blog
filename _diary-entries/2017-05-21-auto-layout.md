@@ -200,6 +200,10 @@ They seem to have stopped talking about automatic testfits, before they had a pr
 
 What they were doing before:
 
+<figure class="half-width right">
+<iframe src="https://player.vimeo.com/video/138914937" width="500" height="281" frameborder="0" title="Protofit" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+</iframe>
+</figure>
 
 http://www.floored.com/protofit returns a 404
 
@@ -217,17 +221,25 @@ This video seems to say that they _do_ have some automation, but it's not clear 
 </figcaption>
 </figure>
 
-[](https://medium.com/cre-tech/space-hq-announces-it-s-platform-is-now-powered-by-floored-s-protofit-technology-4d21100d7dd9)
+[Space HQ Announces It’s Platform Is Now Powered By Floored’s PROTOFIT Technology](https://medium.com/cre-tech/space-hq-announces-it-s-platform-is-now-powered-by-floored-s-protofit-technology-4d21100d7dd9)
 
-https://medium.com/cre-tech/space-hq-is-on-product-hunt-custom-48-hour-test-fits-for-the-workplace-79ea3032eca8 points to http://spacehq.co/testfits.html, but that's expired, but http://spacehq.co/ still works. Most likely the test fit part is now subsumed into their main product.
+(Space HQ is On Product Hunt — Custom 48 Hour Test Fits for the Workplace)[https://medium.com/cre-tech/space-hq-is-on-product-hunt-custom-48-hour-test-fits-for-the-workplace-79ea3032eca8] points to http://spacehq.co/testfits.html, but that's expired, but http://spacehq.co/ still works. Most likely the test fit part is now subsumed into their main product. It looks quite similar to alt space, it'd be worth figuring out what the difference actually is.
 
-# [Project Fractal]()
+> Space HQ is proud to announce that we are offering 48 hour test fits for the workplace
 
-* [1]( http://insidethefactory.typepad.com/thebuildinglab/2016/01/project-fractal-part-1-out-of-akaba.html)
-* [2]( http://insidethefactory.typepad.com/thebuildinglab/2016/02/project-fractal-part-2-you-know-what-we-did-last-summer.html)
-* [3]( http://insidethefactory.typepad.com/thebuildinglab/2016/02/project-fractal-part-3-from-akaba-to-fractal.html)
-* [4](http://insidethefactory.typepad.com/thebuildinglab/2016/03/project-fractal-practice-partners.html)
+Even if that isn't automated, if people are offering it then there's a good chance that the protofit software streamlined the process enough to make it possible.
 
+# Project Fractal
+
+[1](http://insidethefactory.typepad.com/thebuildinglab/2016/01/project-fractal-part-1-out-of-akaba.html)
+, [2](http://insidethefactory.typepad.com/thebuildinglab/2016/02/project-fractal-part-2-you-know-what-we-did-last-summer.html)
+, [3](http://insidethefactory.typepad.com/thebuildinglab/2016/02/project-fractal-part-3-from-akaba-to-fractal.html)
+, [4](http://insidethefactory.typepad.com/thebuildinglab/2016/03/project-fractal-practice-partners.html)
+
+
+# What is a test fit?
+
+[What is the difference between a Test Fit and a Space Plan?](http://watchdogpm.com/blog/what-is-the-difference-between-a-test-fit-a-space-plan/)
 
 # nice, but unrelated quotes
 <figure>
