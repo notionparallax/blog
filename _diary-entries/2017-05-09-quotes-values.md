@@ -129,16 +129,20 @@ iframe {
 This is a bit hard to read, but if you stir it to explore how it goes together it's a bit easier.
 
 <div class="graph-spec">
-{color:yellow}
+{color: yellow}
 values {shape:dot}
 
 ; Why
-{color:blue}
+{color: fuchsia}
 -> {color:white}
+values--Health
 values--Intellectual Stimulation
 values--Imagination
 values--Making a difference
 values--Helping Others
+values--Competence
+
+{color:blue}
 values--Learning
 values--Adventure
 values--Challenge
@@ -148,14 +152,12 @@ values--Community
 values--Excitement
 values--Flexibility
 values--Humour
-values--Health
 values--Fun
 values--Communication
 values--Nature
 values--Influence
 values--Empowerment
 values--Mastery
-values--Competence
 
 ; How
 -> {color:silver ,weight:3}
