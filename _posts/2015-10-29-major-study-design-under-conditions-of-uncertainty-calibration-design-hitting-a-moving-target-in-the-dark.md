@@ -2,7 +2,7 @@
 layout: post
 title: 'Major study: Design under conditions of uncertainty: Calibration, design &
  hitting a moving target in the dark'
-date: 2015-10-29 08:00:52.000000000 +11:00
+date: 2015-10-29 08:00:52 +11:00
 type: post
 published: true
 status: publish
@@ -10,15 +10,9 @@ categories: []
 tags:
 - major study
 - overconfidence
-- Oxford brookes
+- Oxford Brookes
 - psychology
-description:
-meta:
- _publicize_facebook_user: http://www.facebook.com/541400612
- _publicize_twitter_user: "@notionparallax"
- _post_restored_from: a:3:{s:20:"restored_revision_id";i:2236;s:16:"restored_by_user";i:1;s:13:"restored_time";i:1445986591;}
- _wpas_mess: 'Design under conditions of uncertainty: Calibration, design & hitting
- a moving target in the dark'
+description: My major study thesis, it explores architects' decision making calibration.
 
 ---
 <style type="text/css">
@@ -109,118 +103,119 @@ I'm a lot less arrogant in this than I was in 2005, but still more than I am now
 <img src="{{ site.baseurl }}/assets/front-page1.png" alt="front-page" />
 
 
-<h1><a name="_Toc260017668"></a>Design under conditions of uncertainty:<br />
-Calibration, design &amp; hitting a moving target in the dark</h1>
+# <a name="Toc260017668"></a>Design under conditions of uncertainty:<br />Calibration, design &amp; hitting a moving target in the dark
 
 Ben Doherty                    P30600                  26-04-2010               ben@notionparallax.co.uk
 
 This paper proposes that good calibration is important for good design. It shows a study which measures the calibration of architects with reference to a realm that is characterised by turbulence-inducing, rapidly evolving information– in this case building performance and legislation relating to the low carbon economy. Architects show substantial over-confidence on questions that they feel confident about answering and accordingly this paper offers some proposals that may help to alleviate the negatives effects of this.
 
 A Major Study presented to the Department of Architecture, Oxford Brookes University in part fulfilment of the regulations for the Diploma in Architecture.
-<h3><a name="_Toc260017669"></a>Statement of Originality</h3>
+
+### <a name="Toc260017669"></a>Statement of Originality
 
 This Major Study is an original piece of work which is made available for copying with permission of the Head of the Department of Architecture.
 
 Signed
-<h2>Table of Contents</h2>
+
+## Table of Contents
 <ul class="toc">
-<li><a href="#_Toc260017668">Design under conditions of uncertainty: Calibration, design &amp; hitting a moving target in the dark</a>
+<li><a href="#Toc260017668">Design under conditions of uncertainty: Calibration, design &amp; hitting a moving target in the dark</a>
 <ul>
-<li><a href="#_Toc260017669">Statement of Originality</a></li>
-<li><a href="#_Toc260017670">Acknowledgements</a></li>
+<li><a href="#Toc260017669">Statement of Originality</a></li>
+<li><a href="#Toc260017670">Acknowledgements</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017671">Introduction</a>
+<li><a href="#Toc260017671">Introduction</a>
 <ul>
-<li><a href="#_Toc260017672">Rationale and hypothesis</a></li>
-<li><a href="#_Toc260017673">Hypothesis</a></li>
-<li><a href="#_Toc260017674">Overcoming arrogance - what is the point of all this?</a>
+<li><a href="#Toc260017672">Rationale and hypothesis</a></li>
+<li><a href="#Toc260017673">Hypothesis</a></li>
+<li><a href="#Toc260017674">Overcoming arrogance - what is the point of all this?</a>
 <ul>
-<li><a href="#_Toc260017675">General reasons</a></li>
-<li><a href="#_Toc260017676">Specific reasons for architects</a></li>
-<li><a href="#_Toc260017677">Hitting a moving target</a></li>
+<li><a href="#Toc260017675">General reasons</a></li>
+<li><a href="#Toc260017676">Specific reasons for architects</a></li>
+<li><a href="#Toc260017677">Hitting a moving target</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017678">What is calibration?</a>
+<li><a href="#Toc260017678">What is calibration?</a>
 <ul>
-<li><a href="#_Toc260017679">A brief history of calibration studies</a></li>
-<li><a href="#_Toc260017680">Ignorance ≠ stupidity</a></li>
-<li><a href="#_Toc260017681">What constitutes the truth?</a></li>
+<li><a href="#Toc260017679">A brief history of calibration studies</a></li>
+<li><a href="#Toc260017680">Ignorance ≠ stupidity</a></li>
+<li><a href="#Toc260017681">What constitutes the truth?</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#_Toc260017682">Research Methodology</a>
+<li><a href="#Toc260017682">Research Methodology</a>
 <ul>
-<li><a href="#_Toc260017683">Method</a></li>
-<li><a href="#_Toc260017684">What kind of data do I hope to gather?</a></li>
-<li><a href="#_Toc260017685">Who to survey?</a></li>
-<li><a href="#_Toc260017686">Experimental design</a></li>
-<li><a href="#_Toc260017687">Subdividing the population</a></li>
-<li><a href="#_Toc260017688">Data security &amp; ethical considerations</a></li>
-<li><a href="#_Toc260017689">Buying time</a></li>
-<li><a href="#_Toc260017690">Question sources</a></li>
-<li><a href="#_Toc260017691">Question design</a></li>
+<li><a href="#Toc260017683">Method</a></li>
+<li><a href="#Toc260017684">What kind of data do I hope to gather?</a></li>
+<li><a href="#Toc260017685">Who to survey?</a></li>
+<li><a href="#Toc260017686">Experimental design</a></li>
+<li><a href="#Toc260017687">Subdividing the population</a></li>
+<li><a href="#Toc260017688">Data security &amp; ethical considerations</a></li>
+<li><a href="#Toc260017689">Buying time</a></li>
+<li><a href="#Toc260017690">Question sources</a></li>
+<li><a href="#Toc260017691">Question design</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017692">Example of interaction</a>
+<li><a href="#Toc260017692">Example of interaction</a>
 <ul>
-<li><a href="#_Toc260017693">Front page</a></li>
-<li><a href="#_Toc260017694">Gathering information about each subject</a></li>
-<li><a href="#_Toc260017695">Question asking stage</a></li>
-<li><a href="#_Toc260017696">Marking and graph stage</a></li>
-<li><a href="#_Toc260017697">Generation of new questions</a></li>
-<li><a href="#_Toc260017698">More information</a></li>
+<li><a href="#Toc260017693">Front page</a></li>
+<li><a href="#Toc260017694">Gathering information about each subject</a></li>
+<li><a href="#Toc260017695">Question asking stage</a></li>
+<li><a href="#Toc260017696">Marking and graph stage</a></li>
+<li><a href="#Toc260017697">Generation of new questions</a></li>
+<li><a href="#Toc260017698">More information</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017699">Limitations of research</a>
+<li><a href="#Toc260017699">Limitations of research</a>
 <ul>
-<li><a href="#_Toc260017700">What I’m not talking about</a></li>
-<li><a href="#_Toc260017701">Weaknesses in my skills</a></li>
-<li><a href="#_Toc260017702">Weaknesses in the methodology</a></li>
+<li><a href="#Toc260017700">What I’m not talking about</a></li>
+<li><a href="#Toc260017701">Weaknesses in my skills</a></li>
+<li><a href="#Toc260017702">Weaknesses in the methodology</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017703">Case study – Carbon Buzz</a>
+<li><a href="#Toc260017703">Case study – Carbon Buzz</a>
 <ul>
-<li><a href="#_Toc260017704">Process</a></li>
-<li><a href="#_Toc260017705">Results</a></li>
-<li><a href="#_Toc260017706">Reception</a></li>
-<li><a href="#_Toc260017707">Conclusion</a></li>
+<li><a href="#Toc260017704">Process</a></li>
+<li><a href="#Toc260017705">Results</a></li>
+<li><a href="#Toc260017706">Reception</a></li>
+<li><a href="#Toc260017707">Conclusion</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017708">Result analysis</a>
+<li><a href="#Toc260017708">Result analysis</a>
 <ul>
-<li><a href="#_Toc260017709">Accuracy</a></li>
-<li><a href="#_Toc260017710">Question difficulty</a></li>
-<li><a href="#_Toc260017711">General calibration</a></li>
-<li><a href="#_Toc260017712">Marketing</a></li>
+<li><a href="#Toc260017709">Accuracy</a></li>
+<li><a href="#Toc260017710">Question difficulty</a></li>
+<li><a href="#Toc260017711">General calibration</a></li>
+<li><a href="#Toc260017712">Marketing</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017713">Discussion</a>
+<li><a href="#Toc260017713">Discussion</a>
 <ul>
-<li><a href="#_Toc260017714">What do the results tell us?</a></li>
-<li><a href="#_Toc260017715">What went right?</a></li>
-<li><a href="#_Toc260017716">What went wrong?</a></li>
-<li><a href="#_Toc260017717">Further work</a></li>
-<li><a href="#_Toc260017718">Relaunch</a></li>
-<li><a href="#_Toc260017719">The moving target</a></li>
+<li><a href="#Toc260017714">What do the results tell us?</a></li>
+<li><a href="#Toc260017715">What went right?</a></li>
+<li><a href="#Toc260017716">What went wrong?</a></li>
+<li><a href="#Toc260017717">Further work</a></li>
+<li><a href="#Toc260017718">Relaunch</a></li>
+<li><a href="#Toc260017719">The moving target</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017720">Proposals</a>
+<li><a href="#Toc260017720">Proposals</a>
 <ul>
-<li><a href="#_Toc260017721">Empirical observation</a></li>
-<li><a href="#_Toc260017722">Checklists</a></li>
-<li><a href="#_Toc260017723">Calibration training</a></li>
-<li><a href="#_Toc260017724">Prediction markets</a></li>
-<li><a href="#_Toc260017725">Decision support systems</a></li>
+<li><a href="#Toc260017721">Empirical observation</a></li>
+<li><a href="#Toc260017722">Checklists</a></li>
+<li><a href="#Toc260017723">Calibration training</a></li>
+<li><a href="#Toc260017724">Prediction markets</a></li>
+<li><a href="#Toc260017725">Decision support systems</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017726">Conclusion</a>
+<li><a href="#Toc260017726">Conclusion</a>
 <ul>
-<li><a href="#_Toc260017727">Bibliography</a></li>
+<li><a href="#Toc260017727">Bibliography</a></li>
 </ul>
 </li>
-<li><a href="#_Toc260017728">Appendices</a>
+<li><a href="#Toc260017728">Appendices</a>
 <ul>
 <li><a href="http://notionparallax.co.uk/?p=2206">Question set</a></li>
 <li><a href="http://notionparallax.co.uk/?p=2207">data collected</a></li>
@@ -229,13 +224,16 @@ Signed
 </ul>
 </li>
 </ul>
-<h2><a name="_Toc260017670"></a>Acknowledgements</h2>
+
+## <a name="Toc260017670"></a>Acknowledgements
 
 A lot of people have shaped this work as it has progressed. I’d like to thank <a href="https://uk.linkedin.com/pub/dr-harriet-harriss/6/780/444">Harriet Harris</a>, <a href="http://architecture.brookes.ac.uk/staff/mattgaskin.html">Matt Gaskin</a> and <a href="http://www.igeatroiani.co.uk/">Igea Troiani</a> for tutoring me; I know that it must have been difficult as I have previously been described as unteachable. <a href="http://www.jerryravetz.co.uk/">Jerry Ravetz</a> and Peter Biddlestone provided invaluable, fascinating discussions early on; without them realising, they changed the direction of the work beyond recognition. <a href="https://www.linkedin.com/in/charlesaogilvie">Charles Ogilvie</a>, <a href="http://www.linkedin.com/profile/view?id=AAkAAAes7ccBGpExME2h3NMjNBy7ufaFJ5m9n2k&amp;authType=NAME_SEARCH&amp;authToken=c91B&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A128773575%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1445897961962%2Ctas%3ASophie%20Chis">Sophie Chisholm</a> and <a href="http://www.linkedin.com/profile/view?id=ADEAAAGcrnUBl8aJ91ad48waJtB8sT3Rtzw4eIk&amp;authType=NAME_SEARCH&amp;authToken=A21l&amp;locale=en_US&amp;srchid=2064751541445897985225&amp;srchindex=1&amp;srchtotal=1&amp;trk=vsrp_people_res_name&amp;trkInfo=VSRPsearchId%3A2064751541445897985225%2CVSRPtargetId%3A27045493%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH">Erika Ammerman</a> have provided endless technical advice, moral support and proof reading. <a href="http://www.linkedin.com/profile/view?id=AAkAAAAsX-QBHuSXgisHKuZQy35dlncpzg2iQGc&amp;authType=NAME_SEARCH&amp;authToken=yJ7x&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A2908132%2CauthType%3ANAME_SEARCH%2Cidx%3A1-2-2%2CtarId%3A1445898012198%2Ctas%3AJud">Judit Kimpian</a> has provided not only her time, wisdom and moral support, but also an insight to the workings of Carbon Buzz.
 
 Although a great many of my mistakes have been picked up by the diligent eyes of my friends, any that remain are entirely my own doing.
-<h1><a name="_Toc260017671"></a>Introduction</h1>
-<h3><a name="_Toc260017672"></a>Rationale and hypothesis</h3>
+
+# <a name="Toc260017671"></a>Introduction
+
+### <a name="Toc260017672"></a>Rationale and hypothesis
 
 Design emerged as a response to the rate of change exceeding the pace at which solutions could be found naturally, in an ‘unselfconscious way’ (Alexander, 1964). This increased rate of change means that design has become a conscious activity where solutions need to be actively sought.
 
@@ -329,25 +327,31 @@ This paper is in two parts. The first explains the method used to test designers
 
 Applications of this work could be found by designers wishing to reflect on their practice and allow this reflection to feed back into their design process. It also has uses for building simulation. As most buildings are prototypes, making verified models that we have an idea of how much confidence we ought to put into them will allow for our relationship with these prototypes to be more fruitful.
 <div class="hypothesis">
-<h2><a name="_Toc260017673"></a>Hypothesis</h2>
+
+## <a name="Toc260017673"></a>Hypothesis
 <p class="hypothesis">Designers are over-confident about the extent of their knowledge about renewable energy technology, building performance issues and associated legislation.</p>
 </div>
-<h2><a name="_Toc260017674"></a>Overcoming arrogance - what is the point of all this?</h2>
-<h3><a name="_Toc260017675"></a>General reasons</h3>
+
+## <a name="Toc260017674"></a>Overcoming arrogance - what is the point of all this?
+
+### <a name="Toc260017675"></a>General reasons
 
 <img src="{{ site.baseurl }}/assets/dip/image0061.png" alt="" />The most obvious example of why being well calibrated is desirable is in medicine. If you go to the doctor and present a certain set of symptoms, the doctor must decide if you have condition _a_ or condition _b_. If you have condition _a_, then you should receive the treatment for that, and if you have condition _b_, then the converse is true. In general, with your symptoms, you are better off having treatment _a_ if you are at least 40% sure that you have _a_, otherwise the treatment for _b_ is better. If your actual probability of having _a_ is 0.25, but your doctor assesses it as 0.45, then you will receive a less than ideal course of treatment.
 
 The above example shows how poor calibration can cause undesired effects in the critical region. If the _pay-off function_ is steep, as it is above, small errors in calibration can have really catastrophic effects.
 
 The other situation where being well calibrated is particularly desirable is where one is making a long chain of decisions, and each one depends on the outputs of the previous one. These sorts of errors can have very shallow pay-off functions, but the errors can multiply each other, leading to just as catastrophic consequences. This is just the kind of situation one finds oneself in in the design process, where a small decision at the beginning can have a huge impact on the ultimate result. For example, if one stacks bricks up with ±1° tolerance, and they are all biased 1° to the same side, then by the 180<sup>th</sup> brick there will be an arch when the instructions were for a column.
-<h3><a name="_Toc260017676"></a>Specific reasons for architects</h3>
+
+### Specific reasons for architects <a name="Toc260017676"></a>
 
 The prevailing paradigm is for architects to be the main point of contact with a client, and then any consultants being chosen and appointed by the architect where this is deemed necessary. The architect is then potentially in a position of considerable risk. They could choose inappropriate consultants, or chose not to appoint a consultant for some part of the process that they are either ignorant of their ignorance, or overconfident about their ability to do proficiently. They are also at risk of not making any profit if every part of the process is subcontracted to consultants, so there is a skill involved in being well calibrated in order to appoint consultants where necessary, and to take onboard the risk of doing the job themselves when it is felt that sufficient competence is available internally.
 
 Whether better calibration can result in better design is subject for another study. Apart from the challenge of finding an appropriate metric for this, it would require a much more in depth investigation.
 
 One area of design that could potentially benefit from better calibration is the relationship between architects and value engineers. This is often adversarial, but if appropriate realism<a href="#_ftn10" name="_ftnref10">[10]</a> was applied at the initial design stage then it might reduce the amount of ‘meat’ that gets cut out of projects in later stages. This does raise questions of curtailing aspiration, but it might well be another valuable investigation to make.
-<h3><a name="_Toc260017677"></a>Hitting a moving target</h3>
+
+### <a name="Toc260017677"></a>Hitting a moving target
+
 <figure class="quote">
 <blockquote>
 **The rules of the game**
@@ -363,7 +367,8 @@ With the constantly evolving nature of knowledge, there is inevitably a lag betw
 This means that we can never be completely confident in anything that we know, as it may well have been superseded by newer information that we are yet to turn into knowledge. A simple example of this is the value assigned to the 100 year radiative forcing potential (RFP) of methane (CH<sub>6</sub>). Radiative forcing potential is the effectiveness of a substance as a greenhouse gas compared to carbon dioxide (CO<sub>2</sub>) (CO<sub>2</sub> has an RFP of 1). In the 2003 IPCC (IPCC, 2003) report it was reported as 23, and this became quite widely held ‘common knowledge’, but in the 2007 report (IPCC, 2007) it was reported as 25<a href="#_ftn11" name="_ftnref11">[11]</a>. It is now over three years since the publication of the 2007 report, and it is not uncommon to hear 23 quoted as the RFP for methane.
 
 This is illustrated in the final section of the discussion chapter with an example of the rapid evolution of knowledge that actually happened while producing this study.
-<h2><a name="_Toc260017678"></a>What is calibration?</h2>
+
+## <a name="Toc260017678"></a>What is calibration?
 
 In the context of decision making, if a person makes a prediction, then when pressed they could also give a confidence in that prediction. If, over repeated judgements, that confidence correlates well with the frequency of those judgements being proven true, then that person is said to be well calibrated. Put another way, if I assign a 70% probability that I will be able to throw an apple core into the bin, and 70% of the time it goes in then I am well calibrated with regard to my apple core throwing abilities. If it goes in 100% of the time, then I am _under-confident_, if I miss most of the time and only get it in 40% of the time, then I am _over-confident_.
 
@@ -383,7 +388,8 @@ In the context of decision making, if a person makes a prediction, then when pre
 </figure>
 
 Many people will initially assign an intuitive prediction that bears little resemblance to the actual probability of correctness, i.e. “I have complete confidence that I am right” corresponds to a 100% confidence, or “I have no confidence (0%) in that answer”. When pushed a little further people tend to weigh up their confidence more carefully. This can often be done by offering some form or reward for providing an accurate assessment of the likelihood of correctness as in De Finetti's game (Aczel, 1989; Paran, 2008). The effects of people’s intuitive swing to the extremes of confidence are discussed in the discussion chapter.
-<h4>De Finetti's game</h4>
+
+#### De Finetti's game
 <figure class="quote finetti">
 <blockquote>
 <table>
@@ -399,14 +405,16 @@ Many people will initially assign an intuitive prediction that bears little rese
 <figcaption>Quoted from <a href="http://tinyurl.com/DeFinettigame">http://tinyurl.com/DeFinettigame</a> (Paran, 2008)
 </figcaption>
 </figure>
-<h3><a name="_Toc260017679"></a>A brief history of calibration studies</h3>
+
+### <a name="Toc260017679"></a>A brief history of calibration studies
 
 Calibration has been studied formally since at least the early 1950s &amp; 1960s (Adams &amp; Adams, 1961; Brier, 1950) under many different names. It saw its conception in meteorological forecasting. Ernest Cooke, the Government Astronomer for Western Australia wrote two papers in 1906 (Cooke, 1906 a&amp;b) stating that all subsequent weather forecasts were to be assigned a confidence level; “almost certain to be verified” “normal probability” and “doubtful”. Because of this, a great deal of early work on calibration of probability assessment focuses on weather forecasting due to the very large dataset. In general weather forecasters are reported to be very well calibrated, and their calibration has been improving as their models are progressively refined, and their experience base grows.
 
 There has been extensive work done by cognitive psychologists for academic purposes. This work has provided most of the methodology that has become standard in calibration testing. Most of the work has involved using students as test subjects, so there is often a question over the subjects’ motivation to provide well considered responses. There has been some work on expert calibration, some using students and testing them on their subject of study, and some on medical professionals – it turns out that doctors are not anywhere near as well calibrated as weather forecasters!
 
 One paper (Adams &amp; Adams, 1961) presents the “grossly over-confident calibration curve of a schizophrenic who believed he was Jesus Christ”. Hopefully architects over-confidence won’t reach these levels.
-<h3><a name="_Toc260017680"></a>Ignorance ≠ stupidity</h3>
+
+### <a name="Toc260017680"></a>Ignorance ≠ stupidity
 
 The point of a calibration assessment is not to find out how much a person knows, but rather to assess what a person knows about what they know.
 
@@ -415,20 +423,24 @@ If an ‘expert’ from one field, say 1990s TV soap operas were to answer a set
 Neither of the above examples takes into account the meta-knowledge of how much the soap expert thinks they know their subject (experts have been shown to be pretty variable in their calibration (Lichtenstein, Fischhoff, &amp; Phillips, 1981)). If our TV soap expert is well calibrated and assigns low confidence to their answers about all things greenhouse related then they are showing an awareness of their ignorance about that particular subject.
 
 Contrary to the popular use of the word ignorant, as it is shouted from car windows by angry motorists, ignorance is simply a lack of knowledge. If a person knows the areas where their knowledge is strong, and those where they ought to seek assistance then they are more likely to be well calibrated. A well calibrated ignorant person is likely to seek information to rectify their ignorance, whereas a poorly calibrated one is likely to remain ignorant.
-<h3><a name="_Toc260017681"></a>What constitutes the truth?</h3>
+
+### <a name="Toc260017681"></a>What constitutes the truth?
 
 The truth has been an evasive subject for philosophers since the Greeks, and probably even before that. The ‘objective truth’ was finally proven to be unknowable by Kurt Gödel’s incompleteness theorem. This level of the truth is not really much use to messy subjects like architecture, but the truth isn’t really a very useful concept in general. As Richard Feynman explained earlier we are constantly being revealed a bit more of the path to the truth. Thomas Kuhn formulated the ideas of ‘normal science’ and ‘mature science’ (Kuhn, 1962). These terms describe a state in which knowledge is fairly stable, and any changes are by degree, and not a fundamental rethinking of the field. Kuhn terms the whole stable period a paradigm. In these inter-paradigm periods, the truth can be referred to by practitioners of that field as some knowledge that is widely held by the practitioners of that field, and has not yet been convincingly refuted. This allows them to progress without having to rebuild the foundations of their discipline every time. Although this study deals extensively with the behaviour of knowledge around the fringes of normal or mature science, it is convenient to use them as a container for ‘truth’.
-<h1><a name="_Toc260017682"></a>Research Methodology</h1>
+
+# <a name="Toc260017682"></a>Research Methodology
 
 I have been unable to find any literature referring to calibration assessments for architects, or more general design professionals. A survey of the field was undertaken due to this gap in the literature.
 
 As initial primary research practising architects were surveyed about their knowledge, and confidence in their knowledge. This was to reveal the current situation with regard to accuracy of beliefs held, and also the over/under-confidence bias. The methodology for assessing confidence is well established and an internet based survey using this method was developed and deployed. Both of these aspects are explained below
 
 The data gathered may reveal interesting correlations between accuracy of beliefs and accuracy of confidence. Extrapolating from previous studies of other fields I predict that accuracy will be low on both accounts but, to my knowledge, there is no data specific to architecture to corroborate this. Illusory superiority is a common trait in people all over the world (Sutherland, 1992). In one commonly cited study, 95% of motorists surveyed believed that they were above average drivers (when really only about 50% of them can be!) (Svenson, 1981). There is also substantial literature to suggest that other ‘expert’ professions are over-confident (Sutherland, 1992; Taleb, 2008 amongst others). The results of the survey might indicate a requirement to have a framework for designing under uncertainty.
-<h3><a name="_Toc260017683"></a>Method</h3>
+
+### <a name="Toc260017683"></a>Method
 <figure class="quote side">
 <blockquote>
-<h4>Discrete propositions – Possible way of asking questions</h4>
+
+#### Discrete propositions – Possible way of asking questions
 
 <u>No alternatives:</u> _“What is absinthe?”_ The assessor provides an answer, and then gives the probability that the answer given is correct. The entire range of probability responses, from 0 to 1, is appropriate.
 
@@ -467,17 +479,20 @@ What is your confidence in this answer?
 I intend to use the Half-range method. Half-range refers to the range of probabilities it is _rational_<a href="#_ftn12" name="_ftnref12">_**[12]**_</a> to assign to a response. In everyday language ‘rational’ is a “somewhat pedantic synonym to reasonable” (Kahneman, 2009), but for economists, social scientists and decision theorists it has a completely different meaning. In economics and decision theory it is defined logically, the only requirement is that one has an internally consistent set of beliefs and preferences. One is entitled to believe or desire anything at all, so long as they form an internally consistent set. The reason that rational (logical definition) people behave in a way that we can recognise as rational (conversational definition) is that they are interacting with the real world, and their beliefs and desires are martialed by that interaction. In an abstract context, a rational person could believe absolutely anything, as long as none of their beliefs contradicted each other.(ibid)
 
 In the current context, if there are two alternatives and the subject has less than 50% confidence in their response then, according to the axioms of probability theory, the _rational_ person should pick the other alternative. Given long enough to think about it, a relatively mathematically literate person would pick this up, but as mathematical literacy is not a prerequisite for success in architecture, I can’t assume that a subject will immediately grasp this without prompting. As each question will always be followed by one correct answer, and three incorrect answers, it is never rational to choose below 25% confidence, but during beta testing of the site most users said that they would like to be able to say that that they didn’t know, or would like to assign a lower confidence than 25% to their response. I initially resisted the idea of providing this, but eventually put it in, both as an option to assign a low confidence due to ignorance, and also as a way to assign a low confidence due to believing that all of the answers are wrong.
-<h3><a name="_Toc260017684"></a>What kind of data do I hope to gather?</h3>
+
+### <a name="Toc260017684"></a>What kind of data do I hope to gather?
 
 My hypothesis emerged through a combination of my own experience, and from discussing this subject with others in informal situations. In these situations it is easy to let oneself get carried away and become subjected to ‘group think’ biases. The aim of this type of study is to provide data that can be interrogated using statistical methods to corroborate, or disprove the hypothesis.
-<h3><a name="_Toc260017685"></a>Who to survey?</h3>
+
+### <a name="Toc260017685"></a>Who to survey?
 
 There was a lot of discussion initially about who to target as a subject group to provide a population for this study. Eventually it was decided that focusing the study on a specific group risked biasing the data, and also risked producing too few data points. Ultimately the questionnaire was disseminated by sending it to as many people as possible, and then asking them to send it on to their contacts.
 
 The ideal group to survey would be practicing UK architects, as these people are engaged daily with issues of building’s environmental performance, and the legislation relating to it. A good cross section of hierarchical roles from different levels of practice (i.e. newly qualified architects up to directors of large companies) would be ideal, as it would show if good calibration correlates positively with career progression.
 
 The unfocused nature of the dissemination method will provide a good basis for comparison with; in fact it may even have been more useful to have made the set more general to provide more data to compare the data from architects to.
-<h3><a name="_Toc260017686"></a>Experimental design</h3>
+
+### <a name="Toc260017686"></a>Experimental design
 
 <figure class="full-width">
 <img class="" src="{{ site.baseurl }}/assets/cpa.png" alt="cpa" />
@@ -497,7 +512,8 @@ As the Calibrated Probability Assessment website’s primary goal is to assess g
 As the intended audience for the proposed questionnaire is architects<a href="#_ftn13" name="_ftnref13">[13]</a>, and the purpose of the test is not to assess general calibration, but to test for specific calibration about a particular subject. A question set was developed that addresses the need to have subject specific questions taken from several relevant sources.
 
 It will be interesting to see if the industry specific calibration correlated with general calibration as (Lichtenstein &amp; Fischhoff, 1977) suggested, but the existing question set is very USA specific, and is therefore not necessarily a good indication of British subjects’ calibration.  (Gilovich, Griffin, &amp; Kahneman, 2003) mention that calibration is related to familiarity (recognition heuristic). With a USA biased question set the recognition heuristic may unduly bias the results. If a suitably geographically unbiased set of questions were found it would be very helpful to be able to compare general calibration with expert/field specific calibration, although with a finite attention budget to spend, the expert calibration is the most important thing to focus on at the moment.
-<h3><a name="_Toc260017687"></a>Subdividing the population</h3>
+
+### <a name="Toc260017687"></a>Subdividing the population
 
 <img class="size-full alignright" src="{{ site.baseurl }}/assets/dip/image010.png" alt="image010" />Due to the automatic marking of the questions and their aggregation there is essentially a zero cost to extra data collection. This is extremely beneficial as it allows for a huge amount of data to be collected, but it poses challenges as to how to sort that data. The first section of the questionnaire requires the subject to fill in some details.
 
@@ -515,7 +531,8 @@ These classifications are used to allow the data to be subdivided into sets. It 
 There are also two optional questions here, email address and company. These aren’t for data slicing, but are there to allow the results of the test to be sent to the subject, and for them to receive a personalised email with their calibration information in it. That email will show them where they are positioned with regard to all other subjects, and then if they (and at least one other person) put in a company, then how they scored with respect to the other people in the company. This would of course be anonymous, it would simply show a position in a hierarchy, not specifically who is above or below.
 
 This extra information will allow the data to be subdivided to show if directors in the north of England are better calibrated than assistants in the south, or if associates are more knowledgeable than assistants. More comparisons and views on the data are shown in the results section.
-<h3><a name="_Toc260017688"></a>Data security &amp; ethical considerations</h3>
+
+### <a name="Toc260017688"></a>Data security &amp; ethical considerations
 
 <figure class="half-width left">
 <img src="{{ site.baseurl }}/assets/dip/image011.png" alt="image011" />
@@ -535,7 +552,8 @@ Eventually, once we have enough data to generate graphs and draw some conclusion
 
 When the project finishes its first stage, if you entered your email address then you'll get a copy of the report, along with your data compared to the aggregated data. Once that is done your personal data will be erased and that'll be the last you see of us, gone, just like that!
 </div>
-<h3><a name="_Toc260017689"></a>Buying time</h3>
+
+### <a name="Toc260017689"></a>Buying time
 
 Calibrated probability assessment tests usually require relatively large datasets before they are sure to return any meaningful results. Also to assess the state of an industry as a whole, a large number of samples from that industry need to be taken so that _the law of large numbers_ helps to give an unbiased response. With this in mind, the test needs to be self propagating if possible, and the best way to do this is to provide something to the subject in return for their effort in filling in the form.
 <figure class="half-width left">
@@ -550,10 +568,12 @@ This test uses field specific questions, rather than general knowledge questions
 <img src="{{ site.baseurl }}/assets/dip/image013.png" alt="image013" />
 
 Once the full set of questions is answered, they are marked by some simple back end code on the site<a href="#_ftn14" name="_ftnref14">[14]</a>, and the calibration graph is drawn. The answers to the questions are also shown along with a brief explanation and a link to a source of more information. This extra information will hopefully build a feeling of good will with the subject, and they will respond favourably to a request to send it on to other people they feel that would be appropriate for the study.
-<h3><a name="_Toc260017690"></a>Question sources</h3>
+
+### <a name="Toc260017690"></a>Question sources
 
 As I intend to study the gap between designers knowledge and the currently accepted ‘facts’, the source of the questions will be from sources such as the IPCC Fourth Assessment Report, and other similarly conservative sources. The main obstacle is avoiding questions that are ambiguous or are ethical judgements, i.e. _climate change is: _a_) bad _b_) very bad _c_) made up_, as these are issues of opinion and values, rather than objective questions.
-<h3><a name="_Toc260017691"></a>Question design</h3>
+
+### <a name="Toc260017691"></a>Question design
 
 Design of a questionnaire that will lead to good quality data is important. I will need to ensure that there is a range of probabilities that the subject can answer the question correctly. If the difficulty of the questions is too polarised then there will be no data space to explore. Difficulty is hard to assess from an _a priori _position, but in this study it is treated as the proportion of the population that get the question right. An easy question will have a high proportion of correct answers, and vice versa. The distribution of numbers of correct answers will be a shown as a graph in the results.
 
@@ -586,13 +606,16 @@ How many watt hours does a 100w light bulb use in 1 hour?
 The correct answer is available, if the other answers are considered absurd then the subject should assign a 100% confidence to the answer they pick.
 
 The questions that the results of the survey are hoping to answer need to be carefully considered before designing the questionnaire. Due to the broader subject of this work, transgressions of rationality will be all the more embarrassing for me. However, while bearing this in mind, as long as the study is constructed with respectable, well checked sources then there is no need for my knowledge to be a constraint on the content of the questions. Unintentional biasing will always creep in, all I can do is attempt to minimise it.
-<h2><a name="_Toc260017692"></a>Example of interaction</h2>
+
+## <a name="Toc260017692"></a>Example of interaction
 
 The following is a run through of how a user would experience the website.
-<h3><a name="_Toc260017693"></a>Front page</h3>
+
+### <a name="Toc260017693"></a>Front page
 
 <img src="{{ site.baseurl }}/assets/dip/image018.png" alt="image018" />
-<h3><a name="_Toc260017694"></a>Gathering information about each subject</h3>
+
+### <a name="Toc260017694"></a>Gathering information about each subject
 
 <img src="{{ site.baseurl }}/assets/dip/image019.png" alt="image019" />
 
@@ -601,14 +624,16 @@ The following is a run through of how a user would experience the website.
 This stage has a reasonable amount of _AJAX_ validation on the entries.
 
 It also has a map that reduces ambiguity about which region the user is in. Oxford is a particularly good example of a place that is ambiguous in its location<a href="#_ftn15" name="_ftnref15">[15]</a>.
-<h3><a name="_Toc260017695"></a>Question asking stage</h3>
+
+### <a name="Toc260017695"></a>Question asking stage
 
 The questions are stored in a database on the server. They are then delivered to the subject by a _PHP<a href="#_ftn16" name="_ftnref16">**[16]**</a>_ generated web page. The order was randomised to ensure that the order that the questions were written in didn’t affect the results, but are eventually delivered in a fixed order so that any biasing that comes from the ordering is constant across all results. The order of the answers is randomised. In the database the correct answer is always the first answer (a) and followed by three dummy answers, but when delivered they could take any order (i.e. c, b, a, d).
 
 \[<a href="http://notionparallax.co.uk/?p=2211">This section is really image heavy, so I've put it here</a>\]
 
 There is very little embellishment to these questions at this stage. Other than an _AJAX_<a href="#_ftn17" name="_ftnref17">[17]</a> validation field to ensure that all questions are correctly filled in (i.e. both a response and a confidence are selected for each question).
-<h5>Controlling for bias</h5>
+
+##### Controlling for bias
 
 CalibratedProbabilityAssessment.org has a lengthy introduction to why considering confidence is an important thing to do, and what the purpose of the site is. This was necessary as the site’s central theme is calibration assessment, and without it it would just be a banal trivia quiz. On the BPquiz.co.uk site, although calibration assessment is still the central intent of the site, it is possible to disguise this as a quiz about building performance and low carbon legislation. This meant that it was possible to get subjects to take the quiz without worrying too much about the underlying reasons for the confidence component.
 
@@ -617,7 +642,8 @@ As a part of the experimental design, it was considered important to control for
 To fulfil the need for some sort of control study, after filling in personal details, 50% of the subjects were shown an introduction to the quiz that included information about calibration, and the remainder were only shown the questions. The half that were shown the calibration information were also shown their calibration graph at the end during the marking phase. This will show if being told about one’s calibration being measured has an effect on calibration or not.
 
 Once the questions are complete the form is submitted for marking.
-<h3><a name="_Toc260017696"></a>Marking and graph stage</h3>
+
+### <a name="Toc260017696"></a>Marking and graph stage
 
 \[<a href="http://notionparallax.co.uk/?p=2210">Because this section is all images, I've put it behind this lovely link!</a>\]
 
@@ -626,15 +652,18 @@ Marking is actually very simple, there is no ambiguity in the multiple choice qu
 The generation of the calibration graph is a little more technical from the point of view of implementation, but the user is not involved in this complexity. The calibration feedback does not yet use the Brier score (Brier, 1950; Murphy, 1973) as this is for giving an overall score to subjects’ calibration, and does not show if a subject is generally over or under-confident, just their variance from perfect calibration.
 
 The method of marking in use simply plots a curve through the percentage of questions answered correctly at each given confidence. To explain this more fully, each question has an associated confidence, so they can be sorted into piles according this. The size of each pile is not actually relevant at all to calibration. These piles are then further subdivided into correct and incorrect answers. There should now be two piles of 60% confidence answers, and for a perfectly calibrated person, 60% of the answers should be in the _correct_ pile and 40% in the _incorrect_ pile. This should be the case with each confidence level, with _p_% of the answers correct when assigned a confidence of _p_.
-<h5>The calibration graph</h5>
+
+##### The calibration graph
 
 <img class="size-medium alignleft" src="{{ site.baseurl }}/assets/dip/image074.png" alt="image074" />The red line is the identity line. This is the line that would occur if you were perfectly calibrated. The blue line plots through the subject’s actual results.
 
 The data points that make up this graph are actually quite sparse. With only 25 questions there is a good probability that a subject will have only assigned a particular confidence to a small number of answers. A very small variance from perfect calibration can produce quite a large spike in the graph. For example, if a subject only assigned a probability of 70% to 2 out of 100 answers, and they got both of them right then they will see a large spike over 70% that looks very poorly calibrated (under-confident), whereas what is really happening is that the law of large numbers has yet to kick in and level out these anomalies. If the subject doesn’t assign a particular confidence value to any answer (i.e. if they didn’t use 50% confidence at all) during the quiz, then the graph will show a spike down to the x axis, this is misleading as it implies poor calibration, whereas really it just shows a lack of answers. If a subject had answered 1000 questions their calibration profile would be much smoother.
-<h5>Social marketing</h5>
+
+##### Social marketing
 
 As an attempt to take advantage of the goodwill generated from people learning something, there is a small stack buttons to allow easy sharing to social web services.
-<h5>Conventional marketing</h5>
+
+##### Conventional marketing
 
 It was planned to push the quiz through conventional media with the following press release. Ultimately this didn’t happen, but it will be one of the first steps of launching the revised site.
 <div class="sample-question">
@@ -671,10 +700,12 @@ The process involves asking a question and then an associated probability that t
 
 It is hoped that the results of this test will provide a source for reflection on appropriate confidence by the _participants_, and also provide a base for further research into how to design under conditions of extreme uncertainty.
 </div>
-<h3><a name="_Toc260017697"></a>Generation of new questions</h3>
+
+### <a name="Toc260017697"></a>Generation of new questions
 <p><img src="{{ site.baseurl }}/assets/dip/image076.png" alt="image076" /><br />
 Generating questions is a time consuming activity, to help reduce the amount of time spent generating the questions for the next generation of the quiz a page allowed users to submit a question of their own. This would also show what sorts of questions were interesting to the users.</p>
-<h3><a name="_Toc260017698"></a>More information</h3>
+
+### <a name="Toc260017698"></a>More information
 
 <img src="{{ site.baseurl }}/assets/dip/image077.png" alt="image077" />
 
@@ -685,10 +716,12 @@ It is difficult to give more information without biasing the study. The page abo
 This page is only available to those who have been shown the hint about calibration.
 
 All papers cited on this page have their abstracts as AJAX tool tips to make it easier to expand the scope of knowledge contained within.
-<h2><a name="_Toc260017699"></a>Limitations of research</h2>
+
+## <a name="Toc260017699"></a>Limitations of research
 
 There is a huge amount of work that I am planning to not do, and areas that have been avoided, this section will discuss these. It will also cover what I consider to be the weaknesses in both my skills and the proposed methodology.
-<h3><a name="_Toc260017700"></a>What I’m not talking about</h3>
+
+### <a name="Toc260017700"></a>What I’m not talking about
 
 This work is too brief to discuss the general role of rationality in the design process. The usefulness<a href="#_ftn18" name="_ftnref18">[18]</a> of decision analysis methods like building decision trees (Aczel, 1989), or adhering to the axioms of probability theory (Allingham, 2002) seems intuitively great. After all, well-resourced financial institutions use these sorts of scientific/econometric management methods to design strategies and products, so why not use them to manage the design process? There may well be other costs that make it unreasonable to use the standard tools of rational decision making.
 
@@ -705,12 +738,14 @@ Both human decision making, and mathematical models are subject to retrospective
 Metrics for solutions to design problems in architecture are often qualitative. For example, how does a space _feel_? However more problems than might initially be thought could be handled using numerical or other more managed methods. In the above example of the ‘feel’ of a space, there are a lot of factors that can be quantified, acoustic reverberation time, temperature, air movement, visual access and many others. With this information provided to a human designer, they are in a far more informed position, and hopefully able to make better decisions. For more of this, see _decision support systems_ in the proposals section.
 
 I have found little work on the role of rationality in the design process. Regardless of this, I believe that it is likely to be found to be a fruitful area for further research.
-<h3><a name="_Toc260017701"></a>Weaknesses in my skills</h3>
+
+### <a name="Toc260017701"></a>Weaknesses in my skills
 
 I am essentially a fascinated tourist in the realms of cognitive psychology, mathematics and economics, my main realms of knowledge (if I can claim to have any at all) are architecture and computation. This means that as I blunder, wide eyed, through these areas that there is a strong possibility of missing valuable gems of information just off the beaten track.
 
 The main places where there is potential for compromising the outcomes of the study are in the experimental design and, then once results are collected, the statistical analysis. The study's analytical approach was discussed with Erika Ammerman, Consultant Research Manager at the Nielsen Company. Her input has helped me avoid a great many pitfalls. Hopefully the data will submit to relatively naïve analysis, and provide usable information despite my lack of statistical skills.
-<h3><a name="_Toc260017702"></a>Weaknesses in the methodology</h3>
+
+### <a name="Toc260017702"></a>Weaknesses in the methodology
 
 Unless a suitable large sample set is found it will be very difficult to extract any information from the data other than some very naïve answers. For example, if half the population are initially shown the calibration information, half the population are architects, a quarter are directors, and half the directors are over 35, then in order to look at sample that satisfies all of those criteria (“shown info” AND “is architect” AND “is director” AND “&gt;35”) then this becomes 0.5×0.25×0.5×0.5=0.031. What this means in reality is that in order to get a useful sample size (say, at least 10 subjects) this would require a population of at least 300, and the numbers chosen above are very optimistic (chosen for ease of mental arithmetic, not to be representative of reality). A sample size of around a hundred should provide a robust base to show if this is a fruitful field of study.
 
@@ -727,7 +762,8 @@ As there was no substantial testing of the questions for experimental bias, ther
 There is almost certainly going to be some selection bias in the results. Amongst other things, the subjects will not be randomly selected; people I know personally are more likely to respond; certain types of people might frequent the sites where links to the questionnaire are; and only a certain type of person will actually have the patience to actually take the quiz!
 
 It is also impossible to rule out ‘plain 'ol cheating’ peoples deviousness knows no bounds. It is possible to go through the quiz, and then use the answers given at the end to fill the questionnaire in to gain a higher mark.
-<h1><a name="_Toc260017703"></a>Case study – Carbon Buzz</h1>
+
+# <a name="Toc260017703"></a>Case study – Carbon Buzz
 
 In order to be well calibrated one needs something to be calibrated against, a source of knowledge. Carbon Buzz provides this and shows that in general we are less well calibrated than we thought we were.
 
@@ -744,7 +780,8 @@ The _energy performance certificates_ (EPCs) are based on notional modifications
 This allows comparisons between different buildings of the same type, and prompts interesting questions about why the performance of one building is different to another. For example, a comparison between two university buildings might show them to be quite different in terms of emissions. This would lead to an investigation into the causes of those differences. It may be that they are in different climates, or that they have different uses, obvious reasons for them to have differing energy consumptions. Where it becomes really useful and interesting is where the two buildings are essentially the same, if the energy use in one is substantially higher than in the other then it will prompt a more in-depth investigation into why that is. One may have single glazed windows, or a different specification of computers. It might be user behaviour, one space may have the cooling on and the windows open in the summer, or leave lights on during the day because the blinds are shut to avoid glare.
 
 It would not be possible to make any of these comparisons without a benchmark to calibrate what a ‘usual’ amount of energy to consume actually _is_. The Carbon Buzz platform collects and aggregates information to provide this information.
-<h3><a name="_Toc260017704"></a>Process</h3>
+
+### <a name="Toc260017704"></a>Process
 
 Once a user is registered with the Carbon Buzz website, they are able to start entering projects. Projects are entered into the using the form on the following page.
 
@@ -753,7 +790,8 @@ The form allows the user to record their predictions and then, once the project 
 There is also a section to record aspirations about what “sustainability target” the project is aiming for. The projects ultimate rating is then recorded once it is assessed. Over time any discrepancy between the two may start to show interesting results.
 
 <img src="{{ site.baseurl }}/assets/dip/image080.png" alt="image080" />
-<h3><a name="_Toc260017705"></a>Results</h3>
+
+### <a name="Toc260017705"></a>Results
 <div class="quote side">
 
 \[I\]t’s \[the discrepancy in the predicted and actual data\] based on the analysis procedures we use to forecast energy consumption, hence they miss a very large bulk of real energy consumption that’s related to user behaviour. So we drafted a big graph which, the graph itself became quite popular because it showed that you start with a part L calculation, and on top of that comes the unregulated energy use – which is everything that people plug into the wall – and on top of that comes any special function that people add to a building, like a cafeteria, or some ovens, or schools or kilns, or a trading floor for a prestigious office block, which all bring huge repercussions, and then things like the building management systems, so who, and with what expertise, is looking after that system, lots of things depend on that. Also the occupancy, so we design buildings to have a certain kind of occupancy and operating hours, and those tend to distort really quite drastically during a buildings life, and we actually don’t really design buildings for that sort of resilience. Which is a shame, and essentially the result of this is that the way we design buildings as a profession completely overlooks the majority of the energy consumption for buildings in use, and that’s an incredible lost opportunity for the industry.So <a href="http://www.carbonbuzz.org/">Carbon Buzz</a> is able to highlight these discrepancies, and make it very obvious and easy to read.
@@ -772,7 +810,8 @@ The ability to compare one’s predictions to the real measured outcomes is usef
 In the above graphs, the left column is predicted energy use, and the right actual energy use. On aggregate, projects are actually consuming between 4 and 11 times more energy than they were predicted to at the design stages. This is mainly because the model that is used to predict emissions is the standard Part L calculation. That describes the most basic case of the building, but then layered onto that is unregulated energy use (plug loads), special functions (a cafeteria, trading floor in an office building, kilns in a school). The other significant factor is occupancy, buildings are often simulated with quite limited occupancies; i.e. a school might be simulated between 9am and 3:30pm which doesn’t take into account the adult education classes in the evenings.
 
 **<img src="{{ site.baseurl }}/assets/dip/image083.png" alt="image083" /> **
-<h3><a name="_Toc260017706"></a>Reception</h3>
+
+### <a name="Toc260017706"></a>Reception
 
 Carbon buzz was launched through a series of workshops at the RIBA and the Building Centre in London. People came and used the system to enter their projects, and just to explore the potential that the system had.
 <figure class="quote">
@@ -788,15 +827,18 @@ It seems that people are interested in data, and in what that data can tell them
 There has recently been a survey of Carbon Buzz users, and the majority find the service extremely useful. It allows designers a better understanding of the real, in use, performance of their proposal, and gives a much better starting point for collaboration with consultants like services engineers. Knowing the right questions to ask can lead to a much more fruitful relationship.
 
 Carbon Buzz has recently received a further three years of funding from the Technology Strategy Board (TSB) which will allow it to grow and develop new capabilities. A PhD candidate has just been appointed to start work on the role of feedback in design, and by the end of that period there should be a wide range of new features and facilities that the platform can offer. Eventually the platform will be able to be used to manage a practice’s project footprints, allowing designers to see what worked well, and what was less successful. It will also have amassed a huge database that will be extremely useful for data mining to find trends or to extract meaningful relationships between factors that we had not previously considered.
-<h3><a name="_Toc260017707"></a>Conclusion</h3>
+
+### <a name="Toc260017707"></a>Conclusion
 
 I found it very strange that I found it so difficult to write in an interesting way about a project that I am so excited about. Eventually I realised that this was because at its core Carbon Buzz is a very simple concept that is cleanly executed. Providing a way of recording project data, and contributing to a growing pool of knowledge seems like such an easy win that writing about it almost seems patronising. The really amazing thing is that it hasn’t been done before.
 
 If practices continue to adopt the platform as a way of managing their project footprints then there is a good chance that this kind of review process will become the norm, hopefully resulting in a reduction in overconfidence about the performance of the buildings we design.
-<h1><a name="_Toc260017708"></a>Result analysis</h1>
+
+# <a name="Toc260017708"></a>Result analysis
 
 In the month since launch, the BPquiz.co.uk website collected 122 results. Of that, 98 were well formed<a href="#_ftn20" name="_ftnref20">[20]</a> and unique<a href="#_ftn21" name="_ftnref21">[21]</a>.
-<h3><a name="_Toc260017709"></a>Accuracy</h3>
+
+### <a name="Toc260017709"></a>Accuracy
 
 <img src="{{ site.baseurl }}/assets/dip/image084.png" alt="image084" />
 
@@ -836,7 +878,8 @@ The distribution of correct answers is fairly even too. There is a slight bias t
 </ol>
 
 A full list of the questions, their answers, and other associated questionnaire information is in the appendix.
-<h3><a name="_Toc260017710"></a>Question difficulty</h3>
+
+### <a name="Toc260017710"></a>Question difficulty
 
 Although probably quite a naïve definition of difficulty, I am taking the population’s ability to answer the questions correctly as a measure of how hard they are. It is interesting to see that in general the questions are of roughly equal difficulty.
 
@@ -845,7 +888,8 @@ Questions that were anticipated to be easy like ‘_What chemical compound does 
 Question 24, ‘_Where does the most heat escape in an average home?_’ (Correct answer, through the walls) was considered to be a slightly unintuitive question (hot air rises etc.), but one that should be relatively common knowledge amongst architects. It attracted a surprisingly low percentage of correct answers with the majority of people choosing ‘roof’ with a high degree of confidence. This shows an unexpected use of tests like this – showing up incorrect ‘facts’ that are commonly held.
 
 The other interesting discrepancy is shown in questions 13 and 19, “_The Met is a measurement of metabolic rate. Assuming that you are sitting fairly still at your computer how many Mets are you generating at the moment?_” and “_What is the EU 2020 renewables target for the UK? (As a percentage of all energy generated)_”. These both show very significant under-confidence. The correct answer to question 13 is “1” so it may be due to some sort of unconscious familiarity heuristic (based on my design of the answers) which subjects then overcompensate for and assign a low confidence. Question 19 is less clear. It is a fairly obscure question, and I had anticipated a low accuracy, but it had an extremely high number of correct responses. The confidence assigned was fairly low. Again, I would imagine that there is some sort of unconscious heuristic at play here which predicts what a reasonable number for the legislation would be, and then goes with it, but as the response is fairly unconscious it doesn’t elicit a strong confidence.
-<h3><a name="_Toc260017711"></a>General calibration</h3>
+
+### <a name="Toc260017711"></a>General calibration
 
 <img src="{{ site.baseurl }}/assets/dip/image088.png" alt="image088" />
 
@@ -913,23 +957,28 @@ Those subjects humble enough to state that they knew “not much” actually hav
   
 
 These graphs show the distribution of responses at each confidence level. They show that hardly any questions were chosen with 99% confidence, but many more were chosen with 100% (Di Finenetti would be very upset).
-<h3><a name="_Toc260017712"></a>Marketing</h3>
+
+### <a name="Toc260017712"></a>Marketing
 
 <img src="{{ site.baseurl }}/assets/dip/image105.png" alt="image105" />
 
 This graph shows the number of responses received per day. It drops off gently after the quiz was launched, and then spikes again at the end when it was pushed again through directed emails.
-<h1><a name="_Toc260017713"></a>Discussion</h1>
-<h3><a name="_Toc260017714"></a>What do the results tell us?</h3>
+
+# <a name="Toc260017713"></a>Discussion
+
+### <a name="Toc260017714"></a>What do the results tell us?
 
 In general, the results seem to show that the subjects showed over-confidence with regard to any question that they felt that they had a chance of getting right, and under-confident about questions that they felt that they were guessing the answer to.
 
 The effects of the experimental bias introduced by the questions, and by the fact that people were being asked to consider their confidence probably pushes the data towards under-confidence, so ultimately people are probably more over-confident than this study shows.
-<h3><a name="_Toc260017715"></a>What went right?</h3>
+
+### <a name="Toc260017715"></a>What went right?
 
 The response to the quiz has been generally positive. Subjects have responded that it was thought provoking and has prompted them to consider how appropriate their application of confidence is.
 
 The Carbon Buzz interview was fascinating in itself, but also gave a chance to show the BPquiz site off. It prompted some interest in how this methodology might usefully be included in the platform.
-<h3><a name="_Toc260017716"></a>What went wrong?</h3>
+
+### <a name="Toc260017716"></a>What went wrong?
 
 <figure class="half-width right">
 <img src="{{ site.baseurl }}/assets/25pc.png" alt="25pc" style="width: 80%;"/>
@@ -943,8 +992,9 @@ Probability theory dictates that if one of the answers is known to be correct, t
 
 A quick check (below) implies that even if the under 25% range was moved to 25% it would still have resulted in under-confidence for the questions answered with this confidence partition.
 
-<a style="font-size: 18px; font-weight: bold; line-height: 27px; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;" name="_Toc260017717"></a>An unanticipated problem was caused by launching the site too enthusiastically and the server that was hosting the site was unable to keep up with the volume of requests. It is impossible to estimate how many responses were lost due to interested people not being able to access the site.
-<h3>Further work</h3>
+<a style="font-size: 18px; font-weight: bold; line-height: 27px; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;" name="Toc260017717"></a>An unanticipated problem was caused by launching the site too enthusiastically and the server that was hosting the site was unable to keep up with the volume of requests. It is impossible to estimate how many responses were lost due to interested people not being able to access the site.
+
+### Further work
 
 The factor that would benefit the study the most would be a larger sample size. With more data points the subdivisions of the data could be considered to be more reliable. As it stands currently, 8% of the responses are from director level subjects, which is probably about representative of the number of directors in the real world, but as there were only about 100 subjects, it is difficult to draw anything conclusive out of 8 responses.
 
@@ -955,12 +1005,14 @@ It would be very interesting to add a section of general trivia questions as a r
 Prediction Book site.
 
 It would also be interesting to investigate something that was brought up by one of the subjects, one’s confidence in _not_ knowing.
-<h3><a name="_Toc260017718"></a>Relaunch</h3>
+
+### <a name="Toc260017718"></a>Relaunch
 
 Given all that has been learnt from the experience of performing this study it would be a shame to let this study lapse. As discussed above there need to be some minor changes to the experimental design, mainly to the website’s structure and the content of the questions, to maximise the value of relaunching the site.
 
 A number of international subjects mentioned that they would like to do the quiz, but with a non UK specific question set. The site could be modified to deliver tailored question sets to different countries, but a general ‘international’ question set would be a strong building block.
-<h3><a name="_Toc260017719"></a>The moving target</h3>
+
+### <a name="Toc260017719"></a>The moving target
 
 The quiz was published on the 8<sup>th</sup> of March, and even before the launch two of the questions had been invalidated. One by further research and the other by a policy change.
 <div class="sample-question">
@@ -1007,10 +1059,12 @@ This out of date information potentially caused a number of people reading the r
 The example above can be considered to be an example of “negative learning” (Oppenheimer, O’Neill, &amp; Webster, 2008). Negative learning is where continual refinement of a model leads to deviation from “the _a posteriori_ right answer”. What this means, in simple terms is similar to a game of Chinese whispers. The example that Oppenheimer gives is the model of the chemical reactions that caused the hole in the ozone layer. The initial model proposed in the early 70s was reasonably close to the observed amount of ozone depletion, but in the following years the model diverged from what was really happening in nature for two reasons. One was that the _priors_, the information that was fed into the model, were not updated, the 1974 figures for halocarbon emissions were held constant when really they were increasing. The other was that as scientists refined the theoretical model of the atmospheric process at work, they missed a critical part of the reaction. There is a catalytic process which the early models didn’t take into account, and as such, the theoretical work produced a very accurate model of _a_ process, but not the process in nature. This was then empirically shown to be wrong by satellite imagery, and the model was revised to fit the results by including the catalytic process.
 
 If we are to design for robustness against change, then we need to take a stab at how change will happen. This is one of the key benefits of being well calibrated.
-<h1><a name="_Toc260017720"></a>Proposals</h1>
+
+# <a name="Toc260017720"></a>Proposals
 
 What can be done to improve confidence calibration for designers to make designing easier, and to reduce the likelihood of errors? This section has some suggestions of things that could help.
-<h3><a name="_Toc260017721"></a>Empirical observation</h3>
+
+### <a name="Toc260017721"></a>Empirical observation
 
 The simplest and most fruitful way to improve one’s calibration is to reflect on past judgements, and to analyse where things went right, and where they went wrong.
 
@@ -1051,10 +1105,12 @@ As a building is too expensive to make multiple prototypes of there is less oppo
 </figure>
 
 Empirical observation is probably an overly technical term for what could be described as a ‘thorough debrief’. The debriefing process is important to capture all the experience generated during the project. This captured experience can then become a resource for others to take advantage of to allow them to develop the limits of the field without needing to construct the fundamental of that field each time (Kuhn, 1962). However much knowledge is made available, to others its status has returned to information. This information then needs to be reabsorbed and synthesised before it is useful, and there is no guarantee that hidden gems of advice will be picked up. This problem of lost knowledge leads us onto checklists.
-<h3><a name="_Toc260017722"></a>Checklists</h3>
+
+### <a name="Toc260017722"></a>Checklists
 
 Checklists (also known as standard operating procedures (SOPs) or key performance indicators (KPIs)) are common in aviation, laboratory work and catering etc. Any scenario when there are definitely a number of areas that must be covered as an absolute minimum. Design of buildings is no different; there are certain legislative targets that must be met, and certain constraints that must be satisfied. Often the bulk of the creativity in the process is in taking an interesting approach to bending these constraints, but if they are made explicit then they can’t be missed by accident.
-<h5>Checklist manifesto</h5>
+
+##### Checklist manifesto
 
 Atul Gawande’s recent book ‘The Checklist Manifesto’ (Gawande, 2010) introduces checklists with two compelling examples. The first is the introduction of the Boeing model 299, which later became known as the B17 flying fortress. When it was first demonstrated in October 1935, the plane took off gracefully, displaying its superior power and engineering prowess; it climbed steeply, and then stalled and crashed. Killing two of the five crew aboard, including the pilot who was one of the army air corps most experienced test pilots.
 
@@ -1079,7 +1135,8 @@ Nurses observed the doctors at work for a month, and in a third of cases at leas
  Grimshaw architects use a checklist to help them start projects off
 </figcaption>
 </figure>
-<h5>Checklist mentality</h5>
+
+##### Checklist mentality
 
 Both of these examples show improvements in situations where guaranteed adherence to an absolute minimum standard has produced a substantial benefit. Any attempt at an argument that building design is somehow of a different type of problem to surgery of flying a plane on the grounds of the complexity involved seems pretty weak. Surgery is at least as complex, if not more so that building design, the varieties of body shape make automated robotic surgery just as intractable as automatic building design. The real benefit of the checklist is that it ensures that nothing fundamental gets left out, and that gives a solid base for the artistry of the surgeon/designer to build from.
 
@@ -1092,14 +1149,16 @@ Alain Enthoven created a system of targets for the National Health Service. The 
 The path of least resistance is shown again in ‘The Evolution of Evolvability’ (Dawkins, 1988). Dawkins tries to make his Blind Watchmaker program (a genetic algorithm) draw tall trees. The computer takes the target of _being tall_ and meets it in the most efficient way possible, no branches! The target derails our intent by showing us where our criteria can be exploited.
 
 The same is true of the current building regulations. Designing to meet building regulations is really producing the worst possible, lowest performance solution that will satisfy the regulations. Schemes like the BRE Environmental Assessment Method (BREEAM) in the UK, and Leadership in Energy and Environmental Design (LEED) in the USA have staged levels of compliance. These are aspirational targets which allow clients to decide what they would like to achieve. BREEAM is rated from pass, through, good, very good, excellent up to outstanding. LEED is classed as certified, silver, gold or platinum. A higher rated building will attract more rent, but will probably<a href="#_ftn22" name="_ftnref22">[22]</a> cost more, so clients are free to balance these off against each other.
-<h5>Staged compliance</h5>
+
+##### Staged compliance
 
 The 2006 update to Part L of the UK building regulations introduced a number of reasonably big changes to requirements for building performance. These didn’t apply to projects that were already past the planning stage, but projects that didn’t get into planning by the cut off date often needed to be substantially redesigned to fit the more exacting criteria.
 
 Returning to the theme of aspirational targets, these could be augmented along a time axis. Proposed legislation usually has a relatively long gestation period before it is confirmed into law, so a checklist can confirm that it meets or exceeds 100% of current minimum standards, and meets a proportion of the currently proposed legislation for the next round, but will have serious adaptability issues to meet what is proposed in the round of legislation after that.
 
 Checklists don’t directly address the problem of overconfidence, but mitigate it by ensuring that an over-confident person has at least covered the basics. There might be several checklists, one for the whole industry, augmented with one for the company, and then another one for a particular team. The important thing is that they are simple, and only prescribe what is really necessary. Their pitfalls seem to be most prevalent when there is something to be gained by playing games with them, and in small organisations their intended use will override the temptation to design to fit the template as the output is all that the client sees, not a list of compliances, so should the product suffer, so would the business. It would be interesting to see what would happen if it was common practice to produce a minimum set of standards an aspiration to design towards, and not accept anything that fell below that.
-<h3><a name="_Toc260017723"></a>Calibration training</h3>
+
+### <a name="Toc260017723"></a>Calibration training
 
 <figure class="full-width">
 <img class="" src="{{ site.baseurl }}/assets/dip/image110.png" alt="image110" />
@@ -1121,7 +1180,8 @@ Checklists don’t directly address the problem of overconfidence, but mitigate 
 
 How this translates into real world decision making is uncertain, but speaking from personal experience it has certainly made me more aware of confidence in my predictions. Whether this translates to that confidence being accurate remains to be shown, but an awareness is, at very least, likely to moderate any extreme errors of judgement. <a href="http://www.witsandwagers.com/games/wits_and_wagers/index.page">Wits &amp; Wagers</a> is a trivia game that is won not on the amount of trivia known, but by being well calibrated about the amount of trivia one knows. A question is asked and all players write an answer on a card and place it onto the table. Players then place bets on the correct answer - not necessarily their own. Points are earned by placing bets on the actual answer, which requires a judgement of confidence as applied to the complete set of answers available. Wit &amp; Wagers is now available as an X-Box game, but the key component of having multiple human players is still present.
 
-<h3><a name="_Toc260017724"></a>Prediction markets</h3>
+
+### <a name="Toc260017724"></a>Prediction markets
 
 <figure class="quote">
 <blockquote>
@@ -1136,7 +1196,8 @@ How this translates into real world decision making is uncertain, but speaking f
 Prediction markets are similar to a normal speculative market, in that if you believe that the price of something is too low, you are invited to buy some of it, so when it is realised that the price is wrong and it goes up to a more representative level you make a profit. The difference is that with prediction markets, the tradable commodity isn’t gold or wheat, it is ideas.(Hanson, 1989; Hanson, 2008; Roberts &amp; Hanson, 2009)
 
 An example would be “The US Economy will go into Recession during 2010”, or “Crystal Bowersox<a href="#_ftn24" name="_ftnref24">[24]</a> to win American Idol”, and if you believe that the probability that the market has proposed is wrong, you are invited to contribute to changing that figure by buying a bet. If you are correct, and the probability is wrong, then you stand to profit. Prediction markets have shown to be surprisingly well calibrated as prediction tools, as people are required to buy the right to speak as it were. If opinion is free, then it will be given freely, without much concern for its correlation with reality, whereas if it must be paid for, people are more likely to be choosy with how they spend their opinion (Sunstein, 2006). Prediction markets predicted Saddam Hussein's capture<a href="#_ftn25" name="_ftnref25">[25]</a> (Delaney, 2003), and are being used within commercial organisations (Microsoft, Yahoo, Google) to steer policy (Roberts &amp; Hanson, 2009; Roberts &amp; Sunstein, 2007). Sunstien’s work on Google’s internal prediction market is showing that the prices have near perfect correlation with the actual probability of the event happening.
-<h3><a name="_Toc260017725"></a>Decision support systems</h3>
+
+### <a name="Toc260017725"></a>Decision support systems
 
 Decision support systems (DSSs) is a general name applied to any system designed to support a decision. These are generally, but not exclusively, computational systems. They emerged in the 1970s as computers developed enough power to bring interaction the main stream (Keen &amp; Morton, 1978). The University of Eindhoven has been the home of DSS in architecture and planning since the early 1980s.
 
@@ -1155,7 +1216,8 @@ An initial look at the literature makes the field look extremely impenetrable, b
 
 Decision support systems can provide advice on complex subjects, which are difficult to grasp all the threads, or as in the case of the spelling and grammar checker, that are easily overlooked. They are not a replacement for designers, but are there to support them.
 
-<h1><a name="_Toc260017726"></a>Conclusion</h1>
+
+# <a name="Toc260017726"></a>Conclusion
 
 The results show that there is a distinct bias towards overconfidence amongst the architects surveyed. This alone probably isn’t a cause enough for concern, as a far wider survey would need to be taken to ensure that the bias in the survey isn’t to blame (I suspect the opposite is actually true), in addition to the data that the Carbon Buzz project has collected it seems that it is a phenomena worth paying attention to.
 
@@ -1180,7 +1242,8 @@ F A Hayek, <cite>The Fatal Conceit</cite>
 
 We return to Hayek’s rather ominous quote from the introduction. It might well apply to designers of buildings just as much as it does to other fields. So perhaps if we have the humility to understand how little we really know about what we imagine we can design, then we can make a concerted effort to learn more, and design better.
 
-<h2><a name="_Toc260017727"></a>Bibliography</h2>
+
+## <a name="Toc260017727"></a>Bibliography
 <div class="bibliography">
 
 <span class="author">Aczel, A. D.</span> <span class="date">(1989)</span>. <cite>Complete Business Statistics</cite>. Irwin Professional Publishing. Retrieved from <a href="http://www.amazon.co.uk/Complete-Business-Statistics-Amir-Aczel/dp/0071284931.">http://www.amazon.co.uk/Complete-Business-Statistics-Amir-Aczel/dp/0071284931.</a><span class="author">Adams, J. K., &amp; Adams, P. A.</span> <span class="date">(1961)</span>. <cite>Realism of confidence judgments</cite>. Psychological Review, 68(1), 33-45. Retrieved from <a href="http://psycnet.apa.org/journals/rev/68/1/33.">http://psycnet.apa.org/journals/rev/68/1/33.</a>
@@ -1295,7 +1358,8 @@ We return to Hayek’s rather ominous quote from the introduction. It might well
 
 <span class="author">UNEP SBCI.</span> <span class="date">(2009)</span>. <cite>Common Carbon Metric for Measuring Energy Use &amp; Reporting Greenhouse Gas Emissions from Building Operations</cite>. Carbon. Retrieved from <a href="http://www.ukgbc.org/site/resources/show-resource-details?id=622.">http://www.ukgbc.org/site/resources/show-resource-details?id=622.</a>
 </div>
-<h1><a name="_Toc260017728"></a></h1>
+
+# <a name="Toc260017728"></a>
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> I want to make a distinction between design as a process of synthesising multiple sources of information and constraint into a solution, and design which is the process of sitting in a café with a moleskine and an Apple laptop drawing pictures. I consider the design of contracts, experiments and government policy to be just as valid as the design of page layouts, buildings and chairs. Both are equally creative and challenging.
 
