@@ -67,6 +67,8 @@ document.addEventListener('DOMContentLoaded', function(){
 
 This isn't a finished piece of work. I'm going to keep coming back to this over time to revise it as I change how I think about things. I thought that I ought to practice what I preach and 1) get it into source control, and 2) work in public.
 
+I wrote this in the first few months of 2016. There's still a lot left to do, e.g. things like actually working out if there's a plot, let alone writing the chapters or rewriting them.
+
 # The point of this
 
 ### For me
