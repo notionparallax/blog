@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future Story
-date: 2017-03-02 14:00:00  AEST
+date: 2017-08-20 14:00:00  AEST
 type: post
 published: true
 status: publish
@@ -9,14 +9,14 @@ categories: []
 tags: []
 
 # this goes on the index page, and into facebook shares
-description:
+description: A messy story that tries to resolve some of my ideas
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body: Graphs and things!
+twitter-body: A messy story that tries to resolve some of my ideas
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg:
+featuredimg: http://cdn2-www.comingsoon.net/assets/uploads/2017/05/Jetsons.jpg
 
 ---
 
