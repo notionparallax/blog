@@ -15,7 +15,7 @@ meta:
 
 ---
 
-I just read <a href="https://kindle.amazon.com/work/deep-work-focused-success-distracted-ebook/B00X4S82SM/B013UWFM52">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport. It sits well with a lot of the stuff I've been reading recently as a member of the commons at BVN. His main argument is that being able to do deep work gives you a huge competitive advantage. 
+I just read <a href="https://www.goodreads.com/book/show/27985224-deep-work">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport. It sits well with a lot of the stuff I've been reading recently as a member of the commons at BVN. His main argument is that being able to do deep work gives you a huge competitive advantage. 
 
 By deep work he means something that will advance your agenda in life, but also needs your specific skills. So I can send a bunch of emails, or go to a load of meetings, but really I could delegate that. Deep work is the stuff that you are uniquely suited to, and that required your undivided attention.
 
@@ -37,7 +37,7 @@ I'm considering a few more things like this, but I haven't got around to them ye
 
 # Quotes from the book
 
-I highlight when I read a kindle book[^4]. There is a <a href="https://kindle.amazon.com/your_highlights">handy website that collects them all up</a>; here's what I highlighted:
+I highlight when I read a kindle book[^4]. There is a <a href="https://www.goodreads.com/notes/27985224-deep-work/19575421-ben-doherty?ref=bsop">handy website that collects them all up</a>; here's what I highlighted:
 
 Here's Cal's method, in his own words:
 <blockquote>
