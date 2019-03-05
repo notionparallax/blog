@@ -7,8 +7,9 @@
   }
   @page {
     size: A4;
-    margin: 0;
     margin-bottom: 3cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
     margin-top: 3cm;
   }
   body, .post-meta {
@@ -18,7 +19,7 @@
     color: #000;
   }
   
-  a, blockquote {
+  a {
     page-break-inside: avoid
   }
   h1,
@@ -62,8 +63,7 @@
     page-break-after: avoid;
   }
   table,
-  pre,
-  figure {
+  pre {
     page-break-inside: avoid
   }
   ul,
@@ -108,7 +108,6 @@
   }
   figure {
     width:100% !important;
-    border: 1pt solid hsla(0,0%,80%,1);
   }
   blockquote {width: 100% !important;}
   footer,
@@ -159,5 +158,17 @@
   ol {
     margin-left: 18pt;
     margin-bottom: 20pt;
+  }
+
+  .wrapper {
+    max-width: initial;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .wrapper.post {
+    max-width: initial;
+  }
+  .post-content {
+    column-count: 2;
   }
 }
