@@ -29,13 +29,13 @@ span.speaker {
   width: 3em;
 }
 
-figure.svg-animation {
+.svg-animation {
   float: right;
   min-width: 400px;
   width: 50%;
 }
 
-figure.svg-animation.purpose {
+.svg-animation.purpose {
   float: none;
   width: 90%;
 }
@@ -71,7 +71,7 @@ figure button {
   width: 250px;
 }
 
-p.tldr {
+.tldr {
   padding-left: 3em;
   text-indent: -2.8em;
   font-size: 180%;
