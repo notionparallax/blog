@@ -103,7 +103,7 @@
     width: 0 !important;
     height: 0 !important;
     overflow: hidden !important;
-    line-height: 0pt !important;
+    line-height: 0 !important;
     white-space: nowrap;
   }
   figure {
