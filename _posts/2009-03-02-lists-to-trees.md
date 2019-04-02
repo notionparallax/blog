@@ -25,7 +25,7 @@ The way to look at it seems to be that you work from the outside in. The outside
 <figure class="full-width">
 
 
-![transforming a tree to a list]({{ site.baseurl }}/assets/old/list to tree.svg})
+![transforming a tree to a list]({{ site.baseurl }}/assets/old/list to tree.svg)
 
 </figure>
 
