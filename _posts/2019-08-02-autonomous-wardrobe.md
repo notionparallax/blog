@@ -9,20 +9,27 @@ categories: []
 tags: []
 
 # this goes on the index page, and into facebook shares
-description: Who would have thought that an Arabian from 1500 years ago would motivate me to start writing again?
+description: Can you have storage as a service? A weird possible future.
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body: Who would have thought that an Arabian from 1500 years ago would motivate me to start writing again?
+twitter-body: Can you have storage as a service? A weird possible future.
+
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: https://upload.wikimedia.org/wikipedia/commons/a/aa/Antarah_on_horse.jpg
+featuredimg: http://localhost:4000/assets/19/mobileWardrobe-funnyCar.png
 
 ---
 
-<style></style>
+<style>.note{width:30vw; float: right; padding: 1em; margin: 1em; background-color: silver;}</style>
 
 <script></script>
+
+<div class="note">
+Note: I wrote this in February, but I didn't finish it. I've decided that as nobody reads my blog, that I'm going to post and update, rather than perfect and post.
+
+In time, things will get more finished, and this note will disappear. Feel free to comment in the meantime though! 
+</div>
 
 I want to explain my self driving wardrobe idea, and how the future unit of space is the Uber eats bag. It can probably be several posts, with the general argument being: 
 
