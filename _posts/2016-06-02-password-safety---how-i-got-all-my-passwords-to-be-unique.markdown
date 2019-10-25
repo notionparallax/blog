@@ -20,7 +20,7 @@ featuredimg: 16/HolyGrail.jpg
 ---
 
 <figure class="half-width right">
-![](http://imgs.xkcd.com/comics/password_reuse.png)
+![](https://imgs.xkcd.com/comics/password_strength.png)
 <figcaption>
 [XKCD](https://xkcd.com/792/), mandatory
 </figcaption>
