@@ -24,9 +24,37 @@ Some of the words here are frequently misused, and some of them point to concept
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fun Fact: The word “yourself” was first invented by a recruiter</p>&mdash; I Am Recruitr (@iamrecruitr) <a href="https://twitter.com/iamrecruitr/status/1173976365776953344?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Lets get technical! _Myself_ is a reflexive pronoun! 
+Let's get technical! _Myself_ is a reflexive pronoun! 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿<br>👉🏿👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👈🏿<br>👉🏿👉🏾👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👈🏾👈🏿<br>👉🏿👉🏾👉🏽👇🏼👇🏼👇🏼👇🏼👇🏼👈🏽👈🏾👈🏿<br>👉🏿👉🏾👉🏽👉🏼👇🏻👇🏻👇🏻👈🏼👈🏽👈🏾👈🏿<br>👉🏿 👉🏿 I hope your well👈🏿👈🏿👈🏿<br>👉🏿👉🏾👉🏽👉🏼👆🏻👆🏻👆🏻👈🏼👈🏽👈🏾👈🏿<br>👉🏿👉🏾👉🏽👆🏼👆🏼👆🏼👆🏼👆🏼👈🏽👈🏾👈🏿<br>👉🏿👉🏾👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👈🏾👈🏿<br>👉🏿👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👈🏿<br>👉🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👈🏿</p>&mdash; Salim Hamid (@team_salim) <a href="https://twitter.com/team_salim/status/1195392187237838849?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I first learnt about reflexive phrases in French class, where I skipped ahead from _Je me laver_ to _Je me jouer_ and started giggling. I was quite the precocious pervert at 11. That's all I learned in school, just those two lines. So if your French is rusty, the first is "I wash myself" and the second is play.
+
+Only you can do things to your _self_, other people do things to _you_. This sounds too simple, so people often like to fancy up their speech with sentences like: 
+
+> "I'll arrange a meeting between yourself and myself"
+
+Which is a bit like not cutting the vents on your suit, or leaving the label on the wrist of your cashmere coat. It looks posh to the great unwashed, but those who know, know.
+
+> "I'll arrange a meeting between you and me"
+
+Like most things in language, simple is better. In this case, it's also more accurate and correct. Bonus! It would be better still as:
+
+> "I'll arrange a meeting between us"
+
+but that's only 9 syllables, and the first is 18 syllables; twice as many. Imagine if recruiters used simple language, they'd only be working half the day.
+
+So in summary, you almost never need to say _myself_ and _yourself_ even less.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿<br>
+👉🏿👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👈🏿<br>
+👉🏿👉🏾👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👈🏾👈🏿<br>
+👉🏿👉🏾👉🏽👇🏼👇🏼👇🏼👇🏼👇🏼👈🏽👈🏾👈🏿<br>
+👉🏿👉🏾👉🏽👉🏼👇🏻👇🏻👇🏻👈🏼👈🏽👈🏾👈🏿<br>
+👉🏿 👉🏿 I hope your well👈🏿👈🏿👈🏿<br>
+👉🏿👉🏾👉🏽👉🏼👆🏻👆🏻👆🏻👈🏼👈🏽👈🏾👈🏿<br>
+👉🏿👉🏾👉🏽👆🏼👆🏼👆🏼👆🏼👆🏼👈🏽👈🏾👈🏿<br>
+👉🏿👉🏾👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👈🏾👈🏿<br>
+👉🏿👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👈🏿<br>
+👉🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👈🏿</p>&mdash; Salim Hamid (@team_salim) <a href="https://twitter.com/team_salim/status/1195392187237838849?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
