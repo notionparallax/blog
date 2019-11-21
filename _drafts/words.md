@@ -28,7 +28,21 @@ Some of the words here are frequently misused, and some of them point to concept
 
 Optimisation is a process, a bit like heating. If you point a hair drier at a brick for 10 minutes, the brick gets warmer. It does _not_ become the hottest it can possibly ever be, and nobody expects it to be. Then, why do people expect that something that's been optimised will be optimal?
 
-This is going to need a little diversion into what optimal means. It's a fancy word for _best_.
+This is going to need a little diversion into what optimal means. It's a fancy word for _best_. Not just the best we could do today, or the best we could find, it means the _absolute best possible_. There are no other solutions possible that are better. 
+
+In an optimisation process, there is usually some kind of search going on to find better ways to solve a problem. To make this a bit easier to think about, let's imagine a problem that is: "Where is the highest place on earth that I can stand on the ground". We all know the answer to this so it'll be clear what we're talking about. (It's on the top of Everest, dum dum.) More formally: what's the greatest altitude I can walk to on earth?
+
+If I start in the road, outside my house, and walk uphill, then I'm increasing my altitude. This is getting better, I'm optimising my altitude by me walking. Sooner or later I'm going to get to the top of the hill, and all around me will be downhill. I've taken the optimisation (with the current strategy) as far as I can go. Does that mean that I've found the optimal solution? In case you're not paying attention, the answer is **no**! 
+
+I have made things better, I have optimised, but it's not optimal. 
+
+It's pretty safe to delete "optimal" from your vocabulary, unless it's immediately preceded by "not". 
+
+> "Mate, this warm beer is not optimal"
+
+> "This toothbrush is three metres long, that's not optimal"
+
+> "We optimised the bridge design a bit, now it sucks much less"
 
 ## Parametric
 
@@ -37,6 +51,16 @@ This is going to need a little diversion into what optimal means. It's a fancy w
 ## Procedural
 
 ## Rhizome
+
+Quite how anyone started talking about rhizomes in architectural computational design or in philosophy is a bit of a long story. It boils down largely to lazy thinking. 
+
+Our mates at wikipedia say that a rhizome is:
+
+> In botany and dendrology, a rhizome is a modified subterranean plant stem that sends out roots and shoots from its nodes. Rhizomes are also called creeping rootstalks or just rootstalks. Rhizomes develop from axillary buds and grow horizontally. The rhizome also retains the ability to allow new shoots to grow upwards.
+
+In the philosophical sense, it's a potato. 
+
+People were thinking about [graphs](#graph) (node and edge graphs) as a way of representing systems. I interact with you, I'm a node, you're a node, our interaction is an edge, and so on. But they realised that they could get really detailed
 
 ## Software/softwares
 
