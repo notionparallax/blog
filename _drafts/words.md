@@ -22,6 +22,14 @@ Some of the words here are frequently misused, and some of them point to concept
 
 ## Myself
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fun Fact: The word “yourself” was first invented by a recruiter</p>&mdash; I Am Recruitr (@iamrecruitr) <a href="https://twitter.com/iamrecruitr/status/1173976365776953344?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Lets get technical! _Myself_ is a reflexive pronoun! 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿<br>👉🏿👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👈🏿<br>👉🏿👉🏾👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👈🏾👈🏿<br>👉🏿👉🏾👉🏽👇🏼👇🏼👇🏼👇🏼👇🏼👈🏽👈🏾👈🏿<br>👉🏿👉🏾👉🏽👉🏼👇🏻👇🏻👇🏻👈🏼👈🏽👈🏾👈🏿<br>👉🏿 👉🏿 I hope your well👈🏿👈🏿👈🏿<br>👉🏿👉🏾👉🏽👉🏼👆🏻👆🏻👆🏻👈🏼👈🏽👈🏾👈🏿<br>👉🏿👉🏾👉🏽👆🏼👆🏼👆🏼👆🏼👆🏼👈🏽👈🏾👈🏿<br>👉🏿👉🏾👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👈🏾👈🏿<br>👉🏿👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👈🏿<br>👉🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👆🏿👈🏿</p>&mdash; Salim Hamid (@team_salim) <a href="https://twitter.com/team_salim/status/1195392187237838849?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 ## Optimise, optimised
 
 > Good, better best
