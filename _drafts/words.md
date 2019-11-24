@@ -44,6 +44,8 @@ but that's only 9 syllables, and the first is 18 syllables; twice as many. Imagi
 
 So in summary, you almost never need to say _myself_ and _yourself_ even less.
 
+As a bonus, from recruiters:
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿👇🏿<br>
 👉🏿👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👈🏿<br>
 👉🏿👉🏾👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👈🏾👈🏿<br>
@@ -70,7 +72,7 @@ In an optimisation process, there is usually some kind of search going on to fin
 
 If I start in the road, outside my house, and walk uphill, then I'm increasing my altitude. This is getting better, I'm optimising my altitude by me walking. Sooner or later I'm going to get to the top of the hill, and all around me will be downhill. I've taken the optimisation (with the current strategy) as far as I can go. Does that mean that I've found the optimal solution? In case you're not paying attention, the answer is **no**! 
 
-I have made things better, I have optimised, but it's not optimal. 
+I have made it better, I have optimised, but it's not _optimal_. 
 
 It's pretty safe to delete "optimal" from your vocabulary, unless it's immediately preceded by "not". 
 
