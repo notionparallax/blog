@@ -16,7 +16,7 @@ description: "Chapter 5 of How Buildings Learn: Magazine Architecture"
 twitter-body: "Chapter 5 of How Buildings Learn: Magazine Architecture"
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: https://notionparallax.co.uk/assets/19/goodreads/bookWaterfall.png
+featuredimg: https://upload.wikimedia.org/wikipedia/en/9/91/How_Buildings_Learn_%28Stewart_Brand_book%29_cover.jpg
 
 ---
 
