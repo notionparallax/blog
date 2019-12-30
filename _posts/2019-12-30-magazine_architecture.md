@@ -100,7 +100,7 @@ The Media Lab building, I discovered, is not unusually bad. Its badness is the n
 
 <p class="img-attribution">20 November 1990. Brand.</p>
 
-1990 - Occupied in 1985, MIT Wiesner Building houses art galleries on the ground floor and The Media Laboratory in the basement and top three floors. The design of more convivial research buildings is not a mystery-see p. 172 (Mathematical Sciences Research Institute), p. 176 (MIT's own Main Building) and p. 180 (Princeton's Molecular Biology Laboratory).
+**1990** - Occupied in 1985, MIT Wiesner Building houses art galleries on the ground floor and The Media Laboratory in the basement and top three floors. The design of more convivial research buildings is not a mystery-see p. 172 (Mathematical Sciences Research Institute), p. 176 (MIT's own Main Building) and p. 180 (Princeton's Molecular Biology Laboratory).
 </figcaption>
 </figure>
 
