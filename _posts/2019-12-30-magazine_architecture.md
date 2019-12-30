@@ -1,3 +1,41 @@
+---
+layout: post
+title: "How Buildings Learn: Magazine Architecture"
+date: 2019-12-30 9:00:00 AEST
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+
+# this goes on the index page, and into facebook shares
+description: How much do I read? How diverse is it?
+
+# This is what twitter will pick up if someone tweets the link to this page
+# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+twitter-body: How much do I read? How diverse is it?
+# Twitter and facebook will pick up this image. you can also use it in a post with:
+#![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+featuredimg: https://notionparallax.co.uk/assets/19/goodreads/bookWaterfall.png
+
+---
+
+<style>
+.HBL-img {
+    outline: 1px solid red;
+}
+.pair figure {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+</style>
+
+<script></script>
+
+
+
 ## CHAPTER 5
 
 # Magazine Architecture: No Road
@@ -14,7 +52,7 @@ The Media Lab building, I discovered, is not unusually bad. Its badness is the n
 
 > A range of observers of architecture are now suggesting that the field may be bankrupt, the profession itself impotent, and the methods inapplicable to contemporary design tasks. It is further suggested that collectively they are incapable of producing pleasant, livable, and humane environments, except perhaps occasionally and then only by chance.[^3]
 
-<div class="pair">
+<div class="HBL-img pair">
 <figure>
 
 ![](http://placekitten.com/200/300)
@@ -209,7 +247,7 @@ However, an unscrupulous contractor can undermine that approach in a hurry. Cons
 
 It is a major industry, more important than building buildings. It is all based on the idea that only the client changes his mind. The building industry is a timeless and perfect automaton that exists owIn Claims the only to carry out specific instructions. It doesn't have a mind of its timeful is being negotiation in Claims the boundary between the timeless and the is being negotiated-that's why it's such a hot issue. It's mic. It leads to agony for the client and money for the contractor. It's very destructive; that's why it's so evil. It's also evil because it's stupid, it denies intelligence." 
 
-What is punished by claims is any kind of adaptivity during construction-exactly the time when you most want it, because the building is incomplete enough to fix and improve easily. Also that's when you can take advantage of the skills and intelligence of the artisans to fine-tune design solutions on the site. 
+What is punished by claims is any kind of adaptivity during construction&mdash;exactly the time when you most want it, because the building is incomplete enough to fix and improve easily. Also that's when you can take advantage of the skills and intelligence of the artisans to fine-tune design solutions on the site. 
 
 The simultaneous seizing of power and shedding of responsibility by contractors puts the onus on architects to anticipate perfectly all of a building's needs. Nothing is left to the builders, to the client, or to actual usage. But if architects are now in a bind with that, they asked for it. They sought total control and promised total prescience. Frank Duffy: "Inherent to the Modern movement is the German idea of gestalt totality. It's Bauhaus. It's a terribly powerful word that was interpreted by architects as the power to determine every detail of the building. And you cannot touch anything once it's there." Architects of this persuasion want your light switches and toilet stalls, desks and fire stairs to reflect the same pervasive aesthetic as the roof line and lobby. Of your life is out of synch with that, too bad. 
 
@@ -509,6 +547,3 @@ monthly. $60/year from: EBN, RRI Box 161, Brattleboro VT 05301).
 
 [^32]: Richard Rogers, "The Artist and the Scientist," in Bridging the Gap (New York: Van
 Nostrand Reinhold, 1991), p. 146.
-
-
-
