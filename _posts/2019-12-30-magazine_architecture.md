@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: []
+author-name: Ben Doherty
 
 # this goes on the index page, and into facebook shares
 description: "Chapter 5 of How Buildings Learn: Magazine Architecture"
