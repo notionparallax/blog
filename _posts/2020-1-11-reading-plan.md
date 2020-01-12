@@ -10,14 +10,14 @@ tags: []
 author-name: Ben Doherty
 
 # this goes on the index page, and into facebook shares
-description: "Trying to plan 2020's reading to balance the diversity?"
+description: "I'm trying to plan 2020's reading to balance the diversity; can you help?"
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body: "Trying to plan 2020's reading to balance the diversity?"
+twitter-body: "I'm trying to plan 2020's reading to balance the diversity; can you help?"
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg:
+featuredimg: https://notionparallax.co.uk/assets/19/goodreads/clumsyDiversity.png
 ---
 
 <style>
@@ -62,6 +62,32 @@ featuredimg:
 </style>
 
 <script></script>
+
+Based on [how poorly I did](https://notionparallax.co.uk/2019/goodreads2019) with reading a diverse set of authors last year, even with an explicit plan to try harder to _read books by people who are not like me_, I thought I'd try a quota approach.
+
+<figure class="half-width right">
+
+![]({{ site.baseurl }}/assets/19/goodreads/compound_diversity_Fic_Nonfic.png)
+
+<figcaption>
+This is my reading habits for the last few years; pretty unbalanced. If I use a quota for this year's reading, the graph will be flat across all categories.
+</figcaption>
+
+</figure>
+
+I used the categories that I used in the [analysis of last year's books](https://notionparallax.co.uk/2019/goodreads2019), which were: 
+* Book is [fiction \| non-fiction]
+* Book age is [under 2 years old \| 2&ndash;15 years old \| over 15 years old]
+* Author is a [woman \| man]
+* Author is [black \| white \| Asian \| Hispanic]
+
+That's 2&times;3&times;2&times;4=48 books. The more I look at these categories the more uncomfortable they make me, but given the combinatorial explosion of going deeper into the  implications of intersectionality, I'm not sure my life is long enough. This seems like a good enough start as an experiment.
+
+I really enjoyed reading a lot of [Ursula K. Le Guin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin), [N.K. Jemisin](https://www.goodreads.com/author/show/2917917.N_K_Jemisin) and [Octavia E. Butler](https://www.goodreads.com/author/show/29535.Octavia_E_Butler) last year, so I imagine that the trend will continue. (Fingers crossed.)
+ 
+I'm going to need help finding these books to read, so I made a [form here to recommend books](https://docs.google.com/forms/d/e/1FAIpQLScn25ETGWz7VjNY-U3DhseWwatcQOves9OyUFbk7yRDXLno4A/viewform?usp=sf_link). If you need some idea of what I have been reading, here's [2019](https://www.goodreads.com/user_challenges/14706992) and [2018](https://www.goodreads.com/user_challenges/11862761).
+
+---
 
 {:.Looking-for-suggestions} fiction, white male author, over 15 years ago
 : -
@@ -206,3 +232,7 @@ featuredimg:
 
 {:.Looking-for-suggestions} non-fiction, Hispanic female author, <2 years ago
 : -
+
+---
+
+This is also a pretty horrible way to visualise it. Maybe a bit later in the year I'll come back to how to represent it.
