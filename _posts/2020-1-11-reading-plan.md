@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A more diverse 2020 reading list"
-date: 2020-1-11 9:00:00 AEST
+date: 2020-1-12 9:00:00 AEST
 type: post
 published: true
 status: publish
