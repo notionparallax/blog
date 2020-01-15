@@ -15,49 +15,53 @@ article.post {
   h2,
   h3,
   h4,
-  h5 {font-family: $heading-font-family;}
+  h5 {
+    font-family: $heading-font-family;
+  }
 
   h1 {
-    font-size: 2.90rem; line-height: 1;
+    font-size: 2.9rem;
+    line-height: 1;
 
     @include media-query($on-palm) {
-      font-size: 2.20rem;
+      font-size: 2.2rem;
     }
   }
 
   h2 {
-    font-size: 2.30rem;
+    font-size: 2.3rem;
 
     @include media-query($on-palm) {
-      font-size: 2.00rem;
+      font-size: 2rem;
     }
   }
 
   h3 {
-    font-size: 2.00rem;
+    font-size: 2rem;
 
     @include media-query($on-palm) {
-      font-size: 1.80rem;
+      font-size: 1.8rem;
     }
   }
 
   h4 {
-    font-size: 1.60rem;
+    font-size: 1.6rem;
 
     @include media-query($on-palm) {
-      font-size: 1.40rem;
+      font-size: 1.4rem;
     }
   }
 
   h5 {
-    font-size: 1.20rem;
+    font-size: 1.2rem;
 
     @include media-query($on-palm) {
-      font-size: 1.20rem;
+      font-size: 1.2rem;
     }
   }
 
-  dt, dd {
+  dt,
+  dd {
     display: inline-block;
     vertical-align: text-top;
 
@@ -68,7 +72,7 @@ article.post {
   dt {
     width: 30%;
     text-align: right;
-    padding-right: .5em;
+    padding-right: 0.5em;
 
     @include media-query($on-palm) {
       width: initial;
@@ -77,21 +81,21 @@ article.post {
       font-weight: bold;
     }
   }
-  dt::after{
+  dt::after {
     content: ":";
 
     @include media-query($on-palm) {
       content: none;
     }
   }
-  dd{
+  dd {
     width: 69%;
 
     @include media-query($on-palm) {
       width: initial;
     }
   }
-  .new-topic{
+  .new-topic {
     font-weight: bold;
 
     @include media-query($on-palm) {
@@ -105,7 +109,7 @@ article.post {
     margin-bottom: 1em;
 
     p {
-      margin-top: .5em;
+      margin-top: 0.5em;
     }
   }
 
@@ -125,7 +129,7 @@ article.post {
   }
 
   q {
-    opacity: .9;
+    opacity: 0.9;
   }
 
   blockquote {
@@ -144,7 +148,7 @@ article.post {
   }
 
   .site-title {
-    opacity: .1;
+    opacity: 0.1;
   }
 
   .half-width {
@@ -176,10 +180,9 @@ article.post {
   }
 
   figure {
-
     @include media-query($on-palm) {
-      background-color: rgba($brand-color, .05);
-      margin-left: .5em;
+      background-color: rgba($brand-color, 0.05);
+      margin-left: 0.5em;
       margin: 0 -1em 1em;
       padding: 1em;
       width: 100vw;
@@ -187,7 +190,7 @@ article.post {
       &:not(.half-width) {
         margin-left: 0;
 
-        >p {
+        > p {
           margin: 0 -1em;
         }
       }
@@ -208,7 +211,7 @@ article.post {
     figcaption {
       font-size: 85%;
       font-weight: lighter;
-      padding: .5em 1em;
+      padding: 0.5em 1em;
 
       //cite {}
 
