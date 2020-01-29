@@ -75,16 +75,17 @@ This is my reading habits for the last few years; pretty unbalanced. If I use a 
 
 </figure>
 
-I used the categories that I used in the [analysis of last year's books](https://notionparallax.co.uk/2019/goodreads2019), which were: 
-* Book is [fiction \| non-fiction]
-* Book age is [under 2 years old \| 2&ndash;15 years old \| over 15 years old]
-* Author is a [woman \| man]
-* Author is [black \| white \| Asian \| Hispanic]
+I used the categories that I used in the [analysis of last year's books](https://notionparallax.co.uk/2019/goodreads2019), which were:
 
-That's 2&times;3&times;2&times;4=48 books. The more I look at these categories the more uncomfortable they make me, but given the combinatorial explosion of going deeper into the  implications of intersectionality, I'm not sure my life is long enough. This seems like a good enough start as an experiment.
+- Book is [fiction \| non-fiction]
+- Book age is [under 2 years old \| 2&ndash;15 years old \| over 15 years old]
+- Author is a [woman \| man]
+- Author is [black \| white \| Asian \| Hispanic]
+
+That's 2&times;3&times;2&times;4=48 books. The more I look at these categories the more uncomfortable they make me, but given the combinatorial explosion of going deeper into the implications of intersectionality, I'm not sure my life is long enough. This seems like a good enough start as an experiment.
 
 I really enjoyed reading a lot of [Ursula K. Le Guin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin), [N.K. Jemisin](https://www.goodreads.com/author/show/2917917.N_K_Jemisin) and [Octavia E. Butler](https://www.goodreads.com/author/show/29535.Octavia_E_Butler) last year, so I imagine that the trend will continue. (Fingers crossed.)
- 
+
 I'm going to need help finding these books to read, so I made a [form here to recommend books](https://docs.google.com/forms/d/e/1FAIpQLScn25ETGWz7VjNY-U3DhseWwatcQOves9OyUFbk7yRDXLno4A/viewform?usp=sf_link). If you need some idea of what I have been reading, here's [2019](https://www.goodreads.com/user_challenges/14706992) and [2018](https://www.goodreads.com/user_challenges/11862761).
 
 ---
@@ -143,7 +144,7 @@ I'm going to need help finding these books to read, so I made a [form here to re
 {:.Looking-for-suggestions} fiction, Asian female author, 2-15 years ago
 : -
 
-{:.planned} fiction, black female author, 2-15 years ago
+{:.finished} fiction, black female author, 2-15 years ago
 : [Half of a Yellow Sun](https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun) by [Chimamanda Ngozi Adichie](https://www.goodreads.com/author/show/11291.Chimamanda_Ngozi_Adichie)
 
 {:.Looking-for-suggestions} fiction, Hispanic female author, 2-15 years ago
@@ -161,11 +162,11 @@ I'm going to need help finding these books to read, so I made a [form here to re
 {:.Looking-for-suggestions} fiction, Hispanic female author, <2 years ago
 : -
 
-{:.in-progress} non-fiction, white male author, over 15 years ago
+{:.finished} non-fiction, white male author, over 15 years ago
 : [How Buildings Learn: What Happens After They're Built](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) by [Stewart Brand](https://www.goodreads.com/author/show/18698.Stewart_Brand)
 
-{:.Looking-for-suggestions} non-fiction, Asian male author, over 15 years ago
-: -
+{:.in-progress} non-fiction, Asian male author, over 15 years ago
+: [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://www.goodreads.com/book/show/1678558.Gemba_Kaizen) by [Masaaki Imai](https://www.goodreads.com/author/show/152718.Masaaki_Imai)
 
 {:.Looking-for-suggestions} non-fiction, black male author, over 15 years ago
 : -
@@ -179,8 +180,10 @@ I'm going to need help finding these books to read, so I made a [form here to re
 {:.Looking-for-suggestions} non-fiction, Asian male author, 2-15 years ago
 : -
 
-{:.planned} non-fiction, black male author, 2-15 years ago
-: [Dark Emu](https://www.goodreads.com/book/show/21401526-dark-emu) by [Bruce Pascoe](https://www.goodreads.com/author/show/809165.Bruce_Pascoe)
+{:.Looking-for-suggestions} non-fiction, black male author, 2-15 years ago
+:
+
+<!-- [Dark Emu](https://www.goodreads.com/book/show/21401526-dark-emu) by [Bruce Pascoe](https://www.goodreads.com/author/show/809165.Bruce_Pascoe) -->
 
 {:.Looking-for-suggestions} non-fiction, Hispanic male author, 2-15 years ago
 : -
