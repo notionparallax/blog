@@ -42,40 +42,46 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
     }
   }
   @media print {
-    html,
-    body {
-      height: 210mm;
-      width: 148mm;
+    html, body {
+      height: 210mm !important;
+      width: 297mm !important;
     }
     @page {
       /* size: 148mm 210mm !important; */
       size: A5 !important;
-      margin-bottom: 1cm;
-      margin-left: 1cm;
-      margin-right: 1cm;
-      margin-top: 1cm;
+      margin-bottom: 0;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
     }
-    iframe {
+    iframe, 
+    header {
       display: none;
     }
     .post-content {
       column-count: 1 !important;
     }
     section {
+      /* margin: 1em; */
       background-color: white;
       break-inside: avoid;
       column-count: 2;
       display: inline-block;
+      display: inline-block;
       height: 210mm;
-      width: 148mm;
-      margin: 1em;
       outline: 1px solid;
       padding: 1cm;
       page-break-before: always;
+      vertical-align: bottom;
+      width: 148mm;
     }
+    section h1,
     section h2,
     figure {
       column-span: all;
+    }
+    section h1 {
+      text-align: center;
     }
     article.post h2 {
         margin-top: 0;
@@ -91,12 +97,24 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
     }
     h3 {
       break-after: avoid;
+      /* This isn't actually implemented yet, 
         /* This isn't actually implemented yet, 
-        but one day it'll make the headers look nice */
+      /* This isn't actually implemented yet, 
+      but one day it'll make the headers look nice */
     }
     article.post li {
       margin-bottom: 0.2em;
     }
+    .footnotes {
+      border-top: none;
+      column-count: 2;
+      padding: 1cm;
+      page-break-before: always;
+    }
+    section td {
+      text-align: center;
+    }
+
   }
 </style>
 
