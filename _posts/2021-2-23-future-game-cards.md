@@ -98,8 +98,6 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
     h3 {
       break-after: avoid;
       /* This isn't actually implemented yet, 
-        /* This isn't actually implemented yet, 
-      /* This isn't actually implemented yet, 
       but one day it'll make the headers look nice */
     }
     article.post li {
@@ -118,18 +116,15 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
   }
 </style>
 
-It's difficult to think about the future. It's tempting to just think about the present, but [blue and shiny](http://www.overcomingbias.com/2010/06/near-far-summary.html)[^construal]. Or to think about the issue that's important and in the news today, and just have much more or much less of it.
-
-This is a game that helps its players think about the future. It gives players specific things to think about, and by thinking about the interactions between those things, gives a different way of thinking. It's not any more "correct", but it breaks through the barrier of simplistic utopias or dystopias, and pushes the ideas into the messy, soupy middle.
-
-It was first played in 2015 with staff at BVN in Sydney. I played it with students at Sydney University, and I've moved it here to play with students at UNSW.
-
-[^construal]: Things in the distance are blue, due to the same phenomenon that makes the sky blue. So we have a tendency to think about things that are far away temporally in the same way. Things are shiny in the future because detail is hard work, and things far away don't have much detail either. That's a bit of an over simplification, but it's correct in essence.
-
 <section>
 
 # Possible Futures
-[TODO: why are we playing this game, what are we going to do?]
+
+It's difficult to just sit down and think about the future. It's tempting to just think about the present, but blue and shiny[^construal]. Or to think about the issue that's important and in the news today, and just have much more or much less of it. You need a _framework_!
+
+This is a game that helps its players think about the future. It gives players specific things to think about, and by thinking about the interactions between those things, gives a different way of thinking. It's not any more "correct", but it breaks through the barrier of simplistic utopias or dystopias, and pushes the ideas into the messy, soupy middle.
+
+Have fun with this, and let your imagination loose. If there's anything we've learned from the recent past, it's that _That could never happen_ means that it's almost guaranteed to happen.
 
 ## How to play
 
@@ -139,7 +134,7 @@ Print out the cards. In total you need about 10 per team, there are XX cards now
 
 If you've got a particular focus or reason for running this workshop, then it's probably ok to make a fixed card that is always in each team's hand. E.g. if you really care about smart cities, make a card (or cards) about that, and make sure that each team always has one of them.
 
-Someone needs to be the MC/time keeper. It helps to have a few people going around to get the teams to think a bit differently if they get stuck in a rut. (That's been me so far.)
+Someone needs to be the MC/time keeper. It helps to have a few people going around to get the teams to think a bit differently if they get stuck in a rut.
 </section>
 
 <section>
@@ -225,7 +220,11 @@ Take a bit more time to weave all these ideas into a story, and then tell everyo
 
 Fill in the canvas. Its job is to make all the ideas visible, so that you can start to probe them for inconsistencies. Start using post it notes, so that you can change things, _a lot_.
 
-.
+</section>
+
+<section>
+
+## Canvas prompts
 
 [TODO: draw up a canvas]
 
@@ -331,9 +330,9 @@ Not only is each computer more powerful, but there are also more computers in th
 * Does more power unlock answers to new kinds of problem? Google search wouldn't be possible without a certain level of computer power. What new kinds of activity will be unlocked by more power?
 * More compute power needs more electrical power. Where will this electricity come from?
 * Does everyone have equal access to this compute power?
-* Will we ever have enough computer power?
+* Will we ever have _enough_ computer power?
 
-![]({{ site.baseurl }}/assets/20/game/images/image3.png)
+    ![]({{ site.baseurl }}/assets/20/game/images/image3.png)
 
 </section>
 
@@ -1243,11 +1242,23 @@ This dramatic decline in bee populations is the result of multiple factors such 
 </section>
 
 <section>
+
 ## Limited Nuclear war
+
+<figure>
+<figcaption>
+</figcaption>
+![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+</figure>
+
+### Consider:
+
+* 
 
 </section>
 
 <section>
+
 ## CRISPR and gene editing
 
 <figure>
@@ -1257,9 +1268,14 @@ This dramatic decline in bee populations is the result of multiple factors such 
 </figure>
 If gene editing becomes mainstream, what are we likely to use it for? Better crops? Better farm animals? Reducing human disease? Fashionably tall children? Super soldiers?
 
+### Consider:
+
+* 
+
 </section>
 
 <section>
+
 ## Fossil fuel price crash
 
 <figure>
@@ -1271,6 +1287,10 @@ If gene editing becomes mainstream, what are we likely to use it for? Better cro
 Renewable prices are dropping below fossil fuel prices[^56]. The reliability issue still hasn't been fully solved. What are the implications of this? What happens if the cost of energy gets to zero?
 
 Which countries' economies rely on fossil fuel exports?
+
+### Consider:
+
+* 
 
 </section>
 
