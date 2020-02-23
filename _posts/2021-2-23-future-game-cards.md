@@ -1574,7 +1574,7 @@ Which countries' economies rely on fossil fuel exports?
 
 [^24]: [The Better Angels of Our Nature](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)
 
-[^25]: for a nice interactive view of this phenomenon this article is good: <a href="https://www.google.com/url?q=http://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/&amp;sa=D&amp;ust=1582431437878000">http://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/</a>
+[^25]: [for a nice interactive view of this phenomenon this article is good](http://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/)</a>
 
 [^26]: from [How Did Work-Life Balance in the U.S. Get So Awful?](https://www.theatlantic.com/business/archive/2013/06/how-did-work-life-balance-in-the-us-get-so-awful/276336/). If we assume a 50 week year, Greece has gone from 54 hour weeks to 41; the Netherlands from 46 to 28!
 
@@ -1582,27 +1582,27 @@ Which countries' economies rely on fossil fuel exports?
 
 [^28]: Economic Possibilities for our Grandchildren: <a href="https://www.google.com/url?q=http://www.econ.yale.edu/smith/econ116a/keynes1.pdf&amp;sa=D&amp;ust=1582431437879000">http://www.econ.yale.edu/smith/econ116a/keynes1.pdf</a>
 
-[^29]: http://qz.com/462605/amazon-is-now-bigger-than-walmart/
+[^29]: Quartz: [Amazon is now bigger than Walmart](http://qz.com/462605/amazon-is-now-bigger-than-walmart/)
 
-[^30]: Data from <a href="https://www.google.com/url?q=https://goo.gl/L3TER1&amp;sa=D&amp;ust=1582431437875000">https://goo.gl/L3TER1</a>
+[^30]: [Data from](https://goo.gl/L3TER1)
 
-[^31]: <a href="https://www.google.com/url?q=https://internet.org/&amp;sa=D&amp;ust=1582431437879000">https://internet.org/</a> is planning to make internet access available through solar powered planes.
+[^31]: [internet.org](https://internet.org/) was planning to make internet access available through solar powered planes.
 
-[^32]: <a href="https://www.google.com/url?q=http://www.google.com/loon/&amp;sa=D&amp;ust=1582431437879000">http://www.google.com/loon/</a> is planning to make internet access available through weather balloons.
+[^32]: [Loon](http://www.google.com/loon/) was planning to make internet access available through weather balloons.
 
 [^33]: [How is Today’s Warming Different from the Past?](http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php)
 
 [^34]: IPCC graphic of uncertainty ranges with various models over time. Climateprediction.net is aiming to reduce the ranges and produce better probability information.
 
-[^35]: Observed and projected changes in global average temperature under three no-policy emissions scenarios. The shaded areas show the likely ranges while the lines show the central projections from a set of climate models. A wider range of model types shows outcomes from 2 to 11.5&deg;F. Changes are relative to the 1960-1979 average. Source: [USGCRP 2009](https://www.google.com/url?q=http://www.globalchange.gov/HighResImages/1-Global-pg-25_top.jpg&amp;sa=D&amp;ust=1582431437880000)
+[^35]: Observed and projected changes in global average temperature under three no-policy emissions scenarios. The shaded areas show the likely ranges while the lines show the central projections from a set of climate models. A wider range of model types shows outcomes from 2&deg;F&ndash;11.5&deg;F. Changes are relative to the 1960-1979 average. Source: [USGCRP 2009](https://www.google.com/url?q=http://www.globalchange.gov/HighResImages/1-Global-pg-25_top.jpg&amp;sa=D&amp;ust=1582431437880000)
 
-[^36]: https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/
+[^36]: [Why the Equifax breach is very possibly the worst leak of personal info ever](https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/)
 
 [^37]: <a href="https://www.google.com/url?q=https://en.wikipedia.org/wiki/DARPA_Grand_Challenge&amp;sa=D&amp;ust=1582431437881000">https://en.wikipedia.org/wiki/DARPA_Grand_Challenge</a>
 
 [^38]: <a href="https://www.google.com/url?q=http://breakingsmart.com/a-new-soft-technology&amp;sa=D&amp;ust=1582431437881000">http://breakingsmart.com/a-new-soft-technology</a>
 
-[^39]: http://techcrunch.com/2014/08/09/everything-as-a-service/
+[^39]: [The World Of Everything-As-A-Service](http://techcrunch.com/2014/08/09/everything-as-a-service/), Tom Blomfield, Techcrunch
 
 [^40]: Or can't without causing substantial damage.
 
@@ -1610,11 +1610,11 @@ Which countries' economies rely on fossil fuel exports?
 
 [^42]: Worth checking this out! [Frog: Mobile Money in Afghanistan](http://mobilemandate.frogdesign.com/programs/mobile-money-in-afghanistan.html)
 
-[^43]: There is an article about [the economy of second life](https://en.wikipedia.org/wiki/Economy_of_Second_Life and this is [an exchange that only deals in virtual currencies](https://www.virwox.com).
+[^43]: There is an article about [the economy of second life](https://en.wikipedia.org/wiki/Economy_of_Second_Life) and this is [an exchange that only deals in virtual currencies](https://www.virwox.com). Both are shut down now, but there were some wild stories from that era!
 
 [^44]: Something like 80% of &euro;500 notes are believed to be used in money laundering! [The End of Money: Counterfeiters, Preachers, Techies, Dreamers--and the Coming Cashless Society](http://www.amazon.com/The-End-Money-Counterfeiters-Dreamers/dp/0306821478&amp;sa=D&amp;ust=1582431437884000)
 
-[^45]: [This talk is a really good source to understand the threats to the open internet](https://www.google.com/url?q=https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61&amp;sa=D&amp;ust=1582431437884000
+[^45]: [This talk is a really good source to understand the threats to the open internet](https://www.google.com/url?q=https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61&amp;sa=D&amp;ust=1582431437884000)
 
 [^46]: E.g. something like iMessage or BBM. They created silos of people that could communicate with each other, but not outside the group.
 
@@ -1634,8 +1634,10 @@ Which countries' economies rely on fossil fuel exports?
 
 [^54]: <a href="https://www.google.com/url?q=http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract&amp;sa=D&amp;ust=1582431437881000">http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract</a>
 
-[^55]: https://a16z.com/2017/06/28/machine-platform-crowd/
+[^55]: a16z Podcast: [Companies, Networks, Crowds](https://a16z.com/2017/06/28/machine-platform-crowd/)
 
 [^56]: [The extraordinary decline in renewable energy prices](https://www.linkedin.com/pulse/extraordinary-decline-renewable-energy-prices-chris-anderson)
 
 [^min]: [Minimalism: another boring product wealthy people can buy](https://www.theguardian.com/lifeandstyle/2017/mar/04/minimalism-conspicuous-consumption-class) "Minimalism is just another form of conspicuous consumption, a way of saying to the world: ‘Look at me! Look at all of the things I have refused to buy!’"
+
+[^construal]: Things in the distance are blue, due to the same phenomenon that makes the sky blue. So we have a tendency to think about things that are far away temporally in the same way. Things are shiny in the future because detail is hard work, and things far away don't have much detail either. That's a bit of an over simplification, but it's correct in essence. [There's a summary here.](http://www.overcomingbias.com/2010/06/near-far-summary.html)
