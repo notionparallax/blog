@@ -77,6 +77,10 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
     figure {
       column-span: all;
     }
+    article.post h2 {
+        margin-top: 0;
+        border: none;
+    }
     figure p {
       text-align: center;
     }
@@ -104,6 +108,11 @@ It was first played in 2015 with staff at BVN in Sydney. I played it with studen
 
 [^construal]: Things in the distance are blue, due to the same phenomenon that makes the sky blue. So we have a tendency to think about things that are far away temporally in the same way. Things are shiny in the future because detail is hard work, and things far away don't have much detail either. That's a bit of an over simplification, but it's correct in essence.
 
+<section>
+
+# Possible Futures
+[TODO: why are we playing this game, what are we going to do?]
+
 ## How to play
 
 Get into teams; teams of 4 seem to work pretty well. If the team is too small it's hard to get enough ideas bouncing around, if it's too big, not everyone's option gets heard.
@@ -113,8 +122,11 @@ Print out the cards. In total you need about 10 per team, there are XX cards now
 If you've got a particular focus or reason for running this workshop, then it's probably ok to make a fixed card that is always in each team's hand. E.g. if you really care about smart cities, make a card (or cards) about that, and make sure that each team always has one of them.
 
 Someone needs to be the MC/time keeper. It helps to have a few people going around to get the teams to think a bit differently if they get stuck in a rut. (That's been me so far.)
+</section>
 
-### Early rounds
+<section>
+
+## Early rounds
 
 This is all about getting warmed up. You can play through this stage for as long as you like until you feel like everyone's "got it". 
 
@@ -143,7 +155,11 @@ For these first rounds, keep them quick, 10 minutes or so. You should keep these
     * so people go out of their way to kill bees when they see them.
     
     This might not be scientifically supportable, but you can get to some pretty interesting and unintuitive results from it.
+</section>
 
+<section>
+
+{:start="4"}
 1. Once you've got a pretty good grasp on how the ideas interact, take some time to think about them from different perspectives.
     * How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
     * How will it change what we eat?
@@ -153,20 +169,64 @@ For these first rounds, keep them quick, 10 minutes or so. You should keep these
     * How will it change what we think about as we live our lives?
     * How will it change what society values?
 
-1. Invent a protagonst. 
+1. Invent a protagonist. 
     * What do they do? 
     * How is their life different to yours? 
     * How is it the same?
 
 1. Capture it! Write notes, do sketches, take photos of your team acting out scenarios. The idea is to have a record of your thoughts so that _if you wanted_, you could go back and write a speculative fiction short story about your world.
 
+1. Put all your cards to one side, and take N+1 new cards. Start again, but with more insight and enthusiasm now that you're getting more warmed up.
+</section>
 
-### Final round
+<section>
 
-## The canvas
+## Final round
 
----
+Each team keeps one card from their last round (so throw away 2 of the three for example).
 
+Play through the same as before, but take the luxury of more time. Make your notes a bit more detailed and your sketches more detailed/atmospheric. Once you're about 10&ndash;15 minutes in we can start to stress test the ideas.
+
+Pair up teams, and present the future to the other team. Their job is to stress test the future. To be clear, it's not to find a knock down argument that destroys the delicate fiction that you're assembling! It's to ask questions that they think that you haven't thought of, and to ask for clarification. If you're a dick in your questioning, nobody wins, so help build your partner team's world.
+
+Once the teams have reciprocated, swap again. Have a little break between swaps to consolidate your team's thoughts, and then go refreshed into the stress test.
+
+Take a bit more time to weave all these ideas into a story, and then tell everyone about that world.
+
+### Tips
+
+* It's very tempting to think of blissful utopias or of hellish dystopian worlds, but there is good, even joy, in all worlds, and bad in them too.
+
+    Try to avoid extremes in your worlds, it'll feel much more real if it's nuanced. Balance is a much better place to make a jump from.
+
+* Make way more notes than you think you need. At the time everything seems impossibly vibrant, but as the blinding light of the next idea comes along, it'll bulldoze the preceding ideas out of its path. 
+
+    Grab quotes, they're really usable in future scenarios.
+
+### The canvas
+
+Fill in the canvas. Its job is to make all the ideas visible, so that you can start to probe them for inconsistencies. Start using post it notes, so that you can change things, _a lot_.
+
+.
+
+[TODO: draw up a canvas]
+
+* Imagine an object used in this world
+* What would a convenience store be like (or the nearest thing to one)?
+* What's child rearing like?
+* What are the last 10 years of a person's life like in this world
+* draw up a timeline of your protagonist's day, who do they interact with, what technology do they interact with?
+* xx How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
+* xx How will it change what we eat?
+* xx How will it change what we buy?
+* xx How will it change family structures?
+* xx How will it change our free time?
+* xx How will it change what we think about as we live our lives?
+* xx How will it change what society values?
+
+[TODO: roll these into the canvas]
+
+</section>
 
 <section>
 ## Population growth rate
