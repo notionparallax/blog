@@ -77,6 +77,7 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
     }
     section h1,
     section h2,
+    pre,
     figure {
       column-span: all;
     }
@@ -214,7 +215,7 @@ Take a bit more time to weave all these ideas into a story, and then tell everyo
 
 * Make way more notes than you think you need. At the time everything seems impossibly vibrant, but as the blinding light of the next idea comes along, it'll bulldoze the preceding ideas out of its path. 
 
-    Grab quotes, they're really usable in future scenarios.
+* Grab quotes from others in your team, they're really usable in future bits of work you'll do.
 
 ### The canvas
 
@@ -1247,13 +1248,23 @@ This dramatic decline in bee populations is the result of multiple factors such 
 
 <figure>
 <figcaption>
+[^nukeimg]
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/nuke.jpg)
 </figure>
+
+[^nukeimg]: Image from [The Economist](https://www.economist.com/leaders/2017/08/05/how-to-avoid-nuclear-war-with-north-korea)
+
+> "[Limited nuclear war] refers to a small-scale use of nuclear weapons by two (or more) belligerents. A "limited nuclear war" could include targeting military facilities—either as an attempt to pre-emptively cripple the enemy's ability to attack as a defensive measure, or as a prelude to an invasion by conventional forces, as an offensive measure. This term could apply to any small-scale use of nuclear weapons"
+
+There are currently 9 countries that claim to have nuclear war capacity (USA, Russia, UK, France, China, India, Pakistan, North Korea, Israel).
+
+The Doomsday Clock is currently the closest to midnight it's ever been.
 
 ### Consider:
 
-* 
+* Is it possible that India and Pakistan could have a small scale exchange without dragging other countries into a war?
+* What other effects would a small exchange have on the world? Environmental, political, psychological?
 
 </section>
 
@@ -1266,11 +1277,21 @@ This dramatic decline in bee populations is the result of multiple factors such 
 </figcaption>
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
+
+> CRISPR gene editing is a genetic engineering technique in molecular biology by which the genomes of living organisms may be modified. [^wikicrisp]
+
+[^wikicrisp]: Wikipedia: [CRISPR gene editing](CRISPR gene editing)
+
+This technique designs proteins that essentially cut and paste sections of DNA. 
+
 If gene editing becomes mainstream, what are we likely to use it for? Better crops? Better farm animals? Reducing human disease? Fashionably tall children? Super soldiers?
 
 ### Consider:
 
-* 
+* If we can already make luminescent rabbits, what else can this potentially do?
+* What traits would we remove from organisms? What would we put in?
+* If this could be used to change live organisms (post birth, rather than pre), then what could it do?
+* What if the cut and paste is happening in unexpected places? Could we get unexpected results?
 
 </section>
 
@@ -1284,28 +1305,36 @@ If gene editing becomes mainstream, what are we likely to use it for? Better cro
 ![]({{ site.baseurl }}/assets/20/game/images/image32.png)![]({{ site.baseurl }}/assets/20/game/images/image23.png)
 </figure>
 
-Renewable prices are dropping below fossil fuel prices[^56]. The reliability issue still hasn't been fully solved. What are the implications of this? What happens if the cost of energy gets to zero?
-
-Which countries' economies rely on fossil fuel exports?
+Renewable prices are dropping below fossil fuel prices[^56]. However the reliability issue of renewables still hasn't been fully solved. So in a real time market the price of thermal coal fluctuates around zero. As reliability of renewables improves, that cost might go completely to zero. The same goes for petrol, electric vehicles are powered by whatever powers the grid, so if your car is wind powered, there's no need for petrol.
 
 ### Consider:
 
-* 
+* What are the implications of this? 
+* What happens if the cost of energy gets to zero? Does it do some strange things just before?
+* Which countries' economies rely on fossil fuel exports?
+* What happened in the 70s? Is political stability based on fossil fuels?
 
 </section>
 
 <section>
-## Deep fakes
+
+## Deepfakes
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/deepfake.jpg)
 </figure>
+
+Deepfakes map a source image face onto a target image face. Much like face swap in snapchat. Deep fake uses a pool of faces from a large pool of video from the source person, and finds the best face to map onto the target video's face.
+
+This has been used a lot to make fake "celebrity porn", and to make public figures appear to give speeches that they didn't really make. It's also been used in movies to make older actors young again (Tron), or dead actors able to finish a series (Star Wars).
 
 ### Consider:
 
-* xxx
-* yyy
+* What does this mean for trust in news?
+* What does it do to the acting profession? (See _The Congress_[^congress])
+
+[^congress]: In The Congress, Robin Wright is scanned, and "stars" in movies without her ever knowing. Her likeness is mapped onto a CGI body. Wikipedia: [The Congress](https://en.wikipedia.org/wiki/The_Congress_(2013_film))
 </section>
 
 <section>
@@ -1313,13 +1342,19 @@ Which countries' economies rely on fossil fuel exports?
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/pollutedbyplastic.jpeg)
 </figure>
+
+Single use plastic items are low capital cost, but have a significant environmental impact as they don't break down for centuries. This has had a particular effect on marine wildlife.
+
+Some jurisdictions have banned single use bags and drinking straws. Others have banned _all_ plastic, single use items.
 
 ### Consider:
 
-* xxx
-* yyy
+* Will this lead to people carrying more with them (steel straw, etc.), or will people move to eating-in more?
+* Does this trend affect anyone negatively? If there are no straws available, will disabled people be further disadvantaged? How do you feel about this?
+* How much further should this be taken? What else should be banned? What should _not_ be banned?
+* If plastic from one country damages the ocean wildlife from another country, what should the wronged country do?
 </section>
 
 <section>
@@ -1327,13 +1362,24 @@ Which countries' economies rely on fossil fuel exports?
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/Republicanlogo.png)
 </figure>
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1341,13 +1387,24 @@ Which countries' economies rely on fossil fuel exports?
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/democrat.gif)
 </figure>
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1355,41 +1412,72 @@ Which countries' economies rely on fossil fuel exports?
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/adblock.jpg)
 </figure>
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
-## Dark restaurants
+## Dark kitchens
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/dk.jfif)
 </figure>
+
+Dark kitchens create meals exclusively for the online delivery market[^dk].
+
+[^dk]: [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)
+.
+
+.
+
+|
 
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
-## Gaming as socialising/e-sport/entertainment
+## Gaming as socialising/ e-sport/ entertainment
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/esport.jpg)
 </figure>
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1400,10 +1488,21 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1414,10 +1513,21 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1428,10 +1538,21 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1442,10 +1563,21 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1453,13 +1585,18 @@ Which countries' economies rely on fossil fuel exports?
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/indoorplant.jfif)
 </figure>
+
+Plants are green because they reflect the green part of the visual light spectrum; it turns out that plants need mainly pink light to photosynthesise. 1m of solar panels can generate more than 1m of pink light, so it's very resource efficient.
+
+The plants are grown in racks, in a sealed warehouse. Each rack has lighting and a water supply with nutrients in it. Because the building is sealed, there's no need for pesticides because there are no pests. Because the plants are in racks, each square metre on the floor can produce tens of square metres of plants.
 
 ### Consider:
 
-* xxx
-* yyy
+* If we do this, what will happen to the farming industry?
+* What would happen to all the land that is currently used to grow plants?
+* Not all plants can be grown like this. Plants that are tall are particularly unsuited, e.g. fruit and corn. How will our diets shift to reflect the price differences?
 </section>
 
 <section>
@@ -1467,13 +1604,17 @@ Which countries' economies rely on fossil fuel exports?
 <figure>
 <figcaption>
 </figcaption>
-![]({{ site.baseurl }}/assets/20/game/images/image54.png)
+![]({{ site.baseurl }}/assets/20/game/images/labmeat.jfif)
 </figure>
+
+Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also sentient beings. Those are two pretty compelling reasons not to eat them. However, meat is a dense source of calories, protein and vitamins. If we can culture meat in a lab, then we can have all the upsides without any of the downsides.
 
 ### Consider:
 
-* xxx
-* yyy
+* Will we start to design meats that aren't copies of animals?
+* Will lab meat ever overcome the yuk factor?
+* What will happen to the meat industry? What about the animals that are already alive?
+* What will we do with all the spare land that is freed up?
 </section>
 
 <section>
@@ -1484,10 +1625,21 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
@@ -1498,38 +1650,68 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
-## Global Remote work
+## Remote work for all
 <figure>
 <figcaption>
 </figcaption>
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
 </section>
 
 <section>
-## Universal basic income
+## Universal basic income (UBI)
 <figure>
 <figcaption>
 </figcaption>
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+UBI is the idea that everyone in a society gets paid a stipend by the state. For example everyone gets $1000 every month, and any money you make on top of that (after tax) is yours.
+
+There is a lot of discussion about what _universal_, _basic_ and  _income_ actually mean in this context. Is _universal_: everyone inside the state's boundary, all citizens, all citizens over a certain age, all male landowning citizens? Is _basic_ enough to not starve, enough to have a living wage?
+
+It's popular across the political spectrum, for different reasons. Small government advocates like it because it'll reduce reliance on the welfare state, big government advocates like it because it's a universal safety net.
+
 ### Consider:
 
-* xxx
-* yyy
+* What would you consider universal to mean? Basic? Income?
+* If you need more than the basic amount (e.g. disability allowance) will society look after you?
+* Would getting "free money" encourage people to not work?
+
 </section>
 
 <section>
@@ -1540,10 +1722,52 @@ Which countries' economies rely on fossil fuel exports?
 ![]({{ site.baseurl }}/assets/20/game/images/image54.png)
 </figure>
 
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ### Consider:
 
-* xxx
-* yyy
+* .
+* .
+</section>
+<section>
+
+## Contributing
+
+This game gets better as more cards are added, or as cards get updated. There are always updates needed to the current cards. Better images, new footnotes... The job is endless and I'd love your help.
+
+If you spot a way to improve a card, or you'd like to make a new card, then the format is as follows:
+<pre>
+
+&lt;section&gt;
+## Title
+&lt;figure&gt;
+&lt;figcaption&gt;
+A caption for the image, and image attribution.
+&lt;/figcaption&gt;
+![]({{ site.baseurl }}/assets/20/game/images/filename.png)
+&lt;/figure&gt;
+
+Some text that explains the idea, trend or technology.
+
+You can have a few paragraphs, but keep it tight.
+
+
+### Consider:
+
+* Ask a question
+* Ask another question. Try not to be leading if you can.
+&lt;/section&gt;
+</pre>
+
 </section>
 
 [^1]: ABS data, high scenario.
