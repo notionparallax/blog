@@ -157,7 +157,16 @@ If you need some idea of what I have been reading, here's [2019](https://www.goo
                         `${book.bookName}<br>`+
                         `${book.authorName}`);
             parents.push(`${a}:${b}:${c}`);
-            cols = ["pink", "royalblue", "lightgray", "purple"]
+
+
+
+
+            cols = [
+                "hsl(30, 100%, 48%)",  //"Looking-for-suggestions"
+                "hsl(174, 100%, 29%)", //"finished"
+                "silver",              //"planned"
+                "hsl(30, 100%, 48%)"   //"in-progress"
+            ]
             colours.push(cols[status.indexOf(book.status)]);
         });
         });
@@ -175,7 +184,7 @@ If you need some idea of what I have been reading, here's [2019](https://www.goo
     }
     ];
 
-    Plotly.newPlot("plotly_div", treemapData);
+    Plotly.newPlot("plotly_div", treemapData, {scrollZoom: true, editable: true});
 
   }
 
