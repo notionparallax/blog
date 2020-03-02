@@ -87,7 +87,7 @@ I used the categories that I used in the [analysis of last year's books](https:/
 
 That's 2&times;3&times;2&times;4=48 books. The more I look at these categories the more uncomfortable they make me, but given the combinatorial explosion of going deeper into the implications of intersectionality, I'm not sure my life is long enough. This seems like a good enough start as an experiment.
 
-I really enjoyed reading a lot of [Ursula K. Le Guin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin), [N.K. Jemisin](https://www.goodreads.com/author/show/2917917.N_K_Jemisin) and [Octavia E. Butler](https://www.goodreads.com/author/show/29535.Octavia_E_Butler) last year, so I imagine that the trend will continue. (Fingers crossed.)
+I really enjoyed reading a lot of [Ursula K. Le Guin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin), [N.K. Jemisin](https://www.goodreads.com/author/show/2917917.N_K_Jemisin) and [Octavia E. Butler](https://www.goodreads.com/author/show/29535.Octavia_E_Butler) last year, so I imagine that the trend of enjoyment will continue with increased diversity. (Fingers crossed.)
 
 I'm going to need help finding these books to read, so I made a [spreadsheet that actually drives this page (it's here)](https://docs.google.com/spreadsheets/d/17dwAQMFu06MTK5rBdIMrXkCEu2d1yfmte0YuWHCqIrk/edit?usp=sharing). You can put comments on that if there's categories that you have a suggestion for. 
 
