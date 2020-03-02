@@ -59,6 +59,9 @@ featuredimg: https://notionparallax.co.uk/assets/19/goodreads/clumsyDiversity.pn
 .Looking-for-suggestions {
     position: relative;
 }
+#plotly_div {
+    height: 85vh;
+}
 </style>
 
 <script></script>
@@ -86,156 +89,102 @@ That's 2&times;3&times;2&times;4=48 books. The more I look at these categories t
 
 I really enjoyed reading a lot of [Ursula K. Le Guin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin), [N.K. Jemisin](https://www.goodreads.com/author/show/2917917.N_K_Jemisin) and [Octavia E. Butler](https://www.goodreads.com/author/show/29535.Octavia_E_Butler) last year, so I imagine that the trend will continue. (Fingers crossed.)
 
-I'm going to need help finding these books to read, so I made a [form here to recommend books](https://docs.google.com/forms/d/e/1FAIpQLScn25ETGWz7VjNY-U3DhseWwatcQOves9OyUFbk7yRDXLno4A/viewform?usp=sf_link). If you need some idea of what I have been reading, here's [2019](https://www.goodreads.com/user_challenges/14706992) and [2018](https://www.goodreads.com/user_challenges/11862761).
+I'm going to need help finding these books to read, so I made a [spreadsheet that actually drives this page (it's here)](https://docs.google.com/spreadsheets/d/17dwAQMFu06MTK5rBdIMrXkCEu2d1yfmte0YuWHCqIrk/edit?usp=sharing). You can put comments on that if there's categories that you have a suggestion for. 
+
+If you need some idea of what I have been reading, here's [2019](https://www.goodreads.com/user_challenges/14706992) and [2018](https://www.goodreads.com/user_challenges/11862761).
 
 ---
 
-{:.Looking-for-suggestions} fiction, white male author, over 15 years ago
-: -
+<script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+<script type='text/javascript'>    
+  var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/17dwAQMFu06MTK5rBdIMrXkCEu2d1yfmte0YuWHCqIrk/edit';
 
-{:.Looking-for-suggestions} fiction, Asian male author, over 15 years ago
-: -
+  function init() {
+    Tabletop.init( { key: publicSpreadsheetUrl,
+                     callback: showInfo,
+                     simpleSheet: true } )
+  }
 
-{:.Looking-for-suggestions} fiction, black male author, over 15 years ago
-: -
+  function showInfo(data, tabletop) {
+    alert('Successfully processed!')
+    // console.log(data);
+ 
+    htmlText = [];
+    data.forEach(d=>{
+        let by = "";
+        if(d.authorName1 != ""){
+            if(d.authorName2 == ""){
+                by = `by <a href="${d.authorLink}">${d.authorName}</a></dd>`
+            }else{
+                by = `by <a href="${d.authorLink}">${d.authorName}</a> and <a href="${d.authorLink2}">${d.authorName2}</a></dd>`
+            }
+        }
+        htmlText.push(`<dt class="${d.status}">${d.fnf}, ${d.race} ${d.sex} author, ${d.age}</dt>`)
+        htmlText.push(`<dd><a href="${d.bookLink}">${d.bookName}</a> ${by}`)
+    });
+    container = document.getElementById("book_list_div");
+    container.insertAdjacentHTML("afterbegin", htmlText.join(" "));
 
-{:.planned} fiction, Hispanic male author, over 15 years ago
-: [Labyrinths: Selected Stories and Other Writings](https://www.goodreads.com/book/show/17717.Labyrinths) by [Jorge Luis Borges](https://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
+    let fnf = [...new Set(data.map(x=>x.fnf))];        //["Fiction", "Non-fiction"];
+    let age = [...new Set(data.map(x=>x.age))];        //["<2yo", "2–15yo", ">15yo"];
+    let sex = [...new Set(data.map(x=>x.sex))];        //["Woman", "Man"];
+    let race = [...new Set(data.map(x=>x.race))];      //["Black", "White", "Asian", "Hispanic"];
+    let status = [...new Set(data.map(x=>x.status))];  //
+    cats = [fnf, age, sex, race];
+    labels = [];
+    parents = [];
+    colours = []
+    cats[0].forEach(a => {
+    labels.push(a);
+    parents.push("");
+    colours.push("");
+    cats[1].forEach(b => {
+        labels.push(`${a}:${b}`);
+        parents.push(a);
+        colours.push("");
+        cats[2].forEach(c => {
+        labels.push(`${a}:${b}:${c}`);
+        parents.push(`${a}:${b}`);
+        colours.push("");
+        cats[3].forEach(d => {
+            let book = data.filter(x=>x.fnf==a && x.age==b && x.sex == c && x.race == d)[0];
+            console.log(data);
+            
+            labels.push(`${book.status}:<br>`+
+                        `${a}:<br>`+
+                        `${b}:<br>`+
+                        `${c}:<br>`+
+                        `${d}:<br>`+
+                        `${book.bookName}<br>`+
+                        `${book.authorName}`);
+            parents.push(`${a}:${b}:${c}`);
+            cols = ["pink", "royalblue", "lightgray", "purple"]
+            colours.push(cols[status.indexOf(book.status)]);
+        });
+        });
+    });
+    });
+    // console.log("labels", labels);
+    // console.log("parents", parents);
 
-{:.finished} fiction, white male author, 2-15 years ago
-: [Tank Girl 1](https://www.goodreads.com/book/show/29556973-tank-girl-classic-1) by [Alan C. Martin](https://www.goodreads.com/author/show/273456.Alan_C_Martin) and [Jamie Hewlett](https://www.goodreads.com/author/show/142836.Jamie_Hewlett)
+    treemapData = [
+    {
+        type: "treemap",
+        labels: labels,
+        parents: parents,
+        marker: {colors: colours}
+    }
+    ];
 
-{:.finished} fiction, Asian male author, 2-15 years ago
-: [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) by [Liu Cixin](https://www.goodreads.com/author/show/5780686.Liu_Cixin)
+    Plotly.newPlot("plotly_div", treemapData);
 
-{:.Looking-for-suggestions} fiction, black male author, 2-15 years ago
-: -
+  }
 
-{:.Looking-for-suggestions} fiction, Hispanic male author, 2-15 years ago
-: -
+  window.addEventListener('DOMContentLoaded', init)
+</script>
 
-{:.Looking-for-suggestions} fiction, white male author, <2 years ago
-: -
 
-{:.Looking-for-suggestions} fiction, Asian male author, <2 years ago
-: -
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<div id='plotly_div'><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id='book_list_div'><!-- Book list will be dropped inside this DIV --></div>
 
-{:.Looking-for-suggestions} fiction, black male author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, Hispanic male author, <2 years ago
-: -
-
-{:.finished} fiction, white female author, over 15 years ago
-: [I Love Dick](https://www.goodreads.com/book/show/243991.I_Love_Dick) by [Chris Kraus](https://www.goodreads.com/author/show/142778.Chris_Kraus)
-
-{:.Looking-for-suggestions} fiction, Asian female author, over 15 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, black female author, over 15 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, Hispanic female author, over 15 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, white female author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, Asian female author, 2-15 years ago
-: -
-
-{:.finished} fiction, black female author, 2-15 years ago
-: [Half of a Yellow Sun](https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun) by [Chimamanda Ngozi Adichie](https://www.goodreads.com/author/show/11291.Chimamanda_Ngozi_Adichie)
-
-{:.Looking-for-suggestions} fiction, Hispanic female author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, white female author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, Asian female author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, black female author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} fiction, Hispanic female author, <2 years ago
-: -
-
-{:.finished} non-fiction, white male author, over 15 years ago
-: [How Buildings Learn: What Happens After They're Built](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) by [Stewart Brand](https://www.goodreads.com/author/show/18698.Stewart_Brand)
-
-{:.in-progress} non-fiction, Asian male author, over 15 years ago
-: [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://www.goodreads.com/book/show/1678558.Gemba_Kaizen) by [Masaaki Imai](https://www.goodreads.com/author/show/152718.Masaaki_Imai)
-
-{:.Looking-for-suggestions} non-fiction, black male author, over 15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, Hispanic male author, over 15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, white male author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, Asian male author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, black male author, 2-15 years ago
-:
-
-<!-- [Dark Emu](https://www.goodreads.com/book/show/21401526-dark-emu) by [Bruce Pascoe](https://www.goodreads.com/author/show/809165.Bruce_Pascoe) -->
-
-{:.Looking-for-suggestions} non-fiction, Hispanic male author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, white male author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, Asian male author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, black male author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, Hispanic male author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, white female author, over 15 years ago
-: -
-
-{:.planned} non-fiction, Asian female author, over 15 years ago
-: [Wild Swans: Three Daughters of China](https://www.goodreads.com/book/show/1848.Wild_Swans) by [Jung Chang](https://www.goodreads.com/author/show/1237.Jung_Chang)
-
-{:.planned} non-fiction, black female author, over 15 years ago
-: [I Know Why the Caged Bird Sings](https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings) by [Maya Angelou](https://www.goodreads.com/author/show/3503.Maya_Angelou)
-
-{:.planned} non-fiction, Hispanic female author, over 15 years ago
-: [Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](https://www.goodreads.com/book/show/60509.Technological_Revolutions_and_Financial_Capital) by [Carlota Pérez](https://www.goodreads.com/author/show/34105.Carlota_P_rez)
-
-{:.in-progress} non-fiction, white female author, 2-15 years ago
-: [Life of Work: What Office Design Can Learn From the World Around Us](https://www.goodreads.com/book/show/20578592-life-of-work) by [Imogen Privett](https://www.goodreads.com/author/show/7778654.Imogen_Privett) and [Jeremy Myerson](https://www.goodreads.com/author/show/76237.Jeremy_Myerson)
-
-{:.Looking-for-suggestions} non-fiction, Asian female author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, black female author, 2-15 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, Hispanic female author, 2-15 years ago
-: -
-
-{:.finished} non-fiction, white female author, <2 years ago
-: [Testosterone Rex](https://www.goodreads.com/book/show/35187176-testosterone-rex) by [Cordelia Fine](https://www.goodreads.com/author/show/204893.Cordelia_Fine)
-
-{:.Looking-for-suggestions} non-fiction, Asian female author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, black female author, <2 years ago
-: -
-
-{:.Looking-for-suggestions} non-fiction, Hispanic female author, <2 years ago
-: -
-
----
-
-This is also a pretty horrible way to visualise it. Maybe a bit later in the year I'll come back to how to represent it.
