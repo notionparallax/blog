@@ -106,7 +106,6 @@ If you need some idea of what I have been reading, here's [2019](https://www.goo
   }
 
   function showInfo(data, tabletop) {
-    alert('Successfully processed!')
     // console.log(data);
  
     htmlText = [];
