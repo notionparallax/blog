@@ -40,9 +40,10 @@ I've noticed this idea coming up a lot in things I've been reading. In the Earth
 
 You could try to summon things at random by just saying all the words available in your language. That's a [huge space](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)[^twerk] (there are [171,476 words in the OED](https://www.lexico.com/explore/how-many-words-are-there-in-the-english-language)). There's something like [10<sup>80</sup> atoms in the universe](https://en.wikipedia.org/wiki/Observable_universe#Matter_content_%E2%80%93_number_of_atoms)[^h2], and even if we only name things about the size of a [golf ball](https://www.quora.com/How-many-atoms-are-in-an-average-golf-ball) (8&times;10<sup>27</sup>) _and_ we assume that the universe is made of golf balls, then 10<sup>52</sup> is a good ballpark figure for the number of things that we might need names for. 
 
-Even a very simple naming system like IPv6 has enough names[^nanda] in it to represent 3.4×10<sup>38</sup> addresses. An IPv6 address is 8 four figure hex digits. If there are ["15831 syllable candidates"](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt) then even if only 10% of them can go together, we could name everything in the golf-ball-universe with unique, [24](https://www.numberempire.com/combinatorialcalculator.php) syllable words. It's probably not feasible though,_Antidisestablishmentarianism_ is 12 syllables, so a 24 syllable word would be almost impossible to say[^syl]. 
+Even a very simple naming system like IPv6 has [enough names[^nanda] in it to represent 3.4×10<sup>38</sup> addresses](https://en.wikipedia.org/wiki/IPv6#Larger_address_space). An IPv6 address is 8 four figure hex digits. If there are "[15831 syllable candidates](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)" then even if only 10% of them can go together, we could name everything in the golf-ball-universe with unique, [17](https://www.numberempire.com/combinatorialcalculator.php) syllable words. 
 
-That only takes into account words that are exactly 24 syllables long, if we allow shorter words too, we wouldn't need as many syllables, and things we name more often could have shorter names, like "I". If saying something's _true name_ gives you power over it then a simple name like _Ged_ would put you in real trouble! There must be more to magic than that!
+_Antidisestablishmentarianism_ is 12 syllables, so a 16 syllable word would be very hard to say[^syl]. That only takes into account words that are exactly 17 syllables long, if we allow shorter words too, we wouldn't need as many syllables, and things we name more often could have shorter names, like "I". If saying something's _true name_ gives you power over it then a simple name like _Ged_ would put you in real trouble! There must be more to magic than that[^maybe]!
+
 
 
 <figure class="quote">
@@ -84,7 +85,7 @@ This idea of quantifying a space of all possible names came from the idea in _Th
 
 
 
-[^syl]: I don't think there are any 24 syllable words in English, _[pneumonoultramicroscopicsilicovolcanoconiosis](https://en.wikipedia.org/wiki/Longest_word_in_English)_ a word made up specifically to have a lot of syllables, only has 19 syllables.
+[^syl]: _[pneumonoultramicroscopicsilicovolcanoconiosis](https://en.wikipedia.org/wiki/Longest_word_in_English)_ a word made up specifically to have a lot of syllables, only has 19 syllables.
 
 
 [^dis]: Guin, Ursula K. Le. 2014. The Dispossessed. Later printing edition. Harper Perennial Modern Classics.
@@ -114,3 +115,5 @@ This idea of quantifying a space of all possible names came from the idea in _Th
     It shows up in the [Ngram record in the 70s](https://books.google.com/ngrams/graph?year_start=1800&year_end=2008&corpus=15&smoothing=7&case_insensitive=on&content=twerk&direct_url=t1%3B%2Ctwerk%3B%2Cc0#t1%3B%2Ctwerk%3B%2Cc0), but that seems to be beause of a German power station.
 
 [^nanda]: People say "names and addresses" but if you drop the navigational part of an address, then a name is basically the same thing.
+
+[^maybe]: Maybe that's it? IP addresses aren't a nice way to get to a website, but the are that site's _true name_ so maybe the URL is the site's _use name_. If that's the case, then it really would be magic to remember and be able to say a 17 syllable word.
