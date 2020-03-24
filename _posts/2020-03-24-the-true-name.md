@@ -22,7 +22,7 @@ featuredimg: https://ekostoriesdotcom.files.wordpress.com/2013/07/shevek-disposs
 
 <style></style>
 
-When one has an unexpected amount of free time&mdash;and very tedious online training to avoid&mdash;one's mind strays onto some odd questions.
+When one has an unexpected amount of free time&mdash;and very tedious online training to avoid&mdash;one's mind strays onto some odd questions. In this case, what _is_ a _true name_?
 
 <figure class="quote">
 
@@ -33,18 +33,17 @@ When one has an unexpected amount of free time&mdash;and very tedious online tra
 </figcaption>
 </figure>
 
-
 There is power in having and knowing a name, it's a token of meaning for that concept. So if you are talking about a person it's a lot easier, and more specific to talk about someone by name than by constructing the concept of that person every time[^sl]. E.g. _the tall person over there_ is open to all kinds of referential ambiguity, but _Charlie_ is fairly specific[^ch].
 
-I've noticed this idea coming up a lot in things I've been reading. In the Earthsea books, Ursula Le Guin has a system of magic where knowing a thing's true name gives you ultimate power over it. Ged becomes master of the great dragon just by knowing its name. 
+I've noticed this idea coming up a lot in things I've been reading. In the Earthsea books, Ursula Le Guin has a system of magic where knowing a thing's _true name_ gives you ultimate power over it. Ged, the archmage of Roke and to some extent hero of the Earthsea books, becomes master of the great dragon just by knowing its name.
 
 You could try to summon things[^things] at random by just saying all the words available in your language. That's a [huge space](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)[^twerk] (there are [171,476 words in the OED](https://www.lexico.com/explore/how-many-words-are-there-in-the-english-language)). There's something like [10<sup>80</sup> atoms in the universe](https://en.wikipedia.org/wiki/Observable_universe#Matter_content_%E2%80%93_number_of_atoms)[^h2], and even if we only name things about the size of a [golf ball](https://www.quora.com/How-many-atoms-are-in-an-average-golf-ball) (8&times;10<sup>27</sup>) _and_ we assume that the universe is made of golf balls, then 10<sup>52</sup> is a good ballpark figure for the number of things that we might need names for. 
 
-Even a very simple naming system like IPv6 has [enough names[^nanda] in it to represent 3.4×10<sup>38</sup> addresses](https://en.wikipedia.org/wiki/IPv6#Larger_address_space). An IPv6 address is 8 four figure hex digits. If there are "[15831 syllable candidates](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)" then even if only 10% of them can go together, we could name everything in the golf-ball-universe with unique, [17](https://www.numberempire.com/combinatorialcalculator.php) syllable words. 
+Even a very simple naming system like IPv6 has [enough names[^nanda] in it to represent 3.4×10<sup>38</sup> addresses](https://en.wikipedia.org/wiki/IPv6#Larger_address_space). An IPv6 address is 8 four figure hex digits. If there are "[15831 syllable candidates](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)" then even if only 10% of them can go together, we could name everything in the golf-ball-universe with unique, [17](https://www.numberempire.com/combinatorialcalculator.php) syllable words[^anti].
 
-_Antidisestablishmentarianism_ is 12 syllables, so a 17 syllable word would be very hard to say[^syl]. That only takes into account words that are exactly 17 syllables long, if we allow shorter words too, we wouldn't need as many syllables, and things we name more often could have shorter names, like "I". If saying something's _true name_ gives you power over it then a simple name like _Ged_ would put you in real trouble! There must be more to magic than that[^maybe]!
+In the Earthsea books, everyone/thing has a _use name_ and a _true name_. There might be clashes between _use_ and _true_ names, and when you're asking for a cup of tea, you might summon a demon by accident. If saying something's _true name_ gives you power over it then a simple name like _Ged_ would put you in real trouble! There must be more to magic than that[^maybe]!
 
-
+[^anti] _Antidisestablishmentarianism_ is 12 syllables, so a 17 syllable word would be very hard to say[^syl]. That only takes into account words that are exactly 17 syllables long, if we allow shorter words too, we wouldn't need as many syllables, and things we name more often could have shorter names, like "I". 
 
 <figure class="quote">
 
@@ -57,7 +56,7 @@ I'm not sure if this is a fictional quote or not, but a [quick google search](ht
 </figcaption>
 </figure>
 
-This idea of quantifying a space of all possible names came to me while I was reading _The Dispossessed_[^dis]. On the communitarian anarchist world of Urras, everyone's name is generated by a computer to be unique. _Shevek, Bedap, Sabul_, all two syllable names. If there really are almost 16k syllables in English, then we could name a population of over 125 million (125&#8239;318&#8239;196) Odonians before we need a new naming system; probably more than dusty Urras can support.
+This idea of quantifying a space of all possible names came to me while I was reading _The Dispossessed_[^dis]. On the book's communitarian anarchist world of Urras, everyone's name is generated by a computer to be unique. _Shevek, Bedap, Sabul_, all two syllable names. If there really are almost 16k syllables in English, then we could name a population of over 125 million (125&#8239;318&#8239;196) Odonians before we need a new naming system; probably more than dusty Urras can support.
 
 <figure class="quote">
 
