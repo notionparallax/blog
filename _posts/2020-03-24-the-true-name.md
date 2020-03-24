@@ -102,7 +102,7 @@ This idea of quantifying a space of all possible names came to me while I was re
 [^h2]: Assuming that the universe is made of hydrogen, in practice it'd be a bit less, because other elements are heavier, but not by much, maybe 10<sup>78</sup> at most?
 
 [^twerk]: 
-    [This](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt) archived page is from about 2009, and asks " How many syllables does English have?". The amazing thing is that he seems to have unwittingly come up with the word "twerk", way before anyone else"
+    [This](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt) archived page is from about 2009, and asks "How many syllables does English have?". Amazingly, he seems to have unwittingly come up with the word "twerk", way before anyone else"
 
     "The syllabification algorithm is not particularly sophisticated or elaborate.  As a result, this list contains a number of strings of sounds that are not legitimate English syllables.  This is due to the fact that my data do not recognize morpheme boundaries, even though this affects syllabification.  For instance, the following two putative syllables are not actually legitimate syllables of English: 
     
