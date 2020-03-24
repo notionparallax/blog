@@ -1,6 +1,6 @@
 ---
 layout: post
-title: separation of concenrs as a way of thinking
+title: separation of concerns as a way of thinking
 date: 2016-03-29 13:25:59  PDT
 type: post
 published: true

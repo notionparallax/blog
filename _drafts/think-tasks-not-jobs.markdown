@@ -1,23 +1,3 @@
----
-layout: post
-title: Think tasks not jobs
-date: 2016-03-29 13:25:59  PDT
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-
-#this goes on the index page, and into facebook shares
-description: 
-
-# This is what twitter will pick up if someone tweets the link to this page 
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-#Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
-featuredimg: rate_your_driver.png
----
 The [robots are coming](http://www.nytimes.com/2016/06/08/business/economy/threatened-by-machines-a-once-stupid-concern-gains-respect.html) for [your jobs](https://twitter.com/vgr/status/740224704565252097) idea is gaining some amazing momentum.
 
 I've had lots of interesting conversations recently about this. I started off being sceptical of the claim, but I've become solidly ambivalent[^1]. My previous feeling was that creative destruction would always keep. It would replace the coopers and farriers with UX designers and IP lawyers;  I'm much less sure now. The sheer speed at which the change is likely to happen is so much greater than anything we've ever experienced before.
