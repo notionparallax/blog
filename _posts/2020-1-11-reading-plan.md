@@ -49,8 +49,8 @@ featuredimg: https://notionparallax.co.uk/assets/19/goodreads/clumsyDiversity.pn
     position: absolute;
     text-align: center;
     top: 0;
-    transform: translateX(-1.6em);
-    width: 1.6em;
+    transform: translateX(-3.6em);
+    width: 3.6em;
     writing-mode: vertical-rl;
 }
 .planned, 
@@ -61,6 +61,15 @@ featuredimg: https://notionparallax.co.uk/assets/19/goodreads/clumsyDiversity.pn
 }
 #plotly_div {
     height: 85vh;
+}
+article.post dt {
+    width: 50%;
+    text-align: right;
+    padding-right: .5em;
+    min-height: 2em;
+}
+article.post dd {
+    width: 49%;
 }
 </style>
 
