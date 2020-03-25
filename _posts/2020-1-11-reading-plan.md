@@ -30,7 +30,7 @@ featuredimg: https://notionparallax.co.uk/assets/19/goodreads/clumsyDiversity.pn
     content: "finished";
 }
 .in-progress:before {
-    background-color: hsl(30, 100%, 48%);
+    background-color: hsl(199, 100%, 48%);
     content: "in-progress";
 }
 .Looking-for-suggestions:before {
