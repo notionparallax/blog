@@ -111,10 +111,10 @@ If you need some idea of what I have been reading, here's [2019](https://www.goo
     htmlText = [];
     data.forEach(d=>{
         let by = "";
-        if(d.authorName1 != ""){
+        if(d.authorName1 !== undefined && d.authorName1 != ""){
             if(d.authorName2 == ""){
                 by = `by <a href="${d.authorLink}">${d.authorName}</a></dd>`
-            }else{
+            } else {
                 by = `by <a href="${d.authorLink}">${d.authorName}</a> and <a href="${d.authorLink2}">${d.authorName2}</a></dd>`
             }
         }
@@ -157,9 +157,6 @@ If you need some idea of what I have been reading, here's [2019](https://www.goo
                         `${book.bookName}<br>`+
                         `${book.authorName}`);
             parents.push(`${a}:${b}:${c}`);
-
-
-
 
             cols = [
                 "hsl(30, 100%, 48%)",  //"Looking-for-suggestions"
