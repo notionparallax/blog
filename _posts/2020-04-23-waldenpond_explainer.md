@@ -14,7 +14,7 @@ description: "I've made a zine that you can get subscribe to, it's full of artic
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker
-#123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+#123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
 twitter-body: "I've made a zine that you can get subscribe to, it's full of articles that you've already shared to Pocket"
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
@@ -51,7 +51,7 @@ When I'm working, I constantly come across interesting articles. My <abbr title=
 
 I need a way to store all the interesting stuff I come across, so when I'm not trying to focus on something I can pull them out and expand my mind.
 
-That's _problem 1_, and there's a fantastic solution to that, [Pocket](http://getpocket.com/), but _problem 2_ has the same root cause: difficulty in controlling my attention. It's all very well having all these interesting articles, but I get distracted from reading them to do other things.
+That's _problem 1_, and there's a fantastic solution to that, [Pocket](http://getpocket.com/), but _problem 2_ has the same root cause: difficulty in controlling my attention. It's all very well having all these interesting articles, but I get distracted from reading them to do other things[^fb].
 
 
 ## How does Walden Pond solve those problems?
@@ -102,7 +102,7 @@ Then go on a saving spree! You are the expert on what you like, but here are som
 - [New Scientist](https://www.newscientist.com/) (Science)
 - [The New York Times](https://www.nytimes.com/) (News)
 - [Quanta Magazine](https://www.quantamagazine.org/) (Science)
-- [Ribbon Farm](https://www.ribbonfarm.com/) (Ideas)
+- [Ribbon Farm](https://www.ribbonfarm.com/) (Ideas[^nod])
 - [The Guardian](https://www.theguardian.com/)(News)
 - [The Verge](https://www.theverge.com/features) (Tech)
 
@@ -110,6 +110,12 @@ It's easier to pack a hour if you have a mix of short articles as well as long o
 
 ---
 
-So there you have it, Walden Pond, the zine's first outing on the world stage. I'd love to know what you think about it, or what's stopping you from signing up. (I make the website with the typing[], so I can change things!)
+So there you have it, Walden Pond, the zine's first outing on the world stage. I'd love to know what you think about it, or what's stopping you from signing up. (I make the website with the typing[^story], so I can change things!)
 
 As an extra incentive, it's half price at the moment!
+
+[^story]: I was playing around with an art for the foyer of a cancer research centre in Sydney, making a branching tree in Generative Components, about a decade ago, and someone asked me if I was "making the tree with the typing". That phrase has stuck with me ever since.
+
+[^nod]: A nod to the genesis of the name for this project: [Vankatesh Rao](https://www.ribbonfarm.com/author/admin/). He's well worth adding to your editions.
+
+[^fb]: I can't be the only person who's got bored of Facebook and opened a new tab and gone to Facebook to see if it's less boring.
