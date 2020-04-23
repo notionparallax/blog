@@ -68,7 +68,7 @@ It's on paper, so you can take it somewhere that your phone isn't. I find the fi
 
 ## How does the computer know what articles to put in your edition of Walden Pond?
 
-Because you're saving articles as you go along, there's a very strong chance that you will still want to read it when you get back to it. When you sign up you can pick the longest article you want to read, and the shortest. (E.g. I have my shortest set to 11 minutes because I read articles shorter than that while I'm waiting for the train.) The algorithm picks the longest article you have saved that's shorter than your cut-off, then fills up the rest of the space with a random selection.
+Because you're saving articles as you go along, there's a very strong chance that you will still want to read it when you get back to it. When you sign up you can pick the longest article you want to read, and the shortest. (E.g. I have my shortest set to 11 minutes because I read articles shorter than that while I'm waiting for the train.) The algorithm picks the longest article you have saved that's shorter than your cut-off, then fills up the rest of the space with a random selection[^algo].
 
 That means that you will get a chance to really get stuck into that long article that's been eluding you. Turns out that for me, this month, it's an article about [The demise of the nation state](https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta) which is 26 minutes long. My bounds are 11–26 minutes, so an example edition for me is:
 
@@ -83,7 +83,7 @@ Which I had to wrench myself back to typing this as I was getting those links be
 
 ## How to get started:
 
-If you're already a mad Pocket fan then all you need to do is sign up at [waldenpond.press](https://waldenpond.press/) and then you'll start getting an edition every month.
+If you're already a mad Pocket fan then all you need to do is sign up at [WaldenPond.press](https://waldenpond.press/) and then you'll start getting an edition every month.
 
 If you don't use Pocket, then you need to start becoming a mad pocket fan!
 
@@ -119,3 +119,5 @@ As an extra incentive, it's half price at the moment!
 [^nod]: A nod to the genesis of the name for this project: [Vankatesh Rao](https://www.ribbonfarm.com/author/admin/). He's well worth adding to your editions.
 
 [^fb]: I can't be the only person who's got bored of Facebook and opened a new tab and gone to Facebook to see if it's less boring.
+
+[^algo]: There are other things you can do, like force including, or excluding certain articles, but let's not get too fancy here. We're already over 1200 words.
