@@ -106,4 +106,10 @@ Then go on a saving spree! You are the expert on what you like, but here are som
 - [The Guardian](https://www.theguardian.com/)(News)
 - [The Verge](https://www.theverge.com/features) (Tech)
 
-Remember that it's easier to pack a hour if you have a mix of short articles as well as long ones.
+It's easier to pack a hour if you have a mix of short articles as well as long ones, so be broad in your saving habits.
+
+---
+
+So there you have it, Walden Pond, the zine's first outing on the world stage. I'd love to know what you think about it, or what's stopping you from signing up. (I make the website with the typing[], so I can change things!)
+
+As an extra incentive, it's half price at the moment!
