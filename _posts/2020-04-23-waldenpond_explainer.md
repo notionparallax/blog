@@ -108,7 +108,16 @@ Then go on a saving spree! You are the expert on what you like, but here are som
 
 It's easier to pack a hour if you have a mix of short articles as well as long ones, so be broad in your saving habits.
 
----
+<figure class="">
+
+![alt text]({{ site.baseurl }}/assets/20/walden_pond_prototypes.jpg)
+
+<figcaption>
+
+I've been working on this, on and off, for about 2 years now. This is just a _few_ of the prototypes that I've made and read through.
+
+</figcaption>
+</figure>
 
 So there you have it, Walden Pond, the zine's first outing on the world stage. I'd love to know what you think about it, or what's stopping you from signing up. (I make the website with the typing[^story], so I can change things!)
 
