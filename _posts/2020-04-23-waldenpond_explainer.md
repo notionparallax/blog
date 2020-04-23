@@ -95,7 +95,7 @@ Then go on a saving spree! You are the expert on what you like, but here are som
 
 - [The New Yorker](http://newyorker.com/) (News)
 - [Aeon](https://aeon.co/) (Essays)
-- BBC [Future](https://www.bbc.com/future/) and [Worklife (Ideas)]- (https://www.bbc.com/worklife)
+- BBC [Future](https://www.bbc.com/future/) and [Worklife (Ideas)](https://www.bbc.com/worklife)
 - [Cosmonauts Avenue](https://cosmonautsavenue.com/) (Literature)
 - [Hacker News](https://news.ycombinator.com/) (Tech)
 - [Arch Daily](https://www.archdaily.com/) (Architecture)
