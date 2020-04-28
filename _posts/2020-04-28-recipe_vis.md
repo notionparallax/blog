@@ -37,6 +37,7 @@ Eventually, I really should go and talk to some people who are actually good at 
     - How do you plan the interaction between your recipes?
     - How do you plan the interaction between the cook[s] and the things they're making?
     - Can the recipes be broken into components?
+        - Do those components consist of tasks? Processes? It's semantic, but does a task require an agent's involvement? Is being in the oven a task? What's the right word to make this idea flow into people's minds?
     - Can components be interrupted? I can stop chopping a carrot to take something out of the oven if a beeper goes off. What's the task switching cost?
     - What tolerances are there? E.g.:
         - Can I make this component ahead of time? How far ahead? 
@@ -58,7 +59,7 @@ I think that Gantt charts, _a la_ Microsoft Project, are more about organisation
 
 ![](https://developers.google.com/optimization/images/scheduling/schedule1.png)
 
-The diagram above is pinched from the docs for Google's OR-tools [Job shop algorithm][jsa]. [Job shop scheduling][jss] is the most promising algo/concept that I've seen that applies to this problem. The only problem being that the _jobs_ have a lot more metadata than the basic examples that I've seen. There are some papers that discuss the addition of operators to the problem, so they're probably helpful ([e.g.][jswo]). I'll consult the CS brains.
+The diagram above is pinched from the docs for Google's OR-tools [Job shop algorithm][jsa]. [Job shop scheduling][jss] is the most promising algo/concept that I've seen that applies to this problem. The only problem being that the _jobs_ here (tasks/components) have a lot more metadata than the basic examples that I've seen. There are some papers that discuss the addition of operators to the problem, so they're probably helpful ([e.g.][jswo]). I'll consult the CS brains.
 
 ## Prototype vis
 

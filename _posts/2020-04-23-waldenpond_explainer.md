@@ -10,12 +10,12 @@ tags: []
 author-name: Ben Doherty
 
 # this goes on the index page, and into facebook shares
-description: "I've made a zine that you can get subscribe to, it's full of articles that you've already shared to Pocket"
+description: "I've made a zine that you can subscribe to, it's full of articles that you've already shared to Pocket"
 
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker
 #123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
-twitter-body: "I've made a zine that you can get subscribe to, it's full of articles that you've already shared to Pocket"
+twitter-body: "I've made a zine that you can subscribe to, it's full of articles that you've already shared to Pocket"
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://waldenpond.press/img/frontPageImage.jpg
