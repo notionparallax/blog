@@ -68,6 +68,40 @@ Put an operator rail along the top for person one, and along the bottom for pers
 
 The people can be linked to the tasks on equipment rails.
 
+TODO: look into [critical path](https://en.wikipedia.org/wiki/Critical_path_method)
+
+TODO: Talk to some chefs
+
+# Examples
+
+## Cooking for engineers 
+
+![]({{ site.baseurl }}/assets/20/cooking table for engineers.png)
+
+[This](http://www.cookingforengineers.com/recipe/106/Marshmallows) is interesting as it shows the process of combining ingredients into sub components. The flow of that is sometimes hard to parse out of prose recipes because the ordering is arbitrary. This particular recipe is more or less a waterfall. From looking at the table it seems like soaking and boiling could be parallel activities, but I wouldn't want to risk it as it might not take 10 minutes to cook the sugar syrup. (ideally there'd be a way to show temporal relationships that's more complicated than purely precedence. E.g. "you can do these two steps in parallel, but wait 5 minutes before you start boiling the sugar.")
+
+## Pro cookbooks
+
+More professional recipe books assemble dishes out of sub recipes. This makes it easier to delegate work to cooks, but doesn't really help us understand the timeline or the interaction of those components.
+
+## Recipe schema
+
+[Schema.org has a markup for recipes](https://schema.org/Recipe) which makes recipes parsable by a computer by adding semantic tags to each part of the recipe. 
+
+It has tags for: `cookTime`, `cookingMethod`, `nutrition`, `recipeCategory`, `recipeCuisine`, `recipeIngredient`, `recipeInstructions` and `recipeYield`. Those are the specific recipe tags, Schema.org has inheritance, so it inherits a whole bunch from more general things, like `HowTo` and `CreativeWork`. There's an example of a marked up recipe at the bottom of the page, have a look.
+
+The only one that's actually interested in _how_ the food gets cooked is `recipeInstructions`. That's defined as:
+
+| | |
+|--|--|
+| `CreativeWork` or `ItemList` or `Text` | 	A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items.|
+
+Even the most structured (`ItemList`) is just a list. If we want more structured/nuanced way of describing things we need to layer on metadata from elsewhere.
+
+
+# Solution ideas
+
+I think the ChefSteps process of having a list of ingredients, equipment, yield, active and inactive time at the top of the recipe is a good start.
 
 
 
