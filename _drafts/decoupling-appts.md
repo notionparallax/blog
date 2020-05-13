@@ -1,0 +1,2 @@
+I want appts to be like concrete boxes with garage doors that open to the air or facades that are removable by winch
+then you can winch your bathroom in through the hole, and all your stuff. Then you can invest in your interior, but rent the space
