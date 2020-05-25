@@ -6,7 +6,7 @@
 <meta property="og:title"       content="{{ page.title }}">
 <meta property="og:description" content="{{ page.description }}">
 <meta property="og:site_name"   content="{{ site.title }}">
-<meta property="og:image"       content="{% if page.featuredimg %}{{ site.url }}/assets/{{ page.featuredimg }}{% else %}{% endif %}">
+<meta property="og:image"       content="{% if page.featuredimg %}{{ page.featuredimg }}{% else %}{% endif %}">
 <meta property="og:type"        content="article">
 <meta property="og:locale"      content="en_GB">
 <meta property="article:author" content="https://www.facebook.com/{{site.author-facebook}}">
