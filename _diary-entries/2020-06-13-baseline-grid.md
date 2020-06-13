@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baseline Grid Drift
-date: 2020-06-13 00:00:00 AEST
+date: 2020-06-13 11:11:11 AEST
 type: post
 published: true
 status: publish
@@ -9,14 +9,14 @@ categories: []
 tags: []
 
 ## this goes on the index page, and into facebook shares
-description:
+description: Documenting a maddening bug with how chrome renders repeating backgrounds
 
 ## This is what twitter will pick up if someone tweets the link to this page
 ## 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
+twitter-body: Documenting a maddening bug with how chrome renders repeating backgrounds
 ## Twitter and facebook will pick up this image. you can also use it in a post with:
 ## ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg:
+featuredimg: {{ site.baseurl }}/assets/20/baseline_grid_drift.png
 ---
 
 I've been trying to use a baseline grid in [Walden Pond](https://waldenpond.press/) for a _lot_ of the last couple of weeks. and I couldn't work out why the content would drift off the grid as it went down the page.
@@ -30,13 +30,13 @@ It seems like it's a Chrome bug. 😡
 This is the same content rendered in 3 different browsers. From left to right:
 1. Firefox 76.0.1
 1. Chrome Canary 85.0.4170.0
-1. Chrome 83.0.4103.97 (in icognito so there's no extensions doing unexpected things)
+1. Chrome 83.0.4103.97 (in incognito so there's no extensions doing unexpected things)
 
 </figcaption>
 
 </figure>
 
-I thought it had something to do with the way the baseline was being drawn, so I tried 3 different ways of drawing a grid: a repeatng image, and 2 gradient bases ways. Turns out they all work in almost exactly the same way. The drift is caused by something in the way that the curent production Chrome repeats backgrounds.
+I thought it had something to do with the way the baseline was being drawn, so I tried 3 different ways of drawing a grid: a repeating image, and 2 gradient bases ways. Turns out they all work in almost exactly the same way. The drift is caused by something in the way that the current production Chrome repeats backgrounds.
 
 It's working properly in canary, so fingers crossed, the problem will go away if I just wait.
 
