@@ -1,6 +1,6 @@
 # First level header
 
-Try-hard *itallic* YOLO **bold** meggings, <span class="small-caps">Small Caps</span> letterpress <u>underline</u> affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
+Try-hard _itallic_ YOLO **bold** meggings, <span class="small-caps">Small Caps</span> letterpress <u>underline</u> affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
 
 Selfies bushwick next level, tattooed[^1] yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
@@ -42,15 +42,15 @@ Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw deni
 >
 > ## Headers work
 >
-> * lists too
-> * lists three
+> -   lists too
+> -   lists three
 >
 > and all other block-level elements
 
 ### Figures
 
 <figure class="full-width">
-![something or other]({{ site.baseurl }}/assets/thesis-29.png)
+![something or other]({{ site.baseurl }}/assets/msc/thesis-29.png)
 <figcaption>
 This figure is full width
 </figcaption>
@@ -61,7 +61,7 @@ Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vic
 Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
 <figure class="half-width right">
-![something or other]({{ site.baseurl }}/assets/thesis-29.png)
+![something or other]({{ site.baseurl }}/assets/msc/thesis-29.png)
 <figcaption>
 This figure is half-width and floated right
 </figcaption>
@@ -73,10 +73,17 @@ Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. A
 
 Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vice. Pug biodiesel dreamcatcher tumblr, pinterest before they sold out skateboard chicharrones narwhal.
 
+<figure class="two-side-by-side">
+![something or other]({{ site.baseurl }}/assets/msc/thesis-29.png)![something or other]({{ site.baseurl }}/assets/msc/thesis-29.png)
+<figcaption>
+This figure is two images next to each other.
+</figcaption>
+</figure>
+
 Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
 <figure class="half-width left">
-![something or other]({{ site.baseurl }}/assets/thesis-29.png)
+![something or other]({{ site.baseurl }}/assets/msc/thesis-29.png)
 <figcaption>
 This figure is half-width and floated left
 </figcaption>
@@ -88,7 +95,6 @@ Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. A
 
 ## A UL with pull quotes and paragraphs
 
-
 1. Humans have money. At the moment no machines have agency (that we know of). Even the high frequency trading bots are explicitly doing the bidding of a human somewhere.
 
 2. Humans care about 'irrational' things. We care about the story that a barista tells us about a coffee ("oh, I can really taste the life story of the grower" vs "ooh, this is black and hot"). Some of these things can be made to seem rational by casting them as signalling, but we certainly don't think of them that way. Because of this humans care about doing things that aren't well aligned with computer's wants.
@@ -96,10 +102,10 @@ Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. A
 3. Humans are good at human things, computer are good at computer things. That is a well understood distinction, but recently the line between the two has been moving over towards the computer. Computers can now recognise and describe objects in images, they can drive cars, they can win at Go. They are pretty terrible at opening doors and having goals of their own.
 
 4. OK, that's the good things out of the way. Thing four is more or less thing three, but with a pessimistic slant on it. The things that you value as your key, human, irreplaceable traits are probably next on the list for AI to conquer. Things like coordination and negotiation are pretty human skills, but they are only really needed in situations with incomplete data.
-    <figure class="half-width right">
-    >coordination and negotiation are ... only really needed in situations with incomplete data
-    </figure>
-    For example, in a construction context, architects talking to builders is largely to discuss things that were missing or unclear on the documents. This isn't a bad thing now because there are gains to be made in intuition. In the future I'd imagine that the documentation will me more complete, and will contain conditional information[^3]. We like to think that our key value is our ability to think, but actually, our ability to work in confined spaces might be just as important[^4]!
+ <figure class="half-width right">
+ >coordination and negotiation are ... only really needed in situations with incomplete data
+ </figure>
+ For example, in a construction context, architects talking to builders is largely to discuss things that were missing or unclear on the documents. This isn't a bad thing now because there are gains to be made in intuition. In the future I'd imagine that the documentation will me more complete, and will contain conditional information[^3]. We like to think that our key value is our ability to think, but actually, our ability to work in confined spaces might be just as important[^4]!
 
 5. Most of what you do with your life is _not_ high value. I feel like I'm a smart valuable person. You probably do too. However I generate most of my value to an endeavour in _very_ short bursts. It could be 10 minutes of work that turn into a month's worth of my output. Some people are able to have higher outputs, but they are probably also assisted substantially by a support structure. Most of my life is spent getting ready for the next burst (reading, resting, doing important, but low value tasks). Hold that in your mind for a second.
 
@@ -143,27 +149,26 @@ Selfies bushwick next[^2] level, tattooed yuccie four loko sriracha narwhal pabs
 
 from markdown
 
-~~~
+```
 def what?
   42
 end
-~~~
+```
+
 {: .language-ruby}
 
 and from jekyll
 
 {% highlight ruby linenos %}
 def what?
-  42
+42
 end
 {% endhighlight %}
 
 the end.
 
 [^1]: I'm in UR footnotes
-
-[^2]:
-    > Blockquotes can be in a footnote.
+[^2]: > Blockquotes can be in a footnote.
 
         as well as code blocks
 
