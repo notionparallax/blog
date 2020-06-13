@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Printing hyperlinks nicely as footnotes"
-date: 2020-6-13 21:45:00 AEST
+date: 2020-6-13 15:45:00 AEST
 type: post
 published: true
 status: publish
@@ -28,11 +28,13 @@ There are some really nice tricks that make what the link links to visible in pr
 <figure>
 ```css
 a:after {
-	content: " [" attr(href) "] ";
+    content: " [" attr(href) "] ";
 }
 ```
 <figcaption>
 From <cite>[CSS tricks](https://css-tricks.com/css-tricks-finally-gets-a-print-stylesheet/#4-display-the-urls-in-the-body-content)</cite>
+</figcaption>
+
 </figure>
 
 Which is cool if your links are nice looking, but sometimes the text has a tonne of links in it and you can end up with more link than content.
@@ -41,9 +43,9 @@ In Walden Pond I've put the links in as footnotes. So a superscript number in th
 
 This is great, but sometimes you'll get an article that uses a lot of long links. A prime offender is when the article recommends a lot of things with amazon referrer links, but it could be almost anything. For example, in the Wait But Why post [From Muhammad to ISIS: Iraq’s Full Story](https://waitbutwhy.com/2014/09/muhammad-isis-iraqs-full-story.html) there are 54 links, and a lot of them look like this:
 
-> https://www.ft.com/content/69e70954-f639-11e3-a038-00144feabdc0?%E2%80%94ftcamp=crm/email/2014617/nbe/AsiaMorningHeadlines/product#axzz3A20GKJTZ
+> https://www.ft.com/<wbr>content/<wbr>69e70954-f639-11e3-a038-00144feabdc0?%E2%80%94ftcamp=crm/email/<wbr>2014617/<wbr>nbe/<wbr>AsiaMorningHeadlines/<wbr>product#axzz3A20GKJTZ
 
-In this case, the bit after the `?` is just tracking (`?%E2%80%94ftcamp=crm/email/2014617/nbe/AsiaMorningHeadlines/product#axzz3A20GKJTZ`) to tell the FT where the reader found the link. But in some cases, the URL params actually have useful information in them, so I can't just cut them off.
+In this case, the bit after the `?` is just tracking (_?%E2%80%94ftcamp=crm/email/<wbr>2014617/<wbr>nbe/<wbr>AsiaMorningHeadlines/<wbr>product#axzz3A20GKJTZ_) to tell the FT where the reader found the link. But in some cases, the URL params actually have useful information in them, so I can't just cut them off.
 
 What I've ended up doing is using [Firebase Dynamic links](https://firebase.google.com/docs/reference/dynamic-links/link-shortener) to shorten these links, so the FT link above becomes: `Hi1e`
 
@@ -51,7 +53,10 @@ That's sort of cheating because it's actually `https://pond.page.link/Hi1e` but 
 
 This means that people can either remember the `https://pond.page.link/` part and build their own links, or they can go to the [Walden Pond website](https://waldenpond.press/) and type it into the link-expander.
 
+<figure class="two-side-by-side">
 ![]({{ site.baseurl }}/assets/20/Link-expander-in.png)![]({{ site.baseurl }}/assets/20/Link-expander-out.png)
+
+</figure>
 
 <figure class="half-width right">
 ![some links in a list, some shortened, some not]({{ site.baseurl }}/assets/20/shortened-links.png)
