@@ -1,43 +1,40 @@
 body:
-  paragraphs:
-  - The Nutt report[^54] proposed a list of drugs in their order of harm to society.
-    In this future, the discussion resurfaces and the Government decides that it needs
-    consistent legislation.
-  - Proposals to ban alcohol are quickly put down by the drinks industry, and so to
-    provide consistent legislation, all drugs from position 5 and below are legalised.
-  - 1. Heroin
-  - 1. Cocaine
-  - 1. Barbituates
-  - 1. Street methadone
-  - 1. **Alcohol**
-  - 1. Ketamine
-  - 1. Benzodiazepines
-  - 1. Amphetamine
-  - 1. Tobacco
-  - 1. Buprenorphine
-  - 1. Cannabis
-  - 1. Solvents
-  - 1. 4-MTA
-  - 1. LSD
-  - 1. Methylphenidate
-  - 1. Anabolic steroids
-  - 1. GHB
-  - 1. Ecstasy
-  - 1. Alykl nitrites
-  - 1. Khat
+    paragraphs:
+        - The Nutt report[^54] proposed a list of drugs in their order of harm to society.
+          In this future, the discussion resurfaces and the Government decides that it needs
+          consistent legislation.
+        - Proposals to ban alcohol are quickly put down by the drinks industry, and so to
+          provide consistent legislation, all drugs from position 5 and below are legalised.
+        - 1. Heroin
+        - 1. Cocaine
+        - 1. Barbituates
+        - 1. Street methadone
+        - 1. **Alcohol**
+        - 1. Ketamine
+        - 1. Benzodiazepines
+        - 1. Amphetamine
+        - 1. Tobacco
+        - 1. Buprenorphine
+        - 1. Cannabis
+        - 1. Solvents
+        - 1. 4-MTA
+        - 1. LSD
+        - 1. Methylphenidate
+        - 1. Anabolic steroids
+        - 1. GHB
+        - 1. Ecstasy
+        - 1. Alykl nitrites
+        - 1. Khat
 card_type: future_tech/trend
 consider:
-- What else should be legal/illegal?
-- What else could be legal or illegal in future?
-- Why aren't these already legal?
+    - What else should be legal/illegal?
+    - What else could be legal or illegal in future?
+    - Why aren't these already legal?
 footnotes:
-  '54': "The Nutt report[^54] proposed a list of drugs in their order of harm to society.\
-    \ In this future, the discussion resurfaces and the Government decides that it\
-    \ needs consistent legislation.\n [^54]: <a href=\"https://www.google.com/url?q=http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract&amp;sa=D&amp;ust=1582431437881000\"\
-    >http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract</a>\n"
+    "54": http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: image2.jpg
+    caption: ""
+    citation: ""
+    link: ""
+    source: image2.jpg
 title: Legalisation of drugs

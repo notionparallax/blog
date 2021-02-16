@@ -1,20 +1,21 @@
 body:
-  paragraphs:
-  - Dark kitchens create meals exclusively for the online delivery market[^dk].
-  - '[^dk]: [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)'
-  - .
-  - .
-  - '|'
+    paragraphs:
+        - Dark kitchens create meals exclusively for the online delivery market[^dk].
+        - "[^dk]: [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)"
+        - .
+        - .
+        - "|"
 card_type: future_tech/trend
 consider:
-- .
-- .
+    - .
+    - .
 footnotes:
-  dk: "Dark kitchens create meals exclusively for the online delivery market[^dk].\n\
-    \ [^dk]: [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)\n"
+    dk:
+        "Dark kitchens create meals exclusively for the online delivery market[^dk]. \
+        \ [^dk]: [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460) "
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: dk.jfif
+    caption: ""
+    citation: ""
+    link: ""
+    source: dk.jfif
 title: Dark kitchens

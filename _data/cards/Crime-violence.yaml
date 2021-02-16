@@ -1,21 +1,22 @@
 body:
-  paragraphs:
-  - Generally, crime and violence seems to be declining overall[^24] [^25]. This may
-    be because of better policing, or more surveillance. It could just be that we
-    are generally richer, and therefore we feel less compelled to risk committing
-    crimes to obtain what we don't have.
+    paragraphs:
+        - Generally, crime and violence seems to be declining overall[^24] [^25]. This may
+          be because of better policing, or more surveillance. It could just be that we
+          are generally richer, and therefore we feel less compelled to risk committing
+          crimes to obtain what we don't have.
 card_type: future_tech/trend
 consider:
-- How much crime went unreported in the past? Has this amount increased or decreased?
-- Has the Overton window moved to include new acts within the definition of _violence_?
-- Are we less violent because we have 'advanced' as a society, or because we are more
-  afraid of getting caught?
+    - How much crime went unreported in the past? Has this amount increased or decreased?
+    - Has the Overton window moved to include new acts within the definition of _violence_?
+    - Are we less violent because we have 'advanced' as a society, or because we are more
+      afraid of getting caught?
 footnotes:
-  '23': "Australia is blue[^23], USA is red.[^22] \n [^23]: <a href=\"https://www.google.com/url?q=http://violentdeathproject.com/countries/australia&amp;sa=D&amp;ust=1582431437871000\"\
-    >http://violentdeathproject.com/countries/australia</a>\n"
+    "23":
+        "Australia is blue[^23], USA is red.[^22]   [^23]: <a href=\"https://www.google.com/url?q=http://violentdeathproject.com/countries/australia&amp;sa=D&amp;ust=1582431437871000\"\
+        >http://violentdeathproject.com/countries/australia</a> "
 image:
-  caption: Australia is blue[^23], USA is red.[^22]
-  citation: ''
-  link: ''
-  source: image18.png
+    caption: Australia is blue[^23], USA is red.[^22]
+    citation: ""
+    link: ""
+    source: image18.png
 title: Crime/violence

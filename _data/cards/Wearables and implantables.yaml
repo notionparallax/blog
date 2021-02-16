@@ -1,11 +1,18 @@
 body:
-  paragraphs: []
+    paragraphs:
+        - "The Quantified Self[^qsm] movement got people interested in their patterns of behaviour, and their body's uder-observed patterns. This lead to wearables, like Fitbit bands and Oura rings becoming a huge market."
+        - "In vet science, there are sensors that sit in a cow's stomach that can relay back to the farmer the health of each cow. Humans have pacemakers, but non-theraputic implantables are almost unheard of[^miow]."
 card_type: future_tech/trend
-consider: []
-footnotes: {}
+consider:
+    - What don't currently available wearables measure?
+    - Who would implant and remove implantables?
+    - Would having a lot of biomedical data give some companies a big advantage?
+footnotes:
+    qsm: "[The Quantified Self](https://quantifiedself.com/) movement was founded by Kevin Kelly, and whilst niche at the time is now so mainstream that it's basically not talked about any more."
+    miow: "See the [case of Meow-Ludo](https://www.abc.net.au/news/2018-03-16/opal-card-implant-man-pleads-guilty-transport-offences/9555608) who implanted an transport card into his hand"
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: ''
+    caption: Apple watches have FDA approved ECG capabilities, but its usefulnes is disputed
+    citation: 9 to 5 mac
+    link: https://9to5mac.com/2019/07/30/apple-watch-ecg-2/
+    source: Apple-Watch-ECG.jpg
 title: Wearables and implantables
