@@ -294,15 +294,11 @@ Take a bit more time to weave all these ideas into a story, and then tell everyo
 
 -   Grab quotes from others in your team, they're really usable in future bits of work you'll do.
 
-### The canvas
+## The canvas
 
 Fill in the canvas. Its job is to make all the ideas visible, so that you can start to probe them for inconsistencies. Start using post it notes, so that you can change things, _a lot_.
 
-</section>
-
-<section>
-
-## Canvas
+### Canvas
 
 If you've got a big printer, print this as A3 or even better A2
 
