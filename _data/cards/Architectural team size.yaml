@@ -16,10 +16,9 @@ consider:
     - What if resourcing within the Design Team was a matrix of availability on a weekly/daily/hourly
       basis? (based on task, skill, expertise, training)
 footnotes:
-    "18": "[^18]  [^18]: Life as an intern, Paris, 1935 (via Fondation le Corbusier) "
 image:
-    caption: "[^18]"
-    citation: ""
+    caption: "Life as an intern, Paris, 1935"
+    citation: "(via Fondation le Corbusier)"
     link: ""
     source: image39.jpg
 title: Architectural team size

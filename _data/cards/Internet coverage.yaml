@@ -16,10 +16,11 @@ consider:
     - What is preventing the last few % from being connected? Is it choice or something
       else?
 footnotes:
-    "30": "[^30]  [^30]: [Data from](https://goo.gl/L3TER1) "
+    "31": "[internet.org](https://internet.org/) was planning to make internet access available through solar powered planes."
+    "32": "[Loon](http://www.google.com/loon/) was planning to make internet access available through weather balloons."
 image:
     caption: "[^30]"
-    citation: ""
-    link: ""
+    citation: "Data from"
+    link: "https://goo.gl/L3TER1"
     source: image38.png
 title: Internet coverage
