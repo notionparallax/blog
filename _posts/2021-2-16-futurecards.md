@@ -302,23 +302,30 @@ Fill in the canvas. Its job is to make all the ideas visible, so that you can st
 
 <section>
 
-## Canvas prompts
+## Canvas
 
-[TODO: draw up a canvas please]
+If you've got a big printer, print this as A3 or even better A2
+
+![]({{ site.baseurl }}/assets/20/game/Artboard 1@1x.png)
+
+[High res download]({{ site.baseurl }}/assets/20/game/Artboard 1@4x.png)
+
+Or just work through these prompts on whatever paper you've got:
 
 -   Imagine an object used in this world
 -   What would a convenience store be like (or the nearest thing to one)?
 -   What's child rearing like?
 -   What are the last 10 years of a person's life like in this world
 -   draw up a timeline of your protagonist's day, who do they interact with, what technology do they interact with?
--   xx How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
--   xx How will it change what we eat?
--   xx How will it change what we buy?
--   xx How will it change family structures?
--   xx How will it change our free time?
--   xx How will it change what we think about as we live our lives?
--   xx How will it change what society values?
-
+-   How will this scenario
+    -   affect the economy?
+    -   change what we eat?
+    -   change what we buy?
+    -   change family structures?
+    -   change our free time?
+    -   change what we think about as we live our lives?
+    -   change what society values?
+-   How would it play out under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
 </section>
 
 ---
