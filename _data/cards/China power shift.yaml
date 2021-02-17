@@ -1,0 +1,19 @@
+body:
+  paragraphs: "China\u2019s status as an economic, political and cultural center will\
+    \ continue its meteoric rise. The US will continue its downward spiral. <a href=\"\
+    https://www.mckinsey.com/~/media/mckinsey/featured%20insights/china/china%20still%20the%20worlds%20growth%20engine%20after%20covid%2019/mckinsey%20china%20consumer%20report%202021.pdf\"\
+    >Chinese consumption patterns will set the tone</a  > for the world."
+card_type: future_tech/trend
+consider: []
+footnotes: {}
+image:
+  caption: ''
+  citation: ''
+  link: ''
+  source: ''
+meta:
+  sources:
+  - source_comment: This article has a list of trends, and the first pass is to just
+      import them without modification
+    source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: China power shift
