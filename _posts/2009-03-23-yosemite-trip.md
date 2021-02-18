@@ -189,7 +189,7 @@ as if to highlight how cold the water I was about to cross really was, the Merce
 
 <a href="http://www.flickr.com/photos/95698107@N00/3683484998/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570746_15f9d3ca22_o.jpg" width="490" height="276" /></a>
 
-I ended up crawling over this log in a very inelegant way, and then discovering that I'd actually made it to an island, and that I had to crawl back. The people in the catalogues make water crossings look like so much fun, so I found a rocky bit, and whipped of my shoes.
+I ended up crawling over this log in a very inelegant way, and then discovering that I'd actually made it to an island, and that I had to crawl back. The people in the catalogues make water crossings look like so much fun, so I found a rocky bit, and whipped off my shoes.
 
 <a href="http://www.flickr.com/photos/95698107@N00/3683492802/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570762_26992525ee_o.jpg" width="490" height="164" /></a>
 
