@@ -39,7 +39,7 @@ I thought that Josie would like this, when an item falls on the snow, it's a bit
 <<table>
 
 <tr>
-<td width="250"><a href="http://www.flickr.com/photos/95698107@N00/3682678166/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570002_67eab16700_o.jpg" width="250" height="670" /></a></td>
+<td><a href="http://www.flickr.com/photos/95698107@N00/3682678166/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570002_67eab16700_o.jpg" width="250" height="670" /></a></td>
 <td>This was the moment that I realised that I was a bit under prepared for all of this, without show shoes, it mean that almost every step meant a deep plunge into snow, and then a big step out again.</td>
 </tr>
 </table>
@@ -87,8 +87,8 @@ this looks flattish, but it's actually at about 40&deg; and picking a route that
 <img src="{{ site.baseurl }}/assets/3378570264_90ee23ddee_o.jpg" width="490" height="211" />
 <<table>
 <tr>
-<td width="250"><img src="{{ site.baseurl }}/assets/3377752231_a66d633dd7_o.jpg" width="250" height="557" /></td>
-<td width="240">
+<td><img src="{{ site.baseurl }}/assets/3377752231_a66d633dd7_o.jpg" width="250" height="557" /></td>
+<td>
 
 I'm pretty sure that this would have been no deterrent to bears, but it was fun winding the cord around the bark on the tree.
 
@@ -117,8 +117,8 @@ there were a lot of incredibly gnarled trees, natural bonsai almost
 <<table>
 
 <tr>
-<td width="250"><a href="http://www.flickr.com/photos/95698107@N00/3683162268/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570404_ecaa8d1cbb_o.jpg" width="250" height="444" /></a></td>
-<td width="230">as the sun set on day three I could see the full complement of Yosemite mountains to the north of the ridge, and the lights of the bay area, 200 miles away to the south.</td>
+<td><a href="http://www.flickr.com/photos/95698107@N00/3683162268/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570404_ecaa8d1cbb_o.jpg" width="250" height="444" /></a></td>
+<td>as the sun set on day three I could see the full complement of Yosemite mountains to the north of the ridge, and the lights of the bay area, 200 miles away to the south.</td>
 </tr>
 </table>
 
@@ -135,8 +135,8 @@ mmm, salami, fatty protein goodness!
 <<table>
 
 <tr>
-<td width="250"><a href="http://www.flickr.com/photos/95698107@N00/3682572413/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570476_3edea131c3_o.jpg" width="250" height="369" /></a></td>
-<td width="230">
+<td><a href="http://www.flickr.com/photos/95698107@N00/3682572413/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570476_3edea131c3_o.jpg" width="250" height="369" /></a></td>
+<td>
 
 by day 3 I was wearing the hood of my jacket with the rest of it over my pack, to keep the sun off my face.
 
