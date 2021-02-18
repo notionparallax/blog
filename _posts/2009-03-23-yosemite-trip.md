@@ -132,7 +132,7 @@ mmm, salami, fatty protein goodness!
 
 <iframe src="https://player.vimeo.com/video/3810183" width="640" height="368" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-<<table>
+<table>
 
 <tr>
 <td><a href="http://www.flickr.com/photos/95698107@N00/3682572413/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570476_3edea131c3_o.jpg" width="250" height="369" /></a></td>
