@@ -36,7 +36,7 @@ I thought that Josie would like this, when an item falls on the snow, it's a bit
 
 <a href="http://www.flickr.com/photos/95698107@N00/3682756164/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377751885_460e19f9a0_o.jpg" width="490" height="178" /></a>
 
-<<table>
+<table>
 
 <tr>
 <td><a href="http://www.flickr.com/photos/95698107@N00/3682678166/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570002_67eab16700_o.jpg" width="250" height="670" /></a></td>
@@ -85,7 +85,7 @@ this looks flattish, but it's actually at about 40&deg; and picking a route that
 <iframe src="https://player.vimeo.com/video/3809720" width="640" height="368" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <img src="{{ site.baseurl }}/assets/3378570264_90ee23ddee_o.jpg" width="490" height="211" />
-<<table>
+<table>
 <tr>
 <td><img src="{{ site.baseurl }}/assets/3377752231_a66d633dd7_o.jpg" width="250" height="557" /></td>
 <td>
@@ -114,7 +114,7 @@ I slept with my shoes inside the bivi, but outside the sleeping bags, which mean
 
 there were a lot of incredibly gnarled trees, natural bonsai almost
 
-<<table>
+<table>
 
 <tr>
 <td><a href="http://www.flickr.com/photos/95698107@N00/3683162268/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3378570404_ecaa8d1cbb_o.jpg" width="250" height="444" /></a></td>
@@ -166,7 +166,7 @@ I think that with proper gear, and a partner, it would be very doable, but as a 
 
 <a href="http://www.flickr.com/photos/95698107@N00/3682611859/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752459_f821b7d28b_o.jpg" width="490" height="276" /></a>
 
-<<table>
+<table>
 
 <tr>
 <td rowspan="2"><a href="http://www.flickr.com/photos/95698107@N00/3682648227/sizes/l/in/set-72157620889447712/"><img src="{{ site.baseurl }}/assets/3377752497_f7d3c75d16_o.jpg" width="240" /></a></td>
