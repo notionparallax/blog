@@ -1,6 +1,6 @@
 ---
 layout: post
-title: yosemite trip
+title: Yosemite trip
 date: 2009-03-23 19:22:37.000000000 +11:00
 type: post
 published: true
