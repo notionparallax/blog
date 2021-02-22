@@ -2,8 +2,10 @@ live: true
 body:
     paragraphs:
         - "Fashion designers and retailers will create markedly different strategies[^zoomFashion] for fashion that appears on the upper body, ie above  \u201Cthe Zoom line\u201D compared with the bottom half of the body, which isn\u2019\t usually visible on screen."
+        - Many fashion houses have been embracing comfort and loungewear. Tracksuit bottoms have become the defacto cool weather bottoms of the pandemic.
 card_type: trend
-consider: []
+consider:
+    - Now that we've had a taste of comfort, will we go back?
 footnotes:
     "zoomFashion": "https://www.wgsn.com/content/board_viewer/#/85986/en/page/1"
 image:
