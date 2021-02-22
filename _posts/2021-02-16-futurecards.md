@@ -26,7 +26,8 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
   }
   /* body {
     background-color: beige !important;
-  } */
+  }  */
+  
   figcaption {
       float: right;
   }
