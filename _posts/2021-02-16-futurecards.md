@@ -167,7 +167,10 @@ sub-folder in the `_data` folder.
 {% for org_hash in site.data.cards %}
 {% assign card = org_hash[1] %}
 
+{% if card.live %}
+
 <section class="card {{ card.card_type }}">
+
 ## {{ card.title }}
 
 <figure>
@@ -192,5 +195,7 @@ sub-folder in the `_data` folder.
 [^{{ fn[0] }}]: {{ fn[1]}}
 
 {% endfor %}
+
+{% endif %}
 
 {% endfor %}

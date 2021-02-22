@@ -4,6 +4,7 @@ image:
     caption: This is an image of an xxx
     citation: by YYY
     link: https://www.google.com/
+live: true
 body:
     paragraphs:
         - Asteroids are mainly made of nickel iron or frozen water. They also contain a

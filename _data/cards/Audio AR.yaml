@@ -1,3 +1,4 @@
+live: true
 body:
     paragraphs:
         - Most Augmented Reality (AR) is thought of as visual, but there are significant technical hurdles in image processing and rendering to overcome before it has widespread adoption. Audio AR is already available; if you use google maps' walking directions through your headphones without looking at your phone then you've already tried it. (Many sports apps use audio cues to prompt performance too.)

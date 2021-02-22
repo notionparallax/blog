@@ -1,3 +1,4 @@
+live: true
 body:
     paragraphs:
         - This graph from NASA[^33] shows global temperature variation
