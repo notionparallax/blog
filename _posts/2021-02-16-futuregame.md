@@ -21,120 +21,12 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
 ---
 
 <style>
-  a {
-    overflow-wrap: break-word;
+  ul {
+    font-size: 80%;
+    column-width: 10em;
   }
-  /* body {
-    background-color: beige !important;
-  }  */
-
-  figcaption {
-      float: right;
-  }
-  .toc {
-    column-width: 12em;
-    font-size: 70%;
-  }
-  @media screen {
-    .to-print {
-      display: none;
-    }
-    section.card{
-      width: 9in;
-      border: 1px solid black;
-      border-radius: 1em;
-      padding: 10mm;
-      font-size: 10pt;
-      height: 6in;
-      column-count: 2;
-      margin-bottom: 1em;
-      column-fill: auto;
-    }
-    section h2,
-    section h3 {
-      margin-bottom: 0;
-    }
-    article.post section blockquote {
-      font-size: 80%;
-      width: 100%;
-      padding-left: 0.5em;
-    }
-    li img {
-      height: 5em;
-    }
-  }
-  @media print {
-    /* html, body {
-      height: 210mm !important;
-      width: 297mm !important;
-    } */
-    @page {
-      /* size: 148mm 210mm !important; */
-      size: A5 landscape !important;
-      margin-bottom: 0;
-      margin-left: 0;
-      margin-right: 0;
-      margin-top: 0;
-    }
-    iframe,
-    header {
-      display: none;
-    }
-    .post-content {
-      column-count: 1 !important;
-    }
-    article.post figure img {
-      max-height: 40vh;
-      max-width: 50%;
-      width: unset;
-    }
-    section {
-      /* margin: 1em; */
-      background-color: white;
-      break-inside: avoid;
-      column-count: 2;
-      display: inline-block;
-      display: inline-block;
-      outline: 1px solid;
-      padding: 1cm;
-      page-break-before: always;
-      vertical-align: bottom;
-      width:  210mm;
-      height: 148mm;
-    }
-    section h1 {
-      text-align: center;
-    }
-    article.post h2 {
-        margin-top: 0;
-        border: none;
-    }
-    figure p {
-      text-align: center;
-    }
-    article.post figure img {
-      max-height: 55mm;
-      max-width: 50%;
-      width: unset;
-    }
-    h3 {
-      break-after: avoid;
-      /* This isn't actually implemented yet,
-      but one day it'll make the headers look nice */
-    }
-    article.post li {
-      margin-bottom: 0.2em;
-    }
-    .footnotes {
-      border-top: none;
-      column-count: 2;
-      padding: 1cm;
-      page-break-before: always;
-    }
-    section td {
-      text-align: center;
-    }
-
+  li ul {
+    column-width: auto;
   }
 </style>
 
@@ -165,6 +57,17 @@ There are two main ways to contribute:
 These cards are made by me, who is an expert in none of these topics. If you _are_ an expert then you probably have way more useful things to say! Better illustrations, better prompts, better footnotes, and so on.
 
 You can improve them by going to [GitHub](https://github.com/notionparallax/blog/tree/gh-pages/_data/cards) and just editing the card you're interested in. Don't worry about breaking it, your edit will be sent to me for approval first.
+
+If you'd like to do an easy one, the following cards have been stubbed out but not finished:
+
+{% for org_hash in site.data.cards %}
+{% assign card = org_hash[1] %}
+{% if card.live != true %}
+
+-   {{ card.title }}
+
+{% endif %}
+{% endfor %}
 
 ### Making new cards
 
@@ -206,9 +109,11 @@ The current cards are:
 
 {% for org_hash in site.data.cards %}
 {% assign card = org_hash[1] %}
+{% if card.live %}
 
 -   {{ card.title }}
 
+{% endif %}
 {% endfor %}
 
 </div>
