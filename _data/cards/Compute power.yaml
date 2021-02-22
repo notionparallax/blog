@@ -12,6 +12,7 @@ body:
           its increase is increasing[^11].
 card_type: future_tech/trend
 consider:
+    - "![](/assets/20/game/images/image3.png)"
     - Does more power unlock answers to new kinds of problem? Google search wouldn't be
       possible without a certain level of computer power. What new kinds of activity will
       be unlocked by more power?
@@ -19,7 +20,6 @@ consider:
       from?
     - Does everyone have equal access to this compute power?
     - Will we ever have _enough_ computer power?
-    - "![]({{ site.baseurl }}/assets/20/game/images/image3.png)"
 footnotes:
     "9": "[Wikipedia: Moore's law](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Moore%2527s_law&amp;sa=D&amp;ust=1582431437877000)"
     "10": "Which is why there are so many data centres in Iceland."

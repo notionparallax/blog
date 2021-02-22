@@ -11,6 +11,7 @@ body:
         - Having access to the internet unlocks economic and trade goods, education, political
           information (that may contradict official sources) and generally raises quality
           of life.
+        - '<iframe width="400" height="325" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="https://www.google.com.au/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=l&amp;strail=false&amp;bcs=d&amp;nselm=h&amp;met_y=it_net_bbnd_p2&amp;scale_y=lin&amp;ind_y=false&amp;rdim=region&amp;idim=country:AUS:USA:CAN:BRN:KHM:PRK:CHN:FJI:GUM:PYF:HKG:IDN:JPN:KIR:KOR:LAO:MAC:NZL:DZA:BHR:EGY:IRN:IRQ:QAT:MAR:LBY:ARE:YEM:AGO:BEN:BFA:CMR:COG:GNQ:CIV:KEN:LSO:RWA:SOM:AZE:BGR:CHI:FRA:DEU&amp;ifdim=region&amp;hl=en_US&amp;dl=en&amp;ind=false&amp;xMax=180&amp;xMin=-180&amp;yMax=-69.19015623869112&amp;yMin=71.94133737234107&amp;mapType=t&amp;icfg&amp;iconSize=0.5"></iframe>'
 card_type: future_tech/trend
 consider:
     - Will wired broadband still be needed if we have fast satellite connections?
@@ -25,8 +26,5 @@ image:
     caption: "[for live data][^12]"
     citation: ""
     link: ""
-    source:
-        '<iframe width="400" height="325" frameborder="0" scrolling="no" marginwidth="0"
-        marginheight="0" src="https://www.google.com.au/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=l&amp;strail=false&amp;bcs=d&amp;nselm=h&amp;met_y=it_net_bbnd_p2&amp;scale_y=lin&amp;ind_y=false&amp;rdim=region&amp;idim=country:AUS:USA:CAN:BRN:KHM:PRK:CHN:FJI:GUM:PYF:HKG:IDN:JPN:KIR:KOR:LAO:MAC:NZL:DZA:BHR:EGY:IRN:IRQ:QAT:MAR:LBY:ARE:YEM:AGO:BEN:BFA:CMR:COG:GNQ:CIV:KEN:LSO:RWA:SOM:AZE:BGR:CHI:FRA:DEU&amp;ifdim=region&amp;hl=en_US&amp;dl=en&amp;ind=false&amp;xMax=180&amp;xMin=-180&amp;yMax=-69.19015623869112&amp;yMin=71.94133737234107&amp;mapType=t&amp;icfg&amp;iconSize=0.5"></iframe>image7.png{:
-        .to-print}'
+    source: image7.png
 title: Broadband access inequality

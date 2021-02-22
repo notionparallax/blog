@@ -20,8 +20,6 @@ twitter-body: "A game to help you think about the future."
 featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/82870.1.434.434.FFFFFF.jpeg
 ---
 
-<!-- <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script> -->
-
 <style>
   a {
     overflow-wrap: break-word;
@@ -50,6 +48,15 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
       column-count: 2;
       margin-bottom: 1em;
     }
+    section h2,
+    section h3 {
+      margin-bottom: 0;
+    }
+    article.post section blockquote {
+      font-size: 80%;
+      width: 100%;
+      padding-left: 0.5em;
+    }
   }
   @media print {
     /* html, body {
@@ -64,7 +71,7 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
       margin-right: 0;
       margin-top: 0;
     }
-    iframe, 
+    iframe,
     header {
       display: none;
     }
@@ -113,7 +120,7 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
     }
     h3 {
       break-after: avoid;
-      /* This isn't actually implemented yet, 
+      /* This isn't actually implemented yet,
       but one day it'll make the headers look nice */
     }
     article.post li {
