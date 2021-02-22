@@ -6,7 +6,12 @@ body:
           (beyond the fringe). The weight of student debt and continued class conflict will
           also draw people away from the traditional path of college education.
 card_type: future_tech/trend
-consider: []
+consider:
+    - What is the value proposition of universities? Why not just move somewhere
+      extremely cheap and do MOOCs for 3 years?
+    - Is education about getting smarter, or about conforming, and signalling that conformance?
+    - As we live longer what is happening to the proportion of our lives we spend in education?
+    - Why do we generally educate in one block? Is that better than, for example, 2 years a decade?
 footnotes:
     "schooling": "https://www.mintel.com/global-consumer-trends"
 image:

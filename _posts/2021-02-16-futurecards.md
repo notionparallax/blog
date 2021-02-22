@@ -27,7 +27,7 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
   /* body {
     background-color: beige !important;
   }  */
-  
+
   figcaption {
       float: right;
   }
@@ -47,6 +47,7 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
       font-size: 10pt;
       height: 6in;
       column-count: 2;
+      column-fill: auto;
       margin-bottom: 1em;
     }
     section h2,
