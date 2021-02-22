@@ -11,7 +11,7 @@ body:
           content that only apple users could see.
         - This would impede the flow of information that the internet allows, but it may
           create a better experience for a subset of the population[^46].
-card_type: future_tech/trend
+card_type: social
 consider:
     - Who would gain from a private internet?
     - What would be bad about companies developing private protocols?

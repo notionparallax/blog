@@ -1,20 +1,21 @@
 body:
     paragraphs:
         - Cities and suburbs are looking for places to downshift development and add
-          urban greenery[^urbanGreenery] to compensate for rising C0<sub>2</sub> emissions. Especially
-          if carbon sequestration is eventually monetized, this could have an impact on
-          land use overall, since owning undeveloped forest land would be profitable. This
-          may point to a shift away from increasingly elusive home ownership toward permaculture
-          land ownership.
-card_type: future_tech/trend
-consider: []
+          urban greenery[^urbanGreenery] to compensate for rising C0<sub>2</sub> emissions. Especially if carbon sequestration is eventually monetized, this could have an impact on land use overall, since owning undeveloped forest land would be profitable. This permaculture land ownership.
+        - Progress in ancient DNA recovery is leading some to suggest rewilding with curently extinct fauna[^plPark].
+card_type: nature
+consider:
+    - will this lead to a sharper distinction between urban and wild?
+    - how will we interact with the apex predators (bears, wolves, etc.) that are needed for a functional ecosystem?
+    - Will governments need to compulsary purchace the land from farmers, or will there be another way to incentivise rewilding? Maybe an emissions scheme, or fallow payments?
 footnotes:
     "urbanGreenery": "https://www.mintel.com/global-consumer-trends"
+    "plPark": "https://www.theatlantic.com/magazine/archive/2017/04/pleistocene-park/517779/"
 image:
-    caption: ""
-    citation: ""
-    link: ""
-    source: ""
+    caption: "Depiction of some mammals common in northern Eurasia during the late Pleistocene, by Mauricio Antón. From left to right: wild horse, woolly mammoth, reindeer, cave lion and woolly rhinoceros."
+    citation: Pleistocene Park
+    link: https://en.wikipedia.org/wiki/Pleistocene_Park
+    source: Ice_age_fauna_of_northern_Spain.jpg
 meta:
     sources:
         - source_comment:

@@ -12,7 +12,7 @@ body:
           look for leaks, or flying over cliffs to count sea birds.
         - Drones were used to attack the Saudi Aramco oil refinery; this was consumer tech,
           used in a military context.
-card_type: future_tech/trend
+card_type: technology
 consider:
     - What if drones get so small that we can't see them?
     - Could warfare become entirely autonomous?

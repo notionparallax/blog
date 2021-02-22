@@ -1,7 +1,7 @@
 body:
     paragraphs:
         - .
-card_type: future_tech/trend
+card_type: social
 consider: []
 footnotes: {}
 image:
@@ -10,3 +10,4 @@ image:
     link: ""
     source: ""
 title: Personal trillionaires
+# https://www.investopedia.com/financial-edge/0211/the-first-trillionaire.aspx

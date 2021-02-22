@@ -1,7 +1,7 @@
 body:
     paragraphs:
-        - "Microsoft is reportedly introducing a \u201Cvirtual commute\u201D feature[^virtualCommute] intended \u201Cto create mental bookends for the remote workday\u201D. It is also partnering with the meditation app Headspace to add a new \u201Cemotional check-in feature\u201D."
-card_type: future_tech/trend
+        - "Microsoft is introducing a \u201Cvirtual commute\u201D feature[^virtualCommute] intended \u201Cto create mental bookends for the remote workday\u201D. It is also partnering with the meditation app Headspace to add a new \u201Cemotional check-in feature\u201D."
+card_type: social
 consider: []
 footnotes:
     "virtualCommute": "https://info.trendwatching.com/21-trends-for-2021"

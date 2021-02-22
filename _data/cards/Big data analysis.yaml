@@ -17,7 +17,7 @@ body:
           content and social network activity reports, text from customer emails and survey
           responses, mobile-phone call detail records and machine data captured by sensors
           connected to the Internet of Things.
-card_type: future_tech/trend
+card_type: trend
 consider:
     - How could this scale of information and its availability influence not just business
       but also society?

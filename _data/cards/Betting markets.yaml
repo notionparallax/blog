@@ -12,7 +12,7 @@ body:
           it didn't."
         - These sorts of markets are generally very accurate, but have had negative press
           because they can be seen as "betting on terrorism" etc.
-card_type: future_tech/trend
+card_type: social
 consider:
     - Will being a knowledge aggregator become a profession?
     - Will a track record of accuracy be a mark of social status? A hiring criteria?

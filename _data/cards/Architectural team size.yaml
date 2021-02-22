@@ -4,7 +4,7 @@ body:
           supposed to decrease the amount of work that design teams do to get given outcome.
         - However, scope of work is going up; soon teams may need to deliver an _as built_
           model to the client's facility managers. How do these trends balance?
-card_type: future_tech/trend
+card_type: social
 consider:
     - What were Architectural teams like in the past?
     - How have Architectural teams of past the coordinated with builder, client and consultants?

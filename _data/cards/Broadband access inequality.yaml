@@ -11,7 +11,7 @@ body:
         - Having access to the internet unlocks economic and trade goods, education, political
           information (that may contradict official sources) and generally raises quality
           of life.
-card_type: future_tech/trend
+card_type: social
 consider:
     - Will wired broadband still be needed if we have fast satellite connections?
     - What would getting broadband to the countries at the bottom of this list do to their

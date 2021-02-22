@@ -8,7 +8,7 @@ body:
           batteries that are inside the power wall are used in cars. These allow the power
           providers to load balance/peak shave so that they don't need to turn on more power
           stations to handle peak loads.
-card_type: future_tech/trend
+card_type: technology
 consider:
     - Peak loads cost power suppliers a lot of money, who else stands to gain from batteries
       apart from consumers?

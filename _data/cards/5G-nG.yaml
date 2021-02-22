@@ -8,7 +8,7 @@ body:
           high tech applications can be set up with no digging, it also allows
           for easy reconfiguration of data rich robotics in warehouses (for e.g.).
         - Conspiracy theorists think it's a mind control mechanism.
-card_type: future_tech/trend
+card_type: technology
 consider:
     - In the 2030s 6G will bring even faster connections, what will that allow
     - If you don't need to re-cable, what will this mean for factories? For offices?
@@ -19,4 +19,4 @@ image:
     citation: Do Yourself A Favour – Don’t Get A 5G Phone Just Yet
     link: https://whatphone.com.au/guide/dont-get-a-5G-phone-just-yet
     source: 5gspeed.png
-title: 5G/nG
+title: 5G/_n_G

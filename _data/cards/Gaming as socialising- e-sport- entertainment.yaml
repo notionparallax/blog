@@ -1,18 +1,13 @@
 body:
-  paragraphs:
-  - .
-  - .
-  - .
-  - .
-  - .
-card_type: future_tech/trend
+    paragraphs:
+        - .
+card_type: social
 consider:
-- .
-- .
+    - .
 footnotes: {}
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: esport.jpg
-title: Gaming as socialising/ e-sport/ entertainment
+    caption: ""
+    citation: ""
+    link: ""
+    source: esport.jpg
+title: Gaming as socialising/<wbr>e-sport/<wbr>entertainment

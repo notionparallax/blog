@@ -3,12 +3,12 @@ body:
         - The average cost of traditional launch methods is about $25,000/kg[^16] but the
           SpaceX Falcon 9 can get that down to $2,618/kg. The Falcon Heavy is expected to
           be able to launch 53,000 kg to Low Earth Orbit for $90 Million or US$2,350 per
-          kg to LEO[^17] [^wp-launchPrices].
+          kg to LEO[^17]<sup>/</sup>[^wp-launchPrices].
         - With fully reusable launch vehicles the cost of a launch will drop to almost the
           cost of the fuel. As rockets are fuelled with hydrogen and oxygen, this can be
           made in bulk by electrolysing water, potentially with solar power. Expect the
           cost to launch to continue to drop.
-card_type: future_tech/trend
+card_type: trend
 consider:
     - What other mechanisms might we use to get things into space?
     - What will the price drop in space travel mean for society?

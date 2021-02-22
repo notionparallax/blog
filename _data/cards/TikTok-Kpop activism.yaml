@@ -1,8 +1,11 @@
 body:
     paragraphs:
-        - .
-card_type: future_tech/trend
-consider: []
+        - Apps and subcultures that consist of almost entirely young people are able to self organise and do things that seem surprising and impossible to the older population that aren't involved. E.g. the overbooking of a Trump rally by Kpop fans.
+        - The capacty for a group of under-enfranchised people to self organise like this is new, and it's power is not well understood.
+card_type: trend
+consider:
+    - This is inherently global, the arab spring was similar, but had local effects, where could this go next?
+    - Is this just gen Z using tiktok? Might we see a coup led by the peppa pig fan chat brigade?
 footnotes: {}
 image:
     caption: ""

@@ -5,7 +5,7 @@ body:
           to have a well at their house, they get water as a service."
         - You can get computing and storage as a service from AWS. X as a service also applies
           in the physical world. Uber and GoGet are examples of transport as a service.
-card_type: future_tech/trend
+card_type: trend
 consider:
     - What advantages are there for rolling your own? (This mean not using x as a service,
       but making a version of that service for yourself.)

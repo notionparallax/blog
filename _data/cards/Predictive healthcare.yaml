@@ -1,18 +1,14 @@
 body:
-  paragraphs:
-  - .
-  - .
-  - .
-  - .
-  - .
-card_type: future_tech/trend
+    paragraphs:
+        - .
+card_type: technology
 consider:
-- .
-- .
+    - .
+    - .
 footnotes: {}
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: image54.png
+    caption: ""
+    citation: ""
+    link: ""
+    source: image54.png
 title: Predictive healthcare

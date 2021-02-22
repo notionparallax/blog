@@ -6,7 +6,7 @@ body:
           (Or other legged things!)
         - Most of the current crop of robots have military origins, but they are also ideal
           of other types of hostile environments, like firefighting, rescue or space!
-card_type: future_tech/trend
+card_type: technology
 consider:
     - What other sectors could these robots be used in?
     - Wheels need smooth surfaces, legs don't. Will we need fewer roads?

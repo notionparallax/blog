@@ -11,7 +11,7 @@ body:
         - With increasing globalisation, more and more services will be provided by a centralised
           organisation, even if that organisation is coordinating others (e.g. Uber and
           AirBnB).
-card_type: future_tech/trend
+card_type: trend
 consider:
     - Companies like Amazon and Ebay provide marketplace services to smaller companies;
       connecting them to consumers. What are the impacts of this?

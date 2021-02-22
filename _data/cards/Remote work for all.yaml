@@ -1,18 +1,18 @@
 body:
-  paragraphs:
-  - .
-  - .
-  - .
-  - .
-  - .
-card_type: future_tech/trend
+    paragraphs:
+        - .
+        - .
+        - .
+        - .
+        - .
+card_type: social
 consider:
-- .
-- .
+    - .
+    - .
 footnotes: {}
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: image54.png
+    caption: ""
+    citation: ""
+    link: ""
+    source: image54.png
 title: Remote work for all

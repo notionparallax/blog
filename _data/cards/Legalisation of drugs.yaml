@@ -5,33 +5,14 @@ body:
           consistent legislation.
         - Proposals to ban alcohol are quickly put down by the drinks industry, and so to
           provide consistent legislation, all drugs from position 5 and below are legalised.
-        - 1. Heroin
-        - 1. Cocaine
-        - 1. Barbituates
-        - 1. Street methadone
-        - 1. **Alcohol**
-        - 1. Ketamine
-        - 1. Benzodiazepines
-        - 1. Amphetamine
-        - 1. Tobacco
-        - 1. Buprenorphine
-        - 1. Cannabis
-        - 1. Solvents
-        - 1. 4-MTA
-        - 1. LSD
-        - 1. Methylphenidate
-        - 1. Anabolic steroids
-        - 1. GHB
-        - 1. Ecstasy
-        - 1. Alykl nitrites
-        - 1. Khat
-card_type: future_tech/trend
+        - 1. Heroin, 2. Cocaine, 3. Barbituates, 4. Street methadone, 5. **Alcohol**, 6. Ketamine, 7. Benzodiazepines, 8. Amphetamine, 9. Tobacco, 10. Buprenorphine, 11. Cannabis, 12. Solvents, 13. 4-MTA, 14. LSD, 15. Methylphenidate, 16. Anabolic steroids, 17. GHB, 18. Ecstasy, 19. Alykl nitrites, 20. Khat
+card_type: social
 consider:
-    - What else should be legal/illegal?
+    - What else should be legal/illegal? What are you basing that descision on?
     - What else could be legal or illegal in future?
     - Why aren't these already legal?
 footnotes:
-    "54": http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract
+    "54": "[Drug harms in the UK: a multicriteria decision analysis](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract) by Prof David J Nutt, FMedSci; Leslie A King, PhD; Lawrence D Phillips, PhD"
 image:
     caption: ""
     citation: ""

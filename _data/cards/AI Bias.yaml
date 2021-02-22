@@ -3,7 +3,7 @@ body:
         - Bias can be built into algorithms in several ways. The obvious one is through the datasets used to train the system. If a dataset has only cats, it will classify a dog as a cat. It can also be introduced through the hyperparameters (the setup variables of the system).
         - Propublica[^propublica_bias] showed widespread bias in sentencing based on an algorithm that baked in, amongst other things, geographical biases, e.g. if you live in a black neighbourhood, sentence more harshly.
         - Many ML algorithms are considered "black boxes" so can't be explained. There is a lot of work on trying to make that not the case.
-card_type: future_tech/trend
+card_type: technology
 consider:
     - Who's responsiblity is it to make sure that algorithms don't discriminate against particular groups of people?
     - Is there an acceptable rate of failure? What is that relative to the human rate of failure?
