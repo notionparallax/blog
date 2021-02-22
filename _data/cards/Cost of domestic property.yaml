@@ -1,13 +1,9 @@
 body:
     paragraphs:
-        - Housing is more expensive (in real terms) than ever. Of the money that people
-          have to spend, we are spending more of it on housing.
-        - This might be because there isn't enough supply of housing where people want to
-          live. It might be because housing is a safe asset class.
-        - Low interest rates make it easier for those with wealth to buy more houses, and
-          house values go up much faster than most other asset classes. Are we in a bubble?
-        - If owning stops being attractive, wealth concentration will increase, but maybe
-          a new _safe as x_ asset class will emerge for renters to spend their money on.
+        - Housing is more expensive (in real terms) than ever. As a proportion of the money that people have to spend, we are spending more of it on housing.
+        - This might be because there isn't enough supply of housing where people want to live. It might be because housing is a safe asset class.
+        - Low interest rates make it easier for those with wealth to buy more houses, and house values go up much faster than most other asset classes. Are we in a bubble?
+        - If owning stops being attractive, wealth concentration will increase, but maybe a new _safe as x_ asset class will emerge for renters to spend their money on.
 card_type: trend
 consider:
     - How did we get to the position that we're in now?

@@ -1,7 +1,7 @@
 body:
     paragraphs:
         - Algorithms like alpha go have been displaying signs of non-human creativity, i.e. they're doing things that their creators thing are beyond the scope of their training.
-        - Other algorithsm, like style transfer GANs, look creative, but are quite predictable. However they produce art-like outcomes which&mdash;it could be argued&mdash;is what most "creative" human "artists" do.
+        - Other algorithms, like style transfer GANs, look creative, but are quite predictable. However they produce art-like outcomes which&mdash;it could be argued&mdash;is what most "creative" human "artists" do.
 card_type: technology
 consider:
     - What is creativity? Can it be defined in a way that doesn't involve humans?

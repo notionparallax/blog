@@ -5,7 +5,7 @@ body:
         - Many ML algorithms are considered "black boxes" so can't be explained. There is a lot of work on trying to make that not the case.
 card_type: technology
 consider:
-    - Who's responsiblity is it to make sure that algorithms don't discriminate against particular groups of people?
+    - Whose responsibility is it to make sure that algorithms don't discriminate against particular groups of people?
     - Is there an acceptable rate of failure? What is that relative to the human rate of failure?
 footnotes:
     "propublica_bias": "[Machine Bias - There’s software used across the country to predict future criminals. And it’s biased against blacks. by Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica May 23, 2016](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)"
