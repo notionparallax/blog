@@ -1,9 +1,9 @@
 title: Private space exploration and asteroid mining
 image:
     source: image53.jpg
-    caption: This is an image of an xxx
-    citation: by YYY
-    link: https://www.google.com/
+    caption:
+    citation:
+    link:
 live: true
 body:
     paragraphs:
