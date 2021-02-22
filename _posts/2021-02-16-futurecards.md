@@ -135,8 +135,8 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
     }
     article.post figure img {
       max-height: 55mm;
-      max-width: 50%;
       width: unset;
+      max-width: 100%;
     }
     h3 {
       break-after: avoid;
