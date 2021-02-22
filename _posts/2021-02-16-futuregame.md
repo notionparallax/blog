@@ -45,11 +45,11 @@ Have fun with this, and let your imagination loose. If there's anything we've le
 
 Get into teams; teams of 3 seem to work pretty well. If the team is too small it's hard to get enough ideas bouncing around, if it's too big, not everyone's option gets heard.
 
-Print out the cards. In total you need about 10 per team, there are {{ site.data.cards | size }} cards now, so you can work that out.
+Print out the cards. In total you need about 10 per team, there are {{ site.data.cards | size }} cards now, so you can work that out. If you want to just get the cards as a PDF then [they're here]({{ site.baseurl }}/assets/20/game/the_cards.pdf), but if you want the freshest ones, [they're here](https://notionparallax.co.uk/2021/futurecards) for you to print yourself.
 
 If you've got a particular focus or reason for running this workshop, then it's probably ok to make a fixed card that is always in each team's hand. E.g. if you really care about smart cities, make a card (or cards) about that, and make sure that each team always has one of them.
 
-Someone needs to be the MC/time keeper. It helps to have a few people going around to get the teams to think a bit differently if they get stuck in a rut.
+Extra to the teams, someone needs to be the MC/time keeper. It helps to have a few other people going around to get the teams to think a bit differently if they get stuck in a rut.
 
 ## Contributing
 
