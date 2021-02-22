@@ -17,7 +17,7 @@ description: "A game to help you think about the future."
 twitter-body: "A game to help you think about the future."
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/82870.1.434.434.FFFFFF.jpeg
+featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
 ---
 
 <style>
@@ -47,8 +47,8 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
       font-size: 10pt;
       height: 6in;
       column-count: 2;
-      column-fill: auto;
       margin-bottom: 1em;
+      column-fill: auto;
     }
     section h2,
     section h3 {
@@ -198,6 +198,14 @@ consider:
     - add a prompt for the players
     - And maybe another one too
 card_type: future_tech
+meta:
+    sources:
+        - source_comment: Who wrote this card? Who are you?
+          source_link: If you pulled it from somewhere else, ref that here
+          update_date: 2021-02-20 #an iso date
+        - source_comment: Who updated this card? Who are you?
+          source_link: #leave it blank if you like
+          update_date: 2021-02-20 #an iso date
 ```
 
 Save the file as `The name of the card.yaml` and either [💌email](mailto:ben@notionparallax.co.uk) it to me, or make PR against the repo. (I'd go with email for the moment, until this game gets it's own repo; my blog is a huge download.)
