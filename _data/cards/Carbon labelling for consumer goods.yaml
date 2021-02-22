@@ -1,21 +1,20 @@
 body:
-  paragraphs:
-  - "Like nutrition facts on food, <a href=\"https://info.trendwatching.com/21-trends-for-2021\"\
-    >listing carbon expenditures</a  > related to various products on their packaging\
-    \ or in marketing materials will become a norm. This could be used to <a href=\"\
-    https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion#\">justify\
-    \ higher prices</a  > for certain more \u201Ccarbon-responsible\u201D items."
+    paragraphs:
+        - "Like nutrition facts on food, listing carbon expenditures[^co2expenditure] related to various products on their packaging or in marketing materials will become a norm. This could be used to justify higher prices[^fasionpricing] for certain more \u201Ccarbon-responsible\u201D items."
 card_type: future_tech/trend
 consider: []
-footnotes: {}
+footnotes:
+    "co2expenditure": "https://info.trendwatching.com/21-trends-for-2021"
+    "fasionpricing": "https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion"
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: ''
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
 meta:
-  sources:
-  - source_comment: This article has a list of trends, and the first pass is to just
-      import them without modification
-    source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
 title: Carbon labelling for consumer goods

@@ -11,9 +11,10 @@ consider:
     - Are we less violent because we have 'advanced' as a society, or because we are more
       afraid of getting caught?
 footnotes:
-    "23":
-        "Australia is blue[^23], USA is red.[^22]   [^23]: <a href=\"https://www.google.com/url?q=http://violentdeathproject.com/countries/australia&amp;sa=D&amp;ust=1582431437871000\"\
-        >http://violentdeathproject.com/countries/australia</a> "
+    "22": "From Wikipedia: [Crime in the United States](https://en.wikipedia.org/wiki/Crime_in_the_United_States)"
+    "23": http://violentdeathproject.com/countries/australia
+    "24": "[The Better Angels of Our Nature](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)"
+    "25": "[for a nice interactive view of this phenomenon this article is good](http://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/)"
 image:
     caption: Australia is blue[^23], USA is red.[^22]
     citation: ""

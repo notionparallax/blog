@@ -1,5 +1,6 @@
 body:
-    paragraphs: []
+     paragraphs:
+    - .
 card_type: future_tech/trend
 consider: []
 footnotes: {}

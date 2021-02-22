@@ -12,7 +12,7 @@ body:
           its increase is increasing[^11].
 card_type: future_tech/trend
 consider:
-    - "![](/assets/20/game/images/image3.png)"
+    # - "![](/assets/20/game/images/image3.png)"
     - Does more power unlock answers to new kinds of problem? Google search wouldn't be
       possible without a certain level of computer power. What new kinds of activity will
       be unlocked by more power?

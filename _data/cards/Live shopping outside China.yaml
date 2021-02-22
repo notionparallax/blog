@@ -1,22 +1,20 @@
 body:
-  paragraphs:
-  - "<a href=\"https://www.singlegrain.com/web-trends/what-is-live-stream-shopping/\"\
-    >Live shopping</a  >, already extremely popular in China, is like Instagram Live\
-    \ meets the Home Shopping Network \u2013 influencers show-and-tell products live\
-    \ on social media, which have particular discounts and promotions only while the\
-    \ feed is rolling. Forecasters predict <a href=\"https://www.foresightfactory.co/trends-report/\"\
-    >this will become globally popular</a  > in the near term."
+    paragraphs:
+        - "Live shopping[^liveShopping], already extremely popular in China, is like Instagram Live  meets the Home Shopping Network \u2013 influencers show-and-tell products live  on social media, which have particular discounts and promotions only while the  feed is rolling. Forecasters predict this will become globally popular[^liveShoppingForecast] in the near term."
 card_type: future_tech/trend
 consider: []
-footnotes: {}
+footnotes:
+    "liveShopping": "https://www.singlegrain.com/web-trends/what-is-live-stream-shopping/"
+    "liveShoppingForecast": "https://www.foresightfactory.co/trends-report"
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: ''
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
 meta:
-  sources:
-  - source_comment: This article has a list of trends, and the first pass is to just
-      import them without modification
-    source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
 title: Live shopping outside China

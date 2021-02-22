@@ -1,11 +1,12 @@
 body:
-  paragraphs: []
+    paragraphs:
+        - .
 card_type: future_tech/trend
 consider: []
 footnotes: {}
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: ''
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
 title: Coworking and Cohousing

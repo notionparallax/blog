@@ -1,19 +1,19 @@
 body:
-  paragraphs: "Fashion designers and retailers will create markedly <a href=\"https://www.wgsn.com/content/board_viewer/#/85986/en/page/1\"\
-    >different strategies</a  > for fashion that appears on the upper body, ie above\
-    \ \u201Cthe Zoom line\u201D compared with the bottom half of the body, which isn\u2019\
-    t usually visible on screen."
+    paragraphs:
+        - "Fashion designers and retailers will create markedly different strategies[^zoomFashion] for fashion that appears on the upper body, ie above  \u201Cthe Zoom line\u201D compared with the bottom half of the body, which isn\u2019\t usually visible on screen."
 card_type: future_tech/trend
 consider: []
-footnotes: {}
+footnotes:
+    "zoomFashion": "https://www.wgsn.com/content/board_viewer/#/85986/en/page/1"
 image:
-  caption: ''
-  citation: ''
-  link: ''
-  source: ''
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
 meta:
-  sources:
-  - source_comment: This article has a list of trends, and the first pass is to just
-      import them without modification
-    source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
 title: Zoom fashion

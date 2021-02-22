@@ -22,15 +22,7 @@ consider:
     - Could deliveries be made to apartment windows on high levels? How would the window
       need to change?
 footnotes:
-    min:
-        "now! Minimalism has been described as a thing that only the rich can afford&mdash;everyone\
-        \ else needs to have backups![^min] That could change if drone delivery takes\
-        \ off  in a big way. You needn't actually own anything because it could be delivered\
-        \ to you within a few minutes.  [^min]: [Minimalism: another boring product wealthy\
-        \ people can buy](https://www.theguardian.com/lifeandstyle/2017/mar/04/minimalism-conspicuous-consumption-class)\
-        \ \"Minimalism is just another form of conspicuous consumption, a way of saying\
-        \ to the world: \xE2\u20AC\u02DCLook at me! Look at all of the things I have refused\
-        \ to buy!\xE2\u20AC\u2122\" "
+    min: "now! Minimalism has been described as a thing that only the rich can afford&mdash;everyone  else needs to have backups![^min] That could change if drone delivery takes  off  in a big way. You needn't actually own anything because it could be delivered  to you within a few minutes.  [^min]: [Minimalism: another boring product wealthy  people can buy](https://www.theguardian.com/lifeandstyle/2017/mar/04/minimalism-conspicuous-consumption-class)  \"Minimalism is just another form of conspicuous consumption, a way of saying  to the world: \xE2\u20AC\u02DCLook at me! Look at all of the things I have refused  to buy!\xE2\u20AC\u2122\" "
 image:
     caption: ""
     citation: ""
