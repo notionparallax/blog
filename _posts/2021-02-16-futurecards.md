@@ -36,6 +36,9 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
     column-width: 12em;
     font-size: 70%;
   }
+  li img {
+      height: 5em;
+    }
   @media screen {
     .to-print {
       display: none;
@@ -60,9 +63,7 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
       width: 100%;
       padding-left: 0.5em;
     }
-    li img {
-      height: 5em;
-    }
+    
   }
   @media print {
     /* html, body {
@@ -128,7 +129,7 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
     }
     article.post h2 {
       margin-top: 0;
-        border: none;
+      border: none;
     }
     figure p {
       text-align: center;

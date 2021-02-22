@@ -28,6 +28,9 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
   li ul {
     column-width: auto;
   }
+  li img {
+    height: 4em;
+  }
 </style>
 
 # Possible Futures
