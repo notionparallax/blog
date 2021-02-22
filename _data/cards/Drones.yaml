@@ -1,6 +1,5 @@
 body:
     paragraphs:
-        - "|:---:|:---:||image25.jpg | image17.jpg ||image27.jpg | image30.jpg |"
         - Let's define drones as a class of robots that are able to do a human's bidding
           with _some_ level of autonomy. That might just be the ability to hover level,
           or it might be full autonomy over an assassination mission.

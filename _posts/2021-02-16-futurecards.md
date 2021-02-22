@@ -59,6 +59,9 @@ featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/
       width: 100%;
       padding-left: 0.5em;
     }
+    li img {
+      height: 5em;
+    }
   }
   @media print {
     /* html, body {
