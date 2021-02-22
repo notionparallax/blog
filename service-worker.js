@@ -2,7 +2,7 @@
 // layout: null
 //---
 
-var staticCacheName = "np-v27";
+var staticCacheName = "np-v28";
 
 self.addEventListener("install", function (event) {
     event.waitUntil(
@@ -14,7 +14,7 @@ self.addEventListener("install", function (event) {
                 "/js/ga-events.js",
                 "https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js",
                 "https://cdnjs.cloudflare.com/ajax/libs/balance-text/1.6.0/jquery.balancetext.min.js",
-                "https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif",
+                "https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap",
                 "https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nFtXRa8TVwTICgirnJhmVJw.woff2",
                 "https://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ_k_vArhqVIZ0nv9q090hN8.woff2",
                 "https://fonts.gstatic.com/s/notoserif/v4/1_daFS3X6gkNOcmGmHl7UiEAvth_LlrfE80CYdSH47w.woff2",
