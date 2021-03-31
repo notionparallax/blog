@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cornbread recipe"
+title: "Cornbread recipe"
 date: 2020-8-03 09:00:00 AEST
 type: post
 published: true
@@ -15,15 +15,13 @@ description:
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker
 #123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
-twitter-body:
+twitter-body: People ask for this recipe all the time, so here it is!
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: https://media.giphy.com/media/cjPm9OI1deDy0M2Bc1/giphy.gif
+featuredimg: https://i.giphy.com/media/cjPm9OI1deDy0M2Bc1/giphy.webp
 ---
 
-This is a WIP, but ¯\\_(ツ)_/¯
-
-!()[https://media.giphy.com/media/cjPm9OI1deDy0M2Bc1/giphy.gif]
+![](https://i.giphy.com/media/cjPm9OI1deDy0M2Bc1/giphy.webp)
 
 Equipment:
 
@@ -60,3 +58,9 @@ Wet
 1. Stir wet ingredients into dry, then add the browned butter. (Careful, it's hot as fuck.) Stir until homogeneous.
 1. Remove skillet from the oven and swirl to coat all surfaces with melted butter. Spoon batter into skillet, smooth top lightly, then transfer to oven. Bake until light golden brown on top and a wooden skewer inserted into cornbread comes out with no crumbs, 20 to 25 minutes. (Or internal temperature reaches 90°C)
 1. Let cool 10 minutes, then serve with extra butter and honey at the table.
+
+---
+
+This is a bit of a hack hybrid of the [Serious Eats]() and the [Chefsteps]() cornbread recipes, which are both delicious. Most of the words are even from the Serious Eats recipe. I just tweaked it to make it a bit moister and have more corn.
+
+You can make the dry part ahead of time and it lasts for something like 6 months but then the baking powder starts to lose its fizz.
