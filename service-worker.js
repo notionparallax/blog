@@ -2,7 +2,7 @@
 // layout: null
 //---
 
-var staticCacheName = "np-v28";
+var staticCacheName = "np-v29";
 
 self.addEventListener("install", function (event) {
     event.waitUntil(
