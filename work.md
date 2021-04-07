@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-permalink: Work
+permalink: work
 date: 2020-04-07 12:00:00 AEST
 type: page
 published: true
