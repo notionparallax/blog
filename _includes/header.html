@@ -1,9 +1,35 @@
 <header class="site-header">
+    <div class="wrapper {{page.type}}">
+        <h1>
+            <a class="site-title" href="{{ site.baseurl }}/"
+                >{{ site.title }}</a
+            >
+        </h1>
 
-  <div class="wrapper {{page.type}}">
-
-    <h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-
-  </div>
-
+        <div class="header-links">
+            <ul>
+                <li>
+                    <a
+                        href='{{ "/me" | prepend: site.baseurl  }}'
+                        title="Things you might like to know about me. Not so much about work, more about me as a person."
+                        >Me</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href='{{ "/projects" | prepend: site.baseurl  }}'
+                        title="Things I've worked on."
+                        >Projects</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href='{{ "/work" | prepend: site.baseurl  }}'
+                        title="Where I've worked and what I did there."
+                        >Work</a
+                    >
+                </li>
+            </ul>
+        </div>
+    </div>
 </header>
