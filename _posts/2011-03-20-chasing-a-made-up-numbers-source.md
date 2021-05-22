@@ -13,7 +13,8 @@ tags:
     - emissions
     - laziness
 ---
-<p>A while ago <a title="UK emissions attributable to the built environment?" href="http://www.notionparallax.co.uk/wordpress/index.php/2010/04/uk-emissions-attributable-to-the-built-environment/">I wrote about</a> the magical 45% number that is cited whenever anyone tries to justify their involvement in a built-environment project that seeks to reduce CO<sub>2</sub> emissions.</p>
+
+<p>A while ago <a title="UK emissions attributable to the built environment?" href="https://notionparallax.co.uk/2010/uk-emissions-attributable-to-the-built-environment">I wrote about</a> the magical 45% number that is cited whenever anyone tries to justify their involvement in a built-environment project that seeks to reduce CO<sub>2</sub> emissions.</p>
 <p>In the last few months I've made a few steps in finding the source of this number, and it seems that it might pay to be a bit more careful while using it in future. (_Seems_ - I'd like to know if anyone knows better.)</p>
 <p><img class="size-medium wp-image-609 alignright" title="Total UK delivered energy consumption by sector in 2000" src="{{ site.baseurl }}/assets/guideFpie-297x300.png" alt="" width="297" height="300" />The most likely source of the number comes from <a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/03/CIBSE-GUIDE-F-ENERGY-EFFICIENCY-IN-BUILDINGS-2004-.pdf">CIBSE guide F</a>. (Thanks <a href="http://designfordeconstruction.co.uk/">Sophie </a>for finding it, I know I've been a terrible bore about this subject.)</p>
 <table>

@@ -12,7 +12,8 @@ tags:
     - hardware
     - Sydney
 ---
-<p>A long time ago I posted my<a title="coffee making" href="http://www.notionparallax.co.uk/wordpress/index.php/2009/10/coffee-making/"> coffee making setup</a>, I was pretty pleased with it at the time, and I still think that it is about the best I'll ever get. That said, a full sized grinder is a bit of a chore to cart around the world, so I've finally rebuilt a setup for using here in&nbsp;Australia. <a href="https://www.facebook.com/profile.php?id=569721336">Dan's&nbsp;</a>babysitting&nbsp;my big grinder and I've tightened things up in general; downsizing so that I can get it all on my desk without adding to the general feeling that I'm a freak that there is at work.</p>
+
+<p>A long time ago I posted my<a title="coffee making" href="https://notionparallax.co.uk/2009/coffee-making"> coffee making setup</a>, I was pretty pleased with it at the time, and I still think that it is about the best I'll ever get. That said, a full sized grinder is a bit of a chore to cart around the world, so I've finally rebuilt a setup for using here in&nbsp;Australia. <a href="https://www.facebook.com/profile.php?id=569721336">Dan's&nbsp;</a>babysitting&nbsp;my big grinder and I've tightened things up in general; downsizing so that I can get it all on my desk without adding to the general feeling that I'm a freak that there is at work.</p>
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2012/03/coffee.png"><img style="width: 100%;" title="Coffee making setup" src="{{ site.baseurl }}/assets/coffee.png" alt="" /></a></p>
 <p>To nerdily categorise it all:</p>
 <ul>

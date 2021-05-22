@@ -23,9 +23,9 @@ enclosure: |
     http://notionparallax.co.uk/JuditKimpian_on_CarbonBuzz.mp3
     45986183
     audio/mpeg
-
 ---
-<p>A couple of weeks ago <a href="http://www.notionparallax.co.uk/wordpress/index.php/2010/03/carbon-buzz-interview/">I said I was going to interviw Judit Kimpian about Carbon Buzz</a>, and believe it or not, I actually did!</p>
+
+<p>A couple of weeks ago <a href="https://notionparallax.co.uk/2010/carbon-buzz-interview">I said I was going to interviw Judit Kimpian about Carbon Buzz</a>, and believe it or not, I actually did!</p>
 <p><img src="{{ site.baseurl }}/assets/0b8a1306-57c3-4b2d-9d26-def217991dd9.jpg" alt="a picture of Judit Kimpian" style="width:100%;" /></p>
 <p>Judit and I sat in her kitchen and chatted about Carbon Buzz and this is what she said:</p>
 <div style="background-color:#FFC; "><audio src="http://notionparallax.co.uk/JuditKimpian_on_CarbonBuzzLowQ.mp3" controls="controls"> Your browser does not support the audio element, if you get a new-school browser like Chrome or Opera this will work fine.</audio><br />

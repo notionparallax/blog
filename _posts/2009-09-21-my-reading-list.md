@@ -13,7 +13,7 @@ tags:
 
 <p>If you are going to stop smoking, the advice is to tell as many people of your intention. The reasoning going something along the lines of 'if you tell a lot of people, and you fail, failure is embarrassing, so you put more effort into not failing'. Respect seems to be a powerful motivator!</p>
 <p>I don't smoke, but I do read, and I'm going to go all Philip Morris on some books by telling people of my intention to read _more _of them.</p>
-<p>if you are reading this on facebook, follow this link to read it in glorious <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/09/my-reading-list/">technicolour</a>.<br />
+<p>if you are reading this on facebook, follow this link to read it in glorious <a href="https://notionparallax.co.uk/2009/my-reading-list">technicolour</a>.<br />
  </p>
 <p><iframe style="width:120px;height:240px;" src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=notioparal-21&o=2&p=8&l=as1&m=amazon&f=ifr&md=0M5A6TN3AXP2JHJBWT02&asins=0141034599" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
 There really should be an iframe here :(

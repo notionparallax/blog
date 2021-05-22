@@ -16,7 +16,8 @@ tags:
     - thinking
     - writing
 ---
-<p>Most people will have realised that I don't tend to do things the normal way. This extends to education too - I've taken 4 years off in the midst of a 5 year course (and 2 more before it even started). <a title="this needs a bit of updating now, there is ANOTHER year out to contend with!" href="http://www.notionparallax.co.uk/wordpress/index.php/2008/05/what-on-earth-have-i-been-up-to/">See this old post</a>.<br />
+
+<p>Most people will have realised that I don't tend to do things the normal way. This extends to education too - I've taken 4 years off in the midst of a 5 year course (and 2 more before it even started). <a title="this needs a bit of updating now, there is ANOTHER year out to contend with!" href="https://notionparallax.co.uk/2008/what-on-earth-have-i-been-up-to">See this old post</a>.<br />
 This year I'm back at school to do the last year before I become a 'real person' and start paying council tax etc. Oxford Brookes has a terrific system where they've figured out that you are probably about sick of design studios by the end of your 4<sup>th</sup> year, and are ripe for a bit of - shh don't say it too loudly - _learning_.<br />
 This is my draft proposal for what I'm going to do. It is a bit woolly, as it covers up that I really don't actually know what it is that I am going to do, and it is only barely related to architecture.</p>
 <blockquote><p>The 21st century is hailed by many as a 'make or break' time for humanity, the tipping point between a technological utopia and a crushing blow to our species' capacity to flourish. While every effort must be made to steer a path towards a bright future, contingencies for both extremes, as well as the vast, but discontinuous, range of circumstances and possibilities between must be considered.<br />

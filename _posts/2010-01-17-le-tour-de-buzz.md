@@ -15,7 +15,7 @@ meta:
 dsq_thread_id: "4503552231"
 ---
 
-I <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/12/tour-of-disloyalty/">promised to organise a coffee crawl a while ago</a>, so here it is.
+I <a href="https://notionparallax.co.uk/2009/tour-of-disloyalty">promised to organise a coffee crawl a while ago</a>, so here it is.
 
 A whole bunch of cafes, topped off with a cocktail or two at <a href="http://www.69colebrookerow.com/">69 Colebrooke Row</a> to calm the nerves.
 

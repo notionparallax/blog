@@ -25,4 +25,4 @@ dsq_thread_id: "4503552641"
 <p>The bit of the knife that does the cutting is usually pretty clean, the skin that it is being cut is busy being very pissed off. Given a bit of time, that skin will stop being grumpy, and just get sad. Then is cries blody tears, and these roll off the back of the blade - the _bleeding edge_.</p>
 <p>So this means that if your technology is brand new, it is cutting edge, it is exciting, but you are likely to get hurt. If it is a bit older, safer and more established then it is bleeding edge, and if it has been around for ages then it has probably been sewn up and sent home.</p>
 <p>Rant over.</p>
-<p> If you are reading this on facebook, follow this link to read it in glorious <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/09/cutting-bleeding-edges/">technicolour</a>. </p>
+<p> If you are reading this on facebook, follow this link to read it in glorious <a href="https://notionparallax.co.uk/2009/cutting-bleeding-edges">technicolour</a>. </p>

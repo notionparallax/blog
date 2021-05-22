@@ -12,6 +12,7 @@ tags:
     - tutorials
 ---
 
+<p>One of my students asked what order they ought to do the GC tutorials that are on the <a title="tutorials" href="https://notionparallax.co.uk/2008/tutorials">tutorials page</a>. For some reason I hadn't actually thought about that - duh!</p>
 <p>So here it is:</p>
 <ol>
 <li><a href="{{ site.baseurl }}/assets/tutorials/GC/20090220%20GC%20theoretical%20framework.pdf">Theoretical framework</a> <br />
