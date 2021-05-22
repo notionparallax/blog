@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- rant
-
+    - architecture
+    - rant
 ---
 <p>As I was sitting  being annoyed at myself for derailing my <a title="A description of what I had planned" href="http://www.notionparallax.co.uk/wordpress/index.php/2011/02/solo-canyoning/">plans for today</a> by forgetting my wallet I was flicking through my rss feeds. I came across <a title="Some Heuristics for Evaluating the Soundness of the Academic Mainstream in Unfamiliar Fields" href="http://lesswrong.com/lw/4ba/some_heuristics_for_evaluating_the_soundness_of/">this post</a> on <a href="http://lesswrong.com">Less Wrong</a> entitled "<a href="http://lesswrong.com/lw/4ba/some_heuristics_for_evaluating_the_soundness_of/">Some Heuristics for Evaluating the Soundness of the Academic Mainstream in Unfamiliar Fields</a>". This piqued my interest because, in my very best grumpy old fart way, I've been wondering about the validity of current <acronym title="Post Occupancy Evaluation">POE</acronym> methodology, but I know very little/nothing about it beyond what I've heard in pub conversations.</p>
 <p>There was a particularly good quote near the start that made me think of research in architecture in general:</p>

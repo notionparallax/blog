@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- Brisbane
-- BVN
-- compDesGrp
-
+    - Brisbane
+    - BVN
+    - compDesGrp
 ---
+
 <p>When I got back to Australia after my long (relatively), and somewhat fraught, trip back to England about nine months ago, one of my jobs was to try to do things that made BVN a leader and not a laggard[^1] in the global computation/ architecture realm. It was pretty luxurious being given such a juicy brief, but it wasn't going to happen over night.<br />
 <a title="The crowd! by notionparallax, on Flickr" href="http://www.flickr.com/photos/95698107@N00/4989750462/"><img src="{{ site.baseurl }}/assets/4989750462_424733520f.jpg" alt="The crowd!" width="100%" /></a></p>
 <p>One of the things that it turns out was possible to make happen over night (relatively) was to get the Australian compDesGrp running. I talked briefly about it <a title="compDesGrp" href="http://www.notionparallax.co.uk/wordpress/index.php/2011/01/compdesgrp/">here</a>, but in summary it is just a place for people in the architecture realm, who dabble in computation can get together and talk about their work. It <a title="Photos from the first session" href="http://compdesgrp.org/?p=25">started in Sydney</a>, and since that there have been sessions in Melbourne, Auckland and Brisbane. All the faff aside, it has been amazingly easy to set up. It's as though it was a group that was just waiting for a tiny nudge to get going, and BVN gave me the time to get over that initial faff barrier, and also somewhere to host it (_thanks guys!_).</p>

@@ -7,16 +7,16 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- Cabon Buzz
-- CO2
-- collaborative
-- diploma
-- eco stuff
-- Interview
-- Judit
-- major study
-- POE
+    - architecture
+    - Cabon Buzz
+    - CO2
+    - collaborative
+    - diploma
+    - eco stuff
+    - Interview
+    - Judit
+    - major study
+    - POE
 description:
 meta:
 enclosure: |

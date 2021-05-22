@@ -7,14 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- rant
-- technology
-- vector illustration
+    - rant
+    - technology
+    - vector illustration
 description:
 meta:
-dsq_thread_id: '4503552641'
-
+dsq_thread_id: "4503552641"
 ---
+
 <p>
   <embed style="float:left" src="http://notionparallax.co.uk/wordpress/wp-content/uploads/2009/09/cutting-edge.swf" type="application/x-shockwave-flash" wmode="transparent" width="300" height="360"></embed><br />
   This has been bugging me for a while. People seem to think that it is fine to pick up phrases that 'cool people on the telly' use (people included other cool people on the telly) and then to use them for whatever they see fit.</p>

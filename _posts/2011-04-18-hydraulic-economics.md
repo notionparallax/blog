@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- economics
-- Econtalk
-- hydraulic
-- thinking
-
+    - economics
+    - Econtalk
+    - hydraulic
+    - thinking
 ---
 <p>I walked to and from work today and listened to <a href="http://arnoldkling.com/">Arnold Kling</a> talking to <a href="http://www.econtalk.org">Econtalk </a>about _<a title="PSST" href="http://www.econtalk.org/archives/2011/02/kling_on_patter.html">patterns of sustainable specialisation and trade</a>_. Quite apart from how enjoyable it is to be able to<a title="a nerdy map" href="http://goo.gl/maps/FY4p"> walk to work </a>in the sun, it makes my brain tick over nicely.<br />
 They were discussing why certain economic models didn't work, and while they were pontificating about some details it occurred to me that you might be able to think of mathematical models that aproximate the phenomena that economics is concerned with by using fluids.<br />

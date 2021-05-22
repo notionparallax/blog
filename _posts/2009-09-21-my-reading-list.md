@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- books
-
+    - architecture
+    - books
 ---
+
 <p>If you are going to stop smoking, the advice is to tell as many people of your intention. The reasoning going something along the lines of 'if you tell a lot of people, and you fail, failure is embarrassing, so you put more effort into not failing'. Respect seems to be a powerful motivator!</p>
 <p>I don't smoke, but I do read, and I'm going to go all Philip Morris on some books by telling people of my intention to read _more _of them.</p>
 <p>if you are reading this on facebook, follow this link to read it in glorious <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/09/my-reading-list/">technicolour</a>.<br />

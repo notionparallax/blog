@@ -7,15 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- diploma
-- economics
-- enhancement
-- future
-- geek
-- thinking
-- writing
-
+    - architecture
+    - diploma
+    - economics
+    - enhancement
+    - future
+    - geek
+    - thinking
+    - writing
 ---
 <p>Most people will have realised that I don't tend to do things the normal way. This extends to education too - I've taken 4 years off in the midst of a 5 year course (and 2 more before it even started). <a title="this needs a bit of updating now, there is ANOTHER year out to contend with!" href="http://www.notionparallax.co.uk/wordpress/index.php/2008/05/what-on-earth-have-i-been-up-to/">See this old post</a>.<br />
 This year I'm back at school to do the last year before I become a 'real person' and start paying council tax etc. Oxford Brookes has a terrific system where they've figured out that you are probably about sick of design studios by the end of your 4<sup>th</sup> year, and are ripe for a bit of - shh don't say it too loudly - _learning_.<br />

@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- food
-
+    - food
 ---
 <p>I promised a while ago in <a href="http://www.notionparallax.co.uk/wordpress/index.php/2008/08/the-old-me/">this post</a> that I'd post the specs for the cocktail list from Savannah.</p>
 <p>I'm hoping to tart it up a bit soon so that it looks as beautiful as it deserves to be, but for the time being,  here's the version that saw daily abuse in those heady days.</p>

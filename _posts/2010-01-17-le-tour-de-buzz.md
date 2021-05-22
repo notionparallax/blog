@@ -6,14 +6,13 @@ type: post
 published: true
 status: publish
 categories:
-- coffee
+    - coffee
 tags:
-- coffee
-- food
+    - coffee
+    - food
 description:
 meta:
-dsq_thread_id: '4503552231'
-
+dsq_thread_id: "4503552231"
 ---
 
 I <a href="http://www.notionparallax.co.uk/wordpress/index.php/2009/12/tour-of-disloyalty/">promised to organise a coffee crawl a while ago</a>, so here it is.

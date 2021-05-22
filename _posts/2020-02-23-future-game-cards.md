@@ -19,6 +19,7 @@ twitter-body: "A game to help you think about the future."
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/82870.1.434.434.FFFFFF.jpeg
 ---
+
 <!-- <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script> -->
 
 <style>
@@ -136,62 +137,67 @@ Print out the cards. In total you need about 10 per team, there are XX cards now
 If you've got a particular focus or reason for running this workshop, then it's probably ok to make a fixed card that is always in each team's hand. E.g. if you really care about smart cities, make a card (or cards) about that, and make sure that each team always has one of them.
 
 Someone needs to be the MC/time keeper. It helps to have a few people going around to get the teams to think a bit differently if they get stuck in a rut.
+
 </section>
 
 <section>
 
 ## Early rounds
 
-This is all about getting warmed up. You can play through this stage for as long as you like until you feel like everyone's "got it". 
+This is all about getting warmed up. You can play through this stage for as long as you like until you feel like everyone's "got it".
 
 I'd recommend playing 3 rounds, the first with 1 card, the second with 2, and the third with 3 cards.
 
 For these first rounds, keep them quick, 10 minutes or so. You should keep these following prompts in mind, but not be too diligent about doing them all. Save the diligence for the last round.
 
-1. Each team picks N card[s], at random. The job then is to bat ideas around between the team members. Most of the cards don't explicitly give an outcome, more like an idea or a trend, so it's the team's job to think about the bounds of that trend. E.g. will _all_ the bees die, or will we do something magical and get bee populations to their highest ever level? 
+1.  Each team picks N card[s], at random. The job then is to bat ideas around between the team members. Most of the cards don't explicitly give an outcome, more like an idea or a trend, so it's the team's job to think about the bounds of that trend. E.g. will _all_ the bees die, or will we do something magical and get bee populations to their highest ever level?
 
-1. If you've got more than one card, think about each one individually, and then think about their interactions. Do they amplify each other (IoT trackers glued to bees?) or cancel out (a fashion for owning bee eating lizards?).
+1.  If you've got more than one card, think about each one individually, and then think about their interactions. Do they amplify each other (IoT trackers glued to bees?) or cancel out (a fashion for owning bee eating lizards?).
 
-1. If you've heard of the _five whys_, this is the five _and then whats_. Think of an effect:
+1.  If you've heard of the _five whys_, this is the five _and then whats_. Think of an effect:
 
-    {:start="0"}
-    1. get started
-    * not many bees
-    1. and then what?
-    * so not as many people get stung as kids
-    2. and then what?
-    * so more people get stung for the first time as an adult
-    3. and then what?
-    * so more people die from anaphylaxis without any warning
-    4. and then what?
-    * so people are more afraid of bees
-    5. and then what?
-    * so people go out of their way to kill bees when they see them.
-    
-    This might not be scientifically supportable, but you can get to some pretty interesting and unintuitive results from it.
-</section>
+        {:start="0"}
+        1. get started
+        * not many bees
+        1. and then what?
+        * so not as many people get stung as kids
+        2. and then what?
+        * so more people get stung for the first time as an adult
+        3. and then what?
+        * so more people die from anaphylaxis without any warning
+        4. and then what?
+        * so people are more afraid of bees
+        5. and then what?
+        * so people go out of their way to kill bees when they see them.
+
+        This might not be scientifically supportable, but you can get to some pretty interesting and unintuitive results from it.
+
+    </section>
 
 <section>
 
 {:start="4"}
-1. Once you've got a pretty good grasp on how the ideas interact, take some time to think about them from different perspectives.
-    * How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
-    * How will it change what we eat?
-    * How will it change what we buy?
-    * How will it change family structures?
-    * How will it change our free time?
-    * How will it change what we think about as we live our lives?
-    * How will it change what society values?
 
-1. Invent a protagonist. 
-    * What do they do? 
-    * How is their life different to yours? 
-    * How is it the same?
+1. Once you've got a pretty good grasp on how the ideas interact, take some time to think about them from different perspectives.
+
+    - How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
+    - How will it change what we eat?
+    - How will it change what we buy?
+    - How will it change family structures?
+    - How will it change our free time?
+    - How will it change what we think about as we live our lives?
+    - How will it change what society values?
+
+1. Invent a protagonist.
+
+    - What do they do?
+    - How is their life different to yours?
+    - How is it the same?
 
 1. Capture it! Write notes, do sketches, take photos of your team acting out scenarios. The idea is to have a record of your thoughts so that _if you wanted_, you could go back and write a speculative fiction short story about your world.
 
 1. Put all your cards to one side, and take N+1 new cards. Start again, but with more insight and enthusiasm now that you're getting more warmed up.
-</section>
+ </section>
 
 <section>
 
@@ -209,13 +215,13 @@ Take a bit more time to weave all these ideas into a story, and then tell everyo
 
 ### Tips
 
-* It's very tempting to think of blissful utopias or of hellish dystopian worlds, but there is good, even joy, in all worlds, and bad in them too.
+-   It's very tempting to think of blissful utopias or of hellish dystopian worlds, but there is good, even joy, in all worlds, and bad in them too.
 
     Try to avoid extremes in your worlds, it'll feel much more real if it's nuanced. Balance is a much better place to make a jump from.
 
-* Make way more notes than you think you need. At the time everything seems impossibly vibrant, but as the blinding light of the next idea comes along, it'll bulldoze the preceding ideas out of its path. 
+-   Make way more notes than you think you need. At the time everything seems impossibly vibrant, but as the blinding light of the next idea comes along, it'll bulldoze the preceding ideas out of its path.
 
-* Grab quotes from others in your team, they're really usable in future bits of work you'll do.
+-   Grab quotes from others in your team, they're really usable in future bits of work you'll do.
 
 ### The canvas
 
@@ -229,18 +235,18 @@ Fill in the canvas. Its job is to make all the ideas visible, so that you can st
 
 [TODO: draw up a canvas]
 
-* Imagine an object used in this world
-* What would a convenience store be like (or the nearest thing to one)?
-* What's child rearing like?
-* What are the last 10 years of a person's life like in this world
-* draw up a timeline of your protagonist's day, who do they interact with, what technology do they interact with?
-* xx How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
-* xx How will it change what we eat?
-* xx How will it change what we buy?
-* xx How will it change family structures?
-* xx How will it change our free time?
-* xx How will it change what we think about as we live our lives?
-* xx How will it change what society values?
+-   Imagine an object used in this world
+-   What would a convenience store be like (or the nearest thing to one)?
+-   What's child rearing like?
+-   What are the last 10 years of a person's life like in this world
+-   draw up a timeline of your protagonist's day, who do they interact with, what technology do they interact with?
+-   xx How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
+-   xx How will it change what we eat?
+-   xx How will it change what we buy?
+-   xx How will it change family structures?
+-   xx How will it change our free time?
+-   xx How will it change what we think about as we live our lives?
+-   xx How will it change what society values?
 
 [TODO: roll these into the canvas]
 
@@ -262,11 +268,11 @@ There are a lot of factors to population growth. Better sanitation means fewer c
 
 ### Consider:
 
-* What job will all these new people do?
-* What will they eat?
-* Where will they live?
-* What factors will drive migration?
-* What limiting factors are there on Australian population growth? What could we do to remove those limitations?
+-   What job will all these new people do?
+-   What will they eat?
+-   Where will they live?
+-   What factors will drive migration?
+-   What limiting factors are there on Australian population growth? What could we do to remove those limitations?
 
 </section>
 
@@ -280,16 +286,16 @@ There are a lot of factors to population growth. Better sanitation means fewer c
 
 The NSW _Department of Infrastructure Planning and Natural Resources_ estimates that 60% of the world's population will be living within cities by the year 2030 and about 91.1% of the Australian population will live in cities. They expected the population in the Sydney Region alone to grow by a net increase of 40,500 per year.
 
-The forecast demand for new residential development to support Sydney's current population is 25,000 dwellings per year over the next ten years, with 25% of that growth  located in Greenfield sites on the urban periphery and Greater Metropolitan Region corridors.
+The forecast demand for new residential development to support Sydney's current population is 25,000 dwellings per year over the next ten years, with 25% of that growth located in Greenfield sites on the urban periphery and Greater Metropolitan Region corridors.
 
 With the enlarging population and increasing urbanisation the demands on resources will contribute to further degradation of the Australian environment and Sydney's ever expanding urban sprawl.
 
 ### Consider:
 
-* Is it inevitable that the urbanisation trend will continue?
-* Can we bring traditionally rural activities into cities too?
-* What benefits could come from even greater urban density?
-* What mistakes are cities making right now that we might not make in the future?
+-   Is it inevitable that the urbanisation trend will continue?
+-   Can we bring traditionally rural activities into cities too?
+-   What benefits could come from even greater urban density?
+-   What mistakes are cities making right now that we might not make in the future?
 
 </section>
 
@@ -307,10 +313,10 @@ Life expectancy is measured at different ages. These days, in 'developed' countr
 
 ### Consider:
 
-* Will life expectancy rise equally all over the world?
-* Will people work for longer in their life?
-* Will people maintain a single career? Does their degree from 1990 have any validity in 2050[^8]?
-* Will there be a modern equivalent to coopers and farriers needing to find new careers during their lifetimes?
+-   Will life expectancy rise equally all over the world?
+-   Will people work for longer in their life?
+-   Will people maintain a single career? Does their degree from 1990 have any validity in 2050[^8]?
+-   Will there be a modern equivalent to coopers and farriers needing to find new careers during their lifetimes?
 
 </section>
 
@@ -328,10 +334,10 @@ Not only is each computer more powerful, but there are also more computers in th
 
 ### Consider:
 
-* Does more power unlock answers to new kinds of problem? Google search wouldn't be possible without a certain level of computer power. What new kinds of activity will be unlocked by more power?
-* More compute power needs more electrical power. Where will this electricity come from?
-* Does everyone have equal access to this compute power?
-* Will we ever have _enough_ computer power?
+-   Does more power unlock answers to new kinds of problem? Google search wouldn't be possible without a certain level of computer power. What new kinds of activity will be unlocked by more power?
+-   More compute power needs more electrical power. Where will this electricity come from?
+-   Does everyone have equal access to this compute power?
+-   Will we ever have _enough_ computer power?
 
     ![]({{ site.baseurl }}/assets/20/game/images/image3.png)
 
@@ -348,21 +354,22 @@ Not only is each computer more powerful, but there are also more computers in th
 
 ![]({{ site.baseurl }}/assets/20/game/images/image7.png)
 {: .to-print}
+
 </figure>
 
 This is important because access to the internet gives citizens knowledge and power.[^13] These numbers are mainly growing across the board with a few exceptions.
 
-* They may have reached saturation for developed countries. In these countries it may even start to drop as people start to use wireless internet instead.
-* In totalitarian countries access to the internet is restricted so they may not have the option to connect.
-* In some developing nations they may skip wired internet all together and go straight to ubiquitous wireless internet.
-Having access to the internet unlocks economic and trade goods, education, political information (that may contradict official sources) and generally raises quality of life.
+-   They may have reached saturation for developed countries. In these countries it may even start to drop as people start to use wireless internet instead.
+-   In totalitarian countries access to the internet is restricted so they may not have the option to connect.
+-   In some developing nations they may skip wired internet all together and go straight to ubiquitous wireless internet.
+    Having access to the internet unlocks economic and trade goods, education, political information (that may contradict official sources) and generally raises quality of life.
 
 ### Consider:
 
-* Will wired broadband still be needed if we have fast satellite connections?
-* What would getting broadband to the countries at the bottom of this list do to their politics?
-* If developing countries skip wired internet completely, what impact will this have?
-* Why are France and Korea so far ahead of everyone else?
+-   Will wired broadband still be needed if we have fast satellite connections?
+-   What would getting broadband to the countries at the bottom of this list do to their politics?
+-   If developing countries skip wired internet completely, what impact will this have?
+-   Why are France and Korea so far ahead of everyone else?
 
 </section>
 
@@ -382,10 +389,10 @@ This is interesting, but it's also a metaphor for a change from one entrenched t
 
 ### Consider:
 
-* Why did people prefer engines to horses?
-* What was the core function that the horse performed?
-* If you think of this as a pattern, what might replace the car?
-* What other historical technological revolutions fit the same pattern? What current technologies are vulnerable to it?
+-   Why did people prefer engines to horses?
+-   What was the core function that the horse performed?
+-   If you think of this as a pattern, what might replace the car?
+-   What other historical technological revolutions fit the same pattern? What current technologies are vulnerable to it?
 
 </section>
 
@@ -409,11 +416,11 @@ If owning stops being attractive, wealth concentration will increase, but maybe 
 
 ### Consider:
 
-* How did we get to the position that we're in now?
-* What other explanations could there be for these trends that aren't the obvious ones?
-* What would reduce the pressure on the market?
-* Is expensive housing desirable?
-* Is the current model of how we live going to survive the rise in price?
+-   How did we get to the position that we're in now?
+-   What other explanations could there be for these trends that aren't the obvious ones?
+-   What would reduce the pressure on the market?
+-   Is expensive housing desirable?
+-   Is the current model of how we live going to survive the rise in price?
 
 </section>
 
@@ -433,10 +440,10 @@ We're seeing flexible screens making a tentative step onto the market. Soon we m
 
 ### Consider:
 
-* What other interface methods might supplant screens?
-* Will screens continue to get bigger and denser?
-* What will happen if screens stop being personal and are about shared experiences?
-* where else could we have screens?
+-   What other interface methods might supplant screens?
+-   Will screens continue to get bigger and denser?
+-   What will happen if screens stop being personal and are about shared experiences?
+-   where else could we have screens?
 
 </section>
 
@@ -454,9 +461,9 @@ With fully reusable launch vehicles the cost of a launch will drop to almost the
 
 ### Consider:
 
-* What other mechanisms might we use to get things into space?
-* What will the price drop in space travel mean for society?
-* What limits the drop in cost of space travel?
+-   What other mechanisms might we use to get things into space?
+-   What will the price drop in space travel mean for society?
+-   What limits the drop in cost of space travel?
 
 </section>
 
@@ -469,19 +476,20 @@ With fully reusable launch vehicles the cost of a launch will drop to almost the
 ![]({{ site.baseurl }}/assets/20/game/images/image39.jpg)
 </figure>
 
-Design Technology has long promised a world of increased productivity. BIM is supposed to decrease the amount of work that design teams do to get given outcome. 
+Design Technology has long promised a world of increased productivity. BIM is supposed to decrease the amount of work that design teams do to get given outcome.
 
 However, scope of work is going up; soon teams may need to deliver an _as built_ model to the client's facility managers. How do these trends balance?
 
 ### Consider:
-* What were Architectural teams like in the past?
-* How have Architectural teams of past the coordinated with builder, client and consultants? 
-* What is the Architectural team now?
-* What is the Architectural team size of the future?
-* What does the future Design Team look like?
-* What are the implications of a Design Team who are all from the same company?
-* What happens if there is no design team?
-* What if resourcing within the Design Team was a matrix of availability on a weekly/daily/hourly basis? (based on task, skill, expertise, training)
+
+-   What were Architectural teams like in the past?
+-   How have Architectural teams of past the coordinated with builder, client and consultants?
+-   What is the Architectural team now?
+-   What is the Architectural team size of the future?
+-   What does the future Design Team look like?
+-   What are the implications of a Design Team who are all from the same company?
+-   What happens if there is no design team?
+-   What if resourcing within the Design Team was a matrix of availability on a weekly/daily/hourly basis? (based on task, skill, expertise, training)
 
 </section>
 
@@ -499,10 +507,10 @@ Also, wealth distribution inside countries is changing.
 
 ### Consider:
 
-* What causes there to be three groups?
-* What do the countries in the three groups have in common? What do UAE, Brunei and Libya have in common?
-* What leverage are the countries that are getting richer able to use that the countries that are static don't have access to?
-* Is GDP even a useful measure? What would the world be like if we measured something else, or a range of things?
+-   What causes there to be three groups?
+-   What do the countries in the three groups have in common? What do UAE, Brunei and Libya have in common?
+-   What leverage are the countries that are getting richer able to use that the countries that are static don't have access to?
+-   Is GDP even a useful measure? What would the world be like if we measured something else, or a range of things?
 
 </section>
 
@@ -523,9 +531,9 @@ Tesla's PowerWall batteries allow solar power to be used at night, and the same 
 
 ### Consider:
 
-* Peak loads cost power suppliers a lot of money, who else stands to gain from batteries apart from consumers?
-* Will consumers prefer ever thinner phones or longer battery lives. What would life be like if you only charged a phone once a month?
-* Will the distribution of metals that make up batteries change global trade/power?
+-   Peak loads cost power suppliers a lot of money, who else stands to gain from batteries apart from consumers?
+-   Will consumers prefer ever thinner phones or longer battery lives. What would life be like if you only charged a phone once a month?
+-   Will the distribution of metals that make up batteries change global trade/power?
 
 </section>
 
@@ -542,9 +550,9 @@ Generally, crime and violence seems to be declining overall[^24] [^25]. This may
 
 ### Consider:
 
-* How much crime went unreported in the past? Has this amount increased or decreased?
-* Has the Overton window moved to include new acts within the definition of _violence_?
-* Are we less violent because we have 'advanced' as a society, or because we are more afraid of getting caught?
+-   How much crime went unreported in the past? Has this amount increased or decreased?
+-   Has the Overton window moved to include new acts within the definition of _violence_?
+-   Are we less violent because we have 'advanced' as a society, or because we are more afraid of getting caught?
 
 </section>
 
@@ -558,7 +566,7 @@ Generally, crime and violence seems to be declining overall[^24] [^25]. This may
 ![]({{ site.baseurl }}/assets/20/game/images/image29.png)
 </figure>
 
-Managers and professionals showed strong reductions in hours worked between 1996 and 2010 according to the ABS _Trends in Hours Worked_ report[^27]. 
+Managers and professionals showed strong reductions in hours worked between 1996 and 2010 according to the ABS _Trends in Hours Worked_ report[^27].
 
 Although it might not feel like it to us, the trends seem pretty clear, assuming that some other force doesn't come into play in the future.
 
@@ -566,9 +574,9 @@ This doesn't cover people who work multiple jobs and/or work for themselves (whi
 
 ### Consider:
 
-* John Maynard Keynes thought that we'd be working a 15 hour week by now[^28]. Will that come in the future? Will this downward trend continue?
-* What else will affect working hours?
-* Working hours only capture work in paid employment. What other kinds of work are there and how much of them are we doing? (volunteering, housework, etc.)
+-   John Maynard Keynes thought that we'd be working a 15 hour week by now[^28]. Will that come in the future? Will this downward trend continue?
+-   What else will affect working hours?
+-   Working hours only capture work in paid employment. What other kinds of work are there and how much of them are we doing? (volunteering, housework, etc.)
 
 </section>
 
@@ -581,7 +589,7 @@ This doesn't cover people who work multiple jobs and/or work for themselves (whi
 ![]({{ site.baseurl }}/assets/20/game/images/image11.png)
 </figure>
 
-Amazon is now bigger than Wal-mart. The internet allows companies to centralise services. This is a long running trend. In 1850 your village  would have a singer and someone who played an instrument for entertainment, but with the introduction of music recording the wealth from entertainment was concentrated into the very best entertainers. The same is happening to education and news providers.
+Amazon is now bigger than Wal-mart. The internet allows companies to centralise services. This is a long running trend. In 1850 your village would have a singer and someone who played an instrument for entertainment, but with the introduction of music recording the wealth from entertainment was concentrated into the very best entertainers. The same is happening to education and news providers.
 
 This has also enabled the "long tail", catering to ever more specific groups of people, but for the bulk of everyone's needs, a company like Amazon is ideally situated to fulfil them.
 
@@ -589,10 +597,10 @@ With increasing globalisation, more and more services will be provided by a cent
 
 ### Consider:
 
-* Companies like Amazon and Ebay provide marketplace services to smaller companies; connecting them to consumers. What are the impacts of this?
-* Do we have all our eggs in one basket?
-* Do we (consumers) stand to gain from an arms race?
-* US politicians talk about "breaking up big tech". What effect would this have?
+-   Companies like Amazon and Ebay provide marketplace services to smaller companies; connecting them to consumers. What are the impacts of this?
+-   Do we have all our eggs in one basket?
+-   Do we (consumers) stand to gain from an arms race?
+-   US politicians talk about "breaking up big tech". What effect would this have?
 
 </section>
 
@@ -606,14 +614,14 @@ With increasing globalisation, more and more services will be provided by a cent
 ![]({{ site.baseurl }}/assets/20/game/images/image38.png)
 </figure>
 
-In the last quarter of a century the internet has changed the way the world operates. Access to the internet isn't ubiquitous. A large part of the world can't access what we take for granted. Projects like Facebook's internet.org[^31] and Google's Project Loon[^32] were trying to change that but their parent company's deemed them unprofitable. 
+In the last quarter of a century the internet has changed the way the world operates. Access to the internet isn't ubiquitous. A large part of the world can't access what we take for granted. Projects like Facebook's internet.org[^31] and Google's Project Loon[^32] were trying to change that but their parent company's deemed them unprofitable.
 
 Those unconnected people stand to gain from internet access and are also a giant market. The countries at the bottom of this graph have little in the way of fixed infrastructure, so may leapfrog the countries at the top of the graph if satellite internet becomes the norm.
 
 ### Consider:
 
-* What could a society do if the penetration was 100%? Online democracy? Compete in a global job market?
-* What is preventing the last few % from being connected? Is it choice or something else?
+-   What could a society do if the penetration was 100%? Online democracy? Compete in a global job market?
+-   What is preventing the last few % from being connected? Is it choice or something else?
 
 </section>
 
@@ -626,15 +634,16 @@ Those unconnected people stand to gain from internet access and are also a giant
 </figure>
 
 This graph from NASA[^33] shows global temperature variation
+
 > "The paleoclimate record combined with global models shows past ice ages as well as periods even warmer than today. But the paleoclimate record also reveals that the current climatic warming is occurring much more rapidly than past warming events."
 
 Future temperature rises differ by the model used to predict them[^34] and by the way we act in the future[^35]. These will lead to sea level rise. Partially from melting ice, but also from the water in the oceans getting bigger from thermal expansion.
 
 ### Consider:
 
-* Who will warming be bad for?
-* Who will it be good for?
-* What will temperature increases trigger? And then what will those things trigger? and what will those things trigger? And so on.
+-   Who will warming be bad for?
+-   Who will it be good for?
+-   What will temperature increases trigger? And then what will those things trigger? and what will those things trigger? And so on.
 
 </section>
 
@@ -656,9 +665,9 @@ Governments (e.g. Australia) are legislating that all apps must have backdoors s
 
 ### Consider:
 
-* Will information be stored less, or more securely?
-* As crackers get more sophisticated, will it be possible for security to stay ahead of them?
-* Will there ever be an international accord on data related behaviour?
+-   Will information be stored less, or more securely?
+-   As crackers get more sophisticated, will it be possible for security to stay ahead of them?
+-   Will there ever be an international accord on data related behaviour?
 
 </section>
 
@@ -677,16 +686,16 @@ Humans need a lot of tolerance to account for their imperfect driving skills. Th
 
 Cars also represent freedom for a lot of people. Owning a car means that for a large proportion of the day each car is idle. When cars drive themselves it's unlikely that anyone will own a car. Cars will provide mobility. That means that parking will be eliminated, freeing up almost half of the current road network and many structures currently dedicated to parking.
 
-While not driving, people will be free to do other things. They could sleep, have meetings, eat, relax, etc. 
+While not driving, people will be free to do other things. They could sleep, have meetings, eat, relax, etc.
 
 > "To generations of Americans, owning a car represented freedom. To the next generation, not owning a car will represent freedom."[^38]
 
 ### Consider:
 
-* Will this replace mass transit?
-* Current cars are styled to face forwards, and to be a little bit like racing cars. What will future cars be like?
-* What will this do to ownership models? Will it be transport as a service?
-* What effect will this have on moral standards (drink driving) or sexual freedom?
+-   Will this replace mass transit?
+-   Current cars are styled to face forwards, and to be a little bit like racing cars. What will future cars be like?
+-   What will this do to ownership models? Will it be transport as a service?
+-   What effect will this have on moral standards (drink driving) or sexual freedom?
 
 </section>
 
@@ -704,10 +713,10 @@ You can get computing and storage as a service from AWS. X as a service also app
 
 ### Consider:
 
-* What advantages are there for rolling your own? (This mean not using x as a service, but making a version of that service for yourself.)
-* What can't be turned into a service and why?
-* What will people do when they have a service for everything?
-* What do you own/do that could be provided as a service?
+-   What advantages are there for rolling your own? (This mean not using x as a service, but making a version of that service for yourself.)
+-   What can't be turned into a service and why?
+-   What will people do when they have a service for everything?
+-   What do you own/do that could be provided as a service?
 
 </section>
 
@@ -724,9 +733,9 @@ Most of the current crop of robots have military origins, but they are also idea
 
 ### Consider:
 
-* What other sectors could these robots be used in?
-* Wheels need smooth surfaces, legs don't. Will we need fewer roads?
-* Does this have an outsized effect on humans' exceptional talent of mobility in difficult spaces? Will it affect employment?
+-   What other sectors could these robots be used in?
+-   Wheels need smooth surfaces, legs don't. Will we need fewer roads?
+-   Does this have an outsized effect on humans' exceptional talent of mobility in difficult spaces? Will it affect employment?
 
 </section>
 
@@ -739,7 +748,7 @@ Most of the current crop of robots have military origins, but they are also idea
 </figure>
 
 On the surface, drone delivery is about pandering to rich people's whims. "I want a [insert thing here]
-now! Minimalism has been described as a thing that only the rich can afford&mdash;everyone else needs to have backups![^min] That could change if drone delivery takes off  in a big way. You needn't actually own anything because it could be delivered to you within a few minutes.
+now! Minimalism has been described as a thing that only the rich can afford&mdash;everyone else needs to have backups![^min] That could change if drone delivery takes off in a big way. You needn't actually own anything because it could be delivered to you within a few minutes.
 
 The resources needed for everyone to own a ukulele could be put into making a few really good ones with energy left over to make other things.
 
@@ -747,11 +756,11 @@ Drones could also be used to deliver medicine and other essentials to places tha
 
 ### Consider:
 
-* How many of your belongings could you live without if just-in-time delivery was possible?
-* Can medical assistance be 'delivered'?
-* What things of yours would and wouldn't you share if a drone would pick it up and drop it off for you?
-* What other infrastructure does this make obsolete?
-* Could deliveries be made to apartment windows on high levels? How would the window need to change?
+-   How many of your belongings could you live without if just-in-time delivery was possible?
+-   Can medical assistance be 'delivered'?
+-   What things of yours would and wouldn't you share if a drone would pick it up and drop it off for you?
+-   What other infrastructure does this make obsolete?
+-   Could deliveries be made to apartment windows on high levels? How would the window need to change?
 
 </section>
 
@@ -763,17 +772,17 @@ Drones could also be used to deliver medicine and other essentials to places tha
 ![]({{ site.baseurl }}/assets/20/game/images/image42.jpg)
 </figure>
 
-We are in the first flush of the wearable technology boom[^41]. The quantified self that knowing your steps and heart rate allows for means that people can make more informed choices about their behaviour. 
+We are in the first flush of the wearable technology boom[^41]. The quantified self that knowing your steps and heart rate allows for means that people can make more informed choices about their behaviour.
 
 We are currently in a very naïve period of this trend. The things we measure aren't the important things, they are the things that are easy to measure. The feedback we get is distracting and doesn't allow us to be more present in our lives. In the next generation of wearable, or even implantable, technology, we'll be able to use it to maximise our health and wellbeing, and to be far more present than we currently are.
 
 ### Consider:
 
-* What else could you measure and what would be the best way to do it?
-* What would you do with that data?
-* Who else would like to know that information about you?
-* Are you keen to become a cyborg?
-* What information would you worry about if it was leaked?
+-   What else could you measure and what would be the best way to do it?
+-   What would you do with that data?
+-   Who else would like to know that information about you?
+-   Are you keen to become a cyborg?
+-   What information would you worry about if it was leaked?
 
 </section>
 
@@ -785,7 +794,7 @@ We are currently in a very naïve period of this trend. The things we measure ar
 ![]({{ site.baseurl }}/assets/20/game/images/image15.jpg)
 </figure>
 
-Broadband internet unlocks so much of our urban economy in the developed world but that is a small part of the earth's surface. 
+Broadband internet unlocks so much of our urban economy in the developed world but that is a small part of the earth's surface.
 
 What would access to broadband do for rural African farmers, or for Antarctic explorers?
 
@@ -795,12 +804,12 @@ If everyone in the world has access to the same markets it would have a huge lev
 
 ### Consider:
 
-* What can you do with fast internet that you can't with slow internet?
-* Could the world's best robotic surgeons operate on the cases that most needed their help, regardless of how close they were to a big hospital? 
-* Could low income Indian children get educated by the best teachers?
-* Could Ethiopian graphic designers sell their expertise to Chilean wine producers?
-* What are the exponential potentials with this card?
-* If broadband is ubiquitous (e.g. available in national parks), will it be possible to get away from it? Is this a good thing? Is it a technology problem or a social problem?
+-   What can you do with fast internet that you can't with slow internet?
+-   Could the world's best robotic surgeons operate on the cases that most needed their help, regardless of how close they were to a big hospital?
+-   Could low income Indian children get educated by the best teachers?
+-   Could Ethiopian graphic designers sell their expertise to Chilean wine producers?
+-   What are the exponential potentials with this card?
+-   If broadband is ubiquitous (e.g. available in national parks), will it be possible to get away from it? Is this a good thing? Is it a technology problem or a social problem?
 
 </section>
 
@@ -820,11 +829,11 @@ If currency is decoupled from national borders and from governments it takes awa
 
 ### Consider:
 
-* If nations don't control money, how will they generate trust?
-* What will it mean for taxation?
-* What does this mean for markets?
-* What will it mean for crime? Black and grey economies often operate on a cash only basis[^44].
-* How will we manage the volatility?
+-   If nations don't control money, how will they generate trust?
+-   What will it mean for taxation?
+-   What does this mean for markets?
+-   What will it mean for crime? Black and grey economies often operate on a cash only basis[^44].
+-   How will we manage the volatility?
 
 </section>
 
@@ -844,9 +853,9 @@ This would impede the flow of information that the internet allows, but it may c
 
 ### Consider:
 
-* Who would gain from a private internet?
-* What would be bad about companies developing private protocols?
-* Would it be safer and more secure?
+-   Who would gain from a private internet?
+-   What would be bad about companies developing private protocols?
+-   Would it be safer and more secure?
 
 </section>
 
@@ -866,10 +875,9 @@ All that statistical specificity unlocks a dystopian side. Health insurers can m
 
 ### Consider:
 
-* Will this make us healthier?
-* Will we choose mates who are genetically different to us, or to try to reduce the likelihood of complications?
-* Will it lead to people being denied healthcare/insurance?
-
+-   Will this make us healthier?
+-   Will we choose mates who are genetically different to us, or to try to reduce the likelihood of complications?
+-   Will it lead to people being denied healthcare/insurance?
 
 </section>
 
@@ -891,10 +899,10 @@ These sorts of markets are generally very accurate, but have had negative press 
 
 ### Consider:
 
-* Will being a knowledge aggregator become a profession?
-* Will a track record of accuracy be a mark of social status? A hiring criteria?
-* Are there things that are unacceptable to bet on?
-* Does this create perverse incentives to manipulate the world to win bets?
+-   Will being a knowledge aggregator become a profession?
+-   Will a track record of accuracy be a mark of social status? A hiring criteria?
+-   Are there things that are unacceptable to bet on?
+-   Does this create perverse incentives to manipulate the world to win bets?
 
 </section>
 
@@ -914,10 +922,10 @@ This card gives you the choice of whether you want to assume that the AGI will t
 
 ### Consider:
 
-* Who "owns" a greater-than-human intelligence?
-* Is it unethical to turn it off?
-* What impacts would AI/AGI have on a future city or workforce?
-* What if the AI's motivations don't align with ours? It's much smarter than us, should we treat it as a god?
+-   Who "owns" a greater-than-human intelligence?
+-   Is it unethical to turn it off?
+-   What impacts would AI/AGI have on a future city or workforce?
+-   What if the AI's motivations don't align with ours? It's much smarter than us, should we treat it as a god?
 
 </section>
 
@@ -935,11 +943,11 @@ There's a lot of scope with this card.
 
 ### Consider:
 
-* What would it mean to encounter an extra-terrestrial life form?
-* Would it be sentient? Would it just be bacterial?
-* Would it be friendly, aggressive, or maybe even just unconcerned about humans and other earth life?
-* Would they give us new technology?
-* Are there other ways to be alive? Think about slime moulds, trees, bees, the earth computer from Hitchhiker's Guide&hellip;
+-   What would it mean to encounter an extra-terrestrial life form?
+-   Would it be sentient? Would it just be bacterial?
+-   Would it be friendly, aggressive, or maybe even just unconcerned about humans and other earth life?
+-   Would they give us new technology?
+-   Are there other ways to be alive? Think about slime moulds, trees, bees, the earth computer from Hitchhiker's Guide&hellip;
 
 </section>
 
@@ -957,11 +965,11 @@ Strong facial recognition will mean that security agencies can track you whereve
 
 ### Consider:
 
-* How might these ideas of surveillance influence other systems to become more intuitive?
-* Will fashion embrace it or resist facial recognition[^49]?
+-   How might these ideas of surveillance influence other systems to become more intuitive?
+-   Will fashion embrace it or resist facial recognition[^49]?
     ![]({{ site.baseurl }}/assets/20/game/images/image46.png)
-* What, other than faces, can be "recognised"?
-* Will the bans on facial recognition get more severe, or will they be lifted? Is there a middle ground?
+-   What, other than faces, can be "recognised"?
+-   Will the bans on facial recognition get more severe, or will they be lifted? Is there a middle ground?
 
 </section>
 
@@ -990,10 +998,10 @@ Drones were used to attach the Saudi Aramco oil refinery; this was consumer tech
 
 ### Consider:
 
-* What if drones get so small that we can't see them?
-* Could warfare become entirely autonomous?
-* What new types of jobs or applications might emerge for drones?
-* Will drones displace a significant part of the labour force?
+-   What if drones get so small that we can't see them?
+-   Could warfare become entirely autonomous?
+-   What new types of jobs or applications might emerge for drones?
+-   Will drones displace a significant part of the labour force?
 
 </section>
 
@@ -1010,10 +1018,10 @@ Current virtual reality gives us a glimpse of how we'll experience it in the fut
 
 ### Consider:
 
-* If VR was perfect, would people still prefer the "authentic experience"[^50]
-* Do crimes committed in VR have moral status? Killing? Rape? [^51]
-* What could VR never simulate? Are you sure?
-* Is VR just a step on the road to AR, or do they have different applications?
+-   If VR was perfect, would people still prefer the "authentic experience"[^50]
+-   Do crimes committed in VR have moral status? Killing? Rape? [^51]
+-   What could VR never simulate? Are you sure?
+-   Is VR just a step on the road to AR, or do they have different applications?
 
 </section>
 
@@ -1033,10 +1041,10 @@ The availability of precious metals in asteroids could upset the world economy i
 
 ### Consider:
 
-* If you hollow out an asteroid what could you do with it?
-* Platinum is used as a catalyst in chemical reactions. Making it a lot cheaper would make a lot of these applications more viable. What sorts of things could we do if the cost of platinum went down?
-* What could you do with a million tonnes of water in space?
-* Getting raw materials into space is expensive. What could you use the iron in an asteroid for?
+-   If you hollow out an asteroid what could you do with it?
+-   Platinum is used as a catalyst in chemical reactions. Making it a lot cheaper would make a lot of these applications more viable. What sorts of things could we do if the cost of platinum went down?
+-   What could you do with a million tonnes of water in space?
+-   Getting raw materials into space is expensive. What could you use the iron in an asteroid for?
 
 </section>
 
@@ -1049,17 +1057,17 @@ The availability of precious metals in asteroids could upset the world economy i
 ![]({{ site.baseurl }}/assets/20/game/images/image37.png)
 </figure>
 
-Legislation is already in place that all white goods will have wireless communication built in. That means that a central controller in your house will be able to tell your air conditioning to ease off a couple of degrees to  reduce peak electricity loading.
+Legislation is already in place that all white goods will have wireless communication built in. That means that a central controller in your house will be able to tell your air conditioning to ease off a couple of degrees to reduce peak electricity loading.
 
 The dream of smart refrigerators ordering more milk as you run out is getting closer. There are lots of other issues that are less obvious and less friendly about every aspect of your life being instrumented. E.g. there have been lots of examples of smart home devices being hacked and used as spy cameras. Less frightening, but still annoying, a lot of smart devices stop working altogether if the parent company shuts down.
 
 ### Consider:
 
-* Would you let a power company decide when you boil the kettle if it saved you money?
-* Who would have access to data about your house? Who should?
-* Would you like to be able to turn off your iron if you left it on at home? How about your lights?
-* What if your smart lock company goes broke and you can't get into your house?
-* How does this impact the built environment?
+-   Would you let a power company decide when you boil the kettle if it saved you money?
+-   Who would have access to data about your house? Who should?
+-   Would you like to be able to turn off your iron if you left it on at home? How about your lights?
+-   What if your smart lock company goes broke and you can't get into your house?
+-   How does this impact the built environment?
 
 </section>
 
@@ -1096,12 +1104,11 @@ Proposals to ban alcohol are quickly put down by the drinks industry, and so to 
 1. Alykl nitrites
 1. Khat
 
-
 ### Consider:
 
-* What else should be legal/illegal?
-* What else could be legal or illegal in future?
-* Why aren't these already legal?
+-   What else should be legal/illegal?
+-   What else could be legal or illegal in future?
+-   Why aren't these already legal?
 
 </section>
 
@@ -1121,13 +1128,12 @@ Big data analytics is the process of examining large data sets containing a vari
 
 The primary goal of big data analytics is to help companies make more informed business decisions by enabling data scientists, predictive modelers and other analytics professionals to analyse large volumes of transaction data, as well as other forms of data that may be untapped by conventional business intelligence programs.
 
-That could include Web server logs and Internet clickstream data, social media content and social network activity reports, text from customer emails and survey responses, mobile-phone call detail records and machine data captured by sensors connected to the Internet of Things. 
-
+That could include Web server logs and Internet clickstream data, social media content and social network activity reports, text from customer emails and survey responses, mobile-phone call detail records and machine data captured by sensors connected to the Internet of Things.
 
 ### Consider:
 
-* How could this scale of information and its availability influence not just business but also society?
-* Are there negatives to a society driven by 'big data' metrics?
+-   How could this scale of information and its availability influence not just business but also society?
+-   Are there negatives to a society driven by 'big data' metrics?
 
 </section>
 
@@ -1139,20 +1145,20 @@ That could include Web server logs and Internet clickstream data, social media c
 ![]({{ site.baseurl }}/assets/20/game/images/image26.jpg)
 </figure>
 
-Most people tend to work for one employer, and then they will move from project to project for the same employer.  The Hollywood model means that you complete a project and then go back into the market for employment.
+Most people tend to work for one employer, and then they will move from project to project for the same employer. The Hollywood model means that you complete a project and then go back into the market for employment.
 
 Its a bit like being a freelancer or consultant. People in this system get regular price signals about their economic value. 'Stars' will be paid a lot, but if you aren't really in demand you may struggle to get a job.
 
-These sorts of jobs offer very accessible employment, at the cost of long term precarity, i.e. very little stability in their financial situation. 
+These sorts of jobs offer very accessible employment, at the cost of long term precarity, i.e. very little stability in their financial situation.
 
 This may erode certain employment benefits that have traditionally existed. It also allows really talented people to maximally realise their value.
 
 ### Consider:
 
-* Can humans be trusted to manage their own retirement funds, holiday allowance, etc?
-* Would you be able to process the price signals well enough to get the best out of life?
-* What will it mean for companies?[^55]
-* How does everyone employed as an individual 'contractor' improve or affect our economy, society, built environment?
+-   Can humans be trusted to manage their own retirement funds, holiday allowance, etc?
+-   Would you be able to process the price signals well enough to get the best out of life?
+-   What will it mean for companies?[^55]
+-   How does everyone employed as an individual 'contractor' improve or affect our economy, society, built environment?
 
 </section>
 
@@ -1173,8 +1179,8 @@ very hard problems become quite easy!
 
 ### Consider:
 
-* How much disruption would it cause if electronic money, and other encryption methods, stopped working?
-* If protein folding was solved, what would it mean for the pharma industry?
+-   How much disruption would it cause if electronic money, and other encryption methods, stopped working?
+-   If protein folding was solved, what would it mean for the pharma industry?
 
 </section>
 
@@ -1194,9 +1200,9 @@ Immortal fictional characters often long for death, but usually because they are
 
 ### Consider:
 
-* What would you do with another lifetime?
-* Which decade of your life would you like life extension to extend? Would you be in your 20s for 50 years? Teens? 40s?
-* If you could push your healthspan, at the cost of your lifespan, would you? (I.e. live in a 25 year old body until you are 60, then drop dead.)
+-   What would you do with another lifetime?
+-   Which decade of your life would you like life extension to extend? Would you be in your 20s for 50 years? Teens? 40s?
+-   If you could push your healthspan, at the cost of your lifespan, would you? (I.e. live in a 25 year old body until you are 60, then drop dead.)
 
 </section>
 
@@ -1214,8 +1220,8 @@ If this were to happen today we would be in much more trouble. We are far less a
 
 ### Consider:
 
-* In the GFC the economy bounced back, but employment levels didn't. Would another recession be the way-in that full robot automation needs?
-* Our logistics systems, and homes are much more _just in time_. If you had no money coming in and no other support, how long could you survive on what you already have at home? THen what?
+-   In the GFC the economy bounced back, but employment levels didn't. Would another recession be the way-in that full robot automation needs?
+-   Our logistics systems, and homes are much more _just in time_. If you had no money coming in and no other support, how long could you survive on what you already have at home? THen what?
 
 </section>
 
@@ -1237,8 +1243,8 @@ This dramatic decline in bee populations is the result of multiple factors such 
 
 ### Consider:
 
-* What would we need to do to support bee populations?
-* Could we come up with a technology solution to replace bees? What would the risks be?
+-   What would we need to do to support bee populations?
+-   Could we come up with a technology solution to replace bees? What would the risks be?
 
 </section>
 
@@ -1263,8 +1269,8 @@ The Doomsday Clock is currently the closest to midnight it's ever been.
 
 ### Consider:
 
-* Is it possible that India and Pakistan could have a small scale exchange without dragging other countries into a war?
-* What other effects would a small exchange have on the world? Environmental, political, psychological?
+-   Is it possible that India and Pakistan could have a small scale exchange without dragging other countries into a war?
+-   What other effects would a small exchange have on the world? Environmental, political, psychological?
 
 </section>
 
@@ -1282,16 +1288,16 @@ The Doomsday Clock is currently the closest to midnight it's ever been.
 
 [^wikicrisp]: Wikipedia: [CRISPR gene editing](CRISPR gene editing)
 
-This technique designs proteins that essentially cut and paste sections of DNA. 
+This technique designs proteins that essentially cut and paste sections of DNA.
 
 If gene editing becomes mainstream, what are we likely to use it for? Better crops? Better farm animals? Reducing human disease? Fashionably tall children? Super soldiers?
 
 ### Consider:
 
-* If we can already make luminescent rabbits, what else can this potentially do?
-* What traits would we remove from organisms? What would we put in?
-* If this could be used to change live organisms (post birth, rather than pre), then what could it do?
-* What if the cut and paste is happening in unexpected places? Could we get unexpected results?
+-   If we can already make luminescent rabbits, what else can this potentially do?
+-   What traits would we remove from organisms? What would we put in?
+-   If this could be used to change live organisms (post birth, rather than pre), then what could it do?
+-   What if the cut and paste is happening in unexpected places? Could we get unexpected results?
 
 </section>
 
@@ -1309,16 +1315,17 @@ Renewable prices are dropping below fossil fuel prices[^56]. However the reliabi
 
 ### Consider:
 
-* What are the implications of this? 
-* What happens if the cost of energy gets to zero? Does it do some strange things just before?
-* Which countries' economies rely on fossil fuel exports?
-* What happened in the 70s? Is political stability based on fossil fuels?
+-   What are the implications of this?
+-   What happens if the cost of energy gets to zero? Does it do some strange things just before?
+-   Which countries' economies rely on fossil fuel exports?
+-   What happened in the 70s? Is political stability based on fossil fuels?
 
 </section>
 
 <section>
 
 ## Deepfakes
+
 <figure>
 <figcaption>
 </figcaption>
@@ -1331,10 +1338,11 @@ This has been used a lot to make fake "celebrity porn", and to make public figur
 
 ### Consider:
 
-* What does this mean for trust in news?
-* What does it do to the acting profession? (See _The Congress_[^congress])
+-   What does this mean for trust in news?
+-   What does it do to the acting profession? (See _The Congress_[^congress])
 
-[^congress]: In The Congress, Robin Wright is scanned, and "stars" in movies without her ever knowing. Her likeness is mapped onto a CGI body. Wikipedia: [The Congress](https://en.wikipedia.org/wiki/The_Congress_(2013_film))
+[^congress]: In The Congress, Robin Wright is scanned, and "stars" in movies without her ever knowing. Her likeness is mapped onto a CGI body. Wikipedia: [The Congress](<https://en.wikipedia.org/wiki/The_Congress_(2013_film)>)
+
 </section>
 
 <section>
@@ -1351,10 +1359,10 @@ Some jurisdictions have banned single use bags and drinking straws. Others have 
 
 ### Consider:
 
-* Will this lead to people carrying more with them (steel straw, etc.), or will people move to eating-in more?
-* Does this trend affect anyone negatively? If there are no straws available, will disabled people be further disadvantaged? How do you feel about this?
-* How much further should this be taken? What else should be banned? What should _not_ be banned?
-* If plastic from one country damages the ocean wildlife from another country, what should the wronged country do?
+-   Will this lead to people carrying more with them (steel straw, etc.), or will people move to eating-in more?
+-   Does this trend affect anyone negatively? If there are no straws available, will disabled people be further disadvantaged? How do you feel about this?
+-   How much further should this be taken? What else should be banned? What should _not_ be banned?
+-   If plastic from one country damages the ocean wildlife from another country, what should the wronged country do?
 </section>
 
 <section>
@@ -1375,11 +1383,10 @@ Some jurisdictions have banned single use bags and drinking straws. Others have 
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1400,11 +1407,10 @@ Some jurisdictions have banned single use bags and drinking straws. Others have 
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1425,11 +1431,10 @@ Some jurisdictions have banned single use bags and drinking straws. Others have 
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1442,8 +1447,9 @@ Some jurisdictions have banned single use bags and drinking straws. Others have 
 
 Dark kitchens create meals exclusively for the online delivery market[^dk].
 
-[^dk]: [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)
-.
+[^dk]:
+    [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)
+    .
 
 .
 
@@ -1451,8 +1457,8 @@ Dark kitchens create meals exclusively for the online delivery market[^dk].
 
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1473,11 +1479,10 @@ Dark kitchens create meals exclusively for the online delivery market[^dk].
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1498,11 +1503,10 @@ Dark kitchens create meals exclusively for the online delivery market[^dk].
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1523,11 +1527,10 @@ Dark kitchens create meals exclusively for the online delivery market[^dk].
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1548,11 +1551,10 @@ Dark kitchens create meals exclusively for the online delivery market[^dk].
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1573,11 +1575,10 @@ Dark kitchens create meals exclusively for the online delivery market[^dk].
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1594,9 +1595,9 @@ The plants are grown in racks, in a sealed warehouse. Each rack has lighting and
 
 ### Consider:
 
-* If we do this, what will happen to the farming industry?
-* What would happen to all the land that is currently used to grow plants?
-* Not all plants can be grown like this. Plants that are tall are particularly unsuited, e.g. fruit and corn. How will our diets shift to reflect the price differences?
+-   If we do this, what will happen to the farming industry?
+-   What would happen to all the land that is currently used to grow plants?
+-   Not all plants can be grown like this. Plants that are tall are particularly unsuited, e.g. fruit and corn. How will our diets shift to reflect the price differences?
 </section>
 
 <section>
@@ -1611,10 +1612,10 @@ Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also s
 
 ### Consider:
 
-* Will we start to design meats that aren't copies of animals?
-* Will lab meat ever overcome the yuk factor?
-* What will happen to the meat industry? What about the animals that are already alive?
-* What will we do with all the spare land that is freed up?
+-   Will we start to design meats that aren't copies of animals?
+-   Will lab meat ever overcome the yuk factor?
+-   What will happen to the meat industry? What about the animals that are already alive?
+-   What will we do with all the spare land that is freed up?
 </section>
 
 <section>
@@ -1635,11 +1636,10 @@ Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also s
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1660,11 +1660,10 @@ Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also s
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1685,11 +1684,10 @@ Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also s
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 
 <section>
@@ -1702,15 +1700,15 @@ Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also s
 
 UBI is the idea that everyone in a society gets paid a stipend by the state. For example everyone gets $1000 every month, and any money you make on top of that (after tax) is yours.
 
-There is a lot of discussion about what _universal_, _basic_ and  _income_ actually mean in this context. Is _universal_: everyone inside the state's boundary, all citizens, all citizens over a certain age, all male landowning citizens? Is _basic_ enough to not starve, enough to have a living wage?
+There is a lot of discussion about what _universal_, _basic_ and _income_ actually mean in this context. Is _universal_: everyone inside the state's boundary, all citizens, all citizens over a certain age, all male landowning citizens? Is _basic_ enough to not starve, enough to have a living wage?
 
 It's popular across the political spectrum, for different reasons. Small government advocates like it because it'll reduce reliance on the welfare state, big government advocates like it because it's a universal safety net.
 
 ### Consider:
 
-* What would you consider universal to mean? Basic? Income?
-* If you need more than the basic amount (e.g. disability allowance) will society look after you?
-* Would getting "free money" encourage people to not work?
+-   What would you consider universal to mean? Basic? Income?
+-   If you need more than the basic amount (e.g. disability allowance) will society look after you?
+-   Would getting "free money" encourage people to not work?
 
 </section>
 
@@ -1732,11 +1730,10 @@ It's popular across the political spectrum, for different reasons. Small governm
 
 .
 
-
 ### Consider:
 
-* .
-* .
+-   .
+-   .
 </section>
 <section>
 
@@ -1745,6 +1742,7 @@ It's popular across the political spectrum, for different reasons. Small governm
 This game gets better as more cards are added, or as cards get updated. There are always updates needed to the current cards. Better images, new footnotes... The job is endless and I'd love your help.
 
 If you spot a way to improve a card, or you'd like to make a new card, then the format is as follows:
+
 <pre>
 
 &lt;section&gt;
@@ -1771,117 +1769,60 @@ You can have a few paragraphs, but keep it tight.
 </section>
 
 [^1]: ABS data, high scenario.
-
 [^2]: Wikipedia: [World population](https://en.wikipedia.org/wiki/World_population)
-
 [^3]: NSW Department of Infrastructure Planning and Natural Resources - DIPNR
-
 [^4]: https://goo.gl/0omR22
-
 [^5]: http://goo.gl/CCBPuv
-
 [^6]: http://ktwop.com/2012/12/27/the-first-200-year-old-human-has-already-been-born/
-
-[^7]: Hillard Kaplan, Kim Hill, Jane Lancaster, and A. Magdalena Hurtado (2000). "[A Theory of Human Life History Evolution: Diet, Intelligence and Longevity" (PDF). Evolutionary Anthropology 9 (4): 156&ndash;185.](https://www.google.com/url?q=http://www.unm.edu/~hkaplan/KaplanHillLancasterHurtado_2000_LHEvolution.pdf&amp;sa=D&amp;ust=1582431437876000)
-
+[^7]: Hillard Kaplan, Kim Hill, Jane Lancaster, and A. Magdalena Hurtado (2000). "[A Theory of Human Life History Evolution: Diet, Intelligence and Longevity" (PDF). Evolutionary Anthropology 9 (4): 156&ndash;185.](https://www.google.com/url?q=http://www.unm.edu/~hkaplan/KaplanHillLancasterHurtado_2000_LHEvolution.pdf&sa=D&ust=1582431437876000)
 [^8]: Wikipedia: [Half-life of knowledge](https://en.wikipedia.org/wiki/Half-life_of_knowledge)
-
-[^9]: [Wikipedia: Moore's law](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Moore%2527s_law&amp;sa=D&amp;ust=1582431437877000)
-
+[^9]: [Wikipedia: Moore's law](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Moore%2527s_law&sa=D&ust=1582431437877000)
 [^10]: Which is why there are so many data centres in Iceland.
-
 [^11]: note that the graph has a log scale, that means that each line is an increase of 10 times, not of one unit!
-
 [^12]: As far as I can tell this counts the number of connections, but doesn't take into account how many people share that connection. The number is 40 for France, but there might be more than 2 people sharing each line. Which would mean more than 1 connection per person! Data via [Google: World Development Indicators](https://goo.gl/7jVzHM)
-
 [^13]: Illustrated by how many totalitarian nations restrict access to the whole internet.
-
 [^14]: With the printing press displacing scribes as the other that I can think of.
-
 [^15]: All these graphs are from: [The history of Australian property values](http://www.macrobusiness.com.au/2013/02/the-history-of-australian-property-values/)
-
 [^16]: [Advanced Space Transportation Program: Paving the Highway to Space](https://www.nasa.gov/centers/marshall/news/background/facts/astp.html)
-
 [^17]: Quora: [What is cost of sending 1kg weight into space?](https://www.quora.com/Rockets-What-is-cost-of-sending-1-kg-weight-into-space)
-
 [^18]: Life as an intern, Paris, 1935 (via Fondation le Corbusier)
-
 [^19]: [GDP per capita (constant 2000 US$)](https://goo.gl/xsYeYC)
-
 [^20]: [battery_statistics](http://batteryuniversity.com/learn/article/battery_statistics)
-
 [^21]: Watch springs are the obvious precedent, but their energy density is tiny in comparison.
-
 [^22]: From Wikipedia: [Crime in the United States](https://en.wikipedia.org/wiki/Crime_in_the_United_States)
-
 [^23]: <a href="https://www.google.com/url?q=http://violentdeathproject.com/countries/australia&amp;sa=D&amp;ust=1582431437871000">http://violentdeathproject.com/countries/australia</a>
-
 [^24]: [The Better Angels of Our Nature](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)
-
 [^25]: [for a nice interactive view of this phenomenon this article is good](http://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/)</a>
-
 [^26]: from [How Did Work-Life Balance in the U.S. Get So Awful?](https://www.theatlantic.com/business/archive/2013/06/how-did-work-life-balance-in-the-us-get-so-awful/276336/). If we assume a 50 week year, Greece has gone from 54 hour weeks to 41; the Netherlands from 46 to 28!
-
 [^27]: Australian Labour Market Statistics, Oct 2010: [Trends In Hours Worked](http://www.abs.gov.au/ausstats/abs@.nsf/featurearticlesbytitle/67AB5016DD143FA6CA2578680014A9D9?OpenDocument)
-
 [^28]: Economic Possibilities for our Grandchildren: <a href="https://www.google.com/url?q=http://www.econ.yale.edu/smith/econ116a/keynes1.pdf&amp;sa=D&amp;ust=1582431437879000">http://www.econ.yale.edu/smith/econ116a/keynes1.pdf</a>
-
 [^29]: Quartz: [Amazon is now bigger than Walmart](http://qz.com/462605/amazon-is-now-bigger-than-walmart/)
-
 [^30]: [Data from](https://goo.gl/L3TER1)
-
 [^31]: [internet.org](https://internet.org/) was planning to make internet access available through solar powered planes.
-
 [^32]: [Loon](http://www.google.com/loon/) was planning to make internet access available through weather balloons.
-
 [^33]: [How is Today’s Warming Different from the Past?](http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php)
-
 [^34]: IPCC graphic of uncertainty ranges with various models over time. Climateprediction.net is aiming to reduce the ranges and produce better probability information.
-
-[^35]: Observed and projected changes in global average temperature under three no-policy emissions scenarios. The shaded areas show the likely ranges while the lines show the central projections from a set of climate models. A wider range of model types shows outcomes from 2&deg;F&ndash;11.5&deg;F. Changes are relative to the 1960-1979 average. Source: [USGCRP 2009](https://www.google.com/url?q=http://www.globalchange.gov/HighResImages/1-Global-pg-25_top.jpg&amp;sa=D&amp;ust=1582431437880000)
-
+[^35]: Observed and projected changes in global average temperature under three no-policy emissions scenarios. The shaded areas show the likely ranges while the lines show the central projections from a set of climate models. A wider range of model types shows outcomes from 2&deg;F&ndash;11.5&deg;F. Changes are relative to the 1960-1979 average. Source: [USGCRP 2009](https://www.google.com/url?q=http://www.globalchange.gov/HighResImages/1-Global-pg-25_top.jpg&sa=D&ust=1582431437880000)
 [^36]: [Why the Equifax breach is very possibly the worst leak of personal info ever](https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/)
-
 [^37]: <a href="https://www.google.com/url?q=https://en.wikipedia.org/wiki/DARPA_Grand_Challenge&amp;sa=D&amp;ust=1582431437881000">https://en.wikipedia.org/wiki/DARPA_Grand_Challenge</a>
-
 [^38]: <a href="https://www.google.com/url?q=http://breakingsmart.com/a-new-soft-technology&amp;sa=D&amp;ust=1582431437881000">http://breakingsmart.com/a-new-soft-technology</a>
-
 [^39]: [The World Of Everything-As-A-Service](http://techcrunch.com/2014/08/09/everything-as-a-service/), Tom Blomfield, Techcrunch
-
 [^40]: Or can't without causing substantial damage.
-
 [^41]: Fifth, if you count clothes, shoes, spectacles and wrist watches as the first four.
-
 [^42]: Worth checking this out! [Frog: Mobile Money in Afghanistan](http://mobilemandate.frogdesign.com/programs/mobile-money-in-afghanistan.html)
-
 [^43]: There is an article about [the economy of second life](https://en.wikipedia.org/wiki/Economy_of_Second_Life) and this is [an exchange that only deals in virtual currencies](https://www.virwox.com). Both are shut down now, but there were some wild stories from that era!
-
-[^44]: Something like 80% of &euro;500 notes are believed to be used in money laundering! [The End of Money: Counterfeiters, Preachers, Techies, Dreamers--and the Coming Cashless Society](http://www.amazon.com/The-End-Money-Counterfeiters-Dreamers/dp/0306821478&amp;sa=D&amp;ust=1582431437884000)
-
-[^45]: [This talk is a really good source to understand the threats to the open internet](https://www.google.com/url?q=https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61&amp;sa=D&amp;ust=1582431437884000)
-
+[^44]: Something like 80% of &euro;500 notes are believed to be used in money laundering! [The End of Money: Counterfeiters, Preachers, Techies, Dreamers--and the Coming Cashless Society](http://www.amazon.com/The-End-Money-Counterfeiters-Dreamers/dp/0306821478&sa=D&ust=1582431437884000)
+[^45]: [This talk is a really good source to understand the threats to the open internet](https://www.google.com/url?q=https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61&sa=D&ust=1582431437884000)
 [^46]: E.g. something like iMessage or BBM. They created silos of people that could communicate with each other, but not outside the group.
-
 [^47]: I'm mainly talking about personalised medicine here: <a href="https://www.google.com/url?q=https://en.wikipedia.org/wiki/Personalized_medicine&amp;sa=D&amp;ust=1582431437885000">https://en.wikipedia.org/wiki/Personalized_medicine</a>. Medicine that affects genes is another topic, big enough to justify its own card.
-
 [^48]: [See an example prediction market](https://www.predictit.org/?marketId=1294#data1)
-
 [^49]: [Accessorize to a Crime](http://prostheticknowledge.tumblr.com/post/152518403686/accessorize-to-a-crime-research-from-carnegie) "Research from Carnegie Mellon University can generate visual patterns onto glasses to either avoid facial recognition or ‘impersonate’ as someone else"
-
 [^50]: [What Sort Of People Should There Be?](https://notionparallax.github.io/people/)
-
 [^51]: [The Nether](https://en.wikipedia.org/wiki/The_Nether)
-
 [^52]: <a href="https://www.google.com/url?q=https://en.wikipedia.org/wiki/Price_revolution&amp;sa=D&amp;ust=1582431437882000">https://en.wikipedia.org/wiki/Price_revolution</a>
-
 [^53]: <a href="https://www.google.com/url?q=http://idisrupted.com/disrupted-electronics-internet-things-may-create-moores-law-steroids/&amp;sa=D&amp;ust=1582431437875000">http://idisrupted.com/disrupted-electronics-internet-things-may-create-moores-law-steroids/</a>
-
 [^54]: <a href="https://www.google.com/url?q=http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract&amp;sa=D&amp;ust=1582431437881000">http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract</a>
-
 [^55]: a16z Podcast: [Companies, Networks, Crowds](https://a16z.com/2017/06/28/machine-platform-crowd/)
-
 [^56]: [The extraordinary decline in renewable energy prices](https://www.linkedin.com/pulse/extraordinary-decline-renewable-energy-prices-chris-anderson)
-
 [^min]: [Minimalism: another boring product wealthy people can buy](https://www.theguardian.com/lifeandstyle/2017/mar/04/minimalism-conspicuous-consumption-class) "Minimalism is just another form of conspicuous consumption, a way of saying to the world: ‘Look at me! Look at all of the things I have refused to buy!’"
-
 [^construal]: Things in the distance are blue, due to the same phenomenon that makes the sky blue. So we have a tendency to think about things that are far away temporally in the same way. Things are shiny in the future because detail is hard work, and things far away don't have much detail either. That's a bit of an over simplification, but it's correct in essence. [There's a summary here.](http://www.overcomingbias.com/2010/06/near-far-summary.html)
