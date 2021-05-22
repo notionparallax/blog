@@ -22,7 +22,7 @@ There really should be an iframe here :(
 To start with, the book I'm reading now, 'The Black Swan'. This is a bit ranty, but it goes through a few biases with an interesting slant. My favourite bit so far has been 'given that a coin lands 98 times in a row on heads, and it is a fair coin, what is the likelihood of it landing tails the next time?' and then it gives two answers
 
 1. 50:50, it has the same chance it had the first time you flipped it.
-2. > 1% if you say 50:50 you are a mug, if it has landed that many times on heads it must be rigged.
+2. \>1% if you say 50:50 you are a mug, if it has landed that many times on heads it must be rigged.
 
 It is a good warning against taking too computational approach to things. (although, I fear that this isn't the central message of the book).
 
