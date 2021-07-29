@@ -22,10 +22,7 @@ twitter-body:
 featuredimg: https://www.griffithreview.com/wp-content/themes/griffithreview/dist/images/logo-text.svg
 ---
 
-Morais, B. (2013). Ada Lovelace, the first tech visionary. _The New Yorker_.
-https://www.newyorker.com/tech/annals-of-technology/ada-lovelace-the-first-tech-visionary
-
-# Ada Lovelace, the First Tech Visionary
+Morais, B. (2013). [Ada Lovelace, the first tech visionary](https://www.newyorker.com/tech/annals-of-technology/ada-lovelace-the-first-tech-visionary). _The New Yorker_.
 
 ![](https://media.newyorker.com/photos/590952556552fa0be682c157/master/w_1920,c_limit/ada-lovelace-290.jpeg)
 
