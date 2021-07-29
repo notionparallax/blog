@@ -7,8 +7,10 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
+resource_type: core
 authors: Evgeny Morozov
 source_publish_date: 2021-07-26 13:18:00 AEST
+week: 3
 
 # this goes on the index page, and into facebook shares
 description:

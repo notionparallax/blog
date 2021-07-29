@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
+resource_type: core
 authors: Marguerite McNeal
 source_publish_date: 2015-04-00 13:18:00 AEST
 

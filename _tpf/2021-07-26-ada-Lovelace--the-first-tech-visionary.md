@@ -7,8 +7,10 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
+resource_type: core
 authors: Betsy Morais
 source_publish_date: 2013-10-15 00:00:00 AEST
+week: 4
 
 # this goes on the index page, and into facebook shares
 description:

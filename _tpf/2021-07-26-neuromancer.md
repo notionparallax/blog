@@ -7,8 +7,10 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
+resource_type: core
 authors: William Gibson
 source_publish_date: 1984-07-1 00:00:00 AEST
+week: 2
 
 # this goes on the index page, and into facebook shares
 description:
