@@ -121,7 +121,9 @@ David Morley (1992) emphasises the power of media texts to bring public life int
 Benedict Anderson (1991) advanced the influential idea of the modern nation-state as an ‘imagined community’ to explain the need for a common understanding between the citizens in order to engage in a national consciousness. Despite not knowing their fellow citizens, members of a community form an idea of a communion with these strangers through the ritual of newspaper reading, listening to radio and watching TV to generate a sense of collective experience. Explaining that the development of the national newspaper laid the foundations for this imagined nation, Anderson states:
 
 <figure>
+
 > It is imagined because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion.
+
 <figcaption>
 (Anderson 1991: 6) 
 </figcaption>

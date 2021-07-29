@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-authors: Vincent Mosco
-source_publish_date: 2021-07-26 13:18:00 AEST
+authors: Thomas Streeter
+source_publish_date: 2011-01-01 00:00:00 AEST
 
 # this goes on the index page, and into facebook shares
 description:

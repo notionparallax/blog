@@ -1,6 +1,22 @@
-# Commendary Cultures
+---
+layout: post
+title: Commendary Cultures
+date: 2021-07-26 13:18:00 AEST
+type: post
+published: true
+status: publish
+categories: []
+tags: [The_Past_and_Futures_of_Digital_Cultures]
+authors: Fiona Martin
+source_publish_date: 2021-06-23 06:01:00 AEST
 
-## Fiona Martin
+# this goes on the index page, and into facebook shares description:
+# This is what twitter will pick up if someone tweets the link to this page
+# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 twitter-body:
+# Twitter and facebook will pick up this image. you can also use it in a post with:
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
+---
 
 Social sharing of news has a critical economic and cultural function in an attention economy. It reveals our personal interests, beliefs and tastes to the array of publications trying to win our interest and identifies to them and our social networks what is valuable to us in the cascades of data that we negotiate every day. Through our shares, likes and favourites we help the social platforms determine what is popular and profitable in advertising terms. We also elevate certain events and issues in public debate, and reinforce opinions and attitudes in our social circles. Thus, if most mainstream media users are more likely to redistribute, like or recommend news than to create it, then news sharing is potentially as important a phenomenon to study as participatory or citizen journalism.
 

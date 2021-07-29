@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-authors: Vincent Mosco
-source_publish_date: 2021-07-26 13:18:00 AEST
+authors: Terry Flew
+source_publish_date: 2019-01-01 00:00:00 AEST
 
 # this goes on the index page, and into facebook shares
 description:
@@ -19,8 +19,6 @@ twitter-body:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://www.griffithreview.com/wp-content/themes/griffithreview/dist/images/logo-text.svg
 ---
-
-# Guarding the gatekeepers: Trust, truth and digital platforms
 
 by [Terry Flew](https://www.griffithreview.com/contributors/terry-flew/)
 

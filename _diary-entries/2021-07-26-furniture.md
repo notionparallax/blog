@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-authors: Vincent Mosco
-source_publish_date: 2021-07-26 13:18:00 AEST
+authors: Justine Humphry, Chris Chesher & Sophia Maalsen
+source_publish_date: 2021-06-23 06:01:00 AEST
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page

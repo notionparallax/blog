@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-authors: Vincent Mosco
-source_publish_date: 2021-07-26 13:18:00 AEST
+authors: Susie Khamis, Lawrence Ang & Raymond Welling
+source_publish_date: 2016-02-04 00:00:00 AEST
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page
@@ -18,7 +18,7 @@ source_publish_date: 2021-07-26 13:18:00 AEST
 featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
 ---
 
-Susie Khamis,Lawrence Ang & Raymond Welling
+Susie Khamis, Lawrence Ang & Raymond Welling
 
 Pages 191-208 | Received 04 Feb 2016, Accepted 21 Jul 2016, Published online: 25 Aug 2016
 
