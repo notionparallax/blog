@@ -1,15 +1,15 @@
 title: Notion Parallax
 email: ben@notionparallax.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  This is where I write things down. It's the way I make space in my
-  head for new ideas. The ideas here were what I thought at the time,
-  but there is a very good chance that I no longer think that!
+    This is where I write things down. It's the way I make space in my
+    head for new ideas. The ideas here were what I thought at the time,
+    but there is a very good chance that I no longer think that!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://notionparallax.co.uk" # the base hostname & protocol for your site
 author:
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+    display_name: Ben
+    first_name: Ben
+    last_name: Doherty
 publisher: Notionparallax
 twitter_username: notionparallax
 github_username: notionparallax
@@ -21,10 +21,10 @@ markdown: kramdown
 permalink: "/:year/:title"
 
 kramdown:
-  parse_block_html: true
+    parse_block_html: true
 
 plugins:
-  - jemoji
+    - jemoji
 
 #manifest
 short_name: "NP"
@@ -38,9 +38,11 @@ display: fullscreen
 
 #add collections
 collections:
-  diary-entries:
-    output: true
-  CODE1161:
-    output: true
-  s: #static pages
-    output: true
+    diary-entries:
+        output: true
+    tpf:
+        output: true
+    CODE1161:
+        output: true
+    s: #static pages
+        output: true
