@@ -10,6 +10,7 @@ tags: [The_Past_and_Futures_of_Digital_Cultures]
 resource_type: core
 authors: William Merrin & Andrew Hoskins
 source_publish_date: 2020-03-17 00:00:00 AEST
+week: 8
 
 # this goes on the index page, and into facebook shares
 description:

@@ -10,6 +10,7 @@ tags: [The_Past_and_Futures_of_Digital_Cultures]
 resource_type: core
 authors: Susie Khamis, Lawrence Ang & Raymond Welling
 source_publish_date: 2016-02-04 00:00:00 AEST
+week: 10
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page
@@ -19,11 +20,7 @@ source_publish_date: 2016-02-04 00:00:00 AEST
 featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
 ---
 
-Susie Khamis, Lawrence Ang & Raymond Welling
-
-Pages 191-208 | Received 04 Feb 2016, Accepted 21 Jul 2016, Published online: 25 Aug 2016
-
-Download citation https://doi-org.wwwproxy1.library.unsw.edu.au/10.1080/19392397.2016.1218292
+Pages 191-208, Received 04 Feb 2016, Accepted 21 Jul 2016, Published online: 25 Aug 2016, [Download citation](https://doi-org.wwwproxy1.library.unsw.edu.au/10.1080/19392397.2016.1218292)
 
 ## ABSTRACT
 

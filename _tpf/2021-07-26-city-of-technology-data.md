@@ -10,6 +10,7 @@ tags: [The_Past_and_Futures_of_Digital_Cultures]
 resource_type: core
 authors: Vincent Mosco
 source_publish_date: 2019-08-28 00:00:00 AEST
+week: 12
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page
@@ -20,10 +21,15 @@ featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.
 ---
 
 <figure>
-> These companies – IBM, Cisco, Siemens, among others – have crafted a seductive pitch. The same technology that fueled the expansion of global business over the last quarter-century can compute away local problems, they say. 
+
+> These companies – IBM, Cisco, Siemens, among others – have crafted a seductive pitch. The same technology that fueled the expansion of global business over the last quarter-century can compute away local problems, they say.
+
 <figcaption>
+
 —Anthony Townsend<sup>1</sup>
+
 </figcaption>
+
 <figure>
 
 ## TECHNOLOGY: THE NEXT INTERNET

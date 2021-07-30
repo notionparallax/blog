@@ -10,6 +10,7 @@ tags: [The_Past_and_Futures_of_Digital_Cultures]
 resource_type: core
 authors: Marguerite McNeal
 source_publish_date: 2015-04-00 13:18:00 AEST
+week: 11
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page
@@ -20,9 +21,15 @@ featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.
 ---
 
 <figure>
+
 <img src="https://www.wired.com/wp-content/uploads/2015/04/Martin_Ford_headshot-932x621.jpg"
 />
-<figcaption>Martin Ford</figcaption>
+
+<figcaption>
+
+Martin Ford
+
+</figcaption>
 </figure>
 
 The robots haven’t just landed in the workplace—they’re expanding skills, moving up the corporate ladder, showing awesome productivity and retention rates, and increasingly shoving aside their human counterparts. One multi-tasker bot, from Momentum Machines, can make (and flip) a gourmet hamburger in 10 seconds and could soon replace an entire McDonalds crew. A manufacturing device from Universal Robots doesn’t just solder, paint, screw, glue, and grasp—it builds new parts for itself on the fly when they wear out or bust. And just this week, Google won a <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=42&amp;f=G&amp;l=50&amp;d=PTXT&amp;s1=google.ASNM.&amp;p=1&amp;OS=AN/google&amp;RS=AN/google" >patent</a >

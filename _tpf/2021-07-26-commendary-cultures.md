@@ -10,6 +10,7 @@ tags: [The_Past_and_Futures_of_Digital_Cultures]
 resource_type: core
 authors: Fiona Martin
 source_publish_date: 2021-06-23 06:01:00 AEST
+week: 7
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page
@@ -87,9 +88,13 @@ This _reproductive potential_ underpins the third and most potent reason for sha
 Fourthly, a factor that John briefly alludes to and Meikle develops, is sharing as intimacy, and immediate personal exchange. We most often share online with our friends, family and workmates, people with whom we have some close, emotional or intellectual connections, and these bonds influence what we share and why we share it in networked circumstances. We share to build, affirm, maintain or repair relationships (Goh et al. 2017; Meikle 2016: 26). As we will see in Chap. 6, the users of an online news service who we surveyed primarily share news to show they care about a topic. They do it to express their feelings about a subject and sometimes to provoke a reaction from their friends or followers. This _affective potential_ of sharing is key to understanding the topics people will respond to, and what types of stories might go viral on a social platform (Fig. 2.1).
 
 <figure>
+
 ![]()
+
 <figcaption>
+
 Fig. 2.1 The semantic associations of social media sharing. Image: Fiona R Martin
+
 </figcaption>
 <figure>
 

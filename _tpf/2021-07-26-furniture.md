@@ -10,6 +10,7 @@ tags: [The_Past_and_Futures_of_Digital_Cultures]
 resource_type: core
 authors: Justine Humphry, Chris Chesher & Sophia Maalsen
 source_publish_date: 2021-06-23 06:01:00 AEST
+week: 12
 
 # this goes on the index page, and into facebook shares description:
 # This is what twitter will pick up if someone tweets the link to this page
