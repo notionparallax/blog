@@ -1,7 +1,7 @@
 live: true
 body:
     paragraphs:
-        - This graph from NASA[^33] shows global temperature variation
+        - This graph from NASA[^gt33] shows global temperature variation
         - '> "The paleoclimate record combined with global models shows past ice ages as
           well as periods even warmer than today. But the paleoclimate record also reveals
           that the current climatic warming is occurring much more rapidly than past warming
@@ -17,7 +17,9 @@ consider:
     - What will temperature increases trigger? And then what will those things trigger?
       and what will those things trigger? And so on.
 footnotes:
-    "33": "[How is Today's Warming Different from the Past?](http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php) "
+    "gt33": "[How is Today's Warming Different from the Past?](http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php)"
+    "gt34": "TODO: Not sure what this footnote was supposed to point to"
+    "gt35": "TODO: Not sure what this footnote was supposed to point to"
 image:
     caption: ""
     citation: ""
