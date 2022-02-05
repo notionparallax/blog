@@ -31,6 +31,19 @@ featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
 
   figcaption {
       float: right;
+      border-radius: 0 0 1em 1em;
+      border: silver solid;
+      border-top: none;
+      padding: 0 0.5em;
+  }
+  figcaption p {
+    margin-bottom: 3px;
+  }
+  .card figure, .card figure p {
+    margin-bottom: 0;
+  }
+  .card h2 {
+    line-height: 1;
   }
   .toc {
     column-width: 12em;
