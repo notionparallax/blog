@@ -51,76 +51,6 @@ If you've got a particular focus or reason for running this workshop, then it's 
 
 Extra to the teams, someone needs to be the MC/time keeper. It helps to have a few other people going around to get the teams to think a bit differently if they get stuck in a rut.
 
-## Contributing
-
-There are two main ways to contribute:
-
-### Improving cards
-
-These cards are made by me, who is an expert in none of these topics. If you _are_ an expert then you probably have way more useful things to say! Better illustrations, better prompts, better footnotes, and so on.
-
-You can improve them by going to [GitHub](https://github.com/notionparallax/blog/tree/gh-pages/_data/cards) and just editing the card you're interested in. Don't worry about breaking it, your edit will be sent to me for approval first.
-
-If you'd like to do an easy one, the following cards have been stubbed out but not finished:
-
-{% for org_hash in site.data.cards %}
-{% assign card = org_hash[1] %}
-{% if card.live != true %}
-
--   {{ card.title }}
-
-{% endif %}
-{% endfor %}
-
-### Making new cards
-
-Cards are defined using a YAML format that looks like this:
-
-```yml
-title: The name of the card
-image:
-    source: usefulPicture.jpg
-    caption: This is an image of an xxx
-    citation: a graph by by YYY
-    link: https://www.google.com/
-body:
-    paragraphs:
-        - The first paragraph.
-        - Another one.
-        - one more just for luck[^luck].
-footnotes:
-    luck: "I'm not sure luck really exists: [luck](en.wikipedia.org/wiki/luck)"
-consider:
-    - add a prompt for the players
-    - And maybe another one too
-card_type: future_tech
-meta:
-    sources:
-        - source_comment: Who wrote this card? Who are you?
-          source_link: If you pulled it from somewhere else, ref that here
-          update_date: 2021-02-20 #an iso date
-        - source_comment: Who updated this card? Who are you?
-          source_link: #leave it blank if you like
-          update_date: 2021-02-20 #an iso date
-```
-
-Save the file as `The name of the card.yaml` and either [💌email](mailto:ben@notionparallax.co.uk) it to me, or make PR against the repo. (I'd go with email for the moment, until this game gets it's own repo; my blog is a huge download.)
-
-The current cards are:
-
-<div class="toc">
-
-{% for org_hash in site.data.cards %}
-{% assign card = org_hash[1] %}
-{% if card.live %}
-
--   {{ card.title }}
-
-{% endif %}
-{% endfor %}
-
-</div>
-
 ## Early rounds
 
 This is all about getting warmed up. You can play through this stage for as long as you like until you feel like everyone's "got it".
@@ -233,3 +163,74 @@ Or just work through these prompts on whatever paper you've got:
     -   change what we think about as we live our lives?
     -   change what society values?
 -   How would it play out under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
+
+## Contributing
+
+There are two main ways to contribute:
+
+### Improving cards
+
+These cards are made by me, who is an expert in none of these topics. If you _are_ an expert then you probably have way more useful things to say! Better illustrations, better prompts, better footnotes, and so on.
+
+You can improve them by going to [GitHub](https://github.com/notionparallax/blog/tree/gh-pages/_data/cards) and just editing the card you're interested in. Don't worry about breaking it, your edit will be sent to me for approval first.
+
+If you'd like to do an easy one, the following cards have been stubbed out but not finished:
+
+{% for org_hash in site.data.cards %}
+{% assign card = org_hash[1] %}
+{% if card.live != true %}
+
+-   {{ card.title }}
+
+{% endif %}
+{% endfor %}
+
+### Making new cards
+
+Cards are defined using a YAML format that looks like this:
+
+```yml
+live: false
+title: The name of the card
+image:
+    source: usefulPicture.jpg
+    caption: This is an image of an xxx
+    citation: a graph by by YYY
+    link: https://www.google.com/
+body:
+    paragraphs:
+        - The first paragraph.
+        - Another one.
+        - one more just for luck[^luck].
+footnotes:
+    luck: "I'm not sure luck really exists: [luck](en.wikipedia.org/wiki/luck)"
+consider:
+    - add a prompt for the players
+    - And maybe another one too
+card_type: future_tech
+meta:
+    sources:
+        - source_comment: Who wrote this card? Who are you?
+          source_link: If you pulled it from somewhere else, ref that here
+          update_date: 2021-02-20 #an iso date
+        - source_comment: Who updated this card? Who are you?
+          source_link: #leave it blank if you like
+          update_date: 2021-02-20 #an iso date
+```
+
+Save the file as `The name of the card.yaml` and either [💌email](mailto:ben@notionparallax.co.uk) it to me, or make PR against the repo. (I'd go with email for the moment, until this game gets it's own repo; my blog is a huge download.)
+
+The current cards are:
+
+<div class="toc">
+
+{% for org_hash in site.data.cards %}
+{% assign card = org_hash[1] %}
+{% if card.live %}
+
+-   {{ card.title }}
+
+{% endif %}
+{% endfor %}
+
+</div>
