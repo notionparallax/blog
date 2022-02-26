@@ -1,20 +1,20 @@
-document.addEventListener("DOMContentLoaded", function(event) {
+document.addEventListener("DOMContentLoaded", function (event) {
     var url = "/index-data.json";
 
     makeRequest("GET", url)
         .then(function (datums) {
-          // console.log(datums);
-          replacePosts( JSON.parse(datums) );
+            // console.log(datums);
+            replacePosts(JSON.parse(datums));
         })
         .catch(function (err) {
-          console.error('Augh, there was an error!', err.statusText);
+            console.error("Augh, there was an error!", err.statusText);
         });
 
     function replacePosts(theJSON) {
         let newInnerHTML = "";
 
-        for(let p of theJSON) {
-          let liTemplate = `
+        for (let p of theJSON) {
+            let liTemplate = `
             <li itemscope itemtype="http://schema.org/BlogPosting">
               <span class="post-date">${p.pretty_date || " "}</span>
               <meta itemprop="datePublished" content="${p.date || " "}" />
@@ -39,13 +39,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
               </span>
 
               <h2 itemprop="headline">
-                <a itemprop="mainEntityOfPage"  class="post-link" href="${p.url || " "}">${p.title || " "}</a>
+                <a itemprop="mainEntityOfPage"  class="post-link" href="${
+                    p.url || " "
+                }">${p.title || " "}</a>
               </h2>
 
               <p itemprop="description">${p.description || ">_"}</p>
-              <a class="read-more" href="${p.url || " "}">read more</a>
             </li>`;
-          newInnerHTML += liTemplate;
+            newInnerHTML += liTemplate;
         }
 
         let postList = document.getElementsByClassName("post-list").item(0);

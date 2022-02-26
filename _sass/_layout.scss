@@ -11,6 +11,9 @@
         li {
             display: inline-block;
             margin-left: 1em;
+            min-height: 2em;
+            min-width: 5em;
+            text-align: center;
         }
     }
 }
@@ -19,7 +22,7 @@
     float: left;
     letter-spacing: -1px;
     line-height: 56px;
-    margin-bottom: 0;
+    margin-bottom: 1em;
 
     &,
     &:visited {
