@@ -187,7 +187,9 @@ article.post {
         @include media-query($on-palm) {
             background-color: rgba($brand-color, 0.05);
             margin-left: 0.5em;
-            margin: 0 -1em 1em;
+            margin-top: 0;
+            margin-right: -1em;
+            margin-bottom: 1em;
             padding: 1em;
             width: 100vw;
 
