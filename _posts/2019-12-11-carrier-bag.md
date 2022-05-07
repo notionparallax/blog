@@ -24,8 +24,7 @@ featuredimg: https://www.tah-heetch.com/wp-content/uploads/2018/11/zdenek-burian
 
 <script></script>
 
-I often find myself referencing this essay, but there doesn't seem to be a version of it made of internet. As is [my habit in these situations](https://notionparallax.co.uk/2016/digitising-what-sort-of-people-should-there-be), I've copied it out. The [source document is here](https://www.trabal.org/texts/pdf/LeGuin.pdf), and it delightfully annotated. 
-
+I often find myself referencing this essay, but there doesn't seem to be a version of it made of internet. As is [my habit in these situations](https://notionparallax.co.uk/2016/digitising-what-sort-of-people-should-there-be), I've copied it out. The [source document is here](https://www.trabal.org/texts/pdf/LeGuin.pdf), and it's delightfully annotated.
 
 # The Carrier Bag Theory of Fiction
 
