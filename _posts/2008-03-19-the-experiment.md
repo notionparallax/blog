@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- geek
-- hardware
-
+    - architecture
+    - geek
+    - hardware
 ---
+
 <p>In order to make any sort of meaningful map or information visualisation, I think you need a _lot_ of data, especially when it is related to the unpredictable nature of humans.</p>
 <p>Manually capturing that much information is for people with more time and patience than me.</p>
 <p>I'd like to start out by pointing out two things. I have no idea where this will lead to, and that there is an ulterior educational motive at work - I don't know how to do any of this so I thought I'd get down to it and learn.</p>

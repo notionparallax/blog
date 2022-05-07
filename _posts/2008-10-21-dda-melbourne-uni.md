@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- GC
-- geek
-- teaching
-
+    - architecture
+    - australia
+    - GC
+    - geek
+    - teaching
 ---
+
 <p><img src="{{ site.baseurl }}/assets/dda_sorting.jpg" width="400" height="300" /></p>
 <p>Here are the first images from the class that I've been teaching with Bharat Dave at Melbourne Uni.</p>
 <p>Everyone has worked amazingly hard, and there are some really great outcomes so far.</p>

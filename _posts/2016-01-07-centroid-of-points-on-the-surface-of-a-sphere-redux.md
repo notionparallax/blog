@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Centroid of points on the surface of a sphere: redux'
+title: "Centroid of points on the surface of a sphere: redux"
 date: 2016-01-07 08:15:35.000000000 +11:00
 type: post
 published: true
@@ -9,12 +9,12 @@ categories: []
 tags: []
 description: Imagine you are an international sort of person. All your friends are international sorts too. Where should you all fly your private helicopters to for a party?
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _syntaxhighlighter_encoded: '1'
-  _wpas_mess: 'How to find the centroid of points on the surface of a sphere: redux'
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _syntaxhighlighter_encoded: "1"
+    _wpas_mess: "How to find the centroid of points on the surface of a sphere: redux"
 ---
+
 <style type="text/css">
   iframe.world{
     width:100%;
@@ -37,7 +37,6 @@ Imagine you are an international sort of person. All your friends are internatio
 There really should be an iframe here :(
 </iframe>
 
-
 This problem comes up whenever someone is planning a conference or a wedding or anything that needs global travel.
 
 It's a bit of a toy problem because it doesn't take into account transport methods. It's a lot easier for me to meet a South African and an Argentinian in Dubai than it is to meet in Antarctica, even though that [minimises travel distance](http://bit.ly/2l4By3G). Ignoring the realities of planes, how _do_ you work it out?
@@ -52,12 +51,12 @@ The angle bisection is really just the average of the two vectors. The neat thin
 
 Some js that I wrote to do the job (which I thought about for almost exactly no seconds) looks like this:
 
-``` js
+```js
 function meanVector(people) {
     let xTotal = 0;
     let yTotal = 0;
     let zTotal = 0;
-    let n = people.length
+    let n = people.length;
 
     for (let p of people) {
         xTotal += p.vector.x;
@@ -65,9 +64,7 @@ function meanVector(people) {
         zTotal += p.vector.z;
     }
 
-    return new THREE.Vector3(xTotal / n,
-                             yTotal / n,
-                             zTotal / n);
+    return new THREE.Vector3(xTotal / n, yTotal / n, zTotal / n);
 }
 ```
 
@@ -91,17 +88,13 @@ Go on, click the world and drag it about!
 There really should be an iframe here :(
 </iframe>
 
-
 While I'm a free agent[^3] I don't have access to any of the tools that I'm accustomed to having (Grasshopper etc.) so I thought I'd have a crack at doing it in something more universally accessible. [Three.js](http://threejs.org/) lets you do 3d geometry stuff in your browser[^4].
 
 It shows 12 people, randomly spaced all over the globe. The orange spike (which you might need to hunt for a bit) shows the centroid of those points. If the iframe is annoying, you can [see it full screen here](https://notionparallax.github.io/whereToMeet/sphere.html).
 
 I might add a bit more UI to it soon to pick cities etc. so that you can use it to pick the positions of your own friends. In the meantime, [this does almost exactly that](http://www.geomidpoint.com/)!
 
-[^1]: Sadly, [here's her obituary](http://www.legacy.com/obituaries/staugustine/obituary.aspx?n=antonia-j-jones&amp;pid=150288587).
-
+[^1]: Sadly, [here's her obituary](http://www.legacy.com/obituaries/staugustine/obituary.aspx?n=antonia-j-jones&pid=150288587).
 [^2]: It's [not spherical](https://en.wikipedia.org/wiki/Figure_of_the_Earth), it's an <a class="mw-redirect" title="Oblate spheroid" href="https://en.wikipedia.org/wiki/Oblate_spheroid">oblate spheroid</a>, but let's not let that get in the way. I'm sure if you were even moderately good at maths that you could correct for that. (I'm not.)
-
 [^3]: where free agent == willingly unemployed.
-
 [^4]: There is some slightly strange stuff to get it going, but I found it surprisingly easy to pick up. The model above took me about 3 hours with no prior experience.[Alexandra Etienne](http://twitter.com/andraconnect) and [Jerome Etienne](http://twitter.com/jerome_etienne) have a super cool tutorial on [how to make a planet](http://learningthreejs.com/blog/2013/09/16/how-to-make-the-earth-in-webgl/) which helped a lot.

@@ -9,15 +9,16 @@ categories: []
 tags: []
 description:
 meta:
- _wpas_mess: Could a Personal stack find ways to get us all set up? http://wp.me/p3wwRK-pb
- dsq_thread_id: '4503553406'
+    _wpas_mess: Could a Personal stack find ways to get us all set up? http://wp.me/p3wwRK-pb
+    dsq_thread_id: "4503553406"
 author:
- login: Ben
- email: ben@notionparallax.co.uk
- display_name: Ben
- first_name: Ben
- last_name: Doherty
+    login: Ben
+    email: ben@notionparallax.co.uk
+    display_name: Ben
+    first_name: Ben
+    last_name: Doherty
 ---
+
 <p>tl;dr. This might be a way to aggregate all the productivity and wellbeing advice, whilst keeping it personal to you, and avoiding too much dogma.</p>
 <p>In software development the _stack_ is all important[^1].</p>
 <p>"Having x framework, with a, b and c tools plugged into it to achieve your goals allows people to do things more efficiently" is the standard line, but it goes beyond that, that efficiency allows people to do things that they just wouldn't have bothered with because there aren't enough hours in the day. The ideal state is that you set up a massive task list of tests and deployment tasks that get done every time you save a file, which means that you always have a working and up to date version of your project.</p>
@@ -63,19 +64,11 @@ author:
 <p>Really what I'm doing here is outlining the idea, I'd love some input on whether you think that it is a good one, or if you have any ideas on how to make it happen.</p>
 
 [^1]: or at least that is how it seems to me from my voyeuristic perspective as a semi-pretender
-
 [^2]: or not, more on learning/procrastinating in another post
-
 [^3]: better is a tricky way to think of things, I prefer 'less badly' as a way to think about things. They are essentially the same, but it feels less teleological.
-
 [^4]: As a data structure it can start life as a tree, although I think it'll end up as a lattice eventually.
-
 [^5]: you could give it a clever Icelandic TLD - implementTh.is if you felt so inclined!
-
 [^6]: I've been using a <a href="https://ifttt.com/myrecipes/personal/6063940/share">recipe to put my foursquare checkins into my google calendar </a>so that I can keep tabs on where I've been.
-
 [^7]: learning a stack would be hard, and probably expensive to buy all the equipment involved all in one go. I think that people would probably just pick off bits and add them slowly.
-
 [^8]: maybe some celebrity stacks, the Obama stack, or the Tim Ferris, Ben Greenfield or Alan Sugar stacks. If you can think of someone who is worth understanding and copying I could interview them and pull a stack out of their life.
-
 [^9]: there's a pretty strong similarity here with Linux and its distros.

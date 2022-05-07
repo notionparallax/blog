@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- BVN
+    - BVN
 description: Why "Architects are safe from automation" misses the point, and what happens next.
 ---
+
 <a href="http://www.architectmagazine.com/technology/why-architects-cant-be-automated_o">Daniel Davis writes that he doesn't think that architects can be automated</a>. I know Daniel a little bit, he's _very_ switched on. I think he watered down the conclusion to that article to please the audience. Readers of Architect magazine aren't likely to be receptive to being told that they are a few years away from being automated out of existence. I think he took it as close to that as he could get away with.
 
 ---
@@ -38,7 +39,7 @@ All of that is the preamble to the novel contribution--a reformulation of a meth
 
 <img class="aligncenter size-full wp-image-1803" src="{{ site.baseurl }}/assets/bottlenecks-to-automation-1024x420.png" alt="bottlenecks-to-automation-1024x420" />
 
-<br /><a href="{{ site.baseurl }}/assets/risk-legend.png"><img class="alignright wp-image-1801" title="Click to expand this" src="{{ site.baseurl }}/assets/risk-legend.png" alt="risk-legend" width="126" height="66" /></a>If you are a bit allergic to mathematical notation and very-hard-statistics then you can skip section 4 which is the _how_, and move right onto the _what happens next_ part.
+<br /><a href="{{ site.baseurl }}/assets/risk-legend.png"><img class="alignright wp-image-1801" title="Click to expand this" src="{{ site.baseurl }}/assets/risk-legend.png" alt="risk-legend" width="126" height="66" /></a>If you are a bit allergic to mathematical notation and very-hard-statistics then you can skip section 4 which is the _how_, and move right onto the *what happens next* part.
 
 Because we're all impatient, and keen to know how the story ends...
 
@@ -63,7 +64,7 @@ I think that Daniel dodges the meat of the question by not defining what he mean
 
 I'd imagine that if you'd asked someone 40 years ago what part of their job was going to be replaced by a machine they wouldn't have picked drawing sections[^7]. There are lots of things that we once did as time consuming manual processes. The effort to make a copies of drawings often kept someone employed full time. I'm not best placed to talk about what has changed since the good old days, but my feeling is that it's a lot. Each of those steps towards making designing buildings more efficient changed people's lives. It manifested itself in teams getting smaller and time-scales getting shorter. It also meant that we did _more_. We do photorealistic renders, we do more comprehensive documentation[^8].
 
-The trend seems to be that the non-design parts of getting a building communicated to whoever--or soon when it's robots, _what_ever--is building it are being removed. Without strong AGI the parts that need the most 'creativity'[^9] will still be performed by humans. They will be the only parts though. <a href="https://notionparallax.co.uk/2015/delegation-programming">As I've said elsewhere</a>, delegating is analogous to programming. If it's possible to delegate a task then it's a good bet that you can automate it.
+The trend seems to be that the non-design parts of getting a building communicated to whoever--or soon when it's robots, \_what_ever--is building it are being removed. Without strong AGI the parts that need the most 'creativity'[^9] will still be performed by humans. They will be the only parts though. <a href="https://notionparallax.co.uk/2015/delegation-programming">As I've said elsewhere</a>, delegating is analogous to programming. If it's possible to delegate a task then it's a good bet that you can automate it.
 
 Architecture will be cut right to the core. Let's assume that automation doesn't improve speed (which is will) for the sake of this point. A company the size of the one I work at (about 250 people) could maintain its output at the level it has now with about 30 people[^10].
 
@@ -79,29 +80,16 @@ Unwinding the metaphor, we aren’t a wordpress organisation[^12], we are the be
 
 Hopefully enough value to push back the date of the profession’s disappearance a long time. But once the strong AGI turns up it’s all over!
 
-
 [^1]: A question that's been nagging at me is brought up by: "workers will reallocate their labour supply according to their comparative advantage as in Roy (1951). With expanding computational capabilities, resulting from technological advances, and a falling market price of computing, workers in susceptible tasks will thus reallocate to nonsusceptible tasks." That was true in 1951, it's probably still true in 2015. There are two possible dis-equilibriums. At some point the volume of workers displaced from susceptible tasks may exceed the number of roles in nonsusceptible tasks. As a general fan of creative destruction I think that this is probably unlikely. The other is a dynamic failure. If the _rate_ at which workers are displaced exceeds the _rate_ at which they can be re-placed then there will be trouble!
-
 [^2]: The paper is pretty into human superiority in visual processing, but it was written in 2013, <a title="Researchers Announce Advance in Image-Recognition Software- NYT" href="http://www.nytimes.com/2014/11/18/science/researchers-announce-breakthrough-in-content-recognition-software.html?_r=0">google has been making big steps in visual processing</a>. Also, check out their <a href="http://www.theverge.com/2015/7/7/8904641/fear-and-loathing-clip-google-deep-dream-visualization">trippy deep dream stuff</a>.
-
 [^3]: He goes on to talk about the intelligence explosion that follows and how to make sure that we don't end up as a footnote in history. If you want to read some really serious and hard, but pertinent and useful philosophy, then this is a good bet! If you just want a taste of what it's about then you can listen to an interview with him.
-
 [^4]: Robin Hanson thinks that emulations of human brains will happen even sooner, but Nick Bostrom and Anders Sandberg think that it'll be about 20 years. 20 years is a magic number in AI, it's always 20 years away, but even so, that's still pretty soon! If they are right that means that the **whole** of this story is going to play out in the next two decades!
-
 [^5]: If you don't agree, I'd love to have a chat. I've never understood anyone's objections so I want to try! Even if I don't agree, _understanding_ your objection would be great.
-
 [^6]: An AGI needn't be human level, in fact we have AGIs right now that outclass a mosquito. Last time I checked they were up to slug level, so by now they might even be up to beetle smarts!
-
 [^7]: I'll have to ask Graham when I see him at the next commons meeting for his thoughts on the matter
-
 [^8]: I'll leave people's thoughts on how much we should be documenting out of this for the moment. I'm in the more information camp in case you wondered.
-
 [^9]: Whatever that actually means!
-
 [^10]: I think that it is conservative! I've also completely pulled this number out of the air. My reasoning goes: The majority of the high level design work is done by a small number of people. Everyone else is exploring ideas, making documents or coordinating internally or with other parties. If the work done by the "everyone else" group is automated, and a chunk of the work done by that small group is also automated then they'll have no trouble maintaining current output!
-
 [^11]: By perfectly, you can read that as "your product works better so more people pay to use it" or however it best suits your version of reality.
-
 [^12]: Lots of architects are though! They'll be toast when the automation allows people to circumvent them. Those who provide a service to people who need them, but would rather not be bothered with the frustration. People who need to submit a DA for their shed. Maybe even people throwing up generic industrial estates. I optimistically think that--as the rest of my scenario unfolds--performance regs will make it hard to cookie cutter buildings.
-
 [^wp]: This post was intially written in wordpress, but now the back end of this blog is actually Jekyll.

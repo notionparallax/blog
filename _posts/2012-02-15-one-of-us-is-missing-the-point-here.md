@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- email
-- gear
-- lols
-- Muay Thai
-
+    - email
+    - gear
+    - lols
+    - Muay Thai
 ---
+
 <p>**Question**</p>
 <blockquote><p>&gt;&gt; Hi,<br />
 &gt;&gt; I just tried on the large HG10 headguard (Large), and it fitted reasonably well, but they didn't have an XL in stock. Do you have size info on the headguards, specifically, how much bigger is the XL?<br />

@@ -7,21 +7,22 @@ published: true
 status: publish
 categories: []
 tags:
-- analysis
-- BVN
-- geek
-- graphs
-- Shane Dalton
-- Voting
+    - analysis
+    - BVN
+    - geek
+    - graphs
+    - Shane Dalton
+    - Voting
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _thumbnail_id: '1831'
-  _wpas_mess: Voting for a group - some thoughts and observations and stuff
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _thumbnail_id: "1831"
+    _wpas_mess: Voting for a group - some thoughts and observations and stuff
 
 has-math: true
 ---
+
 <style type="text/css">
     iframe {
       width: 100%;
@@ -174,20 +175,12 @@ $$uniformScore = \frac{numberOfCandidates - cutoffPoint}{2} + cutoffPoint$$
 
 <p>This is how our ordering turned out, it was similar to the simulation, but more biased. In retrospect that makes sense, with more votes going where aggregate opinion went. There wasn't a draw, and everyone is happy!</p>
 
-[^1]: compared to single winner voting systems. See <a href="http://ijcai.org/papers07/Papers/IJCAI07-238.pdf">Multi-Winner Elections: Complexity of Manipulation, Control, and Winner-Determination</a> and <a href="http://www.cs.cmu.edu/~yairzick/papers/tiesmulti_aamas.pdf">On Manipulation in Multi-Winner Elections Based on Scoring Rules</a> for an idea of how freaky it all is. 
-
-[^2]: if you know me, you'll know how particular I am about using the word "prove"! 
-
-[^3]: we could have had people form parties, but there aren't really enough people to make enough parties so they'd need to overlap, which would be really hard 
-
-[^4]: Or in more salty language, to show that it's crap and that we're not idiots for not including it. 
-
+[^1]: compared to single winner voting systems. See <a href="http://ijcai.org/papers07/Papers/IJCAI07-238.pdf">Multi-Winner Elections: Complexity of Manipulation, Control, and Winner-Determination</a> and <a href="http://www.cs.cmu.edu/~yairzick/papers/tiesmulti_aamas.pdf">On Manipulation in Multi-Winner Elections Based on Scoring Rules</a> for an idea of how freaky it all is.
+[^2]: if you know me, you'll know how particular I am about using the word "prove"!
+[^3]: we could have had people form parties, but there aren't really enough people to make enough parties so they'd need to overlap, which would be really hard
+[^4]: Or in more salty language, to show that it's crap and that we're not idiots for not including it.
 [^5]: Justices Breyer and Souter stated: <q>It is true that the Equal Protection Clause does not forbid the use of a variety of voting mechanisms within a jurisdiction, even though different mechanisms will have different levels of effectiveness in recording voters' intentions; local variety can be justified by concerns about cost, the potential value of innovation, and so on. But evidence in the record here suggests that a different order of disparity obtains under rules for determining a voter's intent that have been applied (and could continue to be applied) to identical types of ballots used in identical brands of machines and exhibiting identical physical characteristics (such as "hanging" or "dimpled" chads).<q>
-
-[^6]: or so I'm told, I'm not allowed to vote. 
-
-[^7]: we also have IE, apparently, but that's no a browser is it? 
-
-[^8]: but still pretty damned simple! 
-
-[^9]: watching those graphs writhe about as more people voted was fascinating! 
+[^6]: or so I'm told, I'm not allowed to vote.
+[^7]: we also have IE, apparently, but that's no a browser is it?
+[^8]: but still pretty damned simple!
+[^9]: watching those graphs writhe about as more people voted was fascinating!

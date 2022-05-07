@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- education
-- future
-- rant
-
+    - architecture
+    - education
+    - future
+    - rant
 ---
+
 <p>These two tweets showed up this morning within about an hour of each other. There was a lot of discussion by panelists at the <a title="the talks shop videos aren't actually there yet, but you can watch the cluster summaries" href="http://vimeo.com/smartgeometry/videos">SG</a> talkshop about what _ought_ to be on the curriculum in architecture schools to equip students for future practice. Some said compulsory biology courses, others said compulsory physics, and a few days before <a href="https://twitter.com/#!/Mcfblair">MB</a> and I had been discussing the merits of including some industrial design courses into the course gamut.</p>
 <div style="margin: 2px; padding: 2px; border: 1px solid #808080; font-family: 'Cambria','Times New Roman', Times, serif; font-style: italic;">
 <p><img class="avatar js-action-profile-avatar alignleft" src="{{ site.baseurl }}/assets/8a35f3ff-151d-4dd2-90e9-87c46577803f_normal.png" alt="fy" width="48" height="48" />“@<a href="https://twitter.com/guardiantech">guardiantech</a>: Why all our kids should be taught how to code, by @<a href="https://twitter.com/jjn1">jjn1</a> for @<a href="https://twitter.com/ObsNewReview">ObsNewReview</a> <a title="http://gu.com/p/36gzp/tw" href="http://t.co/gaBtUsdZ">gu.com/p/36gzp/tw</a>” @<a href="https://twitter.com/notionparallax">notionparallax</a></p>

@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- books
-
+    - architecture
+    - books
 ---
+
 <p><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0195388445/downandoutint-20"><img class="alignright size-full wp-image-232" title="A Better Pencil: Readers, Writers, and the Digitial Revolution" src="{{ site.baseurl }}/assets/51qbDEk72uL._SS500_.jpg" alt="51qbDEk72uL._SS500_" width="336" height="500" /></a>I got really bashed in the feedback for my <a href="http://www.notionparallax.co.uk/wordpress/wp-admin/post-new.php">degree dissertation</a> about how ugly the cover was. [I don't have a photo, but I'll put one up when I do]</p>
 <p>I saw <a title="A Better Pencil: Readers, Writers, and the Digitial Revolution" href="http://www.amazon.co.uk/exec/obidos/ASIN/0195388445/downandoutint-20">this</a> this morning, it looks like an interesting book, which I'll read when I get a second (more on that later),  but it did remind me how disapointed that the most biting critique of my work was focused on the cover art.</p>
 <p>I do feel a tiny bit vindicated that the same technique has made it onto the cover of a published book!</p>

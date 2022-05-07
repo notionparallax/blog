@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-- teaching
-
+    - GC
+    - teaching
 ---
+
 <p><img src="{{ site.baseurl }}/assets/gc1.jpg" width="500" height="451" /></p>
 <p>Today was the second day of the GC workshop at Brookes. It's always nice to be back on home turf with familliar people about.</p>
 <p><img src="{{ site.baseurl }}/assets/obugc2.jpg" width="500" height="142" /></p>

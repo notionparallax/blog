@@ -33,25 +33,26 @@ Eventually, I really should go and talk to some people who are actually good at 
 
 ## Questions:
 
-- Information structure (is this the right term?)
-    - How do you plan the interaction between your recipes?
-    - How do you plan the interaction between the cook[s] and the things they're making?
-    - Can the recipes be broken into components?
-        - Do those components consist of tasks? Processes? It's semantic, but does a task require an agent's involvement? Is being in the oven a task? What's the right word to make this idea flow into people's minds?
-    - Can components be interrupted? I can stop chopping a carrot to take something out of the oven if a beeper goes off. What's the task switching cost?
-    - What tolerances are there? E.g.:
-        - Can I make this component ahead of time? How far ahead? 
-        - Can this cook for 40 minutes instead of 35?
-    - Can components share equipment? E.g. there's a [ChefSteps eggs benedict recipe][eb] where everything gets cooked at 64°C. That means that you can do everything in the same pot with one circulator. The "[Perfect Hollandaise][ph]" recipe asks for 75°C, but that would need an extra circulator for the eggs.
+-   Information structure (is this the right term?)
 
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HDmP0zZMw1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        vs
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9DLRL2shlPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        - Does those shared pieces of equipment have limits? I can only put so many trays in the fridge (space), so many cookies in the oven (power).
-- User
-    - Does the representation actually make it easier to understand and plan a cook?
-    - Is there a lot of user specific information? Can cook _A_ mince a shallot faster than cook _B_? (Do we end up with a bunch of comparative advantage issues here?)
+    -   How do you plan the interaction between your recipes?
+    -   How do you plan the interaction between the cook[s] and the things they're making?
+    -   Can the recipes be broken into components?
+        -   Do those components consist of tasks? Processes? It's semantic, but does a task require an agent's involvement? Is being in the oven a task? What's the right word to make this idea flow into people's minds?
+    -   Can components be interrupted? I can stop chopping a carrot to take something out of the oven if a beeper goes off. What's the task switching cost?
+    -   What tolerances are there? E.g.:
+        -   Can I make this component ahead of time? How far ahead?
+        -   Can this cook for 40 minutes instead of 35?
+    -   Can components share equipment? E.g. there's a [ChefSteps eggs benedict recipe][eb] where everything gets cooked at 64°C. That means that you can do everything in the same pot with one circulator. The "[Perfect Hollandaise][ph]" recipe asks for 75°C, but that would need an extra circulator for the eggs.
 
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HDmP0zZMw1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          vs
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9DLRL2shlPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          - Does those shared pieces of equipment have limits? I can only put so many trays in the fridge (space), so many cookies in the oven (power).
+
+-   User
+    -   Does the representation actually make it easier to understand and plan a cook?
+    -   Is there a lot of user specific information? Can cook _A_ mince a shallot faster than cook _B_? (Do we end up with a bunch of comparative advantage issues here?)
 
 ## First thoughts
 
@@ -74,7 +75,7 @@ TODO: Talk to some chefs
 
 # Examples
 
-## Cooking for engineers 
+## Cooking for engineers
 
 ![]({{ site.baseurl }}/assets/20/cooking table for engineers.png)
 
@@ -86,24 +87,21 @@ More professional recipe books assemble dishes out of sub recipes. This makes it
 
 ## Recipe schema
 
-[Schema.org has a markup for recipes](https://schema.org/Recipe) which makes recipes parsable by a computer by adding semantic tags to each part of the recipe. 
+[Schema.org has a markup for recipes](https://schema.org/Recipe) which makes recipes parsable by a computer by adding semantic tags to each part of the recipe.
 
 It has tags for: `cookTime`, `cookingMethod`, `nutrition`, `recipeCategory`, `recipeCuisine`, `recipeIngredient`, `recipeInstructions` and `recipeYield`. Those are the specific recipe tags, Schema.org has inheritance, so it inherits a whole bunch from more general things, like `HowTo` and `CreativeWork`. There's an example of a marked up recipe at the bottom of the page, have a look.
 
 The only one that's actually interested in _how_ the food gets cooked is `recipeInstructions`. That's defined as:
 
-| | |
-|--|--|
-| `CreativeWork` or `ItemList` or `Text` | 	A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items.|
+|                                        |                                                                                                                                                |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| `CreativeWork` or `ItemList` or `Text` | A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items. |
 
 Even the most structured (`ItemList`) is just a list. If we want more structured/nuanced way of describing things we need to layer on metadata from elsewhere.
-
 
 # Solution ideas
 
 I think the ChefSteps process of having a list of ingredients, equipment, yield, active and inactive time at the top of the recipe is a good start.
-
-
 
 [jswo]: https://www.google.com/search?q=job+shop+algorithm+with+operators&rlz=1C1CHBF_en-GBAU804AU804&oq=job+shop&aqs=chrome.0.69i59l2j69i57j0l2j69i60j69i61l2.2023j0j7&sourceid=chrome&ie=UTF-8
 [jss]: https://en.wikipedia.org/wiki/Job_shop_scheduling
@@ -111,5 +109,7 @@ I think the ChefSteps process of having a list of ingredients, equipment, yield,
 [ta]: https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=000076
 [ph]: https://www.chefsteps.com/activities/perfect-hollandaise
 [eb]: https://www.chefsteps.com/activities/can-t-f-it-up-eggs-benedict
+
 [^cyfn]: I think it was when he called in to Cooking Issues, but I wouldn't trust anything I say!
+
 [cy]: https://twitter.com/chefchrisyoung

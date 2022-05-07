@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags: []
 description:
-
 ---
+
 <p>I just found a piece of my work <a href="http://ecoinnovationlab.com/design-studios/meals-in-metropolis" target="_blank">published on the VEIL website</a>!</p>
 <p>It's a proposal to reuse multistory carparks as mushroom farms until they are demolished and replaced with something more usefull than inner city parking.</p>
 <p>There is more detail on the VEIL site about the project.</p>

@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-- geek
+    - GC
+    - geek
 description:
 meta:
-dsq_thread_id: '4503552955'
-
+dsq_thread_id: "4503552955"
 ---
+
 <p>I was sat in the airport after SG, trying to figure out the logistics of the tutor group meeting up. Where would be the most logical place to go?</p>
 <p>As I'd been thinking about geeky problems for the preceding week, my brain was fixed into that way of thinking, and started on trying to figure out the centroid of people's locations on the globe. This one seemed easy until I tried to think it through and realised that there was a big stick in the spokes.</p>
 <p>The seam!</p>
@@ -39,13 +39,13 @@ dsq_thread_id: '4503552955'
 {
    Point workingSet = point01; //make the random points be our set of points to test
 
-   Point finalPt = new Point("CentroidPt");// get a point ready to give to the world
-   while (workingSet.Count &gt;= 2) //once we are down to two at the top, one will come out of the bottom
-   {
-      int indexEnum = Series(0,workingSet.Count-1,1);     //
-      int indexOne = indexEnum[Random(workingSet.Count)]; //this section makes sure we have picked
-      indexEnum = RemoveAt(indexEnum,indexOne);           //two unique points from the set
-      int indexTwo = indexEnum[Random(workingSet.Count)]; //
+Point finalPt = new Point("CentroidPt");// get a point ready to give to the world
+while (workingSet.Count &gt;= 2) //once we are down to two at the top, one will come out of the bottom
+{
+int indexEnum = Series(0,workingSet.Count-1,1); //
+int indexOne = indexEnum[Random(workingSet.Count)]; //this section makes sure we have picked
+indexEnum = RemoveAt(indexEnum,indexOne); //two unique points from the set
+int indexTwo = indexEnum[Random(workingSet.Count)]; //
 
       //set a workign plane based on those points
       Plane tempPlane = new Plane().ByOriginXYPoints(baseCS, workingSet[indexOne], workingSet[indexTwo]);
@@ -60,6 +60,7 @@ dsq_thread_id: '4503552955'
       //test to see which arc is shortest
       Point childPt = new Point();
       if (tempArc1.Length</pre>
+
 <p>I can't see any problems with this except that it's not going to be very fast, and it relies heavily on geometry libraries. There must be a faster way, although I think this is likely to be the most easily understood solution.</p>
 <h2 class="forum-post-panel-main clear-block">solution 2 -  mean vector</h2>
 <p class="forum-post-panel-main clear-block">I think this will work, but I'm not sure, there are some indications from a GC model that there is something fishy about it, and I can think of situations where it might fail.</p>

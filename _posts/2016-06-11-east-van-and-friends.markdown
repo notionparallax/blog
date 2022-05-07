@@ -11,13 +11,14 @@ tags: []
 #this goes on the index page, and into facebook shares
 description: How many words can you pair up like the East Van Sign?
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: How many words can you pair up like the East Van Sign?
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/east-van1.jpg
 ---
+
 <style type="text/css">
     .definition{
       border-bottom: 2px solid;
@@ -68,10 +69,13 @@ If you want to make your own, go right ahead. It'll find you a matching word for
 
 <label for="across">Across<input type="" name="across"></label>
 <label for="down">Down<input type="" name="down"></label>
+
 <!-- <label><input type="checkbox" id="cb-basic"  value="basic" > Basic</label><br> -->
+
 <label for="cb-manual">Full manual<input type="checkbox" id="cb-manual" value="manual"></label>
 
 Tick this if you want to be able to write in both boxes without it generating you the other word.
+
 </div>
 </div>
 

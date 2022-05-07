@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- personality
-- psychology
-- testing
-
+    - personality
+    - psychology
+    - testing
 ---
+
 <p>A lot of the psych papers that have been referenced by Robin Hanson over at Overcoming Bias recently have segregated their results according to the <a href="http://en.wikipedia.org/wiki/Big_Five_personality_traits">Five Factor Model</a> particularly <a href="http://en.wikipedia.org/wiki/Openness_to_experience">Openness to experience</a>. In my mental model of my personality I hold myself to be very open to experience, but the test (administered <a href="http://www.personalitytest.net/ipip/ipipneo120.htm">here</a> by the <a href="http://www.personalitytest.net/">Personality Test Centre</a>) said the opposite.</p>
 <p>'Emotionality' is one of the factors in 'Openness', for which I scored 0 (so surprise there sadly), I also got 0 for Anxiety &amp; Dutifulness.</p>
 <p>If you are interested in the full results, look below the fold</p>

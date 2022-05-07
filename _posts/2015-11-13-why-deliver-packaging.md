@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- delivery
-- future
-- Packaging
+    - delivery
+    - future
+    - Packaging
 description:
 ---
 
@@ -23,7 +23,5 @@ The selling is all done on the website[^2]. That means that there is some amount
 Because I can order smaller and more frequently it should reduce waste, reduce inventory needed at all points in the chain. I think everyone wins. I like this future, it apeals to my sense of eficiency. The only people I can see who lose out are the people who make flashy cardboard boxes!
 
 [^1]: or in the showroom/shop. There will be new ways of finding out about products that we aren't thinking about right now, but I doubt they'll carry inventory that you'll take with you right then!
-
 [^2]: I'm really coming across as a yuppy dick here aren't I.
-
 [^3]: there's precedent in <a href="http://www.bbc.com/news/uk-scotland-tayside-central-11552610">pharmacy robotics in large hospitals</a>

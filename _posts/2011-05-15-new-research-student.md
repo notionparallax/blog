@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- interaction
-- research
-- student
-- teaching
-
+    - architecture
+    - interaction
+    - research
+    - student
+    - teaching
 ---
 
 [![]({{ site.baseurl }}/assets/jay_ear.png) Jay](http://www.the10thletter.info/)

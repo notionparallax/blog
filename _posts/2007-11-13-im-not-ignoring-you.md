@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- hardware
-- life
-
+    - hardware
+    - life
 ---
+
 <p>If anyone tries calling me in the next few days, there is only a very tiny chance that I will pick up.</p>
 <p><img src="{{ site.baseurl }}/assets/n541400612_1641463_9558.jpg" height="604" width="400" /></p>
 <p>I've cracked the screen on my phone, and as it was in silent mode when it happened, the only way I can tell if someone is calling is by the screen flashing.</p>

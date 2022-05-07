@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags: []
 description: "I'm Digitising Jonathan Glover's book, _What Sort of People Should There Be?_ I really enjoyed this book when I read it about 8 years ago. I wanted to read it again but it's out of print."
-
 ---
 
 I'm Digitising [Jonathan Glover's book](http://www.jonathanglover.co.uk/books/what-sort-of-people-should-there-be), _What Sort of People Should There Be?_
@@ -19,7 +18,7 @@ This is an attempt to make it into an electronic version, eventually into an eBo
 
 [The readable part is here](https://notionparallax.github.io/people/).
 
-I'm doing the transfer via a very simple Jekyll site with a [GitHub repository that's here](https://github.com/notionparallax/people). 
+I'm doing the transfer via a very simple Jekyll site with a [GitHub repository that's here](https://github.com/notionparallax/people).
 
 All the content is in `_includes/` and then it's own file (named in an obvious way).
 

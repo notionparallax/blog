@@ -7,31 +7,23 @@ published: true
 status: publish
 categories: []
 tags:
-- dev
-- postednot.es
-- Product Management
-- Sydney
-- workshop
+    - dev
+    - postednot.es
+    - Product Management
+    - Sydney
+    - workshop
 description:
 meta:
-  _thumbnail_id: '1675'
-  _wpas_mess: I'm doing a workshop on 'How to become an internet millionaire in a
-    weekend' In Sydney soon. Want to come?
-  _publicize_facebook_user: https://www.facebook.com/ben.doherty1
-  _publicize_twitter_user: "@notionparallax"
-  
+    _thumbnail_id: "1675"
+    _wpas_mess:
+        I'm doing a workshop on 'How to become an internet millionaire in a
+        weekend' In Sydney soon. Want to come?
+    _publicize_facebook_user: https://www.facebook.com/ben.doherty1
+    _publicize_twitter_user: "@notionparallax"
 
-  
-
-  
-
-  
-
-  
-
-  dsq_thread_id: '4503553548'
-
+    dsq_thread_id: "4503553548"
 ---
+
 <p>Have you ever had a great idea for a website or a product, but were put off by not being sure it would work or not having the technical chops to make it a reality? </p>
 <p>A couple of weeks ago I did an experiment into how _much_ website I could build on how _little_ infrastructure. Out of that was born: <a href="http://postednot.es">postedNot.es</a></p>
 <p>I'm going to run a workshop on the 23<sup>rd</sup> and 24<sup>th</sup> of August. It will take you from knowing nothing about product discovery or web design/development to having a working webpage. It'll be able to take money and analyse customers' journeys.</p>

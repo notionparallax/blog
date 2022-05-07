@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- GC
-- geek
-- hardware
-- making
-- smart geometry
-- trips
-
+    - architecture
+    - GC
+    - geek
+    - hardware
+    - making
+    - smart geometry
+    - trips
 ---
+
 <p><img src="{{ site.baseurl }}/assets/IMG_2039.JPG" alt="" width="490" /></p>
 <p>It is all in full swing, but here are some amazing pictures from SG this year!</p>
 <p><a href="http://picasaweb.google.com/iaacsmartgeometry">the picassa albums</a></p>

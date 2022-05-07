@@ -1,21 +1,21 @@
 ---
 layout: post
-title: 'Technical debt: stealing from ourselves'
+title: "Technical debt: stealing from ourselves"
 date: 2015-07-24 06:20:38.000000000 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags:
-- BVN
+    - BVN
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'Technical debt: stealing from ourselves'
-  _thumbnail_id: '1810'
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: "Technical debt: stealing from ourselves"
+    _thumbnail_id: "1810"
 ---
+
 <p>Technical debt is a concept that's pretty well established in programming teams. Technical debt is a lot like sleep debt; where you burn the candle at both ends for a while. No matter how much you would like to, you can't keep it up forever. Eventually you'll fall asleep in a meeting or while driving.  You can think of the effects like a loan too, as you get less sleep and become more tired, you end up paying interest on that sleep loan in the form of irritability or lowered effectiveness. In the end the cost of interest becomes more than the benefits of not sleeping.</p>
 <p>Technical debt is just the same. If you write bad code just to get the job done then that's fine[1. Doing something perfectly first time around is often not a good idea anyway as you are still trying to work out if it's worth doing at all!] but if you keep it then you should tidy it up.</p>
 <p>There are a few terrific primers on technical debt that can do a much better job of explaining it than I can. This one's my favourite: <a href="https://medium.com/@joaomilho/festina-lente-e29070811b84">**Technical debt 101** A primer about technical debt, legacy code, big rewrites and ancient wisdom for non technical managers</a>.</p>
@@ -66,12 +66,7 @@ meta:
 <p><a href="https://www.linkedin.com/in/antonandrews">Anton</a> brought up one way that we could do this at the Futures Forum. <a href="http://www.ukessays.com/essays/business/performance-review-of-the-spanish-zara-brand-business-essay.php">Zara</a>[^5] runs their teams well below capacity. This allows them to be much more responsive to market needs. If were to build more slack into our operations then maybe we could use it for sharing knowledge. By encoding the things we learn on projec
 
 [^1]: Doing something perfectly first time around is often not a good idea anyway as you are still trying to work out if it's worth doing at all!
-
 [^2]: I like the pragmatic approach - the truth is what's useful
-
 [^3]: "Technical theft" is a legal term for an accidental theft as opposed to premeditated theft, but that's not how I mean it here.
-
 [^4]: I don't have an answer!
-
 [^5]: I love that the guy who made the recommendation to Zara that they should run their teams with operational slack to improve their responsiveness is called.... Nigel Slack!!!
-

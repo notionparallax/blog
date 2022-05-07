@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- building
-- built
-- GC
-- glass
-- Melbourne
-
+    - architecture
+    - australia
+    - building
+    - built
+    - GC
+    - glass
+    - Melbourne
 ---
+
 <p><a href="http://www.walkingmelbourne.com/forum/viewtopic.php?f=23&amp;t=5944"><img class="alignnone" src="{{ site.baseurl }}/assets/5455271ml1223600552.jpg" alt="" width="45%" /></a><a href="http://www.tourism.vic.gov.au/piecesofvictoria/december_2009/index.php?page=melbournes_newest_asian_cuisine_and_retail_complex"><img class="alignnone" src="{{ site.baseurl }}/assets/Village%20redevelopment%20-%20artist%20impression.jpg" alt="" width="45%" /></a></p>
 <p><a href="http://www.trishnicolagency.com.au/clientgallery/206-Bourke-Street/"><img class="alignnone" src="{{ site.baseurl }}/assets/img_814.jpg" alt="" width="45%" /></a><a href="http://www.heraldsun.com.au/news/redeveloped-bourke-tops-mayoral-menu/story-e6frfk9f-1111117934900"><img class="alignnone" src="{{ site.baseurl }}/assets/206-Bourke-St-6332420.jpg" alt="" width="45%" /></a></p>
 <p><a href="http://www.realcommercial.com.au/property-retail-vic-melbourne-5753023"><img class=" wp-image-788 alignleft" title="206" src="{{ site.baseurl }}/assets/206.jpg" alt="" width="45%" /></a> When I first arrived in Melbourne I did a couple of weeks in an office in return for a room to stay in. I did a bit of ordinary drawing, and a funny little project that was supposedly a pitch for an Apple store (The first in Australia at the time).</p>

@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- history
+    - architecture
+    - history
 description:
 meta:
-dsq_thread_id: '4503552154'
-
+dsq_thread_id: "4503552154"
 ---
 
 Here are the notes and audio that I took at the talk this evening at the Museum of the History of Science by Dr Stephen Johnston - Architecture as Instrument.
@@ -21,7 +20,7 @@ Here are the notes and audio that I took at the talk this evening at the Museum 
 "Dr Johnston is one of Compass and Rule’s curators. He discusses how the ingenuity of instrument makers was tied to the world of architectural design."
 </blockquote>
 
-This is the <a href="http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/MLSOverviewPage?sid=qgWlX1gpp7wq">link </a>to the file 
+This is the <a href="http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/MLSOverviewPage?sid=qgWlX1gpp7wq">link </a>to the file
 
 <div class="pencast">
 <a href="http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/MLSOverviewPage?sid=qgWlX1gpp7wq" target="_blank">Compass and rule talk</a>

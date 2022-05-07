@@ -30,7 +30,6 @@ featuredimg: 16/Dobryna.jpg
 ![]({{ site.baseurl }}/assets/16/Physics-ball-drop-experiment-gone-wrong.gif)
 </figure>
 
-
 We can think of _work_ the way it's taught in at school in physics. We can think of the idea of the force that moves something from one place to another in a more general way too. You can also think of the act of moving your _mind_ from one state to another as work.
 
 All writing does some work[^1]. Non fiction explains or documents something, fiction simulates a world that doesn't exist.
@@ -67,30 +66,24 @@ Given that it's doing such important work, it seems odd that it's not given more
 </figure>
 
 [^schools]: Maybe it could be taught outside English classes under a different banner.
-
 [^6]: This opens up a realm of SF physics. Certain minds are more easily moved (less inertia), but different minds would be moved by different amounts. Stories would have different abilities to move minds per page, perhaps this could be thought of as power? And so on.
-
-
 [^5]: The oft quoted Gibson line about the distribution of the future comes into play here. I'd imagine that Sergey Brin's experience of the world is very different to my dad's, even though they both live in the same 2016. I'd imagine that a truthful description of Brin's day would read as implausible science fiction to my dad!
-
-[^4]: I was going to just put in [this link to the Wikipedia article](https://en.wikipedia.org/wiki/Sensitivity_analysis) but it's not obvious what sensitivity testing does if you haven't come across it before. An intuitive way to understand it is that if you have a system of some sort, the internal workings are like a black box. You have _lots_ of buttons and levers on the front of the box, and an outcome is pooped out of the back of the box. Sensitivity analysis is wiggling the levers and pressing the buttons to find out what effect they have on the outcome.
+[^4]:
+    I was going to just put in [this link to the Wikipedia article](https://en.wikipedia.org/wiki/Sensitivity_analysis) but it's not obvious what sensitivity testing does if you haven't come across it before. An intuitive way to understand it is that if you have a system of some sort, the internal workings are like a black box. You have _lots_ of buttons and levers on the front of the box, and an outcome is pooped out of the back of the box. Sensitivity analysis is wiggling the levers and pressing the buttons to find out what effect they have on the outcome.
 
     [![](https://upload.wikimedia.org/wikipedia/commons/b/be/Hoekens_linkage_animated.gif)](https://en.wikipedia.org/wiki/Chebyshev%27s_Lambda_Mechanism)
 
     In a simple system it'll be easy to intuit what's going on inside, but most systems aren't that obliging. Complex interactions, even in simple systems, make it hard to intuit results. This is especially true when you get to places where one variable is zero or something strange like that.
 
-
 [^3]: Something like Greg Egan's [Diaspora](http://amzn.to/29Q41mW). This is an essentially unrecognisable <strike>world</strike> universe where software beings explore new worlds and come into contact with other possible lifeforms. (E.g. computational, 1d cellular automata sponges and other ways that life _could_ be but we don't encounter.) This still does work by presenting analogies to the present day, but also by just looking a lot further ahead---some kind of extreme strategy thinking.
-
 [^2]: A collection of short stories sponsored by Microsoft. It publicises their translation technology in Skype, quantum computing etc. It worked really well because it forces a very long period of engaged thinking about the possibilities unlocked by a real life Babel fish. The stories are good, and it's free too!
-
 [^1]: Assuming that someone actually reads it. You could also argue that the work is done on the writer; I'd certainly go along with that otherwise I'd stop writing this blog!
+[^lit]:
+    Literary fiction has been show to have an [effect on capacity for empathy](http://well.blogs.nytimes.com/2013/10/03/i-know-how-youre-feeling-i-read-chekhov/?_r=0). I'm a little sceptical of the specificity of this result, but I haven't ready anything about it since it was announced a few years ago. My guess is that they divided the complete corpus into _good literary fiction_ and _everything else_. The empathy gain probably comes from it being good, not that it's not genre fiction.
 
-[^lit]: Literary fiction has been show to have an [effect on capacity for empathy](http://well.blogs.nytimes.com/2013/10/03/i-know-how-youre-feeling-i-read-chekhov/?_r=0). I'm a little sceptical of the specificity of this result, but I haven't ready anything about it since it was announced a few years ago. My guess is that they divided the complete corpus into _good literary fiction_ and _everything else_. The empathy gain probably comes from it being good, not that it's not genre fiction.
-
-    ><b>Literary fiction</b> comprises <a href="/wiki/Fiction" title="Fiction">fictional works</a> that hold <a href="/wiki/Literary_merit" title="Literary merit">literary merit</a>; that is, they involve <a href="/wiki/Social_commentary" title="Social commentary">social commentary</a>, or <a href="/wiki/Political_criticism" title="Political criticism">political criticism</a>, or focus on the <a href="/wiki/Human_condition" title="Human condition">human condition</a>. Literary fiction is deliberately written in dialogue with existing works, created with the above aims in mind and is focused more on themes than on plot, and it is common for literary fiction to be taught and discussed in schools and universities.
-    > 
-    >Literary fiction is usually contrasted with popular, commercial, or <a href="/wiki/Genre_fiction" title="Genre fiction">genre fiction</a>. Some have described the difference between them in terms of analyzing reality (literary) rather than escaping reality (popular). The contrast between these two subsets of fiction is <a href="/wiki/Western_canon#Debate" title="Western canon">controversial</a> among critics and scholars.
+    > <b>Literary fiction</b> comprises <a href="/wiki/Fiction" title="Fiction">fictional works</a> that hold <a href="/wiki/Literary_merit" title="Literary merit">literary merit</a>; that is, they involve <a href="/wiki/Social_commentary" title="Social commentary">social commentary</a>, or <a href="/wiki/Political_criticism" title="Political criticism">political criticism</a>, or focus on the <a href="/wiki/Human_condition" title="Human condition">human condition</a>. Literary fiction is deliberately written in dialogue with existing works, created with the above aims in mind and is focused more on themes than on plot, and it is common for literary fiction to be taught and discussed in schools and universities.
+    >
+    > Literary fiction is usually contrasted with popular, commercial, or <a href="/wiki/Genre_fiction" title="Genre fiction">genre fiction</a>. Some have described the difference between them in terms of analyzing reality (literary) rather than escaping reality (popular). The contrast between these two subsets of fiction is <a href="/wiki/Western_canon#Debate" title="Western canon">controversial</a> among critics and scholars.
 
     [Wikipedia - Literary fiction](https://en.wikipedia.org/wiki/Literary_fiction)
 

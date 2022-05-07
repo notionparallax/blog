@@ -11,11 +11,11 @@ tags: []
 #this goes on the index page, and into facebook shares
 description: A startup idea that I'm too lazy to implement
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: A startup idea that I'm too lazy to implement
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/radioempire.jpg
 ---
 
@@ -27,7 +27,7 @@ I had this idea a little while ago, but I doubt I'll ever get around to doing an
 
 # Problem
 
-The latter type need a bit of help! No matter how fancy you get with digital phones and recording setups, the audio quality will always be a bit crap for the person who's calling in. 
+The latter type need a bit of help! No matter how fancy you get with digital phones and recording setups, the audio quality will always be a bit crap for the person who's calling in.
 
 _But_ most podcasts aren't live. Why not record the audio at high quality at both ends. There's no need to have all the sound mixed immediately, so just don't.
 
@@ -52,6 +52,7 @@ Once you've got a series of content segments then it's easy to concatenate them 
 That's still not that hard, but it's not core business for Skype, or anyone else who's into being a phone/messaging company.
 
 # Other things
+
 Once you've got an interface for editing audio, you can make new kinds of product. The one that interests me most at the moment is something I'm calling 'yep' for the moment.
 
 This is for instructional audio and videos. You press play, it tells you what step one is, then it pauses and waits for you to say something (_yep_).
@@ -69,8 +70,7 @@ Initially it'd be linear, but there's no reason that you wouldn't go into things
 > is it looking good now?
 
 > yep
- 
+
 ... and then back onto the regular story
 
 and so on.
-

@@ -7,14 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- Helmuth von Moltke
-- Hierarchy
-- management
-- Network
-- Stan McChrystal
-- thinking
+    - Helmuth von Moltke
+    - Hierarchy
+    - management
+    - Network
+    - Stan McChrystal
+    - thinking
 description:
-
 ---
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>
@@ -91,7 +90,7 @@ Moltke on the Art of War, <cite>Helmuth von Moltke</cite>, 1859-70
 
 Everyone has been giving General McChrystal a lot of credit for these sorts of ideas. He did an excellent job of implementing them, but as far as I can tell the credit needs to go to [Helmuth von Moltke the elder](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder).
 
-Von Moltke was a big deal in the [Franco Prussian War](https://en.wikipedia.org/wiki/Franco-Prussian_War). His quote above has morphed into: “No plan survives first contact with the enemy” which is a bit snappier. In the intro to my version of [Moltke on the Art of War](http://www.amazon.com/gp/product/0891415750/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0891415750&amp;linkCode=as2&amp;tag=notioparal-20&amp;linkId=X6LKUABXII7DBF4V) the editor says:
+Von Moltke was a big deal in the [Franco Prussian War](https://en.wikipedia.org/wiki/Franco-Prussian_War). His quote above has morphed into: “No plan survives first contact with the enemy” which is a bit snappier. In the intro to my version of [Moltke on the Art of War](http://www.amazon.com/gp/product/0891415750/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0891415750&linkCode=as2&tag=notioparal-20&linkId=X6LKUABXII7DBF4V) the editor says:
 
 <figure>
 <blockquote>New guidelines established two points that became the hallmarks of Moltke’s ideas on command. Commanders should order as little as possible (leaving details to subordinate commanders) and they should take care to limit their orders to what was practicable.
@@ -109,7 +108,7 @@ Daniel Hughes, <cite>Moltke on the Art of War</cite>
 </figcaption>
 </figure>
 
-What he’s saying is that the further from the action you are, the more abstract your directions should be. It’s a fancy way of saying don’t micro-manage people. Hughes goes on to say <q>Moltke was willing to allow subordinate commanders to deviate from the details of his directives so long as their actions were consistent with his overall concept.</q>. I’d say that “consistent with his overall concept” is in line with what I see “consistent with the stated purpose” doing for any other organisation. It’s pushing agency into the network. Diffusing decision making to the people best equipped to make those choices. There is a much better treatment of this in Superforcasters by Philip Tetlock. He says that when military people consult for business the businesses struggle with their preconceptions.  Getting them to abandon their command-and-control hierarchies is hard. Strange that the military has been doing for over a century now!
+What he’s saying is that the further from the action you are, the more abstract your directions should be. It’s a fancy way of saying don’t micro-manage people. Hughes goes on to say <q>Moltke was willing to allow subordinate commanders to deviate from the details of his directives so long as their actions were consistent with his overall concept.</q>. I’d say that “consistent with his overall concept” is in line with what I see “consistent with the stated purpose” doing for any other organisation. It’s pushing agency into the network. Diffusing decision making to the people best equipped to make those choices. There is a much better treatment of this in Superforcasters by Philip Tetlock. He says that when military people consult for business the businesses struggle with their preconceptions. Getting them to abandon their command-and-control hierarchies is hard. Strange that the military has been doing for over a century now!
 
 # A modern example
 
@@ -119,15 +118,10 @@ What he’s saying is that the further from the action you are, the more abstrac
 
 This is all pretty in depth, I’m amazed that you’ve made it this far! Perhaps I’ve convinced you that having a clear purpose is useful. Not just as a marketing tool, but as a force that aligns all the nodes in your network.
 
-
 [^1]: It put into words an idea that I've had for a while. I wonder if there's a word for that?
-
 [^2]: I’ve talked at length about this, but the headlines/sound-bytes are: “If you don’t trust the people you work with then you are working in the wrong place”, “That kind of behaviour went out with the Gestapo”, etc. I think that by making information more freely available within a company, better decisions will be made–no caveats. If you think that there is anything gained from hiding information then I’d love to hear the arguments, maybe I’ll change my mind!
-
 [^3]: depending on how you are holding your mental tree
-
 [^4]: Stan's chief of staff, <a href="https://twitter.com/fussellchris">Chris Fussell</a> wrote a thesis about it: <a href="http://handle.dtic.mil/100.2/ADA514114">What Makes Fusion Cells Effective?</a> (PDF)
-
 [^5]: In the case of fusion centres, they will also try to get it to the right person. Something that journalists aren't _yet_ able to do; I bet they will soon though!
 
 <script type="text/javascript" src="../js/posts/von-moltke/animate-arrow.js"></script>

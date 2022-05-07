@@ -11,11 +11,11 @@ tags: []
 #this goes on the index page, and into facebook shares
 description: Have you ever wanted to know about indoor location tracking? I want to know too, so I'm making an email newsletter of all the best stuff that I find.
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: Have you ever wanted to know about indoor location tracking? I'm making a newsletter of all the best stuff.
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/FozzyInBlack.jpg
 ---
 
@@ -36,7 +36,7 @@ Newsletters are cool these days, or so I'm told. Google Inbox even has special n
 
 There's nothing in there just now, so you get to be able to say `first` whenever you feel like it. Maybe just in public, like on the bus, in a lull in conversation, that kind of thing.
 
-I'm going to try to cover all the latest stuff (Easy this week with all the stuff coming out of IO), some old stuff that's still interesting, academic papers that are important and I might throw in a random but interesting thing from somewhere else completely. 
+I'm going to try to cover all the latest stuff (Easy this week with all the stuff coming out of IO), some old stuff that's still interesting, academic papers that are important and I might throw in a random but interesting thing from somewhere else completely.
 
 ![fozzy bear dressed as a MiB]({{ site.baseurl }}/assets/{{page.featuredimg}})
 

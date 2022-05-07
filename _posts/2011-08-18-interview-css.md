@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- CSS
-- internet
-- trick
-
+    - CSS
+    - internet
+    - trick
 ---
+
 <p>If you were looking for some wise words about Brazilian electro then I'm terribly sorry :(</p>
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/08/cssUL.jpg"><img class="alignright size-full wp-image-757" title="This is a grab, but you can see it for real after the jump" src="{{ site.baseurl }}/assets/cssUL.jpg" alt="" width="265" height="146" /></a>I'm typing up some interviews at the moment, and while I was doing my dip thesis (a long time ago) I read an <a href="http://www.alistapart.com/articles/taminglists/">a list apart</a> article about lists and styling lists. At the same time I was using a javascript library to do the verification on my forms written by <a href="http://tetlaw.id.au/">Andrew Tetlaw</a>. By a stroke of such enormous coincidence that I was really very surprised by it, Andrew is now the web guy for BVN. </p>
 <p>We talked through some stuff today and thought that you could make a CSS selector that would do the normal interview typesetting without too much effort.</p>

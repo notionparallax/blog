@@ -1,20 +1,21 @@
 ---
 layout: post
-title: 'Major study: Design under conditions of uncertainty: Calibration, design &
- hitting a moving target in the dark'
+title:
+    "Major study: Design under conditions of uncertainty: Calibration, design &
+    hitting a moving target in the dark"
 date: 2015-10-29 08:00:52 +11:00
 type: post
 published: true
 status: publish
 categories: []
 tags:
-- major study
-- overconfidence
-- Oxford Brookes
-- psychology
+    - major study
+    - overconfidence
+    - Oxford Brookes
+    - psychology
 description: My major study thesis, it explores architects' decision making calibration.
-
 ---
+
 <style type="text/css">
  td {
  vertical-align:
@@ -91,7 +92,6 @@ article.post .finetti blockquote {
 }
 </style>
 
-
 At Oxford Brookes they have figured out that doing another year of design studios won't make much of a difference, so in your diploma you do a year of actually learning something. There are a few options to take that are basically the taught component of a masters degree (write a thesis on top and you get an MA!). The option I took (on 2009-10) was to do a Major Study. This was a chance to spend a whole academic year looking into a research topic of my own choosing. I had an excellent cohort with me, some of the other projects were about _design for agrophobia_ and how public outpourings of grief worked (e.g. Diana).
 
 My topic started off as future prediction methods, but morphed into overconfidence. I think it was because being properly calibrated was necessary to get one's future predictions right. (I say "think" because it was over 5 years ago now.)
@@ -101,7 +101,6 @@ As I said with my <a href="http://notionparallax.co.uk/?p=1928">undergrad disser
 I'm a lot less arrogant in this than I was in 2005, but still more than I am now! That said, I'm still pretty pleased with how this turned out.
 
 <img src="{{ site.baseurl }}/assets/front-page1.png" alt="front-page" />
-
 
 # <a name="Toc260017668"></a>Design under conditions of uncertainty:<br />Calibration, design &amp; hitting a moving target in the dark
 
@@ -118,6 +117,7 @@ This Major Study is an original piece of work which is made available for copyin
 Signed
 
 ## Table of Contents
+
 <ul class="toc">
 <li><a href="#Toc260017668">Design under conditions of uncertainty: Calibration, design &amp; hitting a moving target in the dark</a>
 <ul>
@@ -249,6 +249,7 @@ F A Hayek, <cite>The Fatal Conceit</cite>
 </figure>
 
 Decision making is at the heart of the design process and therefore I propose that being well calibrated (Lichtenstein, Fischhoff, &amp; Phillips, 1981) is an important skill. Calibration is more fully defined further on, but very simply it is an awareness of how well one knows what one knows. I.e.not how well a mastermind competitor knows their chosen subjects but how objective they are about how much they know i.e. whether it should be their chosen subject on mastermind at all!
+
 <figure class="quote side">
 <blockquote>
 Where is the Life we have lost in living?
@@ -256,6 +257,7 @@ Where is the Life we have lost in living?
 Where is the wisdom we have lost in knowledge?
 
 Where is the knowledge we have lost in information?
+
 </blockquote>
 <figcaption><a href="http://en.wikiquote.org/wiki/T._S._Eliot#Choruses_from_The_Rock_.281934.29">T.S. Eliot</a>, <cite>"Choruses from 'The Rock'"</cite>
 </figcaption>
@@ -273,6 +275,7 @@ Beauty is not love,
 Love is not music,
 
 and Music is THE BEST.
+
 </blockquote>
 <figcaption>Frank Zappa, <cite>"Packard Goose"</cite>
 </figcaption>
@@ -326,9 +329,11 @@ It is important to emphasise that this study is not fundamentally about environm
 This paper is in two parts. The first explains the method used to test designers to ascertain their quality of knowledge about a specific realm, and analyses the results gathered from this. The second contains some suggestions on how cognitive biases that cause poor decisions might be avoided. Most of the available literature refers to economists, politicians, military generals and physicians, therefore the second part will contain some suggestions as to how these skills could be applicable to architects.
 
 Applications of this work could be found by designers wishing to reflect on their practice and allow this reflection to feed back into their design process. It also has uses for building simulation. As most buildings are prototypes, making verified models that we have an idea of how much confidence we ought to put into them will allow for our relationship with these prototypes to be more fruitful.
+
 <div class="hypothesis">
 
 ## <a name="Toc260017673"></a>Hypothesis
+
 <p class="hypothesis">Designers are over-confident about the extent of their knowledge about renewable energy technology, building performance issues and associated legislation.</p>
 </div>
 
@@ -357,6 +362,7 @@ One area of design that could potentially benefit from better calibration is the
 **The rules of the game**
 
 One way, that’s kind of a fun analogy in trying to get some idea of what we’re doing in trying to understand nature, is to imagine that the gods are playing some great game like chess, let’s say, and you don’t know the rules of the game, but you’re allowed to look at the board, at least from time to time, in a little corner,perhaps, and from these observations you try to figure out what the rules of the game are, what the rules of the pieces moving are. You might discover after a bit, for example, that when there’s only one bishop around on the board that the bishop maintains its color. Later on you might discover the law for the bishop as it moves on the diagonal which would explain the law that you understood before-that it maintained its color- and that would be analogous to discovering one law and then later finding a deeper understanding of it. Then things can happen, everything’s going good, you’ve got all the laws, it looks very good, and then all of a sudden some strange phenomenon occurs in some corner, so you begin to investigate that-it’s castling, something you didn’t expect. We’re always, by the way, in fundamental physics, always trying to investigate those things in which we don’t understand the conclusions. After we’ve checked them enough, we’re okay.
+
 </blockquote>
 <figcaption><cite>The Pleasure of Finding Things Out</cite>, (Feynman, 1981)
 </figcaption>
@@ -370,7 +376,7 @@ This is illustrated in the final section of the discussion chapter with an examp
 
 ## <a name="Toc260017678"></a>What is calibration?
 
-In the context of decision making, if a person makes a prediction, then when pressed they could also give a confidence in that prediction. If, over repeated judgements, that confidence correlates well with the frequency of those judgements being proven true, then that person is said to be well calibrated. Put another way, if I assign a 70% probability that I will be able to throw an apple core into the bin, and 70% of the time it goes in then I am well calibrated with regard to my apple core throwing abilities. If it goes in 100% of the time, then I am _under-confident_, if I miss most of the time and only get it in 40% of the time, then I am _over-confident_.
+In the context of decision making, if a person makes a prediction, then when pressed they could also give a confidence in that prediction. If, over repeated judgements, that confidence correlates well with the frequency of those judgements being proven true, then that person is said to be well calibrated. Put another way, if I assign a 70% probability that I will be able to throw an apple core into the bin, and 70% of the time it goes in then I am well calibrated with regard to my apple core throwing abilities. If it goes in 100% of the time, then I am _under-confident_, if I miss most of the time and only get it in 40% of the time, then I am *over-confident*.
 
 <figure>
 <img src="{{ site.baseurl }}/assets/dip/image007.png" alt="image007" />
@@ -390,6 +396,7 @@ In the context of decision making, if a person makes a prediction, then when pre
 Many people will initially assign an intuitive prediction that bears little resemblance to the actual probability of correctness, i.e. “I have complete confidence that I am right” corresponds to a 100% confidence, or “I have no confidence (0%) in that answer”. When pushed a little further people tend to weigh up their confidence more carefully. This can often be done by offering some form or reward for providing an accurate assessment of the likelihood of correctness as in De Finetti's game (Aczel, 1989; Paran, 2008). The effects of people’s intuitive swing to the extremes of confidence are discussed in the discussion chapter.
 
 #### De Finetti's game
+
 <figure class="quote finetti">
 <blockquote>
 <table>
@@ -437,6 +444,7 @@ As initial primary research practising architects were surveyed about their know
 The data gathered may reveal interesting correlations between accuracy of beliefs and accuracy of confidence. Extrapolating from previous studies of other fields I predict that accuracy will be low on both accounts but, to my knowledge, there is no data specific to architecture to corroborate this. Illusory superiority is a common trait in people all over the world (Sutherland, 1992). In one commonly cited study, 95% of motorists surveyed believed that they were above average drivers (when really only about 50% of them can be!) (Svenson, 1981). There is also substantial literature to suggest that other ‘expert’ professions are over-confident (Sutherland, 1992; Taleb, 2008 amongst others). The results of the survey might indicate a requirement to have a framework for designing under uncertainty.
 
 ### <a name="Toc260017683"></a>Method
+
 <figure class="quote side">
 <blockquote>
 
@@ -449,6 +457,7 @@ The data gathered may reveal interesting correlations between accuracy of belief
 <u>Two alternatives:</u> _“Absinthe is (a) a precious stone; (b) a liqueur.”_ With the <u>half-range</u> method, the assessor first selects the more likely alternative and then states the probability (a .5) that this choice is correct. With the <u>full-range </u>method, the subject gives the probability (from 0 to 1) that a prespecified alternative is correct.
 
 <u>Three or more alternatives:</u> _“Absinthe is (a) a precious stone; (b) a liqueur; (c) a Caribbean island; (d)…”_ Two variations of this task may be used: (1) the assessor selects the single most likely alternative and states the probability that it is correct, using a response ≤ 1/k for k alternatives or (2) the assessor assigns probabilities to all alternatives, using the range 0 to 1.
+
 </blockquote>
 <figcaption>From <cite>Calibration of Probabilities: The State of the Art to 1980<br />
 </cite> (Lichtenstein, Fischhoff, &amp; Phillips, 1981)
@@ -460,15 +469,18 @@ Calibrated probability assessment is well established in psychology (Lichtenstei
 I intend to use the methodology described in the introduction of ‘Calibration of Probabilities: The State of the Art to 1980’, specifically the ‘three or more alternatives’ _half-range_ method (see inset box for an explanation of other possible types of questioning) for testing, and then some standard statistical analysis on the results. It is well established, and will reduce any experimental error introduced by a novel methodology.
 
 An example of one of these questions is shown below. It is a two alternative, half range, calibration question:
+
 <div class="sample-question">
 
 Does an ice hockey puck fit into a golf hole?
+
 <ol>
 <li>yes</li>
 <li>no</li>
 </ol>
 
 What is your confidence in this answer?
+
 <ol>
 <li>50%</li>
 <li>75%</li>
@@ -518,6 +530,7 @@ It will be interesting to see if the industry specific calibration correlated wi
 <img class="size-full alignright" src="{{ site.baseurl }}/assets/dip/image010.png" alt="image010" />Due to the automatic marking of the questions and their aggregation there is essentially a zero cost to extra data collection. This is extremely beneficial as it allows for a huge amount of data to be collected, but it poses challenges as to how to sort that data. The first section of the questionnaire requires the subject to fill in some details.
 
 The following fields are required before the subject can move onto the next section of the quiz.
+
 <ul>
 <li>Role: Student, intern, assistant, associate, director, owner</li>
 <li>Field: Architecture, engineering, product design, policy making</li>
@@ -542,6 +555,7 @@ As I am collecting data from people, and this potentially has implications for r
 Once the study is over, the data will be anonymised, (company affiliations, and email addresses removed) and made public for other studies, or for data visualisations.
 
 This is the data safety statement from the website.
+
 <div class="sample-question">
 
 **Where does my data go?**_You've gone to the effort to do this quiz, so the least we can do is to go to the effort to keep your data safe._
@@ -551,11 +565,13 @@ The data you generate in the quiz gets emailed to us straight away, so there is 
 Eventually, once we have enough data to generate graphs and draw some conclusions from it we'll carefully anonymise it (remove your email address and company) and publish it as an open data source, probably through <a href="http://code.google.com/">Google data</a> or a similar system.
 
 When the project finishes its first stage, if you entered your email address then you'll get a copy of the report, along with your data compared to the aggregated data. Once that is done your personal data will be erased and that'll be the last you see of us, gone, just like that!
+
 </div>
 
 ### <a name="Toc260017689"></a>Buying time
 
 Calibrated probability assessment tests usually require relatively large datasets before they are sure to return any meaningful results. Also to assess the state of an industry as a whole, a large number of samples from that industry need to be taken so that _the law of large numbers_ helps to give an unbiased response. With this in mind, the test needs to be self propagating if possible, and the best way to do this is to provide something to the subject in return for their effort in filling in the form.
+
 <figure class="half-width left">
 <img src="{{ site.baseurl }}/assets/labeledareas.png" alt="labeledareas" />
 </figure>
@@ -571,11 +587,11 @@ Once the full set of questions is answered, they are marked by some simple back 
 
 ### <a name="Toc260017690"></a>Question sources
 
-As I intend to study the gap between designers knowledge and the currently accepted ‘facts’, the source of the questions will be from sources such as the IPCC Fourth Assessment Report, and other similarly conservative sources. The main obstacle is avoiding questions that are ambiguous or are ethical judgements, i.e. _climate change is: _a_) bad _b_) very bad _c_) made up_, as these are issues of opinion and values, rather than objective questions.
+As I intend to study the gap between designers knowledge and the currently accepted ‘facts’, the source of the questions will be from sources such as the IPCC Fourth Assessment Report, and other similarly conservative sources. The main obstacle is avoiding questions that are ambiguous or are ethical judgements, i.e. _climate change is: \_a_) bad _b_) very bad _c_) made up\_, as these are issues of opinion and values, rather than objective questions.
 
 ### <a name="Toc260017691"></a>Question design
 
-Design of a questionnaire that will lead to good quality data is important. I will need to ensure that there is a range of probabilities that the subject can answer the question correctly. If the difficulty of the questions is too polarised then there will be no data space to explore. Difficulty is hard to assess from an _a priori _position, but in this study it is treated as the proportion of the population that get the question right. An easy question will have a high proportion of correct answers, and vice versa. The distribution of numbers of correct answers will be a shown as a graph in the results.
+Design of a questionnaire that will lead to good quality data is important. I will need to ensure that there is a range of probabilities that the subject can answer the question correctly. If the difficulty of the questions is too polarised then there will be no data space to explore. Difficulty is hard to assess from an \_a priori _position, but in this study it is treated as the proportion of the population that get the question right. An easy question will have a high proportion of correct answers, and vice versa. The distribution of numbers of correct answers will be a shown as a graph in the results.
 
 <figure class="full-width">
 <img class="" src="{{ site.baseurl }}/assets/distributions-good.png" alt="distributions-good" />
@@ -595,9 +611,11 @@ Possible undesirable distributions of correct answers.
 The difficulty of the questions must be set so that it gives a good distribution of correct answers, If the results are too biased towards either end of the scale, or produce a spike of scores, then there is no way of extracting any meaningful data as it will be too tightly clustered to examine the differentiation.There ought to be a reasonable spread of results. This serves several goals. Firstly it makes the data meaningful as we can be relatively sure that we have captured the full range of respondents. Secondly, in order to make people forward this questionnaire to others, it is important that people will learn something, and feel good about themselves afterwards. These two aspirations are somewhat at odds with each other, as we have become accustomed to scoring in the upper half of a proportion of total marks. (UK university marking is banded &lt;70% first class, 60-70% upper second class, 50-60% lower second class, 40-50% third class, and the majority of students score upper second class degrees.) This push to biasing the results towards the upper section of the range reduces the amount of meaning that can be gathered from the data, but makes subjects feel more positively disposed to the test. If people score only 50%, then they will feel as if they didn’t do very well, even though with a test at ideal difficulty, for a given set of subjects, 50% would be the average score.
 
 The questions must be of a factual rather than ethical nature (MacKay, 2009) so that the ‘correct’ answer is unambiguous. They also need to be multiple-choice so that the problem of data analysis is tractable. If the responses were continuous quantities then the analysis would be considerably more difficult, and if they were of the ‘no alternatives’ type (i.e. ask the subject to answer the question without any options to choose from, and then assign a confidence in that answer) then they would need human interpretation, which would preclude automatic marking. There is no requirement for the answers to lie on a scale, or be sensible, as the analysis is interested in the confidence in the answer, not the answer itself. For example the following question is correctly formed.
+
 <div class="sample-question">
 
 How many watt hours does a 100w light bulb use in 1 hour?
+
 <ol>
 <li>a) 100 b) cabbages c) apples</li>
 </ol>
@@ -666,6 +684,7 @@ As an attempt to take advantage of the goodwill generated from people learning s
 ##### Conventional marketing
 
 It was planned to push the quiz through conventional media with the following press release. Ultimately this didn’t happen, but it will be one of the first steps of launching the revised site.
+
 <div class="sample-question">
 
 Building performance &amp; low carbon economy quizHow much does the industry really know?
@@ -675,6 +694,7 @@ Building performance &amp; low carbon economy quizHow much does the industry rea
 This online quiz assesses architects’ decision making about issues related to building performance and the low carbon economy. The intended audience is practicing UK architects, those at the front line of design decision making. It is expected that the study will show significant overconfidence when it comes to addressing the rapidly evolving landscape of environmental legislation and technology.
 
 Calibration is well established in business decision making, but in design it is very rare. Previous studies in other fields have shown ‘experts’ to be substantially over-confident, and the results are expected to be repeated with architects. Initial results from the beta stage have been promising. Ben Doherty says “_designing for constantly shifting criteria is like hitting a moving target; hopefully this will provide a start on the road to a methodology for designing under conditions of extreme uncertainty. I expect that the results will show that as architects in general we know what we are doing, but when it comes to important details our confidence will be shown to be misplaced._”
+
 <figure class="quote">
 <blockquote>
 “fascinating. I like the degree of confidence feature”
@@ -699,9 +719,11 @@ It is important the stress that this _test_ isn’t about showing how stupid arc
 The process involves asking a question and then an associated probability that the given answer is correct. Over a large number of questions a well calibrated person should expect to get 70% of the answers they assigned a 70% confidence in to be correct. If they get more than 70% correct then they are under-confident, less then they are over-confident. Historically ‘calibrated probability assessment’ has its roots in weather forecasting, where meteorologists have been assigning confidences in their _decisions_ for over a century.
 
 It is hoped that the results of this test will provide a source for reflection on appropriate confidence by the _participants_, and also provide a base for further research into how to design under conditions of extreme uncertainty.
+
 </div>
 
 ### <a name="Toc260017697"></a>Generation of new questions
+
 <p><img src="{{ site.baseurl }}/assets/dip/image076.png" alt="image076" /><br />
 Generating questions is a time consuming activity, to help reduce the amount of time spent generating the questions for the next generation of the quiz a page allowed users to submit a question of their own. This would also show what sorts of questions were interesting to the users.</p>
 
@@ -792,11 +814,13 @@ There is also a section to record aspirations about what “sustainability targe
 <img src="{{ site.baseurl }}/assets/dip/image080.png" alt="image080" />
 
 ### <a name="Toc260017705"></a>Results
+
 <div class="quote side">
 
 \[I\]t’s \[the discrepancy in the predicted and actual data\] based on the analysis procedures we use to forecast energy consumption, hence they miss a very large bulk of real energy consumption that’s related to user behaviour. So we drafted a big graph which, the graph itself became quite popular because it showed that you start with a part L calculation, and on top of that comes the unregulated energy use – which is everything that people plug into the wall – and on top of that comes any special function that people add to a building, like a cafeteria, or some ovens, or schools or kilns, or a trading floor for a prestigious office block, which all bring huge repercussions, and then things like the building management systems, so who, and with what expertise, is looking after that system, lots of things depend on that. Also the occupancy, so we design buildings to have a certain kind of occupancy and operating hours, and those tend to distort really quite drastically during a buildings life, and we actually don’t really design buildings for that sort of resilience. Which is a shame, and essentially the result of this is that the way we design buildings as a profession completely overlooks the majority of the energy consumption for buildings in use, and that’s an incredible lost opportunity for the industry.So <a href="http://www.carbonbuzz.org/">Carbon Buzz</a> is able to highlight these discrepancies, and make it very obvious and easy to read.
 
 <cite>(Kimpian &amp; Doherty, 2010)</cite>
+
 </div>
 
 Once the project data has been entered, the platform provides a dashboard that reports the difference between the predicted and the in-use energy, and also against the emerging benchmark values. As these benchmark figures come from an aggregate of the real projects submitted, they are representative of reality. Therefore if your project is under the benchmark then you can be genuinely pleased.
@@ -814,6 +838,7 @@ In the above graphs, the left column is predicted energy use, and the right actu
 ### <a name="Toc260017706"></a>Reception
 
 Carbon buzz was launched through a series of workshops at the RIBA and the Building Centre in London. People came and used the system to enter their projects, and just to explore the potential that the system had.
+
 <figure class="quote">
 <blockquote>
 “I never really thought that data could be so interesting to people that were actually so interesting themselves”
@@ -893,7 +918,7 @@ The other interesting discrepancy is shown in questions 13 and 19, “_The Met i
 
 <img src="{{ site.baseurl }}/assets/dip/image088.png" alt="image088" />
 
-By comparing the overall average confidence with the overall percentage of questions correctly answered, a very quick, naïve analysis, it shows that the average confidence is actually lower than the percentage of questions that were answered correctly. The data seem to imply that architects are actually _under-confident_.
+By comparing the overall average confidence with the overall percentage of questions correctly answered, a very quick, naïve analysis, it shows that the average confidence is actually lower than the percentage of questions that were answered correctly. The data seem to imply that architects are actually *under-confident*.
 
 <img src="{{ site.baseurl }}/assets/dip/image0891.png" alt="" />This seems to explicitly contradict the hypothesis that architects are over-confident. On closer inspection, there are a number of factors that could have contributed to this result.
 
@@ -954,7 +979,7 @@ Those subjects humble enough to state that they knew “not much” actually hav
 
 <img src="{{ site.baseurl }}/assets/conf-grid.png" alt="conf grid" />
 
-  
+
 
 These graphs show the distribution of responses at each confidence level. They show that hardly any questions were chosen with 99% confidence, but many more were chosen with 100% (Di Finenetti would be very upset).
 
@@ -1015,9 +1040,11 @@ A number of international subjects mentioned that they would like to do the quiz
 ### <a name="Toc260017719"></a>The moving target
 
 The quiz was published on the 8<sup>th</sup> of March, and even before the launch two of the questions had been invalidated. One by further research and the other by a policy change.
+
 <div class="sample-question">
 
 What fraction of the current UK housing stock will still be here in 2050?
+
 <ol>
 <li>two thirds</li>
 <li>one third</li>
@@ -1028,6 +1055,7 @@ What fraction of the current UK housing stock will still be here in 2050?
 By 2050, 31.8 million dwellings will be needed to meet the growth in population. This represents a net increase of 7.9 million homes (33%) from 1996. The stock increased by 1.1 million between 1996 and 2004, leaving 6.8 million to build between 2005 and 2050. Over two-thirds of the 2050 housing stock has already been built.
 
 Read the Environmental Change Institute’s 40% House paper here. (Boardman et al., 2005)
+
 </div>
 
 &nbsp;
@@ -1035,9 +1063,11 @@ Read the Environmental Change Institute’s 40% House paper here. (Boardman et a
 The UK GBC published a report entitled “Low carbon existing homes” in October 2008 (UK GBC, 2008) about the proportion of the UK housing stock that will be extant in 2050, revising the estimate to be _80%_ rather than greater than two thirds as the 40% house paper had quoted (Boardman et al., 2005). The semantics of this would allow the question to be correct, but intuitively it is now wrong. (‘I am taller than 1cm’ is a true statement, but it is absurd since I have been taller than 1cm for a very long time!)
 
 The cause of the Environmental Change Institute’s ‘40% house’ paper being more widely cited than the later UK GBC ‘Low carbon existing homes’ is unknown, but it may be that the figure in the ECI paper is derived from its constituent figures rather than just plucked from the air as it is in the UK GBC paper. It may also be that the 40% house paper was the first to make an impact, and then subsequent papers with less headline grabbing refinements to the initial value don’t get as much coverage.
+
 <div class="sample-question">
 
 When will the Carbon reduction commitment come into effect?
+
 <ol>
 <li>1<sup>st</sup> April 2010</li>
 <li>1<sup>st</sup> August 2016</li>
@@ -1048,6 +1078,7 @@ When will the Carbon reduction commitment come into effect?
 The CRC Energy Efficiency Scheme (formerly known as the Carbon Reduction Commitment) is the UK’s mandatory climate change and energy saving scheme, due to start in April 2010. It is central to the UKs strategy for improving energy efficiency and reducing carbon dioxide (CO<sub>2</sub>) emissions, as set out in the Climate Change Act 2008. It has been designed to raise awareness in large organisations, especially at senior level, and encourage changes in behaviour and infrastructure. The schemes amended title serves to better reflect the CRC’s focus on increasing energy efficiency.
 
 The DECC website explains this (DECC, 2010b)
+
 </div>
 
 There is now a line on the website that reads "_On 3<sup>rd</sup> March 2010 and 6<sup>th</sup> April 2010 a few minor changes were made to the user guide to bring it in line with the Order_"(DECC, 2010a). Again the question isn’t technically wrong from a semantic point of view as the start date remains the same, but the ‘effect’ won’t be felt until the 30<sup>th</sup> of September.
@@ -1077,6 +1108,7 @@ This reflection is a huge part of most other design disciplines. User testing is
 Post design analysis, and post occupancy evaluation can answer questions that started life as just hypotheses. It can also show up properties of the design that are completely emergent, or unexpected. This could be errors that got through, either through a failure of the design process, or just down to the novel nature of the problem. It could also be unexpected good outcomes, like a courtyard that is particularly popular because it happens to get full sun at lunch times, or a part of the building process that went particularly smoothly because of an unintended, but replicable chain of events.
 
 The design of the mouse is a wonderful example of feedback from users being considered an important part of the process. Douglas Engelbart developed the first mouse after a period of observing people working on computers and needing a way to move the cursor. Early mice were expensive and not especially robust; the early Apple mouse set out to change that. The sensor mechanism was developed that was cheap and easy to make, but when it came to the switch under the buttons their predictions about how many clicks the switches should be able to sustain were radically wrong.
+
 <figure class="quote side">
 <blockquote>
 “How many times will you be able to click it before it wears out?” I asked.
@@ -1088,6 +1120,7 @@ The design of the mouse is a wonderful example of feedback from users being cons
 “No, no!” I said, “Constantly, click, click, click, all the time!”
 
 We grabbed a piece of paper and calculated the number of clicks and it was two orders of magnitude more. The switch would have lasted 2 weeks. They had to find a better switch, which raised the cost, but it was essential.
+
 </blockquote>
 <figcaption>Larry Tesler explaining what he had learnt from user testing to Bill Lapson – the Apple project manager in charge of the mouse. In <cite>Designing Interactions</cite>
 </figcaption>
@@ -1096,6 +1129,7 @@ We grabbed a piece of paper and calculated the number of clicks and it was two o
 They filmed users interacting with the test system using a mouse, and counting how many times a minute they clicked. If they had gone to market with the predicted number of clicks then the product would have been a massive failure. The Apple mouse was the market leading mouse until the Microsoft mouse was released in 1987. Microsoft hired the people who would go on to become IDEO to develop a mouse that was “better than anything that had preceded it”. One of the most important parts of their design process was building prototypes and then getting users to test them. Bill Verplank developed a series of tests that allowed the designers to see exactly how their ideas performed. This resulted in the ball being moved forwards to under the fingers, and the left button being made larger. Without the feedback provided by the user tests none of this would have been possible. (Moggridge, 2006)
 
 As a building is too expensive to make multiple prototypes of there is less opportunity to do a lot of user testing before the building is produced, but if each building is considered to be a prototype leading up to some hypothetical ultimate building, each project’s user testing can contribute to the über project.
+
 <figure class="quote">
 <blockquote>
 “architects are really missing out on [an] opportunity by photographing their projects when they are complete but actually never going back and visiting them in use”
@@ -1119,6 +1153,7 @@ The failure was attributed to pilot error, the plane was substantially more comp
 A group of test pilots tried to work out how to overcome this complexity. They ruled out extra training as it was unlikely that the average wartime pilot could ever meet the skill level of a test pilot, let alone exceed it, and instead settled on a simple checklist that ensured that all the steps required to fly the plane had been carried out. This essentially shared responsibility between the pilot and the rest of the crew. None of the items on the checklist were complicated, but if any of them were missed it could be catastrophic. The checklist ensured that an absolute minimum standard was met or exceeded. Almost 13000 B17s were made, and then flew 1.8 million miles without accident.
 
 The second example involves a less straightforward environment, but a very simple solution. A central venous catheter, otherwise known as a central line, is a catheter placed in a large vein, usually in the neck, chest or thigh. Because the line goes directly into the bloodstream there is a chance of infection. Peter Provonost, a critical care specialist at a hospital in Baltimore, wrote a checklist of steps that a doctor _must_ take before placing a central line.
+
 <figure class="quote">
 <blockquote>
 “Doctors are supposed to: (1) Wash their hands with soap, (2) clean the patient’s skin with chlorhexadine antiseptic, (3) put sterile drapes over the entire patient, (4) wear a mask, hat, sterile gown, and gloves, and (5) put a sterile dressing over the insertion site once the line is in.”
@@ -1180,7 +1215,6 @@ Checklists don’t directly address the problem of overconfidence, but mitigate 
 
 How this translates into real world decision making is uncertain, but speaking from personal experience it has certainly made me more aware of confidence in my predictions. Whether this translates to that confidence being accurate remains to be shown, but an awareness is, at very least, likely to moderate any extreme errors of judgement. <a href="http://www.witsandwagers.com/games/wits_and_wagers/index.page">Wits &amp; Wagers</a> is a trivia game that is won not on the amount of trivia known, but by being well calibrated about the amount of trivia one knows. A question is asked and all players write an answer on a card and place it onto the table. Players then place bets on the correct answer - not necessarily their own. Points are earned by placing bets on the actual answer, which requires a judgement of confidence as applied to the complete set of answers available. Wit &amp; Wagers is now available as an X-Box game, but the key component of having multiple human players is still present.
 
-
 ### <a name="Toc260017724"></a>Prediction markets
 
 <figure class="quote">
@@ -1216,7 +1250,6 @@ An initial look at the literature makes the field look extremely impenetrable, b
 
 Decision support systems can provide advice on complex subjects, which are difficult to grasp all the threads, or as in the case of the spelling and grammar checker, that are easily overlooked. They are not a replacement for designers, but are there to support them.
 
-
 # <a name="Toc260017726"></a>Conclusion
 
 The results show that there is a distinct bias towards overconfidence amongst the architects surveyed. This alone probably isn’t a cause enough for concern, as a far wider survey would need to be taken to ensure that the bias in the survey isn’t to blame (I suspect the opposite is actually true), in addition to the data that the Carbon Buzz project has collected it seems that it is a phenomena worth paying attention to.
@@ -1242,8 +1275,8 @@ F A Hayek, <cite>The Fatal Conceit</cite>
 
 We return to Hayek’s rather ominous quote from the introduction. It might well apply to designers of buildings just as much as it does to other fields. So perhaps if we have the humility to understand how little we really know about what we imagine we can design, then we can make a concerted effort to learn more, and design better.
 
-
 ## <a name="Toc260017727"></a>Bibliography
+
 <div class="bibliography">
 
 <span class="author">Aczel, A. D.</span> <span class="date">(1989)</span>. <cite>Complete Business Statistics</cite>. Irwin Professional Publishing. Retrieved from <a href="http://www.amazon.co.uk/Complete-Business-Statistics-Amir-Aczel/dp/0071284931.">http://www.amazon.co.uk/Complete-Business-Statistics-Amir-Aczel/dp/0071284931.</a><span class="author">Adams, J. K., &amp; Adams, P. A.</span> <span class="date">(1961)</span>. <cite>Realism of confidence judgments</cite>. Psychological Review, 68(1), 33-45. Retrieved from <a href="http://psycnet.apa.org/journals/rev/68/1/33.">http://psycnet.apa.org/journals/rev/68/1/33.</a>
@@ -1272,7 +1305,7 @@ We return to Hayek’s rather ominous quote from the introduction. It might well
 
 <span class="author">Cooke, E.</span> <span class="date">(1906)</span>. <cite>Weighting forecasts</cite>. Monthly Weather Review.
 
-<span class="author">Curtis, A.</span> <span class="date">(2007)</span>. <cite>The Trap: What happened to our dream of freedom – part one: Fuck You Buddy</cite>. Retrieved from <a href="http://en.wikipedia.org/wiki/The_Trap_(television_documentary_series).">http://en.wikipedia.org/wiki/The_Trap_(television_documentary_series).</a>
+<span class="author">Curtis, A.</span> <span class="date">(2007)</span>. <cite>The Trap: What happened to our dream of freedom – part one: Fuck You Buddy</cite>. Retrieved from <a href="http://en.wikipedia.org/wiki/The_Trap_(television_documentary_series).">http://en.wikipedia.org/wiki/The*Trap*(television_documentary_series).</a>
 
 <span class="author">DECC.</span> <span class="date">(2010)</span>. <cite>The CRC Energy Efficiency Scheme User Guide</cite>.
 
@@ -1357,6 +1390,7 @@ We return to Hayek’s rather ominous quote from the introduction. It might well
 <span class="author">UK GBC.</span> <span class="date">(2008)</span>. <cite>Low carbon existing homes</cite>. Energy. London. Retrieved from <a href="http://www.ukgbc.org/site/resources/show-resource-details?id=316.">http://www.ukgbc.org/site/resources/show-resource-details?id=316.</a>
 
 <span class="author">UNEP SBCI.</span> <span class="date">(2009)</span>. <cite>Common Carbon Metric for Measuring Energy Use &amp; Reporting Greenhouse Gas Emissions from Building Operations</cite>. Carbon. Retrieved from <a href="http://www.ukgbc.org/site/resources/show-resource-details?id=622.">http://www.ukgbc.org/site/resources/show-resource-details?id=622.</a>
+
 </div>
 
 # <a name="Toc260017728"></a>
@@ -1368,6 +1402,7 @@ We return to Hayek’s rather ominous quote from the introduction. It might well
 <a href="#_ftnref3" name="_ftn3">[3]</a> There is a well established hierarchy that starts with data and progresses to wisdom. Data à information à knowledge à wisdom. I use this quite a lot so it is worth bearing in mind that I am usually being specific when I refer to one of these words.
 
 <a href="#_ftnref4" name="_ftn4">[4]</a> The sources of factual information that will be tested against are explained in the methodology section.
+
 <p><a href="#_ftnref5" name="_ftn5">[5]</a> In a very general sense, _sciencism_ is a dogmatic belief that any appeal to science will result in the solution of a problem, regardless of the quality of science. A good example of this is the supposed credence given by the phrase “Pay attention! Here comes the science bit” as uttered by Jennifer Aniston and friends in various L'Oreal Elvive adverts.<br />
 See <a href="http://en.wikipedia.org/wiki/Scientism">http://en.wikipedia.org/wiki/Scientism</a> for what Hayek, Popper and Habermas have to say about this.</p>
 
@@ -1382,6 +1417,7 @@ See <a href="http://en.wikipedia.org/wiki/Scientism">http://en.wikipedia.org/wik
 <a href="#_ftnref10" name="_ftn10">[10]</a> Realism is one of the terms that was applied to this field before ‘calibration’ became the accepted word. (Brown &amp; Shuford, 1973)
 
 <a href="#_ftnref11" name="_ftn11">[11]</a> In informal conversations with people, this challenge to their ‘knowledge’ of the RFP value for methane is often met with some resistance, and the IPCC report is not the most welcoming of documents to find an particular piece of information so here are the bones of the argument.
+
 > #### 2.10.3.1 Indirect GWPs – Methane
 >
 > Four indirect radiative effects of CH<sub>4</sub> emissions have been identified (see Prather et al., 2001; Ramaswamy et al., 2001). Methane enhances its own lifetime through changes in the OH concentration: it leads to changes in tropospheric ozone, enhances stratospheric water vapour levels, and produces CO<sub>2</sub>. The GWP given in Table 2.14 includes the first three of these effects. The lifetime effect is included by adopting a perturbation lifetime of 12 years (see Section 7.4). The effect of ozone production is still uncertain, and as in the TAR, it is included by enhancing the net of the direct and the lifetime effect by 25%. The estimate of RF caused by an increase in stratospheric water vapour has been increased significantly since the TAR (see Section 2.3.7). This has also been taken into account in the GWP estimate for CH4 by increasing the enhancement factor from 5% (TAR) to 15%. As a result, the 100-year GWP for CH4 has increased from 23 in the TAR to 25.</p>
@@ -1404,14 +1440,12 @@ Table 2.14, which lists the global warming potentials for various greenhouse gas
 
 <a href="#_ftnref19" name="_ftn19">[19]</a>Just to show that there is no magic in this number, I’ve derived it again here. Starting with 8<sup>12</sup>, which is the number of solutions given by 12 variables with 8 options each.
 
-
 \begin
 \newline 8^{12}\div\hspace{3mm}60 \hspace{3mm}\textup{gives minutes}\newline
 \phantom{8^{12}}\div\hspace{3mm}60\hspace{3mm}\textup{gives hours}\newline
 \phantom{8^{12}}\div\hspace{3mm}24 \hspace{3mm}\textup{gives days}\newline
 \phantom{8^{12}}\div\hspace{1mm}365\hspace{3mm}\textup{gives years}\newline
 \end
-
 
 I’ve expanded this fully in a spreadsheet here: <a href="http://tinyurl.com/2wjpav9">http://tinyurl.com/2wjpav9</a>
 

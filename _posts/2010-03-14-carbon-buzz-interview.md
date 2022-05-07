@@ -7,17 +7,17 @@ published: true
 status: publish
 categories: []
 tags:
-- Aedas
-- architecture
-- calibration
-- Carbon Buzz
-- Interview
-- Judit
-- major study
-- Post occupancy evaluation
-- simulation
-
+    - Aedas
+    - architecture
+    - calibration
+    - Carbon Buzz
+    - Interview
+    - Judit
+    - major study
+    - Post occupancy evaluation
+    - simulation
 ---
+
 <p>On Monday I’m going to go and interview <a href="http://www.aedas.com/Europe/JuditKimpian">Judit Kimpian</a> about her involvement in the <a href="http://www.bre.co.uk/carbonbuzz/">Carbon Buzz</a> project.</p>
 <p>Carbon Buzz is a platform where people who design buildings can put their design stage building performance data from their simulations, and then compare it with real, in-use data. Check out the <a href="http://www.bre.co.uk/carbonbuzz/">website</a>, and there is the <a href="http://www.bre.co.uk/carbonbuzz/docs/CarbonBuzz_Handbook.pdf">Carbon Buzz handbook</a> too.</p>
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2010/03/carbonBuzzGraphs.png"><img class="alignnone size-full wp-image-440" title="carbonBuzzGraphs" src="{{ site.baseurl }}/assets/carbonBuzzGraphs.png" alt="" width="490" height="108" /></a></p>

@@ -7,16 +7,16 @@ published: true
 status: publish
 categories: []
 tags:
-- bikes
-- cool links
+    - bikes
+    - cool links
 description:
 meta:
 enclosure: |-
     http://www.green-ideas.com/wiggle/MOV00091.MPG
     6058911
     video/mpeg
-
 ---
+
 <p>here's some links, cool eh, we all love links.</p>
 <p><a href="http://www.electronicmiracles.com/" title="ozzie goodness" target="_blank">ENESS</a> make some fun product/art stuff,like this zen robot, and cloned logs<br />
 <img src="{{ site.baseurl }}/assets/pic24(2).jpg" title="zen robot" alt="zen robot" height="310" width="310" /></p>

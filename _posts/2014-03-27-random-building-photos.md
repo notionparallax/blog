@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags: []
 description:
-
 ---
+
 <p>I'm not sure if I've mentioned it, but I've been working on a project at work to organise as much of our information as we can, a bit like Goggle organising all the world's information, but _WAY_ smaller in scope. It's called <a href="https://github.com/notionparallax/ShadowWolf">Shadow wolf</a>.</p>
 <p>We're using the excellent ruby library <a href="http://faker.rubyforge.org/">Faker</a> to fill the database up with pretend people and projects so that the tests don't freak out and so that we know what sort of shape the layout needs to be.</p>
 <p>We've been using the randomuser.me service (and probably breaching their terms) to get mugshots of people by calling:</p>

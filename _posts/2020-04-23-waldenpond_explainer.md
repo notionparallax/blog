@@ -53,7 +53,6 @@ I need a way to store all the interesting stuff I come across, so when I'm not t
 
 That's _problem 1_, and there's a fantastic solution to that, [Pocket](http://getpocket.com/), but _problem 2_ has the same root cause: difficulty in controlling my attention. It's all very well having all these interesting articles, but I get distracted from reading them to do other things[^fb].
 
-
 ## How does Walden Pond solve those problems?
 
 Problem one is easy, you just save the interesting article to Pocket and come back to it later. It's a habit that took me a while to build, but it's automatic now.
@@ -93,18 +92,18 @@ Then get the Pocket browser extension 💻 ( [Chrome](https://getpocket.com/ch
 
 Then go on a saving spree! You are the expert on what you like, but here are some links that might be good places to start if your mind's gone blank:
 
-- [The New Yorker](http://newyorker.com/) (News)
-- [Aeon](https://aeon.co/) (Essays)
-- BBC [Future](https://www.bbc.com/future/) and [Worklife (Ideas)](https://www.bbc.com/worklife)
-- [Cosmonauts Avenue](https://cosmonautsavenue.com/) (Literature)
-- [Hacker News](https://news.ycombinator.com/) (Tech)
-- [Arch Daily](https://www.archdaily.com/) (Architecture)
-- [New Scientist](https://www.newscientist.com/) (Science)
-- [The New York Times](https://www.nytimes.com/) (News)
-- [Quanta Magazine](https://www.quantamagazine.org/) (Science)
-- [Ribbon Farm](https://www.ribbonfarm.com/) (Ideas[^nod])
-- [The Guardian](https://www.theguardian.com/)(News)
-- [The Verge](https://www.theverge.com/features) (Tech)
+-   [The New Yorker](http://newyorker.com/) (News)
+-   [Aeon](https://aeon.co/) (Essays)
+-   BBC [Future](https://www.bbc.com/future/) and [Worklife (Ideas)](https://www.bbc.com/worklife)
+-   [Cosmonauts Avenue](https://cosmonautsavenue.com/) (Literature)
+-   [Hacker News](https://news.ycombinator.com/) (Tech)
+-   [Arch Daily](https://www.archdaily.com/) (Architecture)
+-   [New Scientist](https://www.newscientist.com/) (Science)
+-   [The New York Times](https://www.nytimes.com/) (News)
+-   [Quanta Magazine](https://www.quantamagazine.org/) (Science)
+-   [Ribbon Farm](https://www.ribbonfarm.com/) (Ideas[^nod])
+-   [The Guardian](https://www.theguardian.com/)(News)
+-   [The Verge](https://www.theverge.com/features) (Tech)
 
 It's easier to pack a hour if you have a mix of short articles as well as long ones, so be broad in your saving habits.
 
@@ -124,9 +123,6 @@ So there you have it, Walden Pond, the zine's first outing on the world stage. I
 As an extra incentive, it's half price at the moment!
 
 [^story]: I was playing around with an art for the foyer of a cancer research centre in Sydney, making a branching tree in Generative Components, about a decade ago, and someone asked me if I was "making the tree with the typing". That phrase has stuck with me ever since.
-
 [^nod]: A nod to the genesis of the name for this project: [Vankatesh Rao](https://www.ribbonfarm.com/author/admin/). He's well worth adding to your editions.
-
 [^fb]: I can't be the only person who's got bored of Facebook and opened a new tab and gone to Facebook to see if it's less boring.
-
 [^algo]: There are other things you can do, like force including, or excluding certain articles, but let's not get too fancy here. We're already over 1200 words.

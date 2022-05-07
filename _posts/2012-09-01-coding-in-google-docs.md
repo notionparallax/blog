@@ -7,14 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- data
-- google
-- programming
+    - data
+    - google
+    - programming
 description:
 meta:
-  _wp_old_slug: '948'
-
+    _wp_old_slug: "948"
 ---
+
 <p>I'm doing a bit of data exploration for work based on our people. I don't know any statistical software (or really any stats![^1]), so rather than learning R or SPSS I thought I'd have a go at doing it in Google docs. I will probably need a stats library once we get into trying to find unexpected numbers, but for simple queries it does just fine. This stage is just about making some interesting graphs to give people an idea of what they can do with the data they have at their disposal.</p>
 <p>Javascript now does array comprehensions, so you can chain Boolean expressions to filter for just the rows that you want.</p>
 <p><code>var maleGlassesWearers = [p for each (p in people) if ((p.gender == 'm') &amp;&amp; (p.glassesInRealLife == 'y'))];</code></p>

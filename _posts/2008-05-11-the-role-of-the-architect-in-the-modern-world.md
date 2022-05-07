@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- collaborative
-- future
-
+    - architecture
+    - australia
+    - collaborative
+    - future
 ---
+
 <p>it's rant time again!</p>
 <p>this is another of my design studio writings, it's a little off topic, but I've only just got the internet at home, so I've been drinking coffee and sitting at my kitchen table without a connection and battering my keyboard. I might go back over this and put in some pictures and  references, but then again... </p>
 <p>This is an incredibly complex issue, and I've spent hours debating it with numerous people. Each of whom have had incredibly different views on the current position and future direction of the profession.</p>

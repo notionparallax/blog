@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- GC
-- passport
-- smart geometry
-- trips
-
+    - architecture
+    - GC
+    - passport
+    - smart geometry
+    - trips
 ---
+
 <p>The first day of <a href="http://www.smartgeometry.org/">Smart Geometry</a> is more or less over now, last night's tutors' dinner is now just a memory and a crumpled receipt in someone's pocket.</p>
 <p>I'm sat in Oxford, in my house, <a href="http://upload.wikimedia.org/wikipedia/en/6/64/Pooh_Shepard_1926.png">Winnie-the-Pooh</a>-ing about and putting things in the dishwasher.</p>
 <p>This doesn't seem like very responsible behaviour for a tutor, especially for one of such an exciting cluster as the "<a href="http://www.smartgeometry.org/content/sg2010-cluster-rapid-rd-rapid-assembly-snap-fit-push">Rapid R&amp;D to Rapid Assembly - snap fit, push on....</a>" group. Surely I should be solving wicked problems and grinding out slick moves to make snap fit shuttering carpentry late into the night.</p>

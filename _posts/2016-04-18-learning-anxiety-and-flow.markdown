@@ -11,15 +11,15 @@ tags: []
 # this goes on the index page, and into facebook shares
 description: I've been learning things that push me past the limit of where I'm comfortable this week. It's left me feeling pretty edgy.
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/learningRate.jpg
 ---
 
-I've been learning things that push me past the limit of where I'm comfortable this week. It's left me feeling pretty edgy[^1]. 
+I've been learning things that push me past the limit of where I'm comfortable this week. It's left me feeling pretty edgy[^1].
 
 I find learning really enjoyable, to the point where I'll do it as a leisure activity. The problem here is that it's often not goal oriented; that means that the goal becomes something like _finish this level_ when I'm doing a [Code School]() course. I Know that the knowledge I'm getting is useful, but often the incentive becomes the goal. Finishing the lesson, getting the badge, becomes the goal. It's like pressing the feeder-bar instead of building towards a more substantial goal.
 
@@ -49,16 +49,14 @@ I have let myself be in the comfy plateau for too long. I need to find a way to 
 </figcaption>
 </figure>
 
-On the graph above, the slope is how much new stuff you're learning. Problem is that if you don't make it to the comfy plateau then you don't get a chance to consolidate and use those new things. 
+On the graph above, the slope is how much new stuff you're learning. Problem is that if you don't make it to the comfy plateau then you don't get a chance to consolidate and use those new things.
 
 The shape of that curve must have some relationship to how many people get to the comfy plateau[^2]. Curves that have lots of small steps are much more approachable than curves that have long scary steep bits. Those steps are like _save game_ points. I made progress with web dev because I could stop at any point and I had something useful, whereas I've given up on mobile dev for the moment and I don't feel like I've got anything usable in my mental-tool-kit.
 
-I've never seen [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) explained this way, but maybe when those steps become so small that they are virtually a straight line then it's conducive to a flow state. The learning and application are so integrated that you don't notice the difference[^3].
+I've never seen [flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>) explained this way, but maybe when those steps become so small that they are virtually a straight line then it's conducive to a flow state. The learning and application are so integrated that you don't notice the difference[^3].
 
 I need to design my learning so that it has a mixture of comfy plateau sections, hard steep bits and flow staircases. Some mixture of these must be ideal, and maybe with some mental training I'll get more resilient to the fear caused by spending too long on the steep sections.
 
 [^1]: Pun not intended, but the similarity of the words might be telling
-
 [^2]: The curve's shape will be dependent on each person's precedent skills. A lot of the steepness of a curve will be gaining the prerequisites. That said, there are probably some things that the curve is steep for everyone but I can't think of an example. Maybe learning to speak for the first time?
-
 [^3]: I've often been critical of architectural education for leaning too much on the apprenticeship model. This model does use that integrated mix of learn and apply. My criticism (briefly) is that there is a wide range of slope-angles that are possible when you take the learn apply steps and that arch education doesn't make the slope steep enough. That wastes the students time (leading to a 5 year degree) and produces graduates without enough skill. I can write about what I think that actually means if anyone really cares.

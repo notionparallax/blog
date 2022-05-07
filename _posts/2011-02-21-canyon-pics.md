@@ -140,7 +140,7 @@ tags:
 <object data="https://lh3.googleusercontent.com/VrW0f2je1w1XHSw_38m_-GyE3e3XX0FTVu_AqHDrD5gTIcymrpN90fTOdrv8_CBcFrbxSVEOiivreI8sSEcQs7QXDzs2b-6lfPy0s0VP9CBO4mG1H2C3nmO1ZKR6JSVKa5E9GUiVt5I=w1920-h1080"></object>
 </div>
 
-<!-- 
+<!--
 The vodpod service doesn't exist any more :(
 
 <span style="display: block; margin: 0px auto; width: 425px">  	<embed src="http://widgets.vodpod.com/w/video_embed/ExternalVideo.988116" type="application/x-shockwave-flash" allowscriptaccess="never" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F103899889804200987537%2Falbumid%2F5576082768144079617%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" width="425" height="350" />

@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- australia
-- surfing
-
+    - australia
+    - surfing
 ---
+
 <p><img src="{{ site.baseurl }}/assets/page119_8.jpg" width="500" /></p>
 <p>I saw a dolphin surfing!!</p>
 <p>I was paddling out, and it was in the wave that was coming towards me</p>

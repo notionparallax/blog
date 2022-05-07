@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- blogs
-- life
-
+    - blogs
+    - life
 ---
+
 <p>I'm subscribed to quite a lot of blogs. It struck me the other day that ones that I'm most attached to have very little to do with my field. Actually, they are specifically aimed at other fields. My top three of these are below, but if you have any suggestions then I'd love to hear them.</p>
 <h2><a href="http://www.jimseven.com/"><img class="alignnone" src="{{ site.baseurl }}/assets/webshop_2_large.jpg?100585" alt="" width="200" />Jimseven </a></h2>
 <p>James Hoffman's blog is primarily about coffee, but it is about the whole experience of coffee, not just making it, or drinking it, but how to make a business of it, the science of brewing and roasting. It's interesting, because he is able to get his point across clearly and simply, but most of all it is interesting because it is relevant. He is talking about how to think about your relationship with your customers, how to do business when your product differentiates itself on quality and experience, lots of things that are not particularly specific to coffee at all!</p>

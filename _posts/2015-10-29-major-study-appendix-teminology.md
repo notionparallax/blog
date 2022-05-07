@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Major study appendix: Teminology'
+title: "Major study appendix: Teminology"
 date: 2015-10-29 07:55:57.000000000 +11:00
 type: post
 published: true
@@ -9,11 +9,11 @@ categories: []
 tags: []
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'Major study appendix: Teminology'
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: "Major study appendix: Teminology"
 ---
+
 <p> </p>
 <h2><a name="_Toc260017732"></a>Terminology</h2>
 <p>There are a lot of terms that are borrowed from economics, mathematics and philosophy that may not be familiar to architects. This section will briefly explain them.</p>

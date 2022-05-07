@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags: []
 description: "Touchdown, I'm in Vancouver and blog is in GH pages"
-
 ---
 
 I warned a few weeks ago that we'd be moving, and now we have!
@@ -28,7 +27,7 @@ I've moved over to Jekyll and GitHub Pages because I can understand the whole pr
 
 ## Warnings
 
-There is a *lot* that still needs to be done. 
+There is a _lot_ that still needs to be done.
 
 [Irina](https://twitter.com/Irina_Belova) has done a great job of the index page, and the way that has spilled over into the article pages is plenty good enough to launch. There will be style tweaking as I find things that need to be fixed.
 

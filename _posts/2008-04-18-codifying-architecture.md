@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- rmit
-
+    - architecture
+    - rmit
 ---
+
 <p>This is another piece I wrote for my design studio, it's got a missing reference so if anyone knows the answer then I'll buy you a mars bar.<br />
 it ends on a bit of a grumpy note, but  i could have just carried on ranting for hours. </p>
 <p>Codifying architecture</p>

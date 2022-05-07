@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- GC
-
+    - architecture
+    - GC
 ---
+
 <p><img src="{{ site.baseurl }}/assets/1332745021_3424604d16_m.jpg" align="left" /> If you rotate a circle around a centre point outside the circle, then you get a torus, or ring doughnut.The circle to circle gaps can be tiled with planar panels This method is less versatile than the sheared cones method, but it has the advanage that all the panels are identical. so if we know that all the panels on a the surface of a torus are planar, then if we only want a certain area to be tiled, then we can take a section of those panels, and that is the ‘patch’ that is referred to.</p>
 <p> </p>
 <p><img src="{{ site.baseurl }}/assets/2422608747_f0ce2c1e16_o.jpg" align="left" /></p>

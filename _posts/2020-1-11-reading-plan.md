@@ -89,16 +89,16 @@ This is my reading habits for the last few years; pretty unbalanced. If I use a 
 
 I used the categories that I used in the [analysis of last year's books](https://notionparallax.co.uk/2019/goodreads2019), which were:
 
-- Book is [fiction \| non-fiction]
-- Book age is [under 2 years old \| 2&ndash;15 years old \| over 15 years old]
-- Author is a [woman \| man]
-- Author is [black \| white \| Asian \| Hispanic]
+-   Book is [fiction \| non-fiction]
+-   Book age is [under 2 years old \| 2&ndash;15 years old \| over 15 years old]
+-   Author is a [woman \| man]
+-   Author is [black \| white \| Asian \| Hispanic]
 
 That's 2&times;3&times;2&times;4=48 books. The more I look at these categories the more uncomfortable they make me, but given the combinatorial explosion of going deeper into the implications of intersectionality, I'm not sure my life is long enough. This seems like a good enough start as an experiment.
 
 I really enjoyed reading a lot of [Ursula K. Le Guin](https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin), [N.K. Jemisin](https://www.goodreads.com/author/show/2917917.N_K_Jemisin) and [Octavia E. Butler](https://www.goodreads.com/author/show/29535.Octavia_E_Butler) last year, so I imagine that the trend of enjoyment will continue with increased diversity. (Fingers crossed.)
 
-I'm going to need help finding these books to read, so I made a [spreadsheet that actually drives this page (it's here)](https://docs.google.com/spreadsheets/d/17dwAQMFu06MTK5rBdIMrXkCEu2d1yfmte0YuWHCqIrk/edit?usp=sharing). You can put comments on that if there's categories that you have a suggestion for. 
+I'm going to need help finding these books to read, so I made a [spreadsheet that actually drives this page (it's here)](https://docs.google.com/spreadsheets/d/17dwAQMFu06MTK5rBdIMrXkCEu2d1yfmte0YuWHCqIrk/edit?usp=sharing). You can put comments on that if there's categories that you have a suggestion for.
 
 If you need some idea of what I have been reading, here's [2019](https://www.goodreads.com/user_challenges/14706992) and [2018](https://www.goodreads.com/user_challenges/11862761).
 
@@ -197,8 +197,6 @@ If you need some idea of what I have been reading, here's [2019](https://www.goo
   window.addEventListener('DOMContentLoaded', init)
 </script>
 
-
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <div id='plotly_div'><!-- Plotly chart will be drawn inside this DIV --></div>
 <div id='book_list_div'><!-- Book list will be dropped inside this DIV --></div>
-

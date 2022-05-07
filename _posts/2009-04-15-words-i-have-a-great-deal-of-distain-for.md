@@ -7,14 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- thinking
-- writing
+    - architecture
+    - thinking
+    - writing
 description:
 meta:
-dsq_thread_id: '4503552360'
-
+dsq_thread_id: "4503552360"
 ---
+
 <p>I don't want to bang on about this too much today, as I've got a much more spectacular tirade planned, but I wanted to single out these two words for a particular savaging.when I hear otherwise intelligent people use these words, it makes me sad and angry. Sad that they have been sucked into the collective delusion that they are good words to use, and angry that nobody has the courage to stand up and say '_Stop! these words make you sound like an idiot._'</p>
 <h2>Materiality</h2>
 <p>Materiality is the chief offender of a group of words that end in -iality. You can take any word, and add -iality to it, wordiality, dooriality, spatiality, doggiality.The phrase that really makes my blood boil is often uttered in crits accompanied by copious beard stroking -</p>

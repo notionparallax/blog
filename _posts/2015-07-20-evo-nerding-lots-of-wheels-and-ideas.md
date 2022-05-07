@@ -1,26 +1,26 @@
 ---
 layout: post
-title: 'Evo-nerding: Lots of wheels and ideas'
+title: "Evo-nerding: Lots of wheels and ideas"
 date: 2015-07-20 23:38:28.000000000 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags:
-- BVN
-- evolution
-- ideas
+    - BVN
+    - evolution
+    - ideas
 description:
 meta:
-  _wpas_mess: 'Evo-nerding: Lots of wheels and ideas, but not in any sort of useful
-    order'
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  
+    _wpas_mess:
+        "Evo-nerding: Lots of wheels and ideas, but not in any sort of useful
+        order"
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
 
-  dsq_thread_id: '4503553678'
-
+    dsq_thread_id: "4503553678"
 ---
+
 <p>In evolution organisms adapt to their environment.</p>
 <p>I was trying to work out why architecture changes so slowly compared to some other fields. </p>
 <p style="padding-left: 30px;">_Just as a warning, this is very unstructured. I think it needs some diagrams and some very aggressive editing! You can think of this as the raw ingredients of an idea-cake that I've shelved to come back to another day._</p>
@@ -57,18 +57,10 @@ meta:
 <p>If we go back to the wheels, there's a wheel for the environment that controls the buildings that get designed and it rotates very slowly. There's also another wheel that rotates much faster, and it's being accelerated by Google and the rest of the tech industry. That much faster wheel is the environment that controls how we <span style="text-decoration: line-through;">design buildings</span> generate value in the world.</p>
 <hr />
 
-
 [^1]: As usual, I'm sure I'm not the first to realise this!
-
 [^2]: I wrote my masters thesis on evolutionary algorithms, all very nerdy stuff.
-
 [^3]: throughout this, I'm not sorry if I've offended you by suggesting that we weren't made by god made man on Saturday.
-
 [^4]: or in our case organisation or profession
-
 [^5]: sharks in volcanoes, <a href="http://www.bbc.co.uk/programmes/b05zl3v2">extremophiles</a> living at the bottom of the ocean etc.
-
 [^6]: I think that Deluze is a total dick, but despite that De Landa still manages to say some interesting things.
-
 [^7]: You could argue that reinforced concrete did the same too, maybe lifts and aircon. Feel free to do so in the comments!
-

@@ -9,8 +9,8 @@ categories: []
 tags: []
 description:
 featured_image: books.jpg
-
 ---
+
 <style type="text/css">
   iframe {
     float: left;
@@ -48,6 +48,7 @@ I started reading this because it was mentioned in <a href="http://hpmor.com/">H
 The book goes through methods that "compliance professionals" get people to do things. It's partially a playbook, and partially a self defence manual. He talks about influence being like jujitsu; you need to exert it over others without yourself being influenced unwillingly.
 
 It's quite long, but quite chatty so it's easy going. In a strange twist of fate, just after finishing it someone I know was a victim of a criminal compliance professional (or in normal speech, a conman!). Reading through their emails it was amazing how many of the techniques from the book they's used. It was like some kind of worked example of how to get people's trust.
+
 <ul class="quotes-i-like">
 <li>Alfred North Whitehead recognized this inescapable quality of modern life when he asserted that “civilization advances by extending the number of operations we can perform without thinking about them.”</li>
 <li>“A foolish consistency is the hobgoblin of little minds.”</li>
@@ -68,6 +69,7 @@ It's quite long, but quite chatty so it's easy going. In a strange twist of fate
 This is along the same lines as Influence. It's a the condensation of a long running email newsletter that was about how to use evil techniques to achieve your ends. I suppose it means good ends because otherwise it'd be straight up evil. Being slightly evil recognises that "evil" methods are usually more powerful that their "good" counterparts, so if you want to get to an endpoint, then the evil way is the path of least resistance. The book's tagline is "a playbook for sociopaths".
 
 I read it after influence, but I think that it has more methods that you can act on. There are lots of methods for adjusting others' perception of your status, and theirs relative to you. This kind of status play is really powerful in setting yourself up to be listened to in a room.
+
 <ul class="quotes-i-like">
 <li>On the good/evil axis, Slightly Evil drives towards action whether or not the consequences are clearly good or evil upfront, and starts with the assumption that simply acting for the sake of acting (otherwise known as creative destruction), and choosing churn over stability, is central to life. This is not “good” because it does not equal a belief in change as progress. But it is also not “evil” because it is not a belief in value-driven stability.</li>
 <li>Action for the Slightly Evil favors chaos creation.</li>
@@ -98,6 +100,7 @@ I read it after influence, but I think that it has more methods that you can act
 I put my Diploma Major Study up on here a few days ago. Embarrassingly, I hadn't read Philip Tetlock's first book, Expert Political Judgement (EPG), when I wrote it. This book is his pop-version of EPJ, with examples from his recent DARPA funded prediction project - The Good Judgement Project.
 
 It is to his body of work what Thinking Fast and Slow was to Daniel Kahneman's work. It's much more accessible than EPJ, and makes the case in a much friendlier way[1. EPJ was dense and wasn't really trying to make a case as much as it was reporting the state of the world.].
+
 <ul class="quotes-i-like">
 <li>“like blind men arguing over the colors of the rainbow.”</li>
 <li>Physicians and the institutions they controlled didn’t want to let go of the idea that their judgment alone revealed the truth, so they kept doing what they did because they had always done it that way—and they were backed up by respected authority. They didn’t need scientific validation. They just knew. Cochrane despised this attitude. He called it “the God complex.”</li>
@@ -135,6 +138,7 @@ At the end of Ender's Game, the child Ender has killed a whole sentient species 
 They encounter a new sentient species the 'piggies' who have a strange culture and reproductive system. Most science fiction is physics based, this is anthropology-fiction. There is a lot of discussion of how humans deal with otherness. (There's a fair bit of physics and biology too.)
 
 The story line can get a bit slow occasionally, but I'm really enjoying the saga in general. I find that it sparks a lot of other ideas, so as a catalyst for other thoughts it's really productive!
+
 <h5>Speaker for the dead</h5>
 <ul class="quotes-i-like">
 <li>Since we are not yet fully comfortable with the idea that people from the next village are as human as ourselves, it is presumptuous in the extreme to suppose we could ever look at sociable, tool-making creatures who arose from other evolutionary paths and see not beasts but brothers, not rivals but fellow pilgrims journeying to the shrine of intelligence.</li>
@@ -188,6 +192,7 @@ At the end of Ender's Game, the child Ender has killed a whole sentient species 
 They encounter a new sentient species the 'piggies' who have a strange culture and reproductive system. Most science fiction is physics based, this is anthropology-fiction. There is a lot of discussion of how humans deal with otherness. (There's a fair bit of physics and biology too.)
 
 The story line can get a bit slow occasionally, but I'm really enjoying the saga in general. I find that it sparks a lot of other ideas, so as a catalyst for other thoughts it's really productive!
+
 <h5>Speaker for the dead</h5>
 <ul class="quotes-i-like">
 <li>Since we are not yet fully comfortable with the idea that people from the next village are as human as ourselves, it is presumptuous in the extreme to suppose we could ever look at sociable, tool-making creatures who arose from other evolutionary paths and see not beasts but brothers, not rivals but fellow pilgrims journeying to the shrine of intelligence.</li>
@@ -203,6 +208,7 @@ I'm not really sure where to start with this. I feel a bit like I missed out hav
 It's a philosophy book, disguised as a story about a motorbike trip. It helped me settle my <a href="http://notionparallax.co.uk/?p=1882">ideas about categories</a>.
 
 I think the number of highlights is a good indicator of how useful I found it. I also really enjoyed it. Give it a go, you might too!
+
 <ul class="quotes-i-like">
 <li>‘What’s new?’ is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question ‘What is best?’, a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.</li>
 <li>Although motorcycle riding is romantic, motorcycle maintenance is purely classic.</li>
@@ -239,7 +245,6 @@ I think the number of highlights is a good indicator of how useful I found it. I
 <li>Degeneracy can be fun but it’s hard to keep up as a serious lifetime occupation.</li>
 </ul>
 
-
 ## Fahrenheit 451 by Ray Bradbury
 
 <iframe style="width: 120px; height: 240px;" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=notioparal-21&amp;marketplace=amazon&amp;region=GB&amp;placement=0006546064&amp;asins=0006546064&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
@@ -248,6 +253,7 @@ I think the number of highlights is a good indicator of how useful I found it. I
 In this world, firemen are there to burn books. Books are too subversive to be allowed. The only thing people do is to act a role in a soap opera on a pseudo VR stage. Cracks appear in one fireman's experience of this, his life unravels.
 
 That's a pretty condensed version of the book, but although I enjoyed it I fear I am too far into his future. So m<li>‘Our great civilizations are nothing more than social machines to create the ideal female setting, where a woman can count" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+
 </iframe>
 
 I'm not really sure where to start with this. I feel a bit like I missed out having not read this earlier in life. That said, maybe I needed to have a lot of concepts in place before I could really enjoy it.
@@ -255,6 +261,7 @@ I'm not really sure where to start with this. I feel a bit like I missed out hav
 It's a philosophy book, disguised as a story about a motorbike trip. It helped me settle my <a href="http://notionparallax.co.uk/?p=1882">ideas about categories</a>.
 
 I think the number of highlights is a good indicator of how useful I found it. I also really enjoyed it. Give it a go, you might too!
+
 <ul class="quotes-i-like">
 <li>‘What’s new?’ is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question ‘What is best?’, a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.</li>
 <li>Although motorcycle riding is romantic, motorcycle maintenance is purely classic.</li>
@@ -302,4 +309,3 @@ In this world, firemen are there to burn books. Books are too subversive to be a
 That's a pretty condensed version of the book, but although I enjoyed it I fear I am too far into his future. So m
 
 [^1]: EPJ was dense and wasn't really trying to make a case as much as it was reporting the state of the world.
-

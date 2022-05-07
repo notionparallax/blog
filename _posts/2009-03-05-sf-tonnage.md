@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- trips
-
+    - trips
 ---
 
 <p align="center">Melbourne--&gt; Sydney--&gt; San Francisco--&gt; Sydney--&gt; Melbourne</p>

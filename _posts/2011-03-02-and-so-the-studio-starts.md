@@ -7,14 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- studio
-- UTS
+    - architecture
+    - studio
+    - UTS
 description:
 meta:
-dsq_thread_id: '4503553242'
-
+dsq_thread_id: "4503553242"
 ---
+
 <p>I've started teaching a design studio (believe it or not)!</p>
 <p>As is usually the way with things that I do, it's going to be pretty experimental. Here are some of the links to what they are up to:</p>
 <p><a href="http://beginnersguidetotheapocalypse.wikispaces.com/">http://beginnersguidetotheapocalypse.wikispaces.com/</a> is a simple 'messy space' wiki for them to share things.</p>

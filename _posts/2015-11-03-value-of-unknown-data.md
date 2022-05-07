@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags: []
 description:
-
 ---
 
 Imagine that we're on some kind of imaginary data black market. Someone offers a hard drive that they say contains a data set. They won't say what it is, but they can guarantee that we don't already have it. How much should you be willing to pay? What should new knowledge do to the price? I've made some notes, but they are mainly just me rambling[^1].
@@ -23,10 +22,6 @@ There are a lot of parallel avenues to explore, but I still don't know how to pr
 
 If there is any real work on this sort of thing then I'd like to read about it.
 
-
 [^1]: I wrote this on a train in Spain!
-
-[^2]: speaking probabilistically, you might roll the dice and get _exactly _what you needed!
-
+[^2]: speaking probabilistically, you might roll the dice and get \_exactly \_what you needed!
 [^3]: This is the same argument I have with traditional POE. People who ask first, measure later because sensors are are expensive. I sympathize with their position historically, but I don't think that argument holds any more.
-

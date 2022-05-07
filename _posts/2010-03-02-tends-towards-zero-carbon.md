@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- carbon
-- eco stuff
-- improvement
-- optimisation
+    - carbon
+    - eco stuff
+    - improvement
+    - optimisation
 description:
 meta:
-dsq_thread_id: '4503552721'
-
+dsq_thread_id: "4503552721"
 ---
+
 <p>There are a few things that I want you to hold in your mind for a second.</p>
 <ul>
 <li>In mathematical notation ? stands in for '<a href="http://en.wikipedia.org/wiki/Asymptote">tends to</a>'.</li>

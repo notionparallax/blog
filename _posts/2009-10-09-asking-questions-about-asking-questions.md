@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- thinking
-
+    - thinking
 ---
+
 <p>When I was just a kid* asking questions at lectures was pretty scary.</p>
 <p>I've just got back from the design modeling symposium in Berlin, and it got me thinking about asking questions, and the reasons behind it again.</p>
 <p>In my first year I'd sit in the dark, uncomfortable, raked seating at Brookes every Tuesday, watching people who were being presented as infallible exemplars of what I was supposed to become. After their allotted time (and generally a fair bit more - being concise doesn't seem to be virtue that has ever been valued in architecture) the bigger boys and girls from the diploma course would ask questions.</p>

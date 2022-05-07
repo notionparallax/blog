@@ -7,16 +7,16 @@ published: true
 status: publish
 categories: []
 tags:
-- advertising
-- film
-- Gaga
-- think
-- UTS
+    - advertising
+    - film
+    - Gaga
+    - think
+    - UTS
 description:
 meta:
-dsq_thread_id: '4503553189'
-
+dsq_thread_id: "4503553189"
 ---
+
 <p>I'm starting to come to terms with my fascination with Lady Gaga. I'm realising that it isn't an interest in Stefani Joanne Angelina Germanotta the person, but the whole enterprise, the Lady Gaga hype machine.</p>
 <p>I should start this off by saying that I know next to nothing about the music video business.</p>
 <p>I've been following the links between the videos. The most obvious ones are the product placement shots, these seem to be common across most of the videos, especially the <a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/02/bigBeats1.png"><img class="alignnone size-full wp-image-582" title="smallBeats" src="{{ site.baseurl }}/assets/smallBeats1.png" alt="b" width="8" height="12" /></a><a href="http://www.beatsbydre.com/products/Products.aspx?pid=B5622&amp;cat=3">eats heaphones</a> (<a title="These are actually a gaga branded product" href="http://www.youtube.com/watch?v=qrO4YZeyl0I&amp;feature=player_detailpage#t=75s">in ear</a>, and <a href="http://www.youtube.com/watch?v=bESGLojNYSo&amp;feature=player_detailpage#t=77s">over ear</a>). It's worth noting that <a href="http://en.wikipedia.org/wiki/Jonas_%C3%85kerlund">Jonas Åkerlund</a> directed <a href="http://www.youtube.com/watch?v=EVBsypHzF3U">Telephone</a> and <a href="http://www.youtube.com/watch?v=d2smz_1L2_0">Paparazzi </a> whereas <a href="http://en.wikipedia.org/wiki/Francis_Lawrence">Francis Lawrence</a> has only directed the Bad Romance video; there are common themes between these videos, but there are also offshoot themes too. the dating site <a href="http://www.plentyoffish.com/">PlentyOfFish</a> shows up in Telephone, but it also makes a prominent appearance in Britney's latest video <a href="http://www.youtube.com/watch?v=-Edv8Onsrgg">Hold It Against Me</a> which is also directed by Åkerlund, so it would seem that directors have deals as well as artists.</p>

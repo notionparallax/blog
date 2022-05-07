@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- food
-- geek
-- hardware
-- house keeping
-- toys
-
+    - food
+    - geek
+    - hardware
+    - house keeping
+    - toys
 ---
+
 <p><img src="{{ site.baseurl }}/assets/n541400612_786533_5224.jpg" height="604" width="453" /></p>
 <p>I'm feeling a bit virtuous at the moment, I've just fixed my digital thermometer after I burned through the cable in a fit of retardedness.<br />
 I haven't checked that it still gives the right temperature, but it looks about right.<br />

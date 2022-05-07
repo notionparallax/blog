@@ -7,16 +7,16 @@ published: true
 status: publish
 categories: []
 tags:
-- australia
-- food
-- gardening
-- life
-- rmit
+    - australia
+    - food
+    - gardening
+    - life
+    - rmit
 description:
 meta:
-dsq_thread_id: '4503551574'
-
+dsq_thread_id: "4503551574"
 ---
+
 <p><img src="{{ site.baseurl }}/assets/51E%2Bl%2B%2BmwJL._SS500_.jpg" align="left" width="300" /></p>
 <p>So, for those of you who I haven't told (and as I assume that nobody else actually reads this, that's nobody) I'm doing an elective called _meals in metropolis_. It examines urban agriculture and it's implications for cities and a load of other stuff as well.</p>
 <p>Of course being me, i haven't read much of the stuff on the reading list, but i have just finished reading this. <a href="http://www.amazon.co.uk/Revolution-Will-Not-Be-Microwaved/dp/1933392118/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1206658199&amp;sr=8-1" target="_blank">The revolution will not be microwaved</a> is actually pretty good. There is a awful lot of hippy arm waving and associated corporation bashing that harks back to the bad old days of the no logo anti establishment clones, but if you can get past the fact all of this, it's actually a very well researched book with a broad range of examples related to each 'underground' food movement.</p>

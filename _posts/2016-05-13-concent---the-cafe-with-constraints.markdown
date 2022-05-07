@@ -11,11 +11,11 @@ tags: []
 #this goes on the index page, and into facebook shares
 description: Could we make harsh, constraining enviroments that make work easier?
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: Could we make harsh, constraining enviroments that make work easier? A few ideas
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/pom-box.jpg
 ---
 
@@ -100,7 +100,6 @@ This gets tricky when you need to maintain for long periods. You'll get thirsty,
 </figure>
 
 As I was saying earlier about picking over the bones, I don't think that you'd use these things all the time. Maybe you'd use them more once you started to build up your [attention muscles](http://notionparallax.co.uk/2016/deep-work-and-my-first-steps), but these would be used in conjunction with other work settings. Figuring out what setting is best for what type of work is a skill that--as a society--we aren't good at. We value conformance and consistency too highly (as did the monks). We need to get out of that mind set and into thinking of picking the right tool for the job, where your setting/context is one of those tools.
-
 
 [^1]: [Matt Gaskin](https://twitter.com/mattgaskin) I think
 [^2]: The École des Beaux-Arts I think

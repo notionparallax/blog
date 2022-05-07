@@ -16,7 +16,7 @@ Renting or leasing something isn't a new idea, it's just got forgotten about whi
 
 Now when you do the numbers on owning a car it goes in favour of renting. For a weekly trip to the supermarket and a few road trips having a Goget membership makes much more sense. I'm going to make an assumption that it is due to better communication and efficient use of resources, enabled by the internet.
 
-Lets take a little side step for a moment. In a recent episode of <a href="http://www.bbc.co.uk/programmes/b04hz49f">In Our Time</a> one of Melvin's guests was explaining _<a href="https://en.wikipedia.org/wiki/E_(mathematical_constant)">e</a>. _It was 'discovered' by imagining what would happen if compound interest accrued continuously[^1]. It turns out that interest accrues at _e_ if your calculations use continuous time periods. I really like the idea of taking things to infinity  to see what happens[^2].
+Lets take a little side step for a moment. In a recent episode of <a href="http://www.bbc.co.uk/programmes/b04hz49f">In Our Time</a> one of Melvin's guests was explaining _<a href="https://en.wikipedia.org/wiki/E_(mathematical*constant)">e</a>. \_It was 'discovered' by imagining what would happen if compound interest accrued continuously[^1]. It turns out that interest accrues at \_e* if your calculations use continuous time periods. I really like the idea of taking things to infinity to see what happens[^2].
 
 What happens when we take ownership to zero? This isn't in the same way that a monk might own just his robes and his rice bowl. More the idea that once there's ubiquitous fast access to spotify then there's very little use in having a vast cd collection.
 
@@ -52,22 +52,12 @@ The other interesting consequence of ownership being so rare might be that we in
 If and where we stop this trend is going to be interesting.
 
 [^1]: rather than once every time period, i.e. 5% every month. For a _much_ better explanations (and a bit of a diversion into logarithms) listen to the programme!
-
 [^2]: I'm not sure where I read this: I think Benjamin Franklin invested a small amount in trust for several generations. When the investment matured there was concern that the amount would be so big that it would destabilise the economy! If anyone knows if that's true I'd love to hear about it.
-
 [^3]: Although adopting that attitude in general would probably be a good idea - pet guardian maybe?
-
 [^4]: for example you can't paint swastikas all over your house in most areas.
-
 [^5]: like I said, this is a _very_ sketchy definition
-
 [^6]: in a country that you pay tax in
-
 [^7]: It'd be interesting to take the micro payments idea that is popular with roads and apply it to public space. People seem super keen on the idea that you'd pay for using a road, only when you use that road. I wonder how people would feel about the same thinking applied to public squares and libraries?
-
 [^8]: and less noisily, DHL
-
 [^9]: Amazon is into content rental pretty strongly with their kindle books and prime movies.
-
 [^10]: This is a theory I'v been playing with. As things get more 'virtual'--books on kindle,spaces in VR--that we'll start putting more effort into the things that we chose to remain "real'.
-

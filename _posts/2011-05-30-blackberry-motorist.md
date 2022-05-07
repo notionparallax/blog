@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- Cybernetics
-- paul coates
-- poetry
-- sam joyce
+    - Cybernetics
+    - paul coates
+    - poetry
+    - sam joyce
 description:
 meta:
-dsq_thread_id: '4503552402'
-
+dsq_thread_id: "4503552402"
 ---
+
 <p>Paul sent me this today, and I thought that it would be nice to share it:</p>
 <blockquote><p>The blackberry vines grew all around and climbed like green dragon tails the sides of some old abandoned warehouses in an industrial area that had seen its day. The vines were so huge that people laid planks across them like bridges to get at the good berries in the center of them.</p>
 <p>There were many bridges reaching into the vines. Some of them were five or six planks long and it took careful balancing to get back in there because if you fell off, there were nothing but blackberry vines for fifteen feet or so beneath you, and you could really hurt yourself on their thorns.</p>

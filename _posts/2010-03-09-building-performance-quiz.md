@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- eco stuff
-- future
-- major study
-- web
-
+    - architecture
+    - eco stuff
+    - future
+    - major study
+    - web
 ---
+
 <p><img class="alignright" style="width: 300px;" src="{{ site.baseurl }}/assets/exampleAnswer.png" alt="example answer image" />Finally it is launched!!</p>
 <p>There have been a lot of long nights of faffing about with learning about the technology that runs the internet, But now the _building performance quiz_ is live, working reasonably well in most browsers, and has started producing results!</p>
 <p>So "what is it?" I hear you ask!</p>

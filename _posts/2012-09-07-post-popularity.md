@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- blog
-- statistics
-
+    - blog
+    - statistics
 ---
+
 <p>I had a look at the stats for what people look at on this site. I was amazed at the drop off rate from the popular ones to posts that have only ever had one view (probably me checking that it posted properly!).</p>
 <p>After the front page and the tutorials, <a href="http://notionparallax.co.uk/wordpress/?p=130">centroid of points on the surface of a sphere</a> got the most hits by a long way, and it also has the most comments. I'm in the process of writing a summary of the comments and some example code to show the results, but in the mean time, here's the graph.<br />
 <a href="/wordpress/wp-content/uploads/2012/09/stats-big.png"><img class="alignnone size-medium wp-image-970" title="stats big" alt="" src="{{ site.baseurl }}/assets/stats-big.png" width="100%" /></a></p>

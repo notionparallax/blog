@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- geek
-- hardware
-
+    - architecture
+    - geek
+    - hardware
 ---
+
 <p>upon getting stuck into any seemingly simple problem, more complicated things always seem to arise.</p>
 <p>I think I'll get something at least a little bit useful out of this soon though.</p>
 <p>lots of tests and diagrams after this </p>

@@ -7,21 +7,21 @@ published: true
 status: publish
 categories: []
 tags:
-- android
-- crossfit
-- FOSS
-- geek
-- graph
-- hardware
-- nexus
-- Olympic weightlifting
-- phone
-- sensors
+    - android
+    - crossfit
+    - FOSS
+    - geek
+    - graph
+    - hardware
+    - nexus
+    - Olympic weightlifting
+    - phone
+    - sensors
 description:
 meta:
-  _thumbnail_id: '1380'
-
+    _thumbnail_id: "1380"
 ---
+
 <p><script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"><br />
 {"dataSourceUrl":"//docs.google.com/a/notionparallax.co.uk/spreadsheet/tq?key=0AgIWT_wqd-VmdGxnamtuUG8yZEo3UzViel8xV1o0b2c&transpose=0&headers=0&range=A191%3AD358&gid=0&pub=1",<br />
 "options":{"vAxes":[{"useFormatFromData":true,"title":null,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null},{"useFormatFromData":true,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null}],"titleTextStyle":{"bold":true,"color":"#000","fontSize":16},"booleanRole":"certainty","curveType":"","title":"","animation":{"duration":0},"legend":"none","lineWidth":2,"useFirstColumnAsDomain":true,<br />

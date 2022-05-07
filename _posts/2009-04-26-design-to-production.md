@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- cool links
-- geek
-
+    - architecture
+    - cool links
+    - geek
 ---
+
 <p>In this month's <a href="http://www.mark-magazine.com/">Mark magazine</a> there is an article about <a href="http://www.designtoproduction.com/">Design To Production</a>, <a href="http://www.designtoproduction.ch/content/view/31/11/">Fabian Scheurer</a> &amp; <a href="http://www.designtoproduction.ch/content/view/30/13/">Arnold Walz</a>'s company.</p>
 <p>I often get asked what it is that I do, and put quite simply, my stuff is about 10% as hardcore as their stuff.</p>
 <p>Take a look at the article and see what I'm on about!</p>

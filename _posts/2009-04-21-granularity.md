@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- ecotect
-- geek
-
+    - ecotect
+    - geek
 ---
+
 <p>I've been telling people that turning up the analysis resolution on their Ecotect models is a bad idea, but I'd never stopped to figure out just how bad.</p>
 <p>This table shows the rate at which the numbers grow as you go up through the resolution steps.</p>
 <table class="ta1" border="0" cellpadding="3" cellspacing="3">

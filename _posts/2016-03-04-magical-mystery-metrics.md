@@ -8,10 +8,9 @@ status: publish
 categories: []
 tags: []
 description: "People have complex, interesting lives outside work. They'll be better _at_ work if you allow them to remain interesting. This is one way to do it without crossing privacy boundaries."
-
 ---
 
-This is an idea for a way to track the health of a team. It's pretty abstract so I'll need to test it in real life, my guess is that it'll work. 
+This is an idea for a way to track the health of a team. It's pretty abstract so I'll need to test it in real life, my guess is that it'll work.
 
 Tl;dr: People have complex, interesting lives outside work. They'll be better _at_ work if you allow them to remain interesting. This is one way to do it without crossing privacy boundaries.
 
@@ -44,6 +43,3 @@ It's OK that people's numbers will go up and down. As a team lead, it's the tren
 There will need to be periodic checkins so that people can reassess their metric. Maybe I record how many push ups I do each day, but my life changes and I want to record how often I cook dinner at home. That's fine, but your metric needs to represent your goals as they are now, not as they were. (As a nice side effect, it will keep people's goals in their minds.)
 
 I have a strong suspicion that this will work, but it really needs to be tried. If you want to give it a go, then let me know and I'd be very happy to help you set it up.
-
-
-

@@ -7,16 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- TODO
+    - TODO
 description:
 meta:
-  _publicize_facebook_user: https://www.facebook.com/ben.doherty1
-  _publicize_twitter_user: "@notionparallax"
-  
+    _publicize_facebook_user: https://www.facebook.com/ben.doherty1
+    _publicize_twitter_user: "@notionparallax"
 
-  dsq_thread_id: '4503553461'
-
+    dsq_thread_id: "4503553461"
 ---
+
 <p>I've been faffing about with different todo lists for years now. I've used everything from a <a href="http://www.43folders.com/2004/09/03/introducing-the-hipster-pda">hipster pda</a> to some pretty hardcore project management tools. I even used MS Project to get me fired from Autodesk! The one thing that was common amongst them all is that they niggled me because they didn't do everything I wanted. Often a lot of things that I didn't want.</p>
 <p>Most of the time when I ask productive people about what they use I get the unhelpful answer:</p>
 <p>"I use x tool and y system, the features you want are unhelpful. You should just follow the system better."</p>
@@ -73,6 +72,4 @@ meta:
 <p>This is another one that's taken from <a href="http://www.rememberthemilk.com/help/?ctx=basics.locations">RTM</a>. With the recent improvements in the geofence APIs (at least in <a href="https://www.youtube.com/watch?v=Bte_GHuxUGc">android</a>) this becomes a lot more useful. E.g. you are 200m from the supermarket, pop in and buy an avocado. <a href="https://twitter.com/albcorp">ALB</a> has some ideas abou<p>I think about half the things on my lists end up not getting done. Mainly because they stop needing to be done before I do them! I'd like to be able to be more nuanced in the way that I get rid of tasks. As I look back over things, "Done" says to me tha
 
 [^1]: most people seem to work the other way around - they have a system in their heads and their tool is just a minor way of offloading the hard work to it. I really need a system to tell me what I should be doing!
-
 [^2]: This might be my English upbringing, it seems normal to me, but it freaks all the Australians out no end!
-

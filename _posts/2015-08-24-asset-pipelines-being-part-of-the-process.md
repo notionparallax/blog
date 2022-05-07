@@ -7,14 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- BVN
-- data
-- manifesto
+    - BVN
+    - data
+    - manifesto
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
 ---
 
 <a title="Google Research Blog | The latest news from Research at Google | Speed Matters" href="http://googleresearch.blogspot.com.au/2009/06/speed-matters.html">Studies keep showing that making your website just a tiny bit faster </a><a title="HOW ONE SECOND COULD COST AMAZON $1.6 BILLION IN SALES" href="http://www.fastcompany.com/1825005/how-one-second-could-cost-amazon-16-billion-sales">makes your customers spend more</a>. There are lots of things that can make a website a tiny bit faster, and they are all pretty easy to do. However, no one thing is really going to give you a big speed bump. There might be 20 things that each give a 1% improvement.
@@ -50,11 +49,13 @@ The ‘contract' that each part of the pipeline[21. or link in the value chain o
 <a href="/wordpress/wp-content/uploads/2015/08/image02.jpg" rel="attachment wp-att-1850"><img class="size-full wp-image-1850 alignnone" src="{{ site.baseurl }}/assets/image02.jpg" alt="image02" /></a>
 
 &nbsp;
+
 <p class="c2 c4 c25"><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.chem4kids.com%2Ffiles%2Fbio_enzymes.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGD-692o6iIs83aLNDP3BGhTvXbgg">Enzymes are a nice metaphor </a>- they take something and return something else.
 
 To think of our work as tasks with contracts isn't all that natural. We tend to think of our work to be governed by a contract between us and an external party. The work we do internally is more fluid. I'm not advocating that we should start writing contracts between each other! If you stop to think, that contract is already there. It's just in the form of a tacit agreement.
 
 If you ask me to do something and I agree then we've made a contract that you'll provide me with some input and I'll provide you some output. If I break it you can't sue me, but you can be annoyed and change your opinion of me. As a side note, when I see really good delegators working their wording fits this pattern[1. really _really_ good delegators make people think it was their idea all along!].
+
 <blockquote>
 "I'll give you this, and then you'll do that and give it to so-and-so by this time."
 </blockquote>
@@ -66,8 +67,7 @@ Firstly it clarifies communication and understanding in a team. If I am clear ab
 The second thing is about automation. If you see each of your tasks as discrete steps then<a href="http://notionparallax.co.uk/wordpress/?p=1768"> they are easier to delegate to another human</a> or <a href="http://www.bruno-latour.fr/sites/default/files/35-MIXING-H-ET-NH-GBpdf_0.pdf">non-human agent</a>.
 
 It can make your life easier even if you aren't delegating. Imagine that your present self and future self are different people. Present me is often annoyed with past me for doing something stupid. That's unavoidable, but if you do something lazy and future you has to clean up then that's extra annoying. If you make a deal with future-you that you'll do it right then you'll stay happy.
+
 <hr />
 
-
 [^1]: really _really_ good delegators make people think it was their idea all along!
-

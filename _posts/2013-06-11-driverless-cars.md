@@ -7,14 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- future
-- prediction
-- transport
+    - future
+    - prediction
+    - transport
 description:
 meta:
-dsq_thread_id: '4503553347'
-
+dsq_thread_id: "4503553347"
 ---
+
 <p>For quite a while now I've been thinking about the effects of driverless cars. To begin with I didn't realise that this was what I was thinking about. When I was a student I looked at how to use car parks as schools and <a title="mushroom carpark" href="http://notionparallax.co.uk/?p=107">farms</a> once they no longer housed cars, but that'd getting off track - we haven't got to that point yet.</p>
 <p>I'm going to lay out one way that I think driverless cars could change the world. Each point could ramify significantly and I could chase each one, but let me take this one path and try to make it compelling. Then we can go back over it if it makes sense.</p>
 <p>Thinking about today's human-driven cars- _it's all about the driver_! It was the Queen's birthday long weekend, so to pass the time we watched all the fast and furious films[^1] and the driver really is key. The car seems to be the star, but as the cowboy kid drags the supercar around the carpark you see that 'precision driving' really is a property of the driver. This car-driver relationship has been important ever since 'normal' people could have cars. The freedom and adventure afforded by having a car and being able to drive it has been a big deal in 20<sup>th</sup> and 21<sup>st</sup> century culture.</p>
@@ -43,9 +43,6 @@ dsq_thread_id: '4503553347'
 <p>Assuming that there is some version of  <a title="Isaac Asimov" href="http://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>'s <a href="http://en.wikipedia.org/wiki/Three_Laws_of_Robotics">Three Laws of Robotics</a> built into the driving system, cars will go to great lengths to prevent harm to humans[^2]. This means that a 'playful' individual could cause transport chaos just by walking out into the road.</p>
 <p>Prediction 9: jaywalking[^3] will become a more serious offence.</p>
 
-
 [^1]: the most recent F&amp;F movie is fantastic, <a title="an animated gif that'll change your life" href="http://i.imgur.com/hPd4wwJ.gif">V Dizzle's flying headbutt</a> is part of a string of highlights!
-
 [^2]: I suppose this brings up some interesting trolley problem type issues
-
 [^3]: you should listen to this fascinating <a title="Episode 76- The Modern Moloch" href="http://99percentinvisible.org/post/47063460311/episode-76-the-modern-moloch">99% invisible podcast</a> about jaywalking

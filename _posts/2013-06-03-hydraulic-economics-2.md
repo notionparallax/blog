@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- computers
-- economics
-- hydraulic
-- learning
-- mental models
-- models
-- thinking
-
+    - computers
+    - economics
+    - hydraulic
+    - learning
+    - mental models
+    - models
+    - thinking
 ---
+
 <p>I just started reading[^1] <a href="http://en.wikipedia.org/wiki/Herbert_A._Simon">Herbert Simon</a>'s <a href="http://www.amazon.com/gp/product/0262691914/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0262691914&amp;linkCode=as2&amp;tag=notioparal-20">The Sciences of the Artificial</a><img style="border: none !important; margin: 0px !important;" alt="" src="{{ site.baseurl }}/assets/ir?t=notioparal-20&amp;l=as2&amp;o=1&amp;a=0262691914" width="1" height="1" border="0" />[^2] and he has a couple of references to models of economic processes implemented hydraulically.</p>
 <p style="text-align: center;"><img class="aligncenter" alt="" src="{{ site.baseurl }}/assets/Phillips_and_MONIAC_LSE.jpg" width="338" height="468" /></p>
 <p>As seems to be emerging as a common theme on this blog, it is something that I'd been thinking about for a while, but hadn't got around to looking to see if anyone had already done it. He mentions the <a href="https://en.wikipedia.org/wiki/MONIAC_Computer">MONIAC</a> computer, designed to do <a href="https://en.wikipedia.org/wiki/Hydraulic_macroeconomics">Hydraulic macroeconomics</a> for the British economy. As Simon explains, the model was very limited in its usefulness, far from a universal computing machine, and was very quickly replaced once digital computers came into use.</p>
@@ -25,7 +25,5 @@ tags:
 <p>I'm not really that interested in developing a hydraulic model of information flow in economies (although I'd be really into reading about someone else doing it). What really interests me is that it's possible at all to use these kinds of imperfect models to understand things. The gaps between my mental simulation of the model, and my mental version of 'the truth' seem to be where the real insight lies.</p>
 
 [^1]: not on my reading list, but I think I might have to admit defeat when it comes to <a href="http://www.amazon.com/gp/product/0300188374/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0300188374&amp;linkCode=as2&amp;tag=notioparal-20">The Master and His Emissary</a><img style="border: none !important; margin: 0px !important;" alt="" src="{{ site.baseurl }}/assets/ir?t=notioparal-20&amp;l=as2&amp;o=1&amp;a=0300188374" width="1" height="1" border="0" />, at least until I have a lot more patience and a bigger run up at it.
-
 [^2]: It is really good so far, I'm amazed that I've been able to go this far without someone forcing me to read it!
-
 [^3]: A set of valve settings I'd imagine

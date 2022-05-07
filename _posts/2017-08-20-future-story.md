@@ -17,7 +17,6 @@ twitter-body: A messy story that tries to resolve some of my ideas
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: http://cdn2-www.comingsoon.net/assets/uploads/2017/05/Jetsons.jpg
-
 ---
 
 <style>
@@ -79,7 +78,7 @@ I've blogged about most of the ideas in the story, and the ones that I haven't, 
 
 ### For work
 
-Some of this stuff relates to things I think about at work, I believe that it should be possible to fit this into the world that I want to create in the *Me* section of things. If I can't I should really think about doing something else.
+Some of this stuff relates to things I think about at work, I believe that it should be possible to fit this into the world that I want to create in the _Me_ section of things. If I can't I should really think about doing something else.
 
 Without any more faffing, here's ≈ 10k words with minimal editing!
 
@@ -96,7 +95,8 @@ Watching her repack her handbag he realised that, in her organised and methodica
 
 Other passengers were tutting and looking disapprovingly at tactical-man. (As he'd decided to call the diminutive toy soldier.) A click in his earpiece[^earpiece] as the drivers went from rest to active let him know that Jane had woken up.
 
-[^earpiece]: something like: [the Moto Hint](http://www.theverge.com/2014/10/9/6948887/moto-hint-review), but the [Sony project N](http://www.theverge.com/2016/3/13/11215162/sony-project-n-headphones-future-lab-sxsw-2016) headphones are interesting too because they have a camera so that they can see the world.
+[^earpiece]:
+    something like: [the Moto Hint](http://www.theverge.com/2014/10/9/6948887/moto-hint-review), but the [Sony project N](http://www.theverge.com/2016/3/13/11215162/sony-project-n-headphones-future-lab-sxsw-2016) headphones are interesting too because they have a camera so that they can see the world.
 
     I also wrote about a very basic version of this at the end of [this piece about podcast technology](https://notionparallax.co.uk/2016/podcast-empire#other-things).
 
@@ -120,7 +120,6 @@ People at the front of the plane had begun to shuffle out of the door.
 
 [^uber]: Julie Ask, an analyst at Forrester Research. She says being able to tell the Echo to call an Uber is fun, but incremental. [“In five years, my Echo will say, hey, it's about time to go to the airport. Should I get you a car? And I'll just say yes,"](http://www.bloomberg.com/features/2016-amazon-echo/) she said. “That's the difference between where we are today and where we want to be."
 
-
 "Will do, I'll let you know when it's confirmed."
 
 He flipped up the arm rests, slid across into the space vacated by his overly keen row mates and stood to retrieve his bag. He flipped out the wheels and shoved it into the narrow gap bounded on each side by the seats and behind by three generations of a family who had spread their luggage over about seven bins.
@@ -129,7 +128,7 @@ He said thank you to an air hostess who he hadn't even seen during the flight an
 
 "Do you want to pick up dinner on the way home?[^upsell]" Jane asked "There's Thai, paleo and BBQ all within less than five minutes deviation from the route."
 
-[^upsell]: An upsell. I guess she could talk about offers on places he'd been before etc. to make it feel more personalised. I wrote about the difficulties of this from an algorithmic point of view [here]( http://notionparallax.co.uk/2016/lets-get-coffee-and-a-doughnut-on-the-way)
+[^upsell]: An upsell. I guess she could talk about offers on places he'd been before etc. to make it feel more personalised. I wrote about the difficulties of this from an algorithmic point of view [here](http://notionparallax.co.uk/2016/lets-get-coffee-and-a-doughnut-on-the-way)
 
 "let's get barbecue" as he picked his way past some people on the aerobridge who had stopped to put their coats into their bags, blocking the narrow tube despite being only meters away from a spacious arrivals lounge. "Could you book me a workspace for tomorrow afternoon and connect a call to home please."
 
@@ -169,12 +168,11 @@ He'd been toying with getting an experience package upgrade for Jane, so he'd in
 <section>
 ## Maneater
 
-
 [^rewrite]Tapping away to 'Maneater' was really starting to get tedious. He'd streamed a load of the more popular Hall & Oates songs to settle an argument. He'd said that radio DJs played their Hall & Oates floor fillers faster than the album versions; she'd said that that was crazy. True to their respective professional creeds they'd tried to settle the argument with data, but sitting on the sofa their airBnB in their pyjamas they didn't have the equipment to time one song played after the other and they both got distracted.
 
 [^rewrite]: Big Rewite needed on this chapter. Make it much more conversational. Talk a lot about the sensors that are common and allow him to do his work.
 
-"*You can rely on the old man's money...*" had, until yesterday, been an occasional treat but it was now like Hall & Oates had been killed in a tragic accident it was all anyone was talking about.
+"_You can rely on the old man's money..._" had, until yesterday, been an occasional treat but it was now like Hall & Oates had been killed in a tragic accident it was all anyone was talking about.
 
 Of course this wouldn't be a problem if he wasn't so cheap. He didn't listen to much music, so had the free version of the music service. For $12.49 a month he could have had higher sound quality and a human experience curator who would be the DJ for his life. It wouldn't be a full time role, like having Jazzy Jeff playing a private party in his headphones. It was probably an unemployed musician, tweaking the AI that picked his music and reacting when they years of thumbs up at Hall & Oates turned suddenly into relentless thumbs down.
 
@@ -270,16 +268,15 @@ This was going to need a new space. Octo Labs cultivated leads to journalists, a
 <section>
 ## In which our hero gets a full experience package
 
-
 There were often stories on self-help and productivity blogs about how you are the average of the five people you spend the most time with. It seemed to make intuitive sense, but the mechanism seemed a bit opaque; did people influence each other? Maybe they just sorted into groups based on their existing tendencies. He suspected that it was a bit of both.
 
 It didn't matter to him what the truth was; pragmatically it seemed to work. Of course that wouldn't stop him obsessing over the mechanism that allowed it to work, but only once it'd started to affect his life. Until then it wasn't on his radar.
 
-When he stopped to consider his five, it was a bit depressing. Other than himself--who he'd decided was supernumerary--he spent his time with her and jane. The other three people were a rotating cast, drawn from a much wider pool. The time spent with them was asymptotically less than the time spent with his primary encounters. This seemed interesting and he asked Jane to put a future reminder to look into it later. Right now was about setting up an experience package[^expPackage].
+When he stopped to consider his five, it was a bit depressing. Other than himself--who he'd decided was supernumerary--he spent his time with her and jane. The other three people were a rotating cast, drawn from a much wider pool. The time spent with them was asymptotically less than the time spent with his primary encounters. This seemed interesting and he asked Jane to put a future reminder to look into it later. Right now was about setting up an experience package[^exppackage].
 
-[^expPackage]: [This is worth listening to](http://www.flashforwardpod.com/2016/03/08/episode-06-my-everything-pal/). There's a reference to an app called perfection in a fiction book It tries to make everyone be like some kind of statistically designed perfect person.
+[^exppackage]: [This is worth listening to](http://www.flashforwardpod.com/2016/03/08/episode-06-my-everything-pal/). There's a reference to an app called perfection in a fiction book It tries to make everyone be like some kind of statistically designed perfect person.
 
-The arithmetic of averages was refreshingly simple. Five was a small group of influencers and he had strong control over one of them. Jane could help him be his best self, or lead him down paths of utter disaster, depending on how she was configured. It was the difference between being superhuman or an extra from *a scanner darkly*.
+The arithmetic of averages was refreshingly simple. Five was a small group of influencers and he had strong control over one of them. Jane could help him be his best self, or lead him down paths of utter disaster, depending on how she was configured. It was the difference between being superhuman or an extra from _a scanner darkly_.
 
 He'd been doing the bedtime package for a few weeks now. It'd improved his sleep and helped him squeeze a full hour extra out of his evening. He was sold.
 
@@ -311,11 +308,11 @@ He wasn't sure what to expect, but he was pretty sure that it wouldn't involve l
 <section>
 ## leaving the incubator
 
-Always the ping pong. It seemed like a universal law of nature that if you put enough people in a coworking space that at some point a threshold is reached where there is always ping pong being played. Adding cheap beer just fuels the fire. It worked as a social lubricant; one person would reach their ping-pong-limit, leaving the other unfulfilled and an unknown would jump in to take over. Once a few vollies were exchanged it was like the players were old friends. '*What are you working on?'*  Was the coworking version of the old conversational crutch of '*What do you do?*'.
+Always the ping pong. It seemed like a universal law of nature that if you put enough people in a coworking space that at some point a threshold is reached where there is always ping pong being played. Adding cheap beer just fuels the fire. It worked as a social lubricant; one person would reach their ping-pong-limit, leaving the other unfulfilled and an unknown would jump in to take over. Once a few vollies were exchanged it was like the players were old friends. '_What are you working on?'_ Was the coworking version of the old conversational crutch of '_What do you do?_'.
 
-Tonight wasn't so much about the introductions though. The exercise startup team that he'd been working with was moving out of the coworking space and into a command cell. Some people were calling it 'graduating', that felt completely wrong in the sense that they  meant it, but it did have elements of truth. Graduation is a hinge in someone's life between two periods. One where they'd gained seniority, comfort and close friends. The other has more potential, but is lonelier and the fish:pond ratio is reversed again. The people patting them on the back were congratulating them for leveling up, reaching a life goal, without considering if 'up' is the right direction. He stood with the rest of the team—five of them now but that would swell to seven next week—with a tin of beer. They were leaning against a counter with a stream of people coming over to reminisce about the four months that they'd shared in that place. Conversations would form bubbles that floated off to play ping pong doubles or to talk to 'someone I want you to meet' until it was just him and one of the founders, Juniper. He'd asked himself if there was a correlation between oddness of name and oddness of person. Were Johns more likely to become electricians or bankers and Junipers more likely to become yoga instructors? This Juniper had been a yoga instructor before she'd started this company.
+Tonight wasn't so much about the introductions though. The exercise startup team that he'd been working with was moving out of the coworking space and into a command cell. Some people were calling it 'graduating', that felt completely wrong in the sense that they meant it, but it did have elements of truth. Graduation is a hinge in someone's life between two periods. One where they'd gained seniority, comfort and close friends. The other has more potential, but is lonelier and the fish:pond ratio is reversed again. The people patting them on the back were congratulating them for leveling up, reaching a life goal, without considering if 'up' is the right direction. He stood with the rest of the team—five of them now but that would swell to seven next week—with a tin of beer. They were leaning against a counter with a stream of people coming over to reminisce about the four months that they'd shared in that place. Conversations would form bubbles that floated off to play ping pong doubles or to talk to 'someone I want you to meet' until it was just him and one of the founders, Juniper. He'd asked himself if there was a correlation between oddness of name and oddness of person. Were Johns more likely to become electricians or bankers and Junipers more likely to become yoga instructors? This Juniper had been a yoga instructor before she'd started this company.
 
-"Everyone says that it was easy for us, that we got seed funding without even trying, that we're the VCs pet darlings" She drained the rest of her tin and nailed a three pointer into the recycling bin “What those cunts don't ever talk about is how many times we pivoted before we found this. 'Pivoted' sounds so clean, so planned. Maybe 'near death collapse' would be a better name for it!" She paused and got another can out of the fridge that they were leaning against. She offered another one to him, but Jane made a disapproving sound so he gave his beer a little shake as if to say 'I've got plenty left'. She jumped up onto the counter without using her hands to help and opened her beer. “Everyone is so fucking chipper about us 'graduating' but I'm scared shitless that shutting ourselves in a box will kill us." One of the strange side effects of the work he was doing with them was that people felt comfortable revealing their weaknesses, using him as a therapist. He didn't charge extra for it because the extra insight it gave was way more than he could get from any amount of sensors. The data gave him lots of *what*, but turning that into *why*   was hard work. If people opened up to him like that it saved hours of analysis.
+"Everyone says that it was easy for us, that we got seed funding without even trying, that we're the VCs pet darlings" She drained the rest of her tin and nailed a three pointer into the recycling bin “What those cunts don't ever talk about is how many times we pivoted before we found this. 'Pivoted' sounds so clean, so planned. Maybe 'near death collapse' would be a better name for it!" She paused and got another can out of the fridge that they were leaning against. She offered another one to him, but Jane made a disapproving sound so he gave his beer a little shake as if to say 'I've got plenty left'. She jumped up onto the counter without using her hands to help and opened her beer. “Everyone is so fucking chipper about us 'graduating' but I'm scared shitless that shutting ourselves in a box will kill us." One of the strange side effects of the work he was doing with them was that people felt comfortable revealing their weaknesses, using him as a therapist. He didn't charge extra for it because the extra insight it gave was way more than he could get from any amount of sensors. The data gave him lots of _what_, but turning that into _why_ was hard work. If people opened up to him like that it saved hours of analysis.
 
 "If you're so worried about moving, why not stay here?"
 
@@ -329,9 +326,9 @@ That's all irrelevant anyway. I don't want regular office space. We don't have r
 
 Having a command cell works on that amplify thing I was talking about. Having work as a place you go to use out of date technology isn't helping anyone. It's got to have a pay off. All that time spent commuting, time spent away from your family, it's got to be for a reason."
 
-"That makes sense. I guess I physically come to you because of the bandwidth of actual proximity. But what *is*   the reason? Can't you just get one of those meeting-room-for-hire things that you see on the back of busses?"
+"That makes sense. I guess I physically come to you because of the bandwidth of actual proximity. But what _is_ the reason? Can't you just get one of those meeting-room-for-hire things that you see on the back of busses?"
 
-"You were telling me a long time ago about hybrid chess teams, about how humans and computers working together could beat computer chess masters and human chess masters working alone. That's kind of how we've built this thing. It's us working *with*   the machines. But that's not enough any more, it's not some highly fucking classified secret that hybrid teams work. Everyone who isn't totally incompetent is doing it." She took a big swig of her beer and added “granted that 'totally fucking incompetent' describes most of the incumbents that we are up against, but they have lots of capital, and it takes time and the best weapons to wear down that armour."
+"You were telling me a long time ago about hybrid chess teams, about how humans and computers working together could beat computer chess masters and human chess masters working alone. That's kind of how we've built this thing. It's us working _with_ the machines. But that's not enough any more, it's not some highly fucking classified secret that hybrid teams work. Everyone who isn't totally incompetent is doing it." She took a big swig of her beer and added “granted that 'totally fucking incompetent' describes most of the incumbents that we are up against, but they have lots of capital, and it takes time and the best weapons to wear down that armour."
 
 A stray ping pong ball flew straight at them. Juniper lifted her legs to let someone pick it up and pulled them under her so she was sitting cross legged on the counter.
 
@@ -339,7 +336,7 @@ A stray ping pong ball flew straight at them. Juniper lifted her legs to let som
 
 "Amplification! It's not just a flat surface to sit at. Everything in there is designed to make us better. It's like flying business class, but in a workplace, without the wanky pyjamas. It's many humans working with many machines, but also working with each other.
 
-Everyone says they are most productive when they are at home, somewhere they *like*   being, and that they only come into the office because it's *expected*" she spat that last word out with such hatred. "The point of this space, and all the stuff that comes with it is that it makes us better than we can be apart, even with all the fancy comms tech you can get now, this is comms tech IRL. We need that to keep our edge.
+Everyone says they are most productive when they are at home, somewhere they _like_ being, and that they only come into the office because it's _expected_" she spat that last word out with such hatred. "The point of this space, and all the stuff that comes with it is that it makes us better than we can be apart, even with all the fancy comms tech you can get now, this is comms tech IRL. We need that to keep our edge.
 
 All the coaching work that you do will be amplified too. You'll have more data, it'll be collected better and all that. That's why you're coming to the onboarding next week, I'm not just feeling generous."
 
@@ -349,7 +346,7 @@ All the coaching work that you do will be amplified too. You'll have more data, 
 
 "Hey dopey!" Juniper was waving at him, laughing at his inability to split his attention. Even after one beer Jane would make him forget that he was in the real world. In Bars he had to find a seat with his back to the screen of the array of flashing, coloured lights would distract him to the point of seeming catatonic, regardless of what was actually on the screen. Some kind of vestigial hunting instinct that did more harm than good now.
 
-"Sorry, I got caught up in  some kind of infinite loop that wasn't going anywhere. Thinking about this amplified thing."
+"Sorry, I got caught up in some kind of infinite loop that wasn't going anywhere. Thinking about this amplified thing."
 
 "You are such a spazz. You zone out like that all the time. I usually don't say anything because you usually say something useful afterwards.
 
@@ -359,14 +356,13 @@ They talked for a few more minutes about how creepy real estate people could be.
 
 Of course they end up playing ping pong.
 
-
 </section>
 <section>
 ## The shim
 
 Saturday started with the first of his shim packages being delivered. It was one of those packaged that gets breathlessly unpacked on YouTube. It was designed to overcome the last vestiges of his old self, and help the transition into the 'new you' so often promised by soft focus adverts.
 
-On the top of the crate, in a san-serif font printed in silver on the raw card background,  was the instruction:
+On the top of the crate, in a san-serif font printed in silver on the raw card background, was the instruction:
 
 "Don't open me yet, just tell Jane that I've arrived." This sort of personification of objects annoyed him, but he couldn't tell why, which annoyed him even more.
 
@@ -380,7 +376,7 @@ At Jane's instruction, he pulled the fabric tabs that bookended the silver text.
 
 [^jealous]: MM: "I had to remind myself Jane is the AI assistant and not the life partner at this point! I was reading chapter 3 as though Jane was a human partner, until I remembered she was an AI. Probably doesn't mean much and maybe that is a point you are trying to make?" BD (9 Apr 2016) "It's not, but maybe the ambiguity is a good thing? I'm not sure. The Jane character is directly ripped off from the Ender series, books 2-4 where the wife's jealousy of Jane is a plot point."
 
-"Take it out" Jane encouraged. It was bin bags, neatly rolled[^roll] placed with the seam facing down so that from above it looked like a perfect black cylinder. Underneath the roll was another fabric tab, with the same silver text; one word either side, *not yet*. “Go to the fridge and put everything in the bag."
+"Take it out" Jane encouraged. It was bin bags, neatly rolled[^roll] placed with the seam facing down so that from above it looked like a perfect black cylinder. Underneath the roll was another fabric tab, with the same silver text; one word either side, _not yet_. “Go to the fridge and put everything in the bag."
 
 [^roll]: Should this be a single, folded bag, for him to put the food into?
 
@@ -388,21 +384,20 @@ The layer under the bag housed a stack of boxed, ready made meals that seemed to
 
 Three printed placemats made up the next layer. These were like trainee butlers would use when learning to set a formal table for royalty, except instead of marking where to put the oyster fork, these mats had shapes with, mostly circles, with words that seemed to imply that there was going to be a chemistry experiment coming up.
 
-In the next compartment, uncovering it like a lifestyle archaeologist, there was a jigsaw of angular containers, tessellated together like crazed pane of glass[^craze]. These little boxes had little containers of supplements, a small cup and a pair of orange lensed glasses, some earplugs and a molded eye mask.  
+In the next compartment, uncovering it like a lifestyle archaeologist, there was a jigsaw of angular containers, tessellated together like crazed pane of glass[^craze]. These little boxes had little containers of supplements, a small cup and a pair of orange lensed glasses, some earplugs and a molded eye mask.
 
 [^craze]: I'm trying to explain how the Estimote beacons look, but I don't think I'm doing very well. ![](http://images.gizmag.com/hero/estimote-nearables.png)
 
-The last layer had three indentations in it. In the middle was a paper notebook with the XP branding on the cover. He picked it up and flicked through it. The pages were mostly plain with a dot grid, but interspersed were workbook pages and line drawings to colour in.  The other two wells were same the size as the notebook but contained branded boxes. One from 23andMe for genetic testing, and the other from WellnessFX for blood tests. Their branding was conspicuously different to the rest of the box, lacking the continuity that the experience had provided so far, but he guessed that these were semi-medical offerings, so the branding brought them a level of trust. He put these in the fridge without thinking, the fridge felt like the right place for medical things.
+The last layer had three indentations in it. In the middle was a paper notebook with the XP branding on the cover. He picked it up and flicked through it. The pages were mostly plain with a dot grid, but interspersed were workbook pages and line drawings to colour in. The other two wells were same the size as the notebook but contained branded boxes. One from 23andMe for genetic testing, and the other from WellnessFX for blood tests. Their branding was conspicuously different to the rest of the box, lacking the continuity that the experience had provided so far, but he guessed that these were semi-medical offerings, so the branding brought them a level of trust. He put these in the fridge without thinking, the fridge felt like the right place for medical things.
 
-"It's time to have your first meal" so this was the new Jane, the one that was in control of him “It's the one with *2 Saturday*   printed on it.  This one's cold, but the next meal is hot so get *3 Saturday*   out and put it in the circulator"
+"It's time to have your first meal" so this was the new Jane, the one that was in control of him “It's the one with _2 Saturday_ printed on it. This one's cold, but the next meal is hot so get _3 Saturday_ out and put it in the circulator"
 
 He took the two meals out of the fridge, the first was a salad of some sort[^salad], the other was a lot less obvious. It looked like coloured bubble wrap. Four blisters of different sizes[^vac], tightly vacuum around different components of the meal. It looked like a prison meal from a space penitentially, but I dutifully dropped it into the water bath as Jane adjusted the temperature.
 
 [^salad]: I'm thinking like a pret a manger type thing ![](http://www.chicagobites.com/wp-content/uploads/2011/05/pret_a_manger_salad.jpg)
-
 [^vac]: [This is actually possible](http://www.tossheatseal.com/components-contoured-heat-seal-bands.php)! Maybe have the bags inflated with nitrogen instead of vacuuming them?
 
-On the balcony, breakfast salad box perched on his knees Jane took him through the what he was to do with the rest of the box's contents. He resolved that as an act of civilised rebellion he was going to use a real plate for all his future meals. There was nothing *wrong*   with the boxes, but he felt as if he needed to have at least some agency.
+On the balcony, breakfast salad box perched on his knees Jane took him through the what he was to do with the rest of the box's contents. He resolved that as an act of civilised rebellion he was going to use a real plate for all his future meals. There was nothing _wrong_ with the boxes, but he felt as if he needed to have at least some agency.
 
 "We'll need to clear a space for the placemats to go. They are mise en place for your life. They let you see very quickly if you are missing something, and what you need to do next."
 
@@ -414,120 +409,122 @@ On the balcony, breakfast salad box perched on his knees Jane took him through t
 
 "You said that you work better when there is some pressure to pay attention from others being present. This is a very common trait. There is an XP goal setting workshop that's already booked in for next Wednesday evening."
 
-
-*   Mari Kondo belongings
-*   The rest of the box:
-    *   Mies en place Placemats for the kitchen and the bathroom
-    *   Ready meals - portioned for his weight and activity level - into the space made in the fridge
-    *   Things
-        *   cup
-        *   Orange glasses
-        *   Basic Supplements
-        *   Shaker etc.
-    *   23&me and wellness FX kits
-*   Phone is feeling hot from extra app downloads, intro and level up model to introduce them all
-*   Talk through a morning routine in the shim period
-    *   Include HRV
-*   Coming off the shim
-    *   Start cooking own meals
-        *   Ingredients are still delivered
-            *   This is common because renting retail space for supermarkets is expensive.
-    *   Results from testing come back
-*   An experience package is a way of living your life that is curated fully by someone else. Traditional fad diets always had an out because people would do something that compromised the purity of the idea[^ib]. An experience package is fully curated. Mostly out of other curated submodules. I.e. your workouts might be designed by person *a*   and your nutrition might be designed by person *b*, but your whole package would be put together by person *c*. Person *c*   would put together a complete package of designed submodules, tweaking them where necessary so that they fitted together, and branding the whole thing as a package.
-Particularly motivated people[^motivated] could design a package for themselves using open source tools and submodules.
-I wrote about this here: [Personal stack](http://notionparallax.co.uk/2013/personal-stack)
+-   Mari Kondo belongings
+-   The rest of the box:
+    -   Mies en place Placemats for the kitchen and the bathroom
+    -   Ready meals - portioned for his weight and activity level - into the space made in the fridge
+    -   Things
+        -   cup
+        -   Orange glasses
+        -   Basic Supplements
+        -   Shaker etc.
+    -   23&me and wellness FX kits
+-   Phone is feeling hot from extra app downloads, intro and level up model to introduce them all
+-   Talk through a morning routine in the shim period
+    -   Include HRV
+-   Coming off the shim
+    -   Start cooking own meals
+        -   Ingredients are still delivered
+            -   This is common because renting retail space for supermarkets is expensive.
+    -   Results from testing come back
+-   An experience package is a way of living your life that is curated fully by someone else. Traditional fad diets always had an out because people would do something that compromised the purity of the idea[^ib]. An experience package is fully curated. Mostly out of other curated submodules. I.e. your workouts might be designed by person _a_ and your nutrition might be designed by person _b_, but your whole package would be put together by person _c_. Person _c_ would put together a complete package of designed submodules, tweaking them where necessary so that they fitted together, and branding the whole thing as a package.
+    Particularly motivated people[^motivated] could design a package for themselves using open source tools and submodules.
+    I wrote about this here: [Personal stack](http://notionparallax.co.uk/2013/personal-stack)
 
 [^ib]: IB said (13 Mar 2016): "How do these packages differ from a regular diet etc. in our awesome ability to sabotage ourselves while on them? What happens when you walk past a donut and you really want one? How does the system know if you want a donut or not? Does it talk to you and coax you out of it? Machine learning but for you... it knows that on Friday you feel like you've earned a beer so it schedules something for you and schedules your food intake around that."
-
 [^motivated]: IB said (13 Mar 2016): It would be interesting to explore the types of packages people would design for themselves and how successful they are. For example - I think I go to the gym 5 times a week but the reality is probably on average around 3 times. etc. Do people know what's good for them? The machine knows you better than you know yourself
-*   What sort of stack should he go for?
-    *   Why?
-    *   The rest of the chapter is just the teething pains of adjusting and all the new toys that arrive in the post.
-*   She's impressed, decides to get a package
-*   Talk, at length, about his bag?
+
+-   What sort of stack should he go for?
+    -   Why?
+    -   The rest of the chapter is just the teething pains of adjusting and all the new toys that arrive in the post.
+-   She's impressed, decides to get a package
+-   Talk, at length, about his bag?
 
 </section>
 <section>
 ## Moving in
 
 In which the team moves into a new space
-*   The struggle of not having contexts to work
-    *   Needing to clear wall space etc.
-*   The fitness startup is too big for the incubator/coworking space that they were in, and move into a 1000ft²/93m² private spot.
-*   The cool new space
-*   The new desks
-    *   Flip up monitors
-        *   Keeps tops clear
-        *   Makes desk into board table
-    *   Down projector onto desktop
-*   Context specific workplaces
-*   Contexts are specific to old kinds of work, do we need new contexts for new work?
-*   Team coworking - instead of individuals in a large space, teams in a large space. Maybe like cells make up an organism, team coworking would be like organisms in an ecosystem.
-*Some notes:*
-*   *I've been avoiding this chapter, I need to grasp the nettle. I've also been avoiding bringing in new characters.*
-*   *Start at a party at the coworking/incubator space. Team reminisces about the good and bad things about working in a shared environment. Lots of events and introductions leading to small contracts and collaborations.*
-*   *How does work grow in this world? If people are doing 'work' like in chapter 1, what does it mean to scale a team? Value of continuity, new type of team, high commitment teams?*
-    *   *[Amplified teams](http://ahistoryofthefuture.org/amplified-teams/), Like in History Of The Future In 100 Objects*
-    *   *High commitment teams need a lot of support*
-    *   *Can they even work?*
-*   *Teams that are born out of coworking may feel isolated. Team coworking, no different, just at a scale one order of magnitude larger.*
-    *   *War rooms, either fixed or deployable*
-*   *Team doesn't need to be geographically fixed, address can switch on a weekly basis - hot officing.*
-*   *Fixed minimum infrastructure is a black box and either a ceiling grid of hooks or a net.*
-  *   *Coworking needs colocation. Can e^ ( like 10e^6   etc.) work at with larger scale?*
-    *   *Some structural stuff*
-    *   *Harder to do accidental interactions*
-    *   *Create common infrastructure at local scales*
-        *   *Coffee floor by floor*
-        *   *Living rooms that host events that move about from living room to living room. That would mitigate laziness causing isolation if events were all centralised. Host must speak at event.*
-*   *Needs in one unit:*
-    *   *Desks, projector (top and side, top for shared work, side for telepresence and presenting), still and sparkling water, lockers, whiteboards, wall space (where you can be less precious and you can make persistent things)*
-*   Another unboxing
-    *   Access badge and personal sensor pack
-        *   This would have their access token but it'd be like jewelry
-        *   It'd also have some way of assessing face to face interactions
-        *   They are already personally monitored, so it's just a case giving permissions to the room's app
-        *   Once they are paired with the badge and the badge is paired with their systems it will act as a 2 factor authentication and will also log them into their computer.
-    *   Order Bags for the lockers
-        *   Bags are customisable, over a frame, so that they are individual, but they fit neatly into the lockers
-        *   Water glass and mug that fits into the bags
-        *   Pencil case
-        *   This is like a business class amenity set. What else would be in there?
-    *   Cards that explain the hookups you get from being part of the bigger ecosystem.
-*   Hooking into the system
-    *   Plugging in their personal umbilical
-        *   Plug into the black box and show it your badge to make that port live.
-        *   [Polymagnets](http://www.polymagnet.com/polymagnets/) make sure that the cord sticks to the right place on the race. It's like a cable tray without a cable tray.
-        *   Run the cable to a point on the desk. That activates that work point. (powers up the monitor, the charger ports in the drawer and the internet connection)
-    *   Installing the app for the room on their computer
-        *   Can control localised climate from desktop
-        *   Can see your dashboard
-        *   Team dashboard
-*   Meeting the other command cells in the building at a living room talk
-    *   Having to give a living room talk as the new kids
-*   Actually using the desk
-    *   Maybe switch hero for this?
-*   Who are the new people, how will they fit in?
-*   2 ounce bounce and other top ups
+
+-   The struggle of not having contexts to work
+    -   Needing to clear wall space etc.
+-   The fitness startup is too big for the incubator/coworking space that they were in, and move into a 1000ft²/93m² private spot.
+-   The cool new space
+-   The new desks
+    -   Flip up monitors
+        -   Keeps tops clear
+        -   Makes desk into board table
+    -   Down projector onto desktop
+-   Context specific workplaces
+-   Contexts are specific to old kinds of work, do we need new contexts for new work?
+-   Team coworking - instead of individuals in a large space, teams in a large space. Maybe like cells make up an organism, team coworking would be like organisms in an ecosystem.
+    _Some notes:_
+-   _I've been avoiding this chapter, I need to grasp the nettle. I've also been avoiding bringing in new characters._
+-   _Start at a party at the coworking/incubator space. Team reminisces about the good and bad things about working in a shared environment. Lots of events and introductions leading to small contracts and collaborations._
+-   _How does work grow in this world? If people are doing 'work' like in chapter 1, what does it mean to scale a team? Value of continuity, new type of team, high commitment teams?_
+    -   _[Amplified teams](http://ahistoryofthefuture.org/amplified-teams/), Like in History Of The Future In 100 Objects_
+    -   _High commitment teams need a lot of support_
+    -   _Can they even work?_
+-   _Teams that are born out of coworking may feel isolated. Team coworking, no different, just at a scale one order of magnitude larger._
+    -   _War rooms, either fixed or deployable_
+-   _Team doesn't need to be geographically fixed, address can switch on a weekly basis - hot officing._
+-   _Fixed minimum infrastructure is a black box and either a ceiling grid of hooks or a net._
+-   _Coworking needs colocation. Can e^ ( like 10e^6 etc.) work at with larger scale?_
+-   _Some structural stuff_
+-   _Harder to do accidental interactions_
+-   _Create common infrastructure at local scales_
+    -   _Coffee floor by floor_
+    -   _Living rooms that host events that move about from living room to living room. That would mitigate laziness causing isolation if events were all centralised. Host must speak at event._
+-   _Needs in one unit:_
+    -   _Desks, projector (top and side, top for shared work, side for telepresence and presenting), still and sparkling water, lockers, whiteboards, wall space (where you can be less precious and you can make persistent things)_
+-   Another unboxing
+    -   Access badge and personal sensor pack
+        -   This would have their access token but it'd be like jewelry
+        -   It'd also have some way of assessing face to face interactions
+        -   They are already personally monitored, so it's just a case giving permissions to the room's app
+        -   Once they are paired with the badge and the badge is paired with their systems it will act as a 2 factor authentication and will also log them into their computer.
+    -   Order Bags for the lockers
+        -   Bags are customisable, over a frame, so that they are individual, but they fit neatly into the lockers
+        -   Water glass and mug that fits into the bags
+        -   Pencil case
+        -   This is like a business class amenity set. What else would be in there?
+    -   Cards that explain the hookups you get from being part of the bigger ecosystem.
+-   Hooking into the system
+    -   Plugging in their personal umbilical
+        -   Plug into the black box and show it your badge to make that port live.
+        -   [Polymagnets](http://www.polymagnet.com/polymagnets/) make sure that the cord sticks to the right place on the race. It's like a cable tray without a cable tray.
+        -   Run the cable to a point on the desk. That activates that work point. (powers up the monitor, the charger ports in the drawer and the internet connection)
+    -   Installing the app for the room on their computer
+        -   Can control localised climate from desktop
+        -   Can see your dashboard
+        -   Team dashboard
+-   Meeting the other command cells in the building at a living room talk
+    -   Having to give a living room talk as the new kids
+-   Actually using the desk
+    -   Maybe switch hero for this?
+-   Who are the new people, how will they fit in?
+-   2 ounce bounce and other top ups
 
 </section>
 <section>
 ## Chapter 7
 
 At home again, the packages clash
-*   Goals differ
-    *   Habit forming requires certain things
+
+-   Goals differ
+    -   Habit forming requires certain things
 
 </section>
 <section>
 ## Chapter 8
 
 The team grows, and has some teething problems
-*   The woes of team loneliness
-    *   In previous space there were non-team people
-    *   Parallel with marital fidelity
-    *   How to fix it
-*   Adding another team member
-    *   How to pick a person
-    *   The mechanics of getting their work space set up
+
+-   The woes of team loneliness
+    -   In previous space there were non-team people
+    -   Parallel with marital fidelity
+    -   How to fix it
+-   Adding another team member
+_ How to pick a person
+_ The mechanics of getting their work space set up
 </section>

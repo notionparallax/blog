@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- future
-- thinking
+    - future
+    - thinking
 description:
 meta:
-dsq_thread_id: '4503552008'
-
+dsq_thread_id: "4503552008"
 ---
+
 <p><img src="{{ site.baseurl }}/assets/save-256x256.png" alt="shamelessly stolen from http://www.iconarchive.com/show/toolbar-icons-by-ruby-software/save-icon.html" width="256" align="right" />Due to some peculiarities in how GC handles it's saves I had to explain to someone the other day that they needed to click on the icon with the floppy disk on it.</p>
 <p>In a crushing moment of feeling old, I realised that it was only fluke that they knew what a floppy disk looked like. It'd be like someone telling me that I needed to look for the 8Track, I know what it is, but i have no idea what it looks like!It just set me wondering if this whole thing has taken on a life of it's own like letter forms going from pictograms into Assyrian (there's great diagram on p112 of David Crystal's excellent book - How Language Works) .</p>
 <p>Are we going to have a generation, lets say today's 10 year olds, coming through in a few years that know exactly what a save icon looks like, but no idea what it depicts, it's just the symbol for save?</p>

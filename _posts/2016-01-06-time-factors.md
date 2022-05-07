@@ -9,11 +9,12 @@ categories: []
 tags: []
 description: I've been thinking about _time_ recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
 
 special-class: time-factors
 ---
+
 I've been thinking about _time_ recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)
 
 <div class="reading-stats">
@@ -33,6 +34,7 @@ I've been thinking about _time_ recently. Not in a spacetime sort of way, but in
 <span class="thing">Letters</span><span class="value">10163</span>
 
 <span class="thing">Read. Time</span><span class="value">00:09:13</span>
+
 </div>
 
 I was on the plane to Brisbane and all the ideas that were swimming about in my brain came into focus for a moment. I frantically scribbled it all down in my notebook and I ended up with these 7 graphs. The thing I like about them is that they just describe the way things are; you can read them however you like. I'll give you my interpretation of what it leads to.
@@ -62,9 +64,8 @@ There are a few big types of work. Most studies focus on people who make widgets
 If we talk about manufacturing, there's a long history.
 
 <figure markdown="0" class="fuse">
-  <img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" /> 
+  <img src="{{ site.baseurl }}/assets/m056AIi0tz4jj3HnC4E9sRA.jpg" alt="" />
 
-  
 <figcaption>One summer I did a week as a temp making these. It's an industrial fuse. Two Bakelite pieces, screwed together over a middle fuse. I got pretty quick. So quick that my 2 week temping gig ended up only being a week because I'd finished my allocation.
 </figcaption>
 
@@ -100,7 +101,7 @@ To work with other people in a sustainable way, we need to keep some kind of <a
 
 That means that there is an incentive to get people to stay at their desks for more time to extract maximum value from that investment. It doesn't matter as much that they aren't producing as much because that loss is offset against the loss from having the chair empty.
 
-This is a pretty easy one to solve; Activity Based Working (<a href="http://www.veldhoencompany.com/en/">ABW</a>) and other free address theories mean that you can drop the people:desks ratio. In our office there is never a 1:1 people to desks ratio. I've done a few rough studies in the past and it's more like 60% as a general maximum[^8]. That means that we are "wasting" capital; it's not being fully exploited[^8a]. 
+This is a pretty easy one to solve; Activity Based Working (<a href="http://www.veldhoencompany.com/en/">ABW</a>) and other free address theories mean that you can drop the people:desks ratio. In our office there is never a 1:1 people to desks ratio. I've done a few rough studies in the past and it's more like 60% as a general maximum[^8]. That means that we are "wasting" capital; it's not being fully exploited[^8a].
 
 ## Communication overhead {#communication-overhead}
 
@@ -128,9 +129,9 @@ There really should be an iframe here :(
 This is a concept taken from the lineage of Toyota's lean production doctrine. <a href="https://en.wikipedia.org/wiki/Kaikaku">Kaikaku is Japanese for radical change</a>. It's the idea that there must be some kind of chaos before a new era.
 
 If the ideas in <a href="https://www.linkedin.com/in/craig-burns-51689a27">Craig's</a> slides above are true then we will need either a miracle or huge chaos before we can escape that pressure.
+
 </figcaption>
 </figure>
-
 
 <figure class="three-col">
 <img class="" src="{{ site.baseurl }}/assets/IMG_0258.jpg" alt="IMG_0258" />
@@ -145,6 +146,7 @@ If the ideas in <a href="https://www.linkedin.com/in/craig-burns-51689a27">Craig
 I think that adding a third version of this in might be helpful too. This is the asset deterioration graph of a road.
 
 This graph shows that as you use a thing it deteriorates. Then you repair it, but it doesn't go back to its new condition. Eventually it can't be easily repaired to a level that is acceptable. Then you need to do a full refurbishment. This happens with expensive shoes. You polish them every week, but after a few years they look tatty, so you take them back to the shoemaker. They will dismantle them and put them back together for you.
+
 </figcaption>
 </figure>
 
@@ -195,9 +197,9 @@ One that comes up a lot is that people try to _work_ for 8 hours day. They offse
 
 The next most common is that there is a sense of career advancement that comes from 'putting in the hard yards'[^17]. You just need to do the hours to show your love for the work. People feel that they have a responsibility to the project and that translates into doing extra work on their own time[^17a]. <img class="alignright" style="width: 25%;" src="{{ site.baseurl }}/assets/pick-two.png" alt="" />The last argument relates to the previous one, but the time is given less willingly. If there is
 
-* a certain amount of work that needs to be done,
-* there are a certain number of people allocated to do it,
-* and there is a time that it needs to be done by.
+-   a certain amount of work that needs to be done,
+-   there are a certain number of people allocated to do it,
+-   and there is a time that it needs to be done by.
 
 We aren’t willing to compromise on quality so we try to cram that work into a smaller time. There are 16 extra hours every day that we could do the work in! This feels like a huge failure of resourcing. Although I’m not entirely putting the blame on the people who allocate the people to jobs. Much of the blame goes to poorly filled in time sheets, and to the cultures that encourage that to happen.
 
@@ -213,54 +215,31 @@ The problem is that the _how_ is only specified as _do things better_. Finding a
 
 I've presented 7 ideas. They don't explain everything about time but I've found them very useful as a common touch-point with people.
 
-I've tried (not very hard) to keep my opinions to the footnotes. I have some conclusions that _I've_ drawn from these premises. What I'd really like is to see if others come to different conclusions!
+I've tried (not very hard) to keep my opinions to the footnotes. I have some conclusions that *I've* drawn from these premises. What I'd really like is to see if others come to different conclusions!
 
 I'll share mine in another post.
 
 [^1]: This is talked about a lot in The Mythical Man Month, about how many lines of code a person writes in a day. Then software people have been trying to _not_ do that ever since.
-
 [^2]: New York Times <a href="http://www.nytimes.com/learning/general/onthisday/big/0105.html#article">"Ford Gives $10,000,000 To 26,000 Employees"</a>, <i>The New York Times</i>, January 5, 1914, accessed April 23, 2011.
-
 [^2a]: Ford Motor Company <a href="http://corporate.ford.com/about-ford/heritage/milestones/5dollaraday/677-5-dollar-a-day" rel="nofollow">"Henry Ford's $5-a-Day Revolution"</a>, <i>Ford</i>, January 5, 1914, accessed April 23, 2011.
-
 [^2c]: HispanicPundit <a class="external text" href="http://hispanicpundit.com/2005/09/21/economic-myths-the-5-day-work-week-and-the-8-hour-day/" rel="nofollow">"Economic Myths: The 5 Day Work Week And The 8 Hour Day"</a>, <i>Hispanic Pundit</i>, September 21st, 2005, accessed April 23, 2011.
-
 [^2b]: Byron Preiss Visual Publications, Inc. <a href="http://www.wiley.com/legacy/products/subject/business/forbes/ford.html" rel="nofollow">"Ford: Doubling the profit from 1914-1916"</a>, <i>Hispanic Pundit</i>, 1996, accessed April 24, 2011.
-
 [^3]: others in this period were to some extent. E.g. My mother went to the school that Cadbury made for his workers in Bournville.
-
 [^4]: It was women, the men were all off getting machine gunned down in muddy fields.
-
 [^4a]: to fit in a 72 hour week you'd need to do between 10 and 14 hours a day!
-
 [^5]: according to Holman, C.; Joyeux, B.; Kask, C. 2008. “<a href="http://www.bls.gov/opub/mlr/2008/02/art4full.pdf">Labor productivity trends since 2000, by sector and industry</a>”, in Monthly Labor Review, Vol. 131, No. 2, pp. 64-82.
-
 [^6]: when I say "our" or "us" I mean BVN, but it applies to all knowledge workers. I wrote this for the BVN internal blog, so they are the intended audience.
-
 [^6a]: I think that the uncomfortable outcome of this line of thought is that a lot of the work we do isn't thinking. It's on a gradient between pure thought and pure doing. With 96% of it quite close to the doing end of things. My post on <a href="http://notionparallax.co.uk/?p=1799">automating architects</a> talks a bit about this; the doing tasks will be automated.
-
 [^7]: It's not strictly linear. There would be discontinuities when you need to move office because it's full. Things like bulk licencing deals are similar; 200-250 Revit licences cost the same, but your 251<sup>st</sup> licence costs a lot more.
-
 [^8]: the first was done using <a href="https://www.eventzero.com/Greentrac/">Greentrac</a> to measure the number of active computers. This isn't perfect because not everyone at a desk is using their computer. They may be leaning back in their chair on the phone, or drawing. Even if we bump up the occupancy rate by a generous 5% that's still much lower than 100%. The actual number went from a peak of 60% down to 40% during lunch time.
-
 [^8a]: I don't think anyone feels bad about exploiting chairs and software licences, but I'm using _exploited_ in the economics sense, not the bleeding hearts sense.
-
 [^9]: I don't have the exact quote, Matthew has my copy of <a href="http://www.amazon.co.uk/Parkinsons-Law-Northcote-Parkinson/dp/1568490151">the book</a> at the moment.
-
 [^10]: It's really easy to forget that IT is about information and communication. We get so hung up on the technology thing. "Fix my computer" etc. that we forget that Uber is IT, that Facebook is IT, that fruit in the supermarket is IT.
-
 [^11]: I’ve put this in a footnote because I’m trying to keep my opinions out of this piece as much as I can. I have strong feelings that this is because architects have let themselves get squeezed from both sides.¶ Architects agree to more work than they are able to do as part of a sustainable business model. The other side is that clients see other industries being able to handle much larger workloads. Those industries have realised efficiency improvements from IT and have automated much of the drudge work.¶ If architects don’t a) put forward a compelling value statement, and b) work hard to <a href="http://notionparallax.co.uk/?p=1799">automate the menial work</a> that makes up &gt;80% of their days then I can't see that trend reversing!
-
 [^12]: hilariously the main study on this seems to be by a guy called <a href="http://www.amazon.com/Nigel-Slack/e/B001HMOU5Q">Nigel Slack</a>. <a href="http://www.ukessays.com/essays/business/performance-review-of-the-spanish-zara-brand-business-essay.php">This essay</a> references it, but I haven't fully chased it down yet.
-
-[^13]: This seems to be another <a href="http://quoteinvestigator.com/2014/03/29/sharp-axe/">misattributed quote</a>! I'm getting really interested in these. This one seem to not be From Abe Lincoln at all. If you like these sorts of things, it turns out that nobody can find a source for Keynes' "<a href="http://quoteinvestigator.com/2011/07/22/keynes-change-mind/">When the Facts Change, I Change My Mind. What Do You Do, Sir?</a>" 
-
+[^13]: This seems to be another <a href="http://quoteinvestigator.com/2014/03/29/sharp-axe/">misattributed quote</a>! I'm getting really interested in these. This one seem to not be From Abe Lincoln at all. If you like these sorts of things, it turns out that nobody can find a source for Keynes' "<a href="http://quoteinvestigator.com/2011/07/22/keynes-change-mind/">When the Facts Change, I Change My Mind. What Do You Do, Sir?</a>"
 [^14]: If it ever does. There’s is a good chance that the current value generated by the profession will soon come from some other party. People say “We'll always need buildings”. I agree, but there is no first-order truth that says that architects need to be the ones providing them. It’s our job to make sure that we provide better value than anyone else is able to.
-
 [^15]: notwithstanding the presumed loss of productivity per hour that I talk about in the first section
-
 [^16]: maybe we're not, but nobody ever admits to it. Some of history's most famous people didn't work crazy hours. E.g. Descartes's laziness was legendary!:
-
 [^17]: which is odd in a fully metric society, surely you'd be _putting in the hard meters_?
-
 [^17a]: in the spirit of keeping my opinions to the footnotes: I think that this is really dangerous. It sets a precedent that if you are unable to put in extra time because of commitments to family or something like that, then you aren't as valuable. This seems completely at odds with the cultural change that organisations like <a href="http://archiparlour.org/">Parlour</a> are trying to bring about. More selfishly, if the reason you are working longer hours isn't because you did something wrong and are fixing it, then it's probably a project resourcing error. As I've said above, the MMM idea that more people means less work done doesn't apply any more.

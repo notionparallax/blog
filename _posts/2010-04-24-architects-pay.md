@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- economics
-- pay
-- protection
+    - architecture
+    - economics
+    - pay
+    - protection
 description:
 meta:
-dsq_thread_id: '4503552740'
-
+dsq_thread_id: "4503552740"
 ---
+
 <p>I've just posted this on <a href="http://www.facebook.com/topic.php?topic=50&amp;post=234&amp;uid=110216182335329#!/topic.php?uid=110216182335329&amp;topic=50">one of the discussion</a> pages of the Facebook group _<a href="http://www.facebook.com/topic.php?topic=50&amp;post=234&amp;uid=110216182335329#!/group.php?gid=110216182335329">Architects against low pay</a>_.</p>
 <p>It'll probably get shot down as a load of neo-con rubbish, but this is one of the few topics that gets me **really **animated.</p>
 <hr />I think that it is fairly clear that anyone can design a building (<a href="http://tinyurl.com/37j3arr">here’s an example</a>).<br />

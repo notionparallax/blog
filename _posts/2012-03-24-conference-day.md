@@ -7,18 +7,18 @@ published: true
 status: publish
 categories: []
 tags:
-- conference
-- notes
-- smart geometry
-- trip
-- usa
+    - conference
+    - notes
+    - smart geometry
+    - trip
+    - usa
 description:
 meta:
-  geo_longitude: "-73.683646"
-  geo_latitude: '42.728965'
-  geo_public: '1'
-
+    geo_longitude: "-73.683646"
+    geo_latitude: "42.728965"
+    geo_public: "1"
 ---
+
 <p>Notes from the conference</p>
 <p> </p>
 <h2>Cloud 9 - Enric Ruiz Geli</h2>

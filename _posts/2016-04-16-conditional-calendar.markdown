@@ -11,11 +11,11 @@ tags: []
 # this goes on the index page, and into facebook shares
 description: Can our calendars be more useful? Can they make more time for the things we want to do? Can they work like a human assistant?
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: Can our calendars be more useful? Can they make more time for the things we want to do?
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/goal-cal.jpg
 ---
 
@@ -32,7 +32,7 @@ I've had this post as a draft for far too long now and I thought that it'd be a 
 
 The way Google have implemented Goals is nice, but it could go _so much further_! Goals are like passive, low status citizens of the calendar society. They make a meek request, but get pushed around. What I'd like to see is a way of giving events way more agency! Let me illustrate this with an scenario:
 
-~~~
+```
 if tomorrow((there are no priority 1 appointments)
         and ( weather is sunny)
         and (there is good snow at Grouse))
@@ -41,7 +41,7 @@ if tomorrow((there are no priority 1 appointments)
     Book me a hire car
     Set my alarm clock for 5am
     Put the word out to snow_friends
-~~~
+```
 
 This is the kind of conversation you could have with a real human. [This is something that I've been thinking about for a while now](http://notionparallax.co.uk/2016/lets-get-coffee-and-a-doughnut-on-the-way). If someone was responsible for organising your life they'd be able to take decisions to maximise the opportunities for you to have good things in your life.
 
@@ -60,8 +60,6 @@ I can imagine a calendar that has all kinds of inputs. It could schedule some R&
 
 There are some tools out there that do this kind of thing a little bit already like [taskk.it](http://lifehacker.com/5923594/taskk-is-a-to-do-app-that-manages-your-time-for-you-and-weve-got-invites)[^3] and [x.ai](https://x.ai/) but they only really load up your calendar or shuffle meetings around into the gaps. I'm thinking of a much more human way of juggling your commitments so that you get the most out of life.
 
-[^1]: I know this goes against the principles of [big rock planning](http://zenhabits.net/big-rocks-first-double-your-productivity-this-week/), but it's an interesting idea anyway. 
-
-[^2]: I really dislike the idea of weekends. I get a small coordination benefit I get from being off work on the same day as other people. This tiny upside is crushed by the downside of the days being fixed, there being limited oportunities to do things (like go to the bank). That's just my perspective. Businesses are running 2/7th of their assets redunantly, everthing is sized for peaks caused by concentrating commutes etc. The world would be better if we just got rid of the concept of weekends all together! 
-
+[^1]: I know this goes against the principles of [big rock planning](http://zenhabits.net/big-rocks-first-double-your-productivity-this-week/), but it's an interesting idea anyway.
+[^2]: I really dislike the idea of weekends. I get a small coordination benefit I get from being off work on the same day as other people. This tiny upside is crushed by the downside of the days being fixed, there being limited oportunities to do things (like go to the bank). That's just my perspective. Businesses are running 2/7th of their assets redunantly, everthing is sized for peaks caused by concentrating commutes etc. The world would be better if we just got rid of the concept of weekends all together!
 [^3]: I think they've tanked. The world wasn't ready for them.

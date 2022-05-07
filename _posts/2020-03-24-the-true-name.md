@@ -37,13 +37,13 @@ There is power in having and knowing a name, it's a token of meaning for that co
 
 I've noticed this idea coming up a lot in things I've been reading. In the Earthsea books, Ursula Le Guin has a system of magic where knowing a thing's _true name_ gives you ultimate power over it. Ged, the archmage of Roke and to some extent hero of the Earthsea books, becomes master of the great dragon just by knowing its name.
 
-You could try to summon things[^things] at random by just saying all the words available in your language. That's a [huge space](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)[^twerk] (there are [171,476 words in the OED](https://www.lexico.com/explore/how-many-words-are-there-in-the-english-language)). There's something like [10<sup>80</sup> atoms in the universe](https://en.wikipedia.org/wiki/Observable_universe#Matter_content_%E2%80%93_number_of_atoms)[^h2], and even if we only name things about the size of a [golf ball](https://www.quora.com/How-many-atoms-are-in-an-average-golf-ball) (8&times;10<sup>27</sup>) _and_ we assume that the universe is made of golf balls, then 10<sup>52</sup> is a good ballpark figure for the number of things that we might need names for. 
+You could try to summon things[^things] at random by just saying all the words available in your language. That's a [huge space](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)[^twerk] (there are [171,476 words in the OED](https://www.lexico.com/explore/how-many-words-are-there-in-the-english-language)). There's something like [10<sup>80</sup> atoms in the universe](https://en.wikipedia.org/wiki/Observable_universe#Matter_content_%E2%80%93_number_of_atoms)[^h2], and even if we only name things about the size of a [golf ball](https://www.quora.com/How-many-atoms-are-in-an-average-golf-ball) (8&times;10<sup>27</sup>) _and_ we assume that the universe is made of golf balls, then 10<sup>52</sup> is a good ballpark figure for the number of things that we might need names for.
 
 Even a very simple naming system like IPv6 has [enough names[^nanda] in it to represent 3.4×10<sup>38</sup> addresses](https://en.wikipedia.org/wiki/IPv6#Larger_address_space). An IPv6 address is 8 four figure hex digits. If there are "[15831 syllable candidates](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt)" then even if only 10% of them can go together, we could name everything in the golf-ball-universe with unique, [17](https://www.numberempire.com/combinatorialcalculator.php) syllable words[^anti].
 
 In the Earthsea books, everyone/thing has a _use name_ and a _true name_. There might be clashes between _use_ and _true_ names, and when you're asking for a cup of tea, you might summon a demon by accident. If saying something's _true name_ gives you power over it then a simple name like _Ged_ would put you in real trouble! There must be more to magic than that[^maybe]!
 
-[^anti] _Antidisestablishmentarianism_ is 12 syllables, so a 17 syllable word would be very hard to say[^syl]. That only takes into account words that are exactly 17 syllables long, if we allow shorter words too, we wouldn't need as many syllables, and things we name more often could have shorter names, like "I". 
+[^anti] _Antidisestablishmentarianism_ is 12 syllables, so a 17 syllable word would be very hard to say[^syl]. That only takes into account words that are exactly 17 syllables long, if we allow shorter words too, we wouldn't need as many syllables, and things we name more often could have shorter names, like "I".
 
 <figure class="quote">
 
@@ -51,7 +51,7 @@ In the Earthsea books, everyone/thing has a _use name_ and a _true name_. There 
 
 <figcaption>Jorge Luis Borges, <cite>Labyrinths</cite>[^labCite] page 93
 
-I'm not sure if this is a fictional quote or not, but a [quick google search](https://www.google.com/search?q=Locke%2C+in+the+seventeenth+century%2C+postulated+(and+rejected)+possible+language+in+which+each+individual+thing%2C+each+stone%2C+each+bird+and+each+branch%2C+would+have+its+own+name&rlz=1C1CHBF_en-GBAU804AU804&oq=Locke%2C+in+the+seventeenth+century%2C+postulated+(and+rejected)+possible+language+in+which+each+individual+thing%2C+each+stone%2C+each+bird+and+each+branch%2C+would+have+its+own+name&aqs=chrome..69i57.516j0j7&sourceid=chrome&ie=UTF-8) finds that this line has been quoted by a load of writers, discussing Leibnitz, Kant, Locke, Berkley, so it's definitely resonated with other people.
+I'm not sure if this is a fictional quote or not, but a [quick google search](<https://www.google.com/search?q=Locke%2C+in+the+seventeenth+century%2C+postulated+(and+rejected)+possible+language+in+which+each+individual+thing%2C+each+stone%2C+each+bird+and+each+branch%2C+would+have+its+own+name&rlz=1C1CHBF_en-GBAU804AU804&oq=Locke%2C+in+the+seventeenth+century%2C+postulated+(and+rejected)+possible+language+in+which+each+individual+thing%2C+each+stone%2C+each+bird+and+each+branch%2C+would+have+its+own+name&aqs=chrome..69i57.516j0j7&sourceid=chrome&ie=UTF-8>) finds that this line has been quoted by a load of writers, discussing Leibnitz, Kant, Locke, Berkley, so it's definitely resonated with other people.
 
 </figcaption>
 </figure>
@@ -75,46 +75,33 @@ This idea of quantifying a space of all possible names came to me while I was re
 > "No one else? You’re the only Shevek?"
 >
 > "While I live. There were others, before me."
->
 
 <figcaption>Ursula K. Le Guin, <cite>The Dispossessed</cite>[^dis] page 198
 
 </figcaption>
 </figure>
 
-
-
 [^syl]: _[pneumonoultramicroscopicsilicovolcanoconiosis](https://en.wikipedia.org/wiki/Longest_word_in_English)_ a word made up specifically to have a lot of syllables, only has 19 syllables.
-
-
 [^dis]: Guin, Ursula K. Le. 2014. The Dispossessed. Later printing edition. Harper Perennial Modern Classics.
-
-
-[^labCite]: Borges, Jorge Luis. 2000. Labyrinths: Selected Stories & Other Writings. 1 edition. London: Penguin.
-
+[^labcite]: Borges, Jorge Luis. 2000. Labyrinths: Selected Stories & Other Writings. 1 edition. London: Penguin.
 [^sl]: (Some sign languages (most or all probably) have a technique that lets you construct an idea once, then place it and refer back to it later)[https://www.lifeprint.com/asl101/pages-layout/indexing.htm].
-
-[^earthseaCite]: Guin, Ursula K. Le. 2018. The Books of Earthsea: The Complete Illustrated Edition. Orion Publishing Group.
-
+[^earthseacite]: Guin, Ursula K. Le. 2018. The Books of Earthsea: The Complete Illustrated Edition. Orion Publishing Group.
 [^ch]: Unless there's a bunch of Charlies, but that's less common, especially once the people talking have established a context.
-
 [^h2]: Assuming that the universe is made of hydrogen, in practice it'd be a bit less, because other elements are heavier, but not by much, maybe 10<sup>78</sup> at most?
-
-[^twerk]: 
+[^twerk]:
     [This](http://web.archive.org/web/20160805180548/http://semarch.linguistics.fas.nyu.edu/barker/Syllables/index.txt) archived page is from about 2009, and asks "How many syllables does English have?". Amazingly, he seems to have unwittingly come up with the word "twerk", way before anyone else"
 
-    "The syllabification algorithm is not particularly sophisticated or elaborate.  As a result, this list contains a number of strings of sounds that are not legitimate English syllables.  This is due to the fact that my data do not recognize morpheme boundaries, even though this affects syllabification.  For instance, the following two putative syllables are not actually legitimate syllables of English: 
-    
+    "The syllabification algorithm is not particularly sophisticated or elaborate. As a result, this list contains a number of strings of sounds that are not legitimate English syllables. This is due to the fact that my data do not recognize morpheme boundaries, even though this affects syllabification. For instance, the following two putative syllables are not actually legitimate syllables of English:
+
     ```
     jh r ae k s     LUGGAGE-RACKS
     t w er k t      OUTWORKED
     ```
+
     "
 
     It shows up in the [Ngram record in the 70s](https://books.google.com/ngrams/graph?year_start=1800&year_end=2008&corpus=15&smoothing=7&case_insensitive=on&content=twerk&direct_url=t1%3B%2Ctwerk%3B%2Cc0#t1%3B%2Ctwerk%3B%2Cc0), but that seems to be beause of a German power station.
 
 [^nanda]: People say "names and addresses" but if you drop the navigational part of an address, then a name is basically the same thing.
-
 [^maybe]: Maybe that's it? IP addresses aren't a nice way to get to a website, but the are that site's _true name_ so maybe the URL is the site's _use name_. If that's the case, then it really would be magic to remember and be able to say a 17 syllable word.
-
 [^things]: This is basically security by obscurity. Whenever you get a share link that's got a long hex [hash](https://blog.codinghorror.com/url-shortening-hashes-in-practice/) in it, you're relying on people not just guessing and reaching into the space of all possible hashes and seeing what comes out.

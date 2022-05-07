@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- writing
-
+    - architecture
+    - australia
+    - writing
 ---
+
 <p>This is my Thinking Architecture essay, i thought i'd got out of doing it, but obviously not.<br />
 It has some images in the <a href="http://www.notionparallax.co.uk/benDoherty-ThinkingArch.pdf" target="_blank">PDF (here)</a> but their absence doesn't really detract from the content, just the visual appeal.</p>
 <blockquote><p>**‘Architectural ideas are inherited from generation to generation’**. (Colomina, 1999)<br />

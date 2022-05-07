@@ -13,7 +13,7 @@ twitter-body: How I think about how progress progresses!
 featuredimg: beach.jpg
 ---
 
-I've been wondering about the Frey categorisation[^3]. It gives a % likelihood of a whole profession being automated, e.g. architecture 2%. That's a low number, and people are justifiable happy about the job security that implies. 
+I've been wondering about the Frey categorisation[^3]. It gives a % likelihood of a whole profession being automated, e.g. architecture 2%. That's a low number, and people are justifiable happy about the job security that implies.
 
 What it doesn't tell you is the internal impact of automation on that profession. E.g. delivery drivers can be replaced by robotic cars, but until the car can get the item from the van to the final destination (into the letter box) there will still need to be a human in the van. Once that is overcome that whole human profession will disappear rapidly.
 
@@ -30,7 +30,5 @@ I think that this is quite a valuable way of thinking about progress. I try to t
 [![A ridged beach with water on it.]({{ site.baseurl }}/assets/{{page.featuredimg}})](https://www.pixoto.com/images-photography/landscapes/beaches/tidal-tracks-117045765)
 
 [^1]: This is what I think Nick Bostrom is saying in [this video at about 14 minutes](https://youtu.be/jupxhH9mE-g?t=872). I'd recommend watching the whole thing, it's very good!
-
 [^2]: This topic is talked about in the video above too. It might be a misinterpretation because we don't care enough about the people who the progress was bad for. E.g. logging hasn't been all that good for remote tribes, European colonisation wasn't that good for South Americans. But these aren't inevitable outcomes of any given technology.
-
 [^3]: I talk about this idea [here](http://notionparallax.co.uk/2015/architects-getting-automated), and [this video explains it quite nicely](http://www.economist.com/blogs/freeexchange/2014/10/automation-competing-computers).

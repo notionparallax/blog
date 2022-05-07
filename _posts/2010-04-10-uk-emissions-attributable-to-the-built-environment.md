@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- emissions
-- major study
-- thinking
-
+    - emissions
+    - major study
+    - thinking
 ---
+
 <p>I’m trying to write about how much the built environment contributes to UK CO<sub>2</sub> emissions, and i’m finding it to be very murky.</p>
 <p>There is a figure of about 47 to 50%-ish but nobody references where they got this from, and nobody then subdivides it to show what that is made up of.</p>
 <p>I’m on the bus at the moment, so i don’t really have access to the figures, but agriculture gets a big chunk, as does electricity generation, cement manufacturing gets a chunk, and transport gets a bit, and then the rest is left to ‘the built environment’.</p>

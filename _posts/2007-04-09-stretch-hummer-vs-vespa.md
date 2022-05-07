@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- eco stuff
-- scooter
-- trips
-
+    - eco stuff
+    - scooter
+    - trips
 ---
+
 <p><img src="{{ site.baseurl }}/assets/h2vsVespa.jpg" alt="mine's black though" title="mine's black though" align="left" /></p>
 <p>On Saturday morning I got up early and rode down to Weymouth on my Vespa, and apart from the excitement of riding through Islington listening to Love Shack (the strange archaeological effect of having an mp3 collection that has only ever grown over the last 7 years combined with the way that my system randomly loads my player), and the 80mph touring cars extravaganza that is driving through the new forest, it was surprisingly uneventful.</p>
 <p>One point that stuck in my mind though was being in the middle lane (at about 80) and seeing a black shadow approaching very fast in my wing mirror. as it got closer it turned out to be a hummer, and as it passed me, and passed me, and passed me a load of people (maybe 15-20) looked out of it at me like they were pressing their face up against a fish tank. My initial reaction was of typical treehugger, aloof disgust as the extravagance of it all, but then it struck me that maybe I was being wasteful. </p>

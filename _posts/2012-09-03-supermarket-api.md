@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- api
-- future
-- service design
-- supermarket
+    - api
+    - future
+    - service design
+    - supermarket
 description:
 meta:
-dsq_thread_id: '4503552892'
-
+dsq_thread_id: "4503552892"
 ---
+
 <p>I've been thinking a lot recently about super markets. As I cruise up and down the aisles, indulging in one of my favourite pastimes of telling the tsunami of information flow over me without any pressure to take it in. It's almost as if it is scouring the accumulated excess information of the week off me. </p>
 <p>I've been thinking mainly about the services that super markets could provide over and above selling food. </p>
 <p>There are lots of examples of them taking big initiatives, the first that comes to mind is Tesco's foray into banking, insurance, clothes etc. The thing that most interest me is their access to information. They've been onto this for a really long time, US supermarket Dollar General[^1] makes a big chunk of its money from selling big information about consumers, but the interesting, and currently unexploited end of the market is small information. </p>
@@ -26,7 +26,5 @@ dsq_thread_id: '4503552892'
 <p>Having an amazing supermarket api would be a big deal, I wonder who's going to try it first?</p>
 
 [^1]: ..but I can't find the citation anywhere just yet.]
-
 [^2]: while doing the washing up, the only thing that makes housework bearable]
-
 [^3]: I'll try and write a bit more about this sort of thing in the next few days]

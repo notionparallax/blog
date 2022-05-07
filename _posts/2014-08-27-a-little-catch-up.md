@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- ideas
+    - ideas
 description:
 meta:
-  _wpas_mess: A couple of little ideas
-  _publicize_twitter_user: "@notionparallax"
-
+    _wpas_mess: A couple of little ideas
+    _publicize_twitter_user: "@notionparallax"
 ---
+
 <p>I feel like I'm a bit less constrained now that the first milli workshop is out of the way so I thought I'd just get some other ideas down. I haven't looked very hard to see if they exist; if they do that that's great and I'd love to hear about them!</p>
 <h2>Rememberable Link service</h2>
 <p>Short links are really useful if you want to be economical with characters, but they are a nightmare if you can't just click on it. The link to my <a href="http://goo.gl/kQnGJu">Github repo is http://goo.gl/kQnGJu</a>. Imagine trying to read that down a phone to someone. If I make a new repo it suggests a name to me I just got _scaling-octo-batman_ and I've had _psychic-octo-nemesis_ in the past. These names are unique, memorable and easy to say. The idea for this service is to do that for links. They might end up being longer than their initial version, but for something like:</p>

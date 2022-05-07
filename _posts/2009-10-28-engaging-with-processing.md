@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- processing
-- teaching
-
+    - processing
+    - teaching
 ---
+
 <p>[caption id="attachment_303" align="alignleft" width="300" caption="brave students play with the noise"]<a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2009/10/28102009058.jpg"><img class="size-medium wp-image-303" title="28102009058" src="{{ site.baseurl }}/assets/28102009058-300x225.jpg" alt="brave students play with the noise" width="300" height="225" /></a>[/caption]</p>
 <p>I did an introduction to programming as a part of the design process to the Brookes second year architects this morning.</p>
 <p>The presentation material that went with the lecture is <a href="http://www.notionparallax.co.uk/noisy/processing-lecture.html">here</a>.  </p>

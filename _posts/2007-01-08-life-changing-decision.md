@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- life
-- turning japanese
-
+    - life
+    - turning japanese
 ---
+
 <div align="center">
 <div style="text-align: center"><img title="alarm clock" alt="alarm clock" src="{{ site.baseurl }}/assets/0880515.jpg" /></div>
 <div align="left">

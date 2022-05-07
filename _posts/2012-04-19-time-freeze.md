@@ -9,11 +9,11 @@ categories: []
 tags: []
 description:
 meta:
-  geo_latitude: "-27.415650"
-  geo_longitude: '153.076790'
-  geo_public: '1'
-
+    geo_latitude: "-27.415650"
+    geo_longitude: "153.076790"
+    geo_public: "1"
 ---
+
 <p>Over coffee yesterday [1 a decaf, believe it or not] I was moaning about how good it would be to be able to pause time so that I could get my work done. Something a bit like the way that Bill and Ted do at the end of Bogus Journey.<br />
 We set up the rule that even if you were to go into frozen time, you couldn't bring anyone with you, and you'd keep ageing at a normal rate; a bit like if you were in light speed travel.<br />
 It brings up some interesting issues. If it was free to freeze time for the rest of the works, and it was something that everyone had access to, then 'normal' would change pretty quickly to accommodate it. The first thing that people would probably do is sleep in frozen time as sleep has no interaction value. The constraint of not being able to take anyone with you shifts the focus onto entirely interaction free time - the kind of things that you could do in a cabin in the woods or on a plane. This would mean that large portions of office work where you didn't need to interact with anyone else could be done in frozen time.<br />

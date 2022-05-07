@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- cool links
-- life
+    - cool links
+    - life
 description:
 meta:
-dsq_thread_id: '4503552321'
-
+dsq_thread_id: "4503552321"
 ---
+
 <p>Being a bit of a massive nerd I've amassed a few music videos that I like to watch when I'm in a particular mood.</p>
 <p>    <object width="500" height="390"><param name="movie" value="http://www.youtube.com/v/zSgiXGELjbc&hl=en_US&feature=player_embedded&version=3" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://www.youtube.com/v/zSgiXGELjbc&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="390"></embed></object><br />
     <object width="500" height="390"><param name="movie" value="http://www.youtube.com/v/XGK84Poeynk&hl=en_US&feature=player_embedded&version=3" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://www.youtube.com/v/XGK84Poeynk&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="390"></embed></object><br />

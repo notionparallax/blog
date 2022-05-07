@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'SG autumn Event: Open Platform at TU Delft'
+title: "SG autumn Event: Open Platform at TU Delft"
 date: 2009-11-02 19:59:07.000000000 +11:00
 type: post
 published: true
 status: publish
 categories: []
 tags:
-- GC
-- geek
-
+    - GC
+    - geek
 ---
+
 <p><img class="alignleft" src="{{ site.baseurl }}/assets/OpenPlatformPoster.jpg" alt="sg poster" width="300" height="284" /> There is going to be a Smart geometry workshop at the end of this month at TU Delft.<br />
 I'm going to be there as a tutor (I think) and it looks like it is going to be really interesting.<br />
 See below for the full details, but if you want to go, apply soon as it is going to be popular!</p>

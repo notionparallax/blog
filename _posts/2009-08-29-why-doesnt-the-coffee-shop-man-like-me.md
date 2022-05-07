@@ -6,13 +6,13 @@ type: post
 published: true
 status: publish
 categories:
-- coffee
+    - coffee
 tags:
-- Bath
-- coffee
-- organisation
-
+    - Bath
+    - coffee
+    - organisation
 ---
+
 <p> To  say that I'm a little disorganised* would be a gross understatement  of the truth, but I'm developing ways to deal with it.</p>
 <p> I've  got a mobile internet dongle, so I can indulge my outrageous  dependency on the internet from wherever I am, I carry at least one  of my laptops almost everywhere I go, and I did have a fantastic todo  list linked to my blackberry, (but alas no more, when I left  Australia I surrendered my badge and gun) - so I'm getting there.</p>
 <p> All  this is no guard against my chronic laziness though. Which is why we  find ourselves, dear reader, in the courtyard of the Parisiene cafe  (predictive wants to write parasite - curiously appropriate) in Bath.  Today is my friend NeAl is getting married to Sarah, and I'm wrapping  their present in a cafe after nipping into a smiths and buying  wrapping paper with monsters on it.</p>

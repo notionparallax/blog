@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- food
-
+    - food
 ---
+
 <p>I'd forgotten just how good rice pudding is. The last time I made it a faffed about with a recipe from some flash cookery book, vanilla pods, double cream and pudding rice, it was incredible when I'd finished, but it took a hell of a long time to make!</p>
 <p>This time I had a quick look at the <a href="http://www.rivercottage.net/SeasonalRecipes~February/59/RicePuddingwithButterscotchApples.aspx">River Cottage website</a>, commited the ratios to memory (1 butter, 1 sugar, 2 rice, lots of milk) and just made it.</p>
 <p>Total prep time, including melting the butter, 5 minutes. Two Hours in the oven, awesome.</p>

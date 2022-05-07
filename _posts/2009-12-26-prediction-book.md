@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- major study
-
+    - architecture
+    - major study
 ---
+
 <p>Through some bizzaro twist of fate my major study has stopped being about the future of the whole world, and has focused in quite a lot. I'll post about this a bit more later on, but as a very quick explanation of what I'm on about...</p>
 <p>Designers make _decisions_ about what to do based on what **they** _know_.  So what happens if they _know_ wrong?</p>
 <p>The ability to '<a title="The Ancient Greek aphorism &quot;Know thyself&quot;, Greek: ????? ??????? gn?thi seauton (also ... ?????? ... sauton with the ? contracted), was inscribed in the pronaos (forecourt) of the Temple of Apollo at Delphi - according to the Greek periegetic (travelogue) writer Pausanias (10.24.1)." href="http://en.wikipedia.org/wiki/Know_thyself">know thyself</a>' can be described in modern parlance as <a title="or if you are being really picky - &quot;Calibrated probability assessment&quot;" href="http://en.wikipedia.org/wiki/Calibrated_probability_assessment">calibration</a>. This skill varies greatly per person across all their activities i.e. I may be very well calibrated about my ability to complete a particular grade of climb, but very poorly calibrated about the length of time to complete a list of features in a spreadsheet.</p>

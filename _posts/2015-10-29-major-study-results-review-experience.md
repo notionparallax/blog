@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Major study: Results review experience'
+title: "Major study: Results review experience"
 date: 2015-10-29 07:55:00.000000000 +11:00
 type: post
 published: true
@@ -9,11 +9,11 @@ categories: []
 tags: []
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'Major study: Results review experience'
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: "Major study: Results review experience"
 ---
+
 <p> </p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image048.png" rel="attachment wp-att-2105"><img class="alignnone size-full wp-image-2105" src="{{ site.baseurl }}/assets/image048.png" alt="image048" /></a><br />
 <a href="/wordpress/wp-content/uploads/2015/10/image049.png" rel="attachment wp-att-2106"><img class="alignnone size-full wp-image-2106" src="{{ site.baseurl }}/assets/image049.png" alt="image049" /></a><br />

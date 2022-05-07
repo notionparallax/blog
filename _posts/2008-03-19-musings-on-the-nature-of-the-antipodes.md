@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- rmit
-
+    - architecture
+    - rmit
 ---
+
 <p>This is a bit of writing/ranting that i did in order to try and understand my view of the studio's ideas. I'll put up the details of the experiment in a bit.</p>
 <p><img src="{{ site.baseurl }}/assets/1092948687_f58f8c6f10.jpg" height="500" width="500" /><br />
  The conventional mathematical definition of an antipode, the opposing point on a sphere, when applied to the earth makes the mental image of our planet flip from the familiar planar Mercator projection to a similar image as viewed from the </span> Apollo 17 <span > spacecraft, a finite lump that can, and has predominately, been explored.

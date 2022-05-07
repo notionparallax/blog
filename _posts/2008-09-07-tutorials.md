@@ -7,14 +7,14 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-- geek
-- tutorials
+    - GC
+    - geek
+    - tutorials
 description:
 meta:
-dsq_thread_id: '4503551923'
-
+dsq_thread_id: "4503551923"
 ---
+
 <p>While GCuser is down, I thought I'd be kind to the world and post my tutorials on here for the wold to see.</p>
 <p>I've revamped and re-energised the two main tutorials. There are still appearances from <a href="http://www.pauldaniels.co.uk" target="_blank">Paul Daniels and Debbie Magee</a>, <a href="http://www.vanillaice.com/" title="Robert Matthew Van Winkle (born October 31, 1967)">Vanilla ice</a>, and there is a special guest appearance from Snow White's step mother - none other than the evil queen herself!!!</p>
 <p>I'll post more stuff as it gets 'finished' but in the meantime, if you find any problems with these two, let me know via the comments.</p>

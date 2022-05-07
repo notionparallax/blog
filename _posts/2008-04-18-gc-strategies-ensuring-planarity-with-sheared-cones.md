@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- GC
-
+    - architecture
+    - GC
 ---
+
 <p><span id="spBody" class="Forum_Normal">here's another strategies tutorial, there is a pdf and gct that's more beautifully formatted over at <a href="http://www.gcuser.com">GCuser.com</a> in the gallery.</span></p>
 <p>This is about making flat quad panels using sheared cones.</p>
 <p>For those of us in Melbourne, there is a particularly horrific example of this in Melbourne central. if you look carefully, you can see the module size split halfway up when the panels get too small.</p>

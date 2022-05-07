@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- EDC
+    - EDC
 description:
 meta:
-  _thumbnail_id: '1833'
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'What''s in my bag? #edc'
-
+    _thumbnail_id: "1833"
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: "What's in my bag? #edc"
 ---
+
 <p>While tidying up yesterday I realised that my bag contents was getting pretty close to a stable ideal that I'm happy with. Here's what and why: </p>
 <ul>
 <li>
@@ -176,4 +176,3 @@ Less penny dreadful, more Lindisfarne gospel! Being able to define words and hig
 <p>I took the photo with i
 
 [^1]: I can't stand the paper in a moleskine!
-

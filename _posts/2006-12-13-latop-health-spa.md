@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- hardware
-
+    - hardware
 ---
+
 <p><img alt="specoid" title="specoid" src="{{ site.baseurl }}/assets/specs.jpg" /></p>
 <p>My laptop is going to a healthspa for a week or two, so i'll have to fire up my desktop for the firt time since i decided i hated visa.</p>
 <p>It'll be interesting to see if it's faster than the laptop, twin single core opterons and 1gb of ram (soon to be 4) vs a centrino duo with 2gb it should be close, but I have a feeling that the desktop will win. It's not very hippy friendly though, it's the equivalent of me having 51 energy saving light bulbs turned on in my house whenever it's running.</p>

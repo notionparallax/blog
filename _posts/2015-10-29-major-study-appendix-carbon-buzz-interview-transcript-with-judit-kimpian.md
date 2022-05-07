@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Major study appendix: Carbon Buzz interview transcript with Judit Kimpian'
+title: "Major study appendix: Carbon Buzz interview transcript with Judit Kimpian"
 date: 2015-10-29 07:55:58.000000000 +11:00
 type: post
 published: true
@@ -9,11 +9,11 @@ categories: []
 tags: []
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'Major study appendix: Carbon Buzz interview transcript with Judit Kimpian'
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: "Major study appendix: Carbon Buzz interview transcript with Judit Kimpian"
 ---
+
 <p> </p>
 <h2><a name="_Toc260017731"></a>Carbon Buzz interview transcript</h2>
 <p>Judit Kimpian was interviewed about Carbon Buzz at the end of March 2010. BD is Ben Doherty, and JK is Judit Kimpian</p>

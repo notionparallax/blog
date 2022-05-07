@@ -7,20 +7,20 @@ published: true
 status: publish
 categories: []
 tags:
-- crossfit
-- D3
-- graph
-- gym
-- javascript
-- JSfiddle
-- power
-- programming
-- regression
+    - crossfit
+    - D3
+    - graph
+    - gym
+    - javascript
+    - JSfiddle
+    - power
+    - programming
+    - regression
 description:
 meta:
-dsq_thread_id: '4503553294'
-
+dsq_thread_id: "4503553294"
 ---
+
 <p>If I really smash it I can hit 0.18 <a href="http://en.wikipedia.org/wiki/Horsepower">horsepower</a>!</p>
 <p><a href="http://jsfiddle.net/mnUWA/35/"><img class="alignnone  wp-image-1403" title="click the image to go to the real thing" alt="A scatter plot of workout power outputs" src="{{ site.baseurl }}/assets/powerGraph.png" width="100%" /></a></p>
 <p>I've been meaning to try using d3 a bit more proper like after I skimmed it for <a title="My nearest…" href="http://notionparallax.co.uk/?p=1348">_my nearest_</a> a few weeks ago. I've got the <a href="http://shop.oreilly.com/product/0636920026938.do">Interactive Data Visualization</a> for the Web book by Scott Murray, and I read it as prose, then jumped straight into the middle of it and tried the code examples and I really should have worked through it methodically. (Maybe feeling stupid will give me some motivation now!)</p>

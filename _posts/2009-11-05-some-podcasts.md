@@ -13,9 +13,9 @@ enclosure: |
     http://media.podcasts.ox.ac.uk/oucs/oxonian_interviews/bostrom_interview.mp3
     9246057
     audio/mpeg
-dsq_thread_id: '4503552590'
-
+dsq_thread_id: "4503552590"
 ---
+
 <p>My dear readers, my capacity for providing witty insight is pretty limited, so today I am going to serve up some other people's chatterings to edify while my brain turns to ecstatic mush from eating <a href="http://www.youtube.com/watch?v=Z7CpMITDLYc&amp;feature=player_embedded">monster munch</a>.</p>
 <p>I've been trying to find out about economics, it seems that it hasn't got all that much to do with business, so that's a relief. one of the best things I've found so far is <a href="http://www.econtalk.org/">Econtalk</a>. It's all pretty old school free market stuff, but there are some great interviews, like this one with <a href="http://www.econtalk.org/archives/2007/05/hanson_on_healt.html">Robin Hanson</a> about healthcare and how mental people are.</p>
 <p>With the Econtalk podcasts lasting over an hour, the <a href="http://philosophybites.com/">philosophy bytes</a> podcasts are a brief 15minutes of crisply edited questioning. I couldn't really pick out a star, but have a listen, they fit well onto bus rides.</p>

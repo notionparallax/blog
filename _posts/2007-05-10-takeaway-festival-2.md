@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- cool links
-- geek
-- interaction
-
+    - cool links
+    - geek
+    - interaction
 ---
+
 <p>the <a href="http://www.danacentre.org.uk/">dana centre</a> has put on a really interesting (but sadly under attended) series of workshops and talks.<br />
 there is still one more day tomorrow, so it might well be worth dropping in. it's free, so that's good i suppose!</p>
 <p>i was supposed to be doing an <a href="http://www.arduino.cc/">arduino</a> workshop, but ended up in the wrong room doing a <a href="http://processing.org/">processing</a> workshop with a chap[<a href="http://www.interaction.rca.ac.uk/people/staff/david-muth.html">david muth</a>] who was at <a href="http://soda.co.uk/">soda</a> for a while.</p>

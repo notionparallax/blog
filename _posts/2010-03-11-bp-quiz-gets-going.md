@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- graph
-- major study
-
+    - graph
+    - major study
 ---
+
 <p>The <a href="http://bpquiz.co.uk/">bpQuiz </a>site is up and rolling along nicely.</p>
 <p>I thought I’d start building the results graphs so that you can see how they are starting to form.</p>
 <p>For starters, here's a map of who has taken the quiz so far (as of today Thursday). As usual wordpress won't allow me to do anything fun, so if you click on the picture below it'll take you to the <a href="http://bpquiz.co.uk/">bpquiz </a><a href="http://bpquiz.co.uk/blog">proto-blog</a>.</p>

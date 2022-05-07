@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- geek
-- making
-- model
+    - architecture
+    - geek
+    - making
+    - model
 description:
 meta:
-dsq_thread_id: '4503551795'
-
+dsq_thread_id: "4503551795"
 ---
+
 <p>I seem to have taken a pretty long walk away from architecture recently, so I thought I'd do something to contribute to the profession again. </p>
 <p>I have a curious obsession with scalpel blades, there are so many types, and the Swann Morton website is so bad, that I really didn't know what they all looked like. </p>
 <p>They are handy for good model making, but people only ever seem to use 6, 10 and 10A. I'm pretty sure that there could be a good use for the 9, the 12D the 16 and the 40 in any studio!! (Just think about how beautiful a scalpel rack would be.)</p>

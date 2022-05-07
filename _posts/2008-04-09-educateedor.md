@@ -7,16 +7,16 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- GC
-- rmit
-- teaching
+    - architecture
+    - australia
+    - GC
+    - rmit
+    - teaching
 description:
 meta:
-dsq_thread_id: '4503551736'
-
+dsq_thread_id: "4503551736"
 ---
+
 <p>I'm starting to find that teaching is actually really hard. I think that when I started that I was just terrified that I'd run out of stuff to say, or that I'd look like an idiot. I remember the panic when my first hour long lecture, which i was convinced would over run ended after 35 minutes.</p>
 <p>I'm much calmer now these days, but begin in the situation where I'm  teaching, and being taught at the same academic level is still a very strange situation to be in.</p>
 <p>The main struggle I have now is about the nuances of teaching, I feel that I'm got to the point now where I can see that there is a huge amount of stuff I don't know. Not so much about the subject, but more about the best way to engage other people, and make them think that the thing that I thought was worth learning about enough to get to this level is exciting enough to want to learn it too.</p>

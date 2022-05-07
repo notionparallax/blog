@@ -11,17 +11,17 @@ tags: []
 #this goes on the index page, and into facebook shares
 description: I've never actually set up my own Mongo database before, I've always been the least useful person on the team. I thought I'd give it a go and document it.
 
-# This is what twitter will pick up if someone tweets the link to this page 
+# This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: I made a shoddy tutorial to help me learn mongodb. Feel free to tear strips off it.
 #Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}}) 
+# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/Evil-Laugh-GIF.gif
 ---
 
 I've never actually set up my own Mongo database before, I've always been the least useful person on the team. I thought I'd give it a go and document it.
 
-I've never actually set up any sort of database before! To use the idea developed [here](http://notionparallax.co.uk/2016/progress-enabling-more-progress) this is like a dam that's been holding me back for years. Now I can surge ahead like a boss. I've always found writing tutorials was a good way to learn, so if I've made a horrific mistake let me know.   
+I've never actually set up any sort of database before! To use the idea developed [here](http://notionparallax.co.uk/2016/progress-enabling-more-progress) this is like a dam that's been holding me back for years. Now I can surge ahead like a boss. I've always found writing tutorials was a good way to learn, so if I've made a horrific mistake let me know.
 
 [Here's a repo](https://github.com/notionparallax/SimpleMongNode) with some working code and [here's the working app](https://infinite-castle-45974.herokuapp.com/).
 
@@ -62,58 +62,57 @@ Your app _should_ be working now!
 
 ## Putting things in
 
-Databases aren't much use if there isn't anything in them. Let's throw some junk into Mongo. 
+Databases aren't much use if there isn't anything in them. Let's throw some junk into Mongo.
 
 ### URL params
 
 The simplest way to put data into the database is with URL params. Here's an example:
 
-[`/in-url-params?rssi=50&base=home`](https://infinite-castle-45974.herokuapp.com/in-url-params?rssi=50&base=home) 
+[`/in-url-params?rssi=50&base=home`](https://infinite-castle-45974.herokuapp.com/in-url-params?rssi=50&base=home)
 
 The route is the `/in-url-params` bit, and the params are everything after the `?`. They are in `key=value` pairs, so in `rssi=50` the word `rssi` is the key and `50` is the value. They are separated by an `&` and you can have something like 1000 characters of these before the browser gets grumpy with you.
 
 On the server side, you need to intercept the route. That's done by this bit of code:
 
-~~~ js
-app.get('/in-url-params', function(req, res) {
-//assuming a url that looks like /in-url-params?rssi=50&base=home
-  var rssi = req.query.rssi || 'unknown';
-  var base = req.query.base || 'unknown';
-  console.log("rssi: ", rssi);
-  console.log("base: ", base);
+```js
+app.get("/in-url-params", function (req, res) {
+    //assuming a url that looks like /in-url-params?rssi=50&base=home
+    var rssi = req.query.rssi || "unknown";
+    var base = req.query.base || "unknown";
+    console.log("rssi: ", rssi);
+    console.log("base: ", base);
 
-  // in here you'd probably do something smart to 
-  // make sure that the data isn't bullshit or malicious
+    // in here you'd probably do something smart to
+    // make sure that the data isn't bullshit or malicious
 
-  var collection = db.get().collection('beaconData')
-  collection.insert({rssi: rssi, base: base},
-    function(err, result){
-      console.log('that seemed to work', result);
-      res.send(result);
+    var collection = db.get().collection("beaconData");
+    collection.insert({ rssi: rssi, base: base }, function (err, result) {
+        console.log("that seemed to work", result);
+        res.send(result);
     });
-})
-~~~
+});
+```
 
-Breaking that down, the first line says: `app.get('/in-url-params'` when someone sends a request to that route (something that starts with `/in-url-params`) then do this function `function(req, res) {`. `req` and `res` mean request and response. _Request_ is what is being sent to the server, _response_ is what it sends back. 
+Breaking that down, the first line says: `app.get('/in-url-params'` when someone sends a request to that route (something that starts with `/in-url-params`) then do this function `function(req, res) {`. `req` and `res` mean request and response. _Request_ is what is being sent to the server, _response_ is what it sends back.
 
 `var rssi = req.query.rssi || 'unknown';` does two things. It's declaring a variable (duh). Then `req.query.rssi` gets the `query` out of the request, then tries to get the `rssi` property from it. There's a bit of magic happening around the back because the url params are being turned into properties of the query. The tricky thing here is that if that fails it assigns the string _unknown_ to the `rssi` variable. This might happen if the URL sent was `/in-url-params?arseeye=50&base=home` then the `.rssi` propery would be `undefined`. In js, undefined is falsy, so it'd trip the second half of the conditional assignment.
 
 Everything up to the comment in the middle should make sense now. It's just getting the data out of the request. The comment _in here you'd probably do something smart to make sure that the data isn't bullshit or malicious_ is pretty self explanatory. An example of that would be checking that the date is in the past (no future dates) or that the rssi was a number, or that the base was on the list of legit bases.
 
-The next bit is actually putting the data into the database. 
+The next bit is actually putting the data into the database.
 
 `var collection = db.get().collection('beaconData')` tells you what collection we're about to insert into.
 
 `collection.insert({rssi: rssi, base: base},` actually does the insert. The rest deals with what to do next. This is because we dont' want everything to hang while we wait, so we say _do this, and when you're done, do this_. The bit that gets done after is this:
 
-~~~ js
+```js
 function(err, result){
   console.log('that seemed to work', result);
   res.send(result);
 });
-~~~
+```
 
-`err` and `result` are bit confusing. Only one of them will ever be defined. If there's an error then we can write a bit of code that looks like `if(err){...}` to handle it. In this case we're being optimistic and just assuming that it'll work. 
+`err` and `result` are bit confusing. Only one of them will ever be defined. If there's an error then we can write a bit of code that looks like `if(err){...}` to handle it. In this case we're being optimistic and just assuming that it'll work.
 
 In the first line of that function we're logging to the console. It's important to note that the console is _on the server_. The second line sends a response to the client (the client is the browser that sends the request). Because the server and the client are usually in different places you would do both so that both parties know what's going on. This is about the simplest example of putting something into a database I can make up.
 
@@ -125,8 +124,8 @@ A more useful and flexible way to send JSON in the body of the request. The URL 
 
 This is a very simple python script that sends some data to the server. In the repo it's called `render.py` and has a bit more detail in the JSON to make the point, but really it's the same.
 
-~~~ python
-import requests 
+```python
+import requests
 import simplejson as json
 
 url = "https://infinite-castle-45974.herokuapp.com/in-json"
@@ -134,9 +133,9 @@ data = {'some': 'json'}
 headers = {'Content-type': 'application/json'}
 r = requests.post(url, data=json.dumps(data), headers=headers)
 print r
-~~~
+```
 
-Something to note is that neither `requests` or `simplejson` is a built in module. That means that the script will fail if you don't have them installed. Use `$ sudo pip install requests simplejson` if you have pip installed, or 
+Something to note is that neither `requests` or `simplejson` is a built in module. That means that the script will fail if you don't have them installed. Use `$ sudo pip install requests simplejson` if you have pip installed, or
 on OSX you can use `sudo easy_install -U requests simplejson` if you have easy_install installed. (I ripped most of this [from here](http://stackoverflow.com/questions/17309288/importerror-no-module-named-requests).)
 
 #### Receiving
@@ -149,20 +148,22 @@ You need to install the [body-parser](https://www.npmjs.com/package/body-parser)
 
 There are a few lines at the top of `index.js` that are there to make body-parser work, but you can safely ignore them for now. This lets us get directly to `req.body`.
 
-~~~ js
-app.post('/in-json', function(req, res) {
-  console.log(req.body);
+```js
+app.post("/in-json", function (req, res) {
+    console.log(req.body);
 
-  var collection = db.get().collection('beaconData')
-  collection.insert(req.body, //req.body is already JSON
-    function(err, result){
-      console.log('that seemed to work', result);
-      res.send(result);
-    });
+    var collection = db.get().collection("beaconData");
+    collection.insert(
+        req.body, //req.body is already JSON
+        function (err, result) {
+            console.log("that seemed to work", result);
+            res.send(result);
+        }
+    );
 });
-~~~
+```
 
-Here's the low-down on what's going on in this function. We're _post_ing data this time instead of _get_ing it. Don't worry about [the distinction](http://stackoverflow.com/questions/3477333/what-is-the-difference-between-post-and-get) for now. The rest is just a cut down version of `/in-url-params`.
+Here's the low-down on what's going on in this function. We're \_post_ing data this time instead of \_get_ing it. Don't worry about [the distinction](http://stackoverflow.com/questions/3477333/what-is-the-difference-between-post-and-get) for now. The rest is just a cut down version of `/in-url-params`.
 
 Because `req.body` is json we can actually throw it straight into the database. (Of course this is a terrible idea because it might be all kinds of junk data, but that's a problem for another day.)
 

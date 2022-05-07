@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-- teaching
+    - GC
+    - teaching
 description:
 meta:
-dsq_thread_id: '4503551567'
-
+dsq_thread_id: "4503551567"
 ---
+
 <br />
 <table border="0" width="500">
 <tr>

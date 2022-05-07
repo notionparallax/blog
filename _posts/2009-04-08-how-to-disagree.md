@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- thinking
-- writing
-
+    - thinking
+    - writing
 ---
+
 <p>I've been telling a lot of people about this recently, so I thought I'd put up a link to the source.</p>
 <p><a href="http://www.paulgraham.com/" title="essayist of spectacular insight">Paul Graham</a> has written an excelent guide to levels of didagreement, and by understanding these it makes it easier to upgrade your responses.</p>
 <p>The general idea is that you can clasify disagreement into</p>

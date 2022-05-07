@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- GC
-- geek
-
+    - architecture
+    - australia
+    - GC
+    - geek
 ---
+
 <p>Here are the slides from my talk at UTS last Thursday at the generative components university program show case, about genetic algorithms. The slides don't make a huge amount of sense on their own, but if you were there, it might jog your memory. </p>
 <p>The talk was filmed, and I’ve been promised that it'll show up on Google video at some point in the future if you want to see what I have to say about blind darts playing pirates and their relevance to heuristic algorithms.</p>
 

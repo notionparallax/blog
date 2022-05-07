@@ -7,20 +7,21 @@ published: true
 status: publish
 categories: []
 tags:
-- Amazons
-- books
-- Bruce Sterling
-- future
-- Neal Stephenson
-- Reading
+    - Amazons
+    - books
+    - Bruce Sterling
+    - future
+    - Neal Stephenson
+    - Reading
 description:
 meta:
-  _publicize_facebook_user: https://www.facebook.com/ben.doherty1
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'This is a series that I’m trying to get going at work. This is my go
-    at fulfilling this format: 3 Read, 1 reading, 2 to read'
-
+    _publicize_facebook_user: https://www.facebook.com/ben.doherty1
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess:
+        "This is a series that I’m trying to get going at work. This is my go
+        at fulfilling this format: 3 Read, 1 reading, 2 to read"
 ---
+
 <p style="padding-left: 60px;">_This is a series that I'm trying to get going at work. This is my go at fulfilling this format._</p>
 <h1>Read</h1>
 <h2><img class="alignright wp-image-1713 size-full" src="{{ site.baseurl }}/assets/B00EX8QRPM.01._SX255_SY255_TTXW_SCLZZZZZZZ_.jpg" alt="B00EX8QRPM.01._SX255_SY255_TTXW_SCLZZZZZZZ_" width="159" height="255" />A History of the future in 100 objects – Adrian Hon</h2>
@@ -78,6 +79,4 @@ meta:
 <p>&nbsp;</p>
 <blockquote><p>“Ideas are good things to have even if they are old. Even to understand the most advanced theorics requires a lifetime of study. To keep the existing stock of ideas alive rull" src="{{ site.baseurl }}/assets/B00O3RWJZ0.01._SX255_SY255_TTXW_SCLZZZZZZZ_.jpg" alt="B00O3RWJZ0.01._SX255_SY255_TTXW_SCLZZZZZZZ_" width="160" height="255" /></a></h2>
 
-
 [^1]: it's really nanotech, but lets not forget that "Any sufficiently advanced technology is indistinguishable from magic." - <a style="color: #0b0080;" title="Arthur C. Clarke" href="http://en.wikipedia.org/wiki/Clarke%27s_three_laws">Arthur C. Clarke</a>
-

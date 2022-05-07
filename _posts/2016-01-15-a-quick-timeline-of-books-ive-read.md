@@ -9,12 +9,12 @@ categories: []
 tags: []
 description: I've often wondered about how much data is harvested while I read a Kindle book. It seems like a lot goes to Amazon and the authors, but I couldn't find much for myself.
 meta:
-  _wpas_mess: A quick timeline of books I've read
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  dsq_thread_id: '4503669495'
-
+    _wpas_mess: A quick timeline of books I've read
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    dsq_thread_id: "4503669495"
 ---
+
 <style type="text/css">
   iframe.books {
         width: 100%;

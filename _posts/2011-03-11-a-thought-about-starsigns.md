@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- psychology
-- star signs
-- thinking
-
+    - psychology
+    - star signs
+    - thinking
 ---
+
 <p><img class="alignnone" src="{{ site.baseurl }}/assets/181327_10150389710475613_541400612_17065922_819094_n.jpg" alt="" width="720" height="568" /></p>
 <p><a href="http://en.wikipedia.org/wiki/Star_sign">Star signs</a> are supposed to dictate your temperament and behaviour patterns based on the positions of various celestial bodies at your time of birth. I'm very sceptical of this reasoning, but while I was examining my reasons for being sceptical I came up with a possible reason that may have an impact on the correlation between _date _of birth and _type _of person.</p>
 <p>Birthday parties!</p>

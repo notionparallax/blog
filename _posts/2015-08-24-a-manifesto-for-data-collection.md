@@ -9,10 +9,10 @@ categories: []
 tags: []
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
 ---
+
 <p>This is something I spend a lot of time thinking about. That means I've developed some opinions!</p>
 <p><a href="https://uk.linkedin.com/pub/andrew-godwin/19/687/316">Andrew Godwin</a> and <a href="https://au.linkedin.com/pub/matthew-blair/70/64/a7">Matthew Blair</a> asked me to write a bit of a manifesto that explains what I think we should be thinking about. Read the posts below in any order, but this one first. </p>
 <p style="padding-left: 30px;">_I'll add a disclaimer too. These are my opinions, not BVN policies!_</p>
@@ -27,8 +27,5 @@ meta:
 <p>There are footnotes throughout. Some are me rambling in a way that would otherwise break the flow. Others are technical points that are there to add weight to the argument but are too technical for the main body of the text.</p>
 <hr />
 
-
 [^1]: The obvious question (to Barry, I didn't think of it) is _who does feel comfortable with lots of data?_ Lots of professions need to deal with data: Psychologists, business people, statisticians, bookies, dog breeders, advertising, marketing, stock market traders... and more and more professions are being added to that list as a quantitative understanding of the world becomes a core of their business
-
 [^2]: this is a post, but it's still internal. I might post it one day
-

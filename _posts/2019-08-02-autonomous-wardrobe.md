@@ -18,7 +18,6 @@ twitter-body: Can you have storage as a service? A weird possible future.
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: http://localhost:4000/assets/19/mobileWardrobe-funnyCar.png
-
 ---
 
 <style>.note{width:30vw; float: right; padding: 1em; margin: 1em; background-color: silver;}</style>
@@ -28,18 +27,18 @@ featuredimg: http://localhost:4000/assets/19/mobileWardrobe-funnyCar.png
 <div class="note">
 Note: I wrote this in February, but I didn't finish it. I've decided that as nobody reads my blog, that I'm going to post and update, rather than perfect and post.
 
-In time, things will get more finished, and this note will disappear. Feel free to comment in the meantime though! 
+In time, things will get more finished, and this note will disappear. Feel free to comment in the meantime though!
+
 </div>
 
-I want to explain my self driving wardrobe idea, and how the future unit of space is the Uber eats bag. It can probably be several posts, with the general argument being: 
+I want to explain my self driving wardrobe idea, and how the future unit of space is the Uber eats bag. It can probably be several posts, with the general argument being:
 
+People keep _stuff_ in their cars. For convenience, but also for preparedness. This stuff falls into a couple of categories:
 
-People keep _stuff_ in their cars. For convenience, but also for preparedness. This stuff falls into a couple of categories: 
+1. Tissues are there for convenience and so could potentially be replicable by a service. I am happy to use the tissues, or water, or mints in an Uber because they aren't personal.
+1. People keep golf clubs in their car for preparedness, with the mindset _then I can golf at the last second_.
 
-1. Tissues are there for convenience and so could potentially be replicable by a service. I am happy to use the tissues, or water, or mints in an Uber because they aren't personal. 
-1. People keep golf clubs in their car for preparedness, with the mindset _then I can golf at the last second_. 
-
-This idea was prompted by watching parents unload all their baby-hardware from a car. All that _stuff_ is apparently needed the baby-thing alive and functioning properly, and a *lot* of it lives in the car.
+This idea was prompted by watching parents unload all their baby-hardware from a car. All that _stuff_ is apparently needed the baby-thing alive and functioning properly, and a _lot_ of it lives in the car.
 
 [diagram here]
 
@@ -49,10 +48,10 @@ My intuition is that most people (including me) will try to solve for utility at
 
 Lets restate the problem and see if that gets us anywhere:
 
- 1. People find it convenient in their cars. Either because of a regular need for that thing (tissues, sunglasses, sun cream, coins for tolls, CDs, etc.[^cds]) Or for an infrequent, but high value need (golf clubs, snowboard, etc.) [These things always go via the car on the way to being used, maybe recycle the diagram, or a reference to it.]
- 1. This is something that, in this version of reality, we are trying to maintain.
- 1. Private ownership of vehicles by individuals is going to be replaced by easy access to a fleet of on-demand vehicles (it doesn't really matter for the moment if they are autonomous)
- 1. A point of friction/[dis something] comes up because in the shift from private to fleet the 'feature' of the mobile wardrobe is lost.
+1.  People find it convenient in their cars. Either because of a regular need for that thing (tissues, sunglasses, sun cream, coins for tolls, CDs, etc.[^cds]) Or for an infrequent, but high value need (golf clubs, snowboard, etc.) [These things always go via the car on the way to being used, maybe recycle the diagram, or a reference to it.]
+1.  This is something that, in this version of reality, we are trying to maintain.
+1.  Private ownership of vehicles by individuals is going to be replaced by easy access to a fleet of on-demand vehicles (it doesn't really matter for the moment if they are autonomous)
+1.  A point of friction/[dis something] comes up because in the shift from private to fleet the 'feature' of the mobile wardrobe is lost.
 
 [diagram argument map]
 
@@ -62,7 +61,7 @@ A little diversion, I read a lot of speculative fiction that's interested in bui
 
 ---
 
-Most current autonomous car designs seem to be extensions of public transport (early Google) or an airport lounge on wheels (car companies)[^wam]. Both of these modes disregard the material aspects of personal space; what can we do to solve for that? One possible model is _chests and porters_. 
+Most current autonomous car designs seem to be extensions of public transport (early Google) or an airport lounge on wheels (car companies)[^wam]. Both of these modes disregard the material aspects of personal space; what can we do to solve for that? One possible model is _chests and porters_.
 
 [stagecoach image]
 
@@ -80,7 +79,7 @@ If you don't care that your mobile wardrobe is going to take a different route t
 
 [overlapping radius diagram]
 
-Which might mean that I could have boxes all over the place, and as I register my intent to do an activity, my box for that activity would start to shuffled around to get to where I need it to be. There could be predictive optimisation on the boxes too. If it's raining and cold, few people would be retrieving their beach box so it could be shuffled to a less accessible place. 
+Which might mean that I could have boxes all over the place, and as I register my intent to do an activity, my box for that activity would start to shuffled around to get to where I need it to be. There could be predictive optimisation on the boxes too. If it's raining and cold, few people would be retrieving their beach box so it could be shuffled to a less accessible place.
 
 There might be a concern that moving a lot of boxes around might produce a lot of traffic, but as long as there isn't too great a rush on them they can be tagged onto existing journeys. THe urgency could be managed by changing pricing with urgency, encouraging people to give advance warning, maybe just by putting an event in their calendar.
 

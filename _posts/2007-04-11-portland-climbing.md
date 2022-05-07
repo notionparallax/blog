@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- climbing
-- trips
-
+    - climbing
+    - trips
 ---
+
 <p><img src="{{ site.baseurl }}/assets/portland.jpg" title="incredible view, shame the climb looks so easy!" alt="incredible view, shame the climb looks so easy!" height="592" width="453" /></p>
 <p>having not climbed out doors for about six years, i was a little apprehensive about this trip to Portland, everyone else has been climbing indoors at least once a week over the winter and tales of grades far harder than I can even dream of have been filtering down to me.</p>
 <p>the weather was awesome, (i've been saying awesome a lot in the last couple of days) and having only ever climbed granite and sand stone I was amazed at just how grippy the rock was, that certainly adds a lot to your confidence.</p>

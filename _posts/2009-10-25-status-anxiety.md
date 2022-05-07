@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- future
-- major study
-- thinking
-
+    - architecture
+    - future
+    - major study
+    - thinking
 ---
+
 <p>For the last couple of years I've been becoming increasingly interested in what the future is going to be like, and the methods employed to predict its nature.<br />
 Up until now it has been a fascinating sideline to my everyday activities of teaching and trying to solve design problems with computational tools.<br />
 Although teaching is generally thought of as being in the academic realm, it is really quite a practical job. One is engaged in the transference of knowledge and skills, which by the very nature of the introductory level of the course are a long way from the cutting edge of one's work. Whilst the process of teaching is academically fascinating (and I hope to do some work centred around teaching and learning once this project is over) and the activity of teaching and seeing the teaching have a positive effect is immensely rewarding, it isn't in the realm that currently consumes my time and passion.<br />

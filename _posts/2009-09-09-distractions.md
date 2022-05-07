@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cool links
-
+    - cool links
 ---
 
 <a href="http://www.informationisbeautiful.net/visualizations/the-hierarchy-of-digital-distractions/">This diagram</a> of potential distractions is pretty cool (and painfully thought provoking).

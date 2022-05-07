@@ -7,24 +7,24 @@ published: true
 status: publish
 categories: []
 tags:
-- BVN
-- data
-- manifesto
+    - BVN
+    - data
+    - manifesto
 description: '"_Categories are an emergent way of describing set creation operations based on attributes_"'
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: Fluid categories - define things by their attributes not their name
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: Fluid categories - define things by their attributes not their name
 ---
 
 > Categories[^1] are an emergent way of describing set creation operations based on attributes
 
-Most of what I want to say here is taken directly from an old post on the BVN internal blog that I called _Taxonomy._ I'll summarize it here and copy that post below so that you don't need to go looking.
+Most of what I want to say here is taken directly from an old post on the BVN internal blog that I called *Taxonomy.* I'll summarize it here and copy that post below so that you don't need to go looking.
 
 https://youtu.be/05WS0WN7zMQ
 
 In the video above Richard Feynman[^2] tells a story about naming things. He separates the _name_ of something from what that thing _is_[1. I think that this is the way ]. This is a safe and future proof w[^3]irectly categorising things is lazy thinking and asking for trouble!
+
 <hr />
 
 I made this presentation to explain how data is organised these days.
@@ -60,6 +60,7 @@ A person can have attributes, a project can too. The big questions of our time a
 What's really cool is that you can stack these sieves so that you can combine the filters. <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_14.png"><img class="alignnone size-full wp-image-18187" src="{{ site.baseurl }}/assets/taxonomy_Page_14.png" alt="taxonomy_Page_14" width="5334" height="3000" /></a> <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_15.png"><img class="alignnone size-full wp-image-18188" src="{{ site.baseurl }}/assets/taxonomy_Page_15.png" alt="taxonomy_Page_15" width="5334" height="3000" /></a>
 
 <a href="http://www.amazon.com/gp/product/0387940944/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativ same thing as someone else if it suits their needs, but if they have new needs they aren't forced to pick a "next best thing" option.
+
 <h2>Downsides</h2>
 
 <img class="alignright" src="{{ site.baseurl }}/assets/stalin2.jpg" alt="" width="240" height="377" />With free-form tagging, even with cool, advanced versions with typeahead support and synonyms there are downsides.
@@ -67,6 +68,7 @@ What's really cool is that you can stack these sieves so that you can combine th
 If you have megalomaniac tendencies, or a god complex. free-form tagging is no good. You are ceding control to your vassals. You don't get to have total control over your taxonomy. You should be wary of this if you don't trust your staff.
 
 The other downside is a bit more subtle and easier to work with. Tags and content in general needs to be gardened. This means that every so often someone needs to convert all the "HOuse" tags into "House" tags.
+
 <h1>"OK you weird nerd, why are you telling me this?"</h1>
 
 Well, mainly because I like you. I do this stuff and I might as well share what I'm thinking with people.
@@ -75,11 +77,7 @@ Secondly it's part of the grand project to sort out all our data, so I'm sharing
 
 <a href="http://notionparallax.co.uk/wordpress/wp-content/uploads/2015/08/taxonomy_Page_21.png"><img class="alignnone size-full wp-image-18194" src="{{ site.baseurl }}/assets/taxonomy_Page_21.png" alt="taxonomy_Page_21" width=" same thing as someone else if it suits their needs, but if they have new needs they aren't forced to pick a "next best thing" option.
 
-
 [^1]: I recognise that I don't know any Category Theory and not a great deal of Set Theory. I might be committing horrible sins with this statement. It works in it's naive context though.
-
 [^2]: One of my heroes. If he isn't one of yours then he really should be!
-
 [^3]: I think that this is the way
-
 [^4]: Yes the same metadata that all the fuss is about in the news

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Major study: Question answering experience'
+title: "Major study: Question answering experience"
 date: 2015-10-29 07:55:01.000000000 +11:00
 type: post
 published: true
@@ -9,11 +9,11 @@ categories: []
 tags: []
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-  _wpas_mess: 'Major study: Question answering experience'
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
+    _wpas_mess: "Major study: Question answering experience"
 ---
+
 <p> </p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image021.png" rel="attachment wp-att-2078"><img class="alignnone size-full wp-image-2078" src="{{ site.baseurl }}/assets/image021.png" alt="image021" /></a></p>
 <p><a href="/wordpress/wp-content/uploads/2015/10/image022.png" rel="attachment wp-att-2079"><img class="alignnone size-medium wp-image-2079" src="{{ site.baseurl }}/assets/image022.png" alt="image022" /></a></p>

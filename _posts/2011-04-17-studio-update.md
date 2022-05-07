@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- crits
-- presentations
-- startup
-- studio
-
+    - crits
+    - presentations
+    - startup
+    - studio
 ---
 
 My studio has just had what I suppose you could call their mid semester crits.

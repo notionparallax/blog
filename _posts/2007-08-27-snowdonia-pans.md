@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- climbing
-
+    - climbing
 ---
+
 <p><img src="{{ site.baseurl }}/assets/charlieChat.gif" height="382" width="361" /></p>
 <p><a href="http://www.youtube.com/watch?v=MVPcoZ3Mxhs">charlie says</a>...</p>
 <p><img src="{{ site.baseurl }}/assets/glidderPan.gif" /></p>

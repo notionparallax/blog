@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-- trips
-
+    - GC
+    - trips
 ---
+
 <p >I'm officially going to New York at the end of the month now for the smart geometry workshop and conference thingy.</p>
 <p >That means that apart from having to collect order for about a million ipods and things like that, I'm actually going to have to work on my proposed plan a bit too!</p>
 <p >It's ultimate aim is to produce a suite of site analysis tools that you can apply to a site model.</p>

@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- BVN
-- data
-- manifesto
+    - BVN
+    - data
+    - manifesto
 description:
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
 ---
+
 <style type="text/css">
   .sidebar {
       width: 60%;
@@ -45,7 +45,7 @@ _The cardinal is now a client of ours. We get them to fill in their details for 
 
 ![]({{ site.baseurl }}/assets/image00.jpg)
 
-_Immediately we are stuck! Our mate the cardinal identifies as “fluid gender”[^5]. Ideally the entry would allow for male, female and fluid gender[^6], but just _fluid gender_ would do in a pinch[^7]._
+_Immediately we are stuck! Our mate the cardinal identifies as “fluid gender”[^5]. Ideally the entry would allow for male, female and fluid gender[^6], but just \_fluid gender_ would do in a pinch[^7].\_
 
 _The interface is driving a fixed set of results: either ‘male' or ‘female'. The idea of tables, rows and fixed sets of options has leaked into the designer's thinking . This is a leaky abstraction._
 
@@ -63,6 +63,7 @@ Gardening is for when something is wrong. The gardener will find _sydney_ and co
 Folding is more nuanced. It is for when words all point to the same concept, but for one reason or another are written differently. E.g. USYD, Sydney Uni, University of Sydney etc. They are all valid, so we might make a mapping between all the words and their shared concept.
 
 This is a very grey area. It’s where style guides come in handy, but also a good dose of common sense. Good examples of style guides breaking things are when Fairfax Media write out _Royal Melbourne Institute of Technology_, when RMIT has explicitly stated that their name is not an acronym. BVN is in exactly the same boat!
+
 </div>
 
 This story is only slightly silly. We come across this sort of problem all the time. We'll find it more as we go international. Buildings in the USA, UK, NZ or Thailand don't have BCA classes so we can't force the field to be 1-9 and some letters.
@@ -83,29 +84,15 @@ Misspellings and other ways of referring to a common concept can be fixed with g
 
 In conclusion, enforcing particular data values creates bad data and bad will. It’s a practice that is almost never a good idea.
 
-
-
 [^1]: As an aside, I have a huge amount of respect for HCI designers. Their work is so rigorous and evidence based. Unfortunately, as we love to complain about in our own profession, not all human-computer interfaces are designed by HCI people. Especially unfortunately, this is disproportionately prevalent in ‘enterprise' software like MS word or the old Lotus Notes . My assumption for why this occurs is that the person procuring and paying for the software is very rarely the person who ends up using it.
-
 [^2]: Technical: I know that this is technically incorrect, but the use of normalised tables to prefill constrained dropdowns is painfully common. I know that this problem can be caused by _any_ database, but none of the others have a mental model that _encourages_ it.
-
 [^3]: In 1992 a 1GB hard drive would set you back about $2000US. <a href="http://www.jcmit.com/diskprice.htm">Check out this dry, but still fascinating table of storage price since 1955</a>!
-
 [^4]: Technical: This post doesn't seek to denigrate the technology of relational databases. They have a lot of benefits. The declarative nature of SQL as a language feels like magic. What I am saying is that it is absurd--in a world of technological abundance--that the nature of the storage layer should be allowed to affect the design of the interface. The job of the interface is to protect the users' brains from the underlying technology.
-
 [^5]: This is a toy example. In reality our client's genders are none of our business (literally and figuratively). We therefore don't need that bit of information.
-
 [^6]: Chris sent me these excellent links to this exact topic. <a href="http://itspronouncedmetrosexual.com/2012/06/how-can-i-make-the-gender-question-on-an-application-form-more-inclusive/">How you can make the gender question on an application form more inclusive</a> and <a href="https://illinois.edu/blog/view/25/110232">Facebook multiplies genders but offers users the same three tired pronouns</a>. These two are great too: <a href="http://blog.codinghorror.com/doing-terrible-things-to-your-code/">doing terrible things to your code </a> &amp; <a href="http://www.cscyphers.com/blog/2012/06/28/falsehoods-programmers-believe-about-gender/">falsehoods programmers believe about gender.</a>
-
 [^7]: Technical: This is a really tricky problem for database design, but it's not technically tricky only cognitively tricky. The field needs to be able to contain multiple values, where those values are defined by the user. The job of the database is to support the user in storing _true_ information. If it isn't doing this then it is failing. We currently handle this is a couple of ways in P+P. Most obviously in tag style fields. E.g. BCA classification.
-
 [^8]: Although there's nothing wrong with that!
-
 [^9]: This is where you equate two characters to make them easy to find, but store them differently to make the data accurate! This image is from [this nice article](http://alistapart.com/article/accent-folding-for-auto-complete). ![](/assets/accent-folding.png)
-
 [^10]: DBAs are usually portrayed as the classic IT troll who lives under a bridge and eats people.
-
 [^11]: Usually the only person with domain knowledge that specific is the person who first put the data into the database!
-
-
 [^12]: I talk about how categories are defined in the fluid categories post. The key point that I want to hammer home is: _“Categories are an emergent way of describing set creation operations based on attributes”_

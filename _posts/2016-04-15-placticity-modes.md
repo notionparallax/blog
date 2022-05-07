@@ -9,17 +9,17 @@ categories: []
 tags: []
 description: "I've noticed that when I'm learning really fast my brain acts differently. Is this a thing that everyone else knows about already?"
 author:
-  login: Ben
-  email: ben@notionparallax.co.uk
-  display_name: Ben
-  first_name: Ben
-  last_name: Doherty
+    login: Ben
+    email: ben@notionparallax.co.uk
+    display_name: Ben
+    first_name: Ben
+    last_name: Doherty
 ---
 
 <!-- tldr
 Observation
 possible explanations
-patterns, credulity etc. 
+patterns, credulity etc.
 how has it changed over time?
 not just into and out of that mode, but into a useful version - going for walks, doors of perception etc.
 holiday leads to spate of blog posts

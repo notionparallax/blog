@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- geek
-- thinking
-- writing
+    - architecture
+    - geek
+    - thinking
+    - writing
 description:
 meta:
-dsq_thread_id: '4503552125'
-
+dsq_thread_id: "4503552125"
 ---
+
 <p>This afternoon I went to the the RIBA to see the London design computing group's latest get together. After being away on the other side of the world for the last 18 months, I was amazed to see how the tiny, intimate meetings we had running three years ago had exploded in popularity to the point where nobody had an office big enough to host it!</p>
 <p>There were great presentations from a few of the usual suspects, and a few unexpected faces. David Hines (Populous) showed the latest work on the Landsdown road stadium, and far from being boring (I hassled Roly so much about him showing Landsdown road so much that he mentioned it in his talk at SG this year) it was like seeing the progression of a friend's baby into a toddler. Seeing the real scale of it finally was fascinating, as it'd always been on a screen so nothing had a diagonal of more than 19inches, but the real scale things were huge!<br />
 <img class="alignleft" src="{{ site.baseurl }}/assets/surface1x.jpg" alt="" width="177" height="193" />There was a presentation from <a href="http://www.aac.bartlett.ucl.ac.uk/reports/ottevaere.html">Olivier Ottevaere </a>from the Bartlett who was doing tiling patterns based on projections of n-dimensional solids onto a 2d plane that looked terrific, but really made me feel that I ought to have dome my reading before I had gone to class.</p>

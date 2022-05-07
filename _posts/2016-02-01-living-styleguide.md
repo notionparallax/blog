@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags: []
 description: "To find out how things look, I've put one of each on this page!"
-
 ---
 
 {% include styleguide.md %}

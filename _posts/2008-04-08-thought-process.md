@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- GC
-- geek
-- rmit
+    - architecture
+    - GC
+    - geek
+    - rmit
 description:
 meta:
-dsq_thread_id: '4503551690'
-
+dsq_thread_id: "4503551690"
 ---
+
 <p>I've been breaking all my own rules, I've just been jumping into trying to write this program without really thinking about how it'll all go together.This'll hopefully make it clear.</p>
 <p>The first thing is that the frames that the camera produces are too noisy, there are too many static blobs. Things like a puddle, a bollard, etc. will all show up as blobs and be tracked. There is a fairly simple (conceptually) way to deal with it. if you compare each frame to it's previous one, then it'll only show up the difference between the two (in photoshop it is called the _difference_ blending mode). This is actually what I go so wrapped up in bit shifting for a couple of posts ago, but as it was late at night, I actually forgot to find out what it did, I was just interested in the bit I didn't understand. Typical me. </p>
 <p><embed src="Images/Antipodes/frame-comparison.swf" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/" height="800" width="500"></embed><br />

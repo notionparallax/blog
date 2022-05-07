@@ -7,15 +7,15 @@ published: true
 status: publish
 categories: []
 tags:
-- architecture
-- australia
-- debate
-- energy
-- studio
-- teaching
-- UTS
-
+    - architecture
+    - australia
+    - debate
+    - energy
+    - studio
+    - teaching
+    - UTS
 ---
+
 <p>I'm setting a reading list for a debate amongst my students about Australian energy policy. It's likely to be relatively abstract discussion as none of us has access to, or expertise in, the specific data.</p>
 <p>I've already got</p>
 <p>and</p>

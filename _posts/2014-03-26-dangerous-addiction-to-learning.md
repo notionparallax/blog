@@ -7,16 +7,16 @@ published: true
 status: publish
 categories: []
 tags:
-- future
-- life
-- programming
-- skill
-- smart geometry
+    - future
+    - life
+    - programming
+    - skill
+    - smart geometry
 description:
 meta:
-  _wpas_mess: Dangerous addiction to learning - a ramble about skills http://wp.me/p3wwRK-pA
-
+    _wpas_mess: Dangerous addiction to learning - a ramble about skills http://wp.me/p3wwRK-pA
 ---
+
 <p>Back in 2006 I was a wide eyed and optimistic attendee at the Cambridge (UK) Smart Geometry workshop and conference. I'd just written my <a title="dissertation" href="http://notionparallax.co.uk/?p=170">undergrad dissertation</a> on the use of computers in architecture and I had it all ahead of me. I wasn't really up to speed with <a href="http://en.wikipedia.org/wiki/Time_complexity">time complexity</a>[^1] so I thought that given enough smart people and silicone we could solve all the worlds problems just with "optimisation"[^2].</p>
 
 <figure>
@@ -43,7 +43,5 @@ One of the staircases to get to a metro station.
 <p>Like playing Civilisation, there needs to be a reason for researching Bronze Working. I don't have the benefit of knowing where the combined value of my skills will lead me, so I need to guess. Probably more than a guess though, a concerted effort to go in that direction and to hope that I've got the tools (or can acquire them) to not run out of steam on the way!</p>
 
 [^1]: I'm still not, but I know more about what I don't know!
-
 [^2]: not that much later I discovered that when people said _optimisation_, 9 times out of 10 they just meant that they didn't know how to solve a problem but they hoped that they computer could figure something out. It became something of a <a href="http://lesswrong.com/lw/iq/guessing_the_teachers_password/">teachers password</a>.
-
 [^3]: if they couldn't program it but they could still work out how to do it logically I wouldn't hold it against them; ignorance is soluble, stupidity is probably chronic.

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- geek
-
+    - geek
 ---
+
 <p><img src="{{ site.baseurl }}/assets/69175.png" align="right" width="100" />After much faffing about, I've bought a webcam to do my mapping with.</p>
 <p>There seem to be a couple of  little processing sketches that do almost what I want, so the first step (finding the blobs that are people) should just be a case of wiring them together.</p>
 <p><img src="{{ site.baseurl }}/assets/first%20tries%20at%20blob%20detection__0000_Layer%202.jpg" height="333" width="500" /></p>

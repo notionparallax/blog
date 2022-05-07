@@ -9,10 +9,10 @@ categories: []
 tags: []
 description: Suddenly it is normal to get site photography from a drone at the start of an architectural project. As buildings get designed they get montaged into site photos. Traditionally those photos were from ground level. Now that has changed, the the designer is continually reminded of the roof.
 meta:
-  _publicize_facebook_user: http://www.facebook.com/541400612
-  _publicize_twitter_user: "@notionparallax"
-
+    _publicize_facebook_user: http://www.facebook.com/541400612
+    _publicize_twitter_user: "@notionparallax"
 ---
+
 <style type="text/css">
 figcaption{
     color:       white;

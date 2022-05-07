@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-
+    - GC
 ---
+
 <p><img src="{{ site.baseurl }}/assets/song-chart-memes-geometry.gif" /></p>
 <p><img src="{{ site.baseurl }}/assets/fail-owned-geometry-fail.jpg" /></p>

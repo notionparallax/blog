@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- GC
-
+    - GC
 ---
+
 <p>I've got to Illustrate why questions on a questionnaire need to be of a range of difficulties. If they are all too hard then the distribution of answers will all be pushed up to one end, and too easy, the opposite. So I needed to <a href="http://en.wiktionary.org/wiki/yak_shaving">shave a yak</a> until I had a good way to show this.</p>
 <p>I parallel-posted this on the GC forum too, so if I'm going to be forced to open IE to post to the GC forum, I thought I'd do a decent job of it.</p>
 <p>Below is the GCscript that draws a bell curve. It is almost entirely based on Daniel Shiffman's processing code on his website at  <a href="http://www.shiffman.net/teaching/nature/week-1/">http://www.shiffman.net/teaching/nature/week-1/</a></p>
@@ -48,28 +48,28 @@ transaction modelBased 'draw a bell curve'
         * the comments are his*/
 
         //"e", see http://mathforum.org/dr.math/faq/faq.e.html for more info
-        double e = 2.71828183;                 
+        double e = 2.71828183;
         //a list to store all the "y" values
-        double normal = {};                    
-        //default mean of 0 
-        double m = 0;                          
+        double normal = {};
+        //default mean of 0
+        double m = 0;
         //standard deviation based on varX, driven here by the position of a point
-        double sd = (0.5 + varX)/width;        
+        double sd = (0.5 + varX)/width;
 
-        //double xcoord = -3;                  
+        //double xcoord = -3;
         //uncomment to start the graph at -3, i.e. centred
         for (int i = 0; i < ToInt(width); ++i)
         {
             //square root of 2 * PI
-            double sq2pi = Sqrt(2*PI);                
+            double sq2pi = Sqrt(2*PI);
             //-(x - mu)^2
-            double xmsq = -1*(xcoord-m)*(xcoord-m);   
+            double xmsq = -1*(xcoord-m)*(xcoord-m);
             //variance (standard deviation squared)
-            double sdsq = sd*sd;                      
+            double sdsq = sd*sd;
             //P(x) function
-            normal[i] = (1 / (sd * sq2pi)) * (Pow(e, (xmsq/sdsq)));  
+            normal[i] = (1 / (sd * sq2pi)) * (Pow(e, (xmsq/sdsq)));
            //increment x coordinate
-            xcoord += 6 / width;                      
+            xcoord += 6 / width;
         }
         //breakpoint;
         Point graphPoints = new Point();
@@ -78,5 +78,6 @@ transaction modelBased 'draw a bell curve'
     };
         FunctionArguments         = {baseCS,point02.X,width, point02.Y, 100, 3};
     }
+
 }
 </free></free></pre>

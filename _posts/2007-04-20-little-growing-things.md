@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- eco stuff
-- food
-- gardening
-- house keeping
-
+    - eco stuff
+    - food
+    - gardening
+    - house keeping
 ---
+
 <p><img src="{{ site.baseurl }}/assets/seedlings.jpg" title="tiny weeny plants" alt="tiny weeny plants" height="360" width="480" /><br />
 I came home today to the first signs of life getting started in my grow bag.</p>
 <p>mint and rocket next!</p>
