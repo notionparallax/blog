@@ -34,6 +34,7 @@ This is a constantly evolving list. It's probably quite wrong, but it's getting 
 -   check conditions:
     -   [Beachwatch](https://www.beachwatch.nsw.gov.au/home?fbclid=IwAR2IJScuIO6TRO3d72oisIjwqG-tjfxJMLXUiMlTTHjb08ZdGGpOdJVraQE)
     -   [Manly Hydraulics Laboratory](https://mhl.nsw.gov.au/Station-SYDDOW)
+    -   [Clovelly east live beach cam](https://www.randwick.nsw.gov.au/facilities-and-recreation/explore-randwick-city/beach-cams#clovelly)
 -   Charge:
     -   Watch
     -   Big Torch
