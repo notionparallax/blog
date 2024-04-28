@@ -41,82 +41,82 @@ This is a constantly evolving list. It's probably quite wrong, but it's getting 
 
 ## Core pre-dive prep
 
--   <label><input type="checkbox">Hydrate! </input></label>
--   <label><input type="checkbox">check conditions: </input></label>
-    -   <label><input type="checkbox">[Beachwatch](https://www.beachwatch.nsw.gov.au/home?fbclid=IwAR2IJScuIO6TRO3d72oisIjwqG-tjfxJMLXUiMlTTHjb08ZdGGpOdJVraQE) </input></label>
-    -   <label><input type="checkbox">[Manly Hydraulics Laboratory](https://mhl.nsw.gov.au/Station-SYDDOW) </input></label>
-    -   <label><input type="checkbox">[Clovelly east live beach cam](https://www.randwick.nsw.gov.au/facilities-and-recreation/explore-randwick-city/beach-cams#clovelly) </input></label>
--   <label><input type="checkbox">Charge: </input></label>
-    -   <label><input type="checkbox">Watch </input></label>
-    -   <label><input type="checkbox">Big Torch </input></label>
-    -   <label><input type="checkbox">Backup torch </input></label>
-    -   <label><input type="checkbox">Camera </input></label>
+-   <label><input type="checkbox">Hydrate! </label>
+-   <label><input type="checkbox">check conditions: </label>
+    -   <label><input type="checkbox">[Beachwatch](https://www.beachwatch.nsw.gov.au/home?fbclid=IwAR2IJScuIO6TRO3d72oisIjwqG-tjfxJMLXUiMlTTHjb08ZdGGpOdJVraQE) </label>
+    -   <label><input type="checkbox">[Manly Hydraulics Laboratory](https://mhl.nsw.gov.au/Station-SYDDOW) </label>
+    -   <label><input type="checkbox">[Clovelly east live beach cam](https://www.randwick.nsw.gov.au/facilities-and-recreation/explore-randwick-city/beach-cams#clovelly) </label>
+-   <label><input type="checkbox">Charge: </label>
+    -   <label><input type="checkbox">Watch </label>
+    -   <label><input type="checkbox">Big Torch </label>
+    -   <label><input type="checkbox">Backup torch </label>
+    -   <label><input type="checkbox">Camera </label>
 
 ## Pack - main bag
 
--   <label><input type="checkbox">BCD </input></label>
--   <label><input type="checkbox">Wetsuit </input></label>
--   <label><input type="checkbox">Boots and socks </input></label>
--   <label><input type="checkbox">Hood </input></label>
--   <label><input type="checkbox">Gloves </input></label>
--   <label><input type="checkbox">Fins </input></label>
--   <label><input type="checkbox">Mask </input></label>
--   <label><input type="checkbox">Changing poncho </input></label>
--   <label><input type="checkbox">Water bottle </input></label>
--   <label><input type="checkbox">Compass </input></label>
--   <label><input type="checkbox">Cutters </input></label>
--   <label><input type="checkbox">Big Torch </input></label>
--   <label><input type="checkbox">GoPro Camera </input></label>
--   <label><input type="checkbox">SMB and reel </input></label>
--   <label><input type="checkbox">Rash vest </input></label>
--   <label><input type="checkbox">Pouch </input></label>
-    -   <label><input type="checkbox">Wetnotes </input></label>
-    -   <label><input type="checkbox">spare spool </input></label>
-    -   <label><input type="checkbox">continuous bungee </input></label>
-    -   <label><input type="checkbox">screwdriver </input></label>
-    -   <label><input type="checkbox">zip ties </input></label>
-    -   <label><input type="checkbox">Backup Torch </input></label>
+-   <label><input type="checkbox">BCD </label>
+-   <label><input type="checkbox">Wetsuit </label>
+-   <label><input type="checkbox">Boots and socks </label>
+-   <label><input type="checkbox">Hood </label>
+-   <label><input type="checkbox">Gloves </label>
+-   <label><input type="checkbox">Fins </label>
+-   <label><input type="checkbox">Mask </label>
+-   <label><input type="checkbox">Changing poncho </label>
+-   <label><input type="checkbox">Water bottle </label>
+-   <label><input type="checkbox">Compass </label>
+-   <label><input type="checkbox">Cutters </label>
+-   <label><input type="checkbox">Big Torch </label>
+-   <label><input type="checkbox">GoPro Camera </label>
+-   <label><input type="checkbox">SMB and reel </label>
+-   <label><input type="checkbox">Rash vest </label>
+-   <label><input type="checkbox">Pouch </label>
+    -   <label><input type="checkbox">Wetnotes </label>
+    -   <label><input type="checkbox">spare spool </label>
+    -   <label><input type="checkbox">continuous bungee </label>
+    -   <label><input type="checkbox">screwdriver </label>
+    -   <label><input type="checkbox">zip ties </label>
+    -   <label><input type="checkbox">Backup Torch </label>
 
 ## Pack - dry bag
 
--   <label><input type="checkbox">Regulators </input></label>
--   <label><input type="checkbox">Sunglasses </input></label>
--   <label><input type="checkbox">Seasickness pills </input></label>
--   <label><input type="checkbox">Sharpie + paint pens </input></label>
--   <label><input type="checkbox">White & black duct Tape </input></label>
--   <label><input type="checkbox">Suncream </input></label>
--   <label><input type="checkbox">Gummies and other snacks </input></label>
--   <label><input type="checkbox">Jet lighter </input></label>
--   <label><input type="checkbox">Small adjustable spanner </input></label>
--   <label><input type="checkbox">Medium adjustable spanner </input></label>
--   <label><input type="checkbox">Pliers </input></label>
--   <label><input type="checkbox">Screwdriver </input></label>
--   <label><input type="checkbox">O rings </input></label>
--   <label><input type="checkbox">3 mm bungee </input></label>
--   <label><input type="checkbox">Paracord </input></label>
--   <label><input type="checkbox">Allen keys </input></label>
--   <label><input type="checkbox">Luggage scale </input></label>
--   <label><input type="checkbox">Zip ties </input></label>
+-   <label><input type="checkbox">Regulators </label>
+-   <label><input type="checkbox">Sunglasses </label>
+-   <label><input type="checkbox">Seasickness pills </label>
+-   <label><input type="checkbox">Sharpie + paint pens </label>
+-   <label><input type="checkbox">White & black duct Tape </label>
+-   <label><input type="checkbox">Suncream </label>
+-   <label><input type="checkbox">Gummies and other snacks </label>
+-   <label><input type="checkbox">Jet lighter </label>
+-   <label><input type="checkbox">Small adjustable spanner </label>
+-   <label><input type="checkbox">Medium adjustable spanner </label>
+-   <label><input type="checkbox">Pliers </label>
+-   <label><input type="checkbox">Screwdriver </label>
+-   <label><input type="checkbox">O rings </label>
+-   <label><input type="checkbox">3 mm bungee </label>
+-   <label><input type="checkbox">Paracord </label>
+-   <label><input type="checkbox">Allen keys </label>
+-   <label><input type="checkbox">Luggage scale </label>
+-   <label><input type="checkbox">Zip ties </label>
 
 ## Post dive job list
 
--   <label><input type="checkbox">Rehydrate </input></label>
--   <label><input type="checkbox">Wash and hang everything </input></label>
--   <label><input type="checkbox">Empty camera </input></label>
--   <label><input type="checkbox">Recharge camera and torches </input></label>
+-   <label><input type="checkbox">Rehydrate </label>
+-   <label><input type="checkbox">Wash and hang everything </label>
+-   <label><input type="checkbox">Empty camera </label>
+-   <label><input type="checkbox">Recharge camera and torches </label>
 
 ## Winter extras
 
--   <label><input type="checkbox">Dry land gloves </input></label>
--   <label><input type="checkbox">Warm hat </input></label>
--   <label><input type="checkbox">Hot drink </input></label>
--   <label><input type="checkbox">Dry land socks </input></label>
+-   <label><input type="checkbox">Dry land gloves </label>
+-   <label><input type="checkbox">Warm hat </label>
+-   <label><input type="checkbox">Hot drink </label>
+-   <label><input type="checkbox">Dry land socks </label>
 
 # Sidemount extras
 
--   <label><input type="checkbox">Sidemount BCD </input></label>
--   <label><input type="checkbox">Tanks </input></label>
--   <label><input type="checkbox">Sidemount regulators </input></label>
+-   <label><input type="checkbox">Sidemount BCD </label>
+-   <label><input type="checkbox">Tanks </label>
+-   <label><input type="checkbox">Sidemount regulators </label>
 
 ## Dressing order: sidemount
 
