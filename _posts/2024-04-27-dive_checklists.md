@@ -20,12 +20,21 @@ twitter-body: "All the checklists I use when I'm diving, at least in theory"
 featuredimg:
 ---
 
+<style>
+    ul {column-width:15em;}
+    ul ul {break-inside: avoid;}
+
+</style>
+
 This is a constantly evolving list. It's probably quite wrong, but it's getting better. Ever since I read [Checklist manifesto](https://www.amazon.com.au/Checklist-Manifesto-How-Things-Right/dp/1846683149/) I've been into writing these kinds of reusable lists. If you've got suggestions, I'm into hearing them!
 
 ## Core pre-dive prep
 
 -   Hydrate!
--   Charge
+-   check conditions:
+    -   [Beachwatch](https://www.beachwatch.nsw.gov.au/home?fbclid=IwAR2IJScuIO6TRO3d72oisIjwqG-tjfxJMLXUiMlTTHjb08ZdGGpOdJVraQE)
+    -   [Manly Hydraulics Laboratory](https://mhl.nsw.gov.au/Station-SYDDOW)
+-   Charge:
     -   Watch
     -   Big Torch
     -   Backup torch
