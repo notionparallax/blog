@@ -359,8 +359,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
         new DOMParser()
         .parseFromString(
           "<div class='cross-frame'>" + svg + "</div>", 
-          "text/xml"
-          )
+          "text/html"
+          ).body.firstChild
         );
   }
 
