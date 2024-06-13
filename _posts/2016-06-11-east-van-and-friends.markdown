@@ -352,7 +352,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
       svg_text +
       "</svg>"
 
-    //let container = document.getElementById("cross-box");
+    // Clear the box
+    document.querySelector(container).innerHTML = "";
+    // Add the new SVG
     document
       .querySelector(container)
       .appendChild(
