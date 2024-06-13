@@ -63,7 +63,7 @@ featuredimg: 16/east-van1.jpg
 <div id="diy-cross-box"></div>
 <div class="diy-input-box">
 
-# DIY
+## DIY
 
 If you want to make your own, go right ahead. It'll find you a matching word for whatever you put in.
 
@@ -86,11 +86,11 @@ Looks like everyone's on the band wagon
 </figcaption>
 </figure>
 
-We were having [ramen for lunch](https://drive.google.com/file/d/1xPCi3ebZ6V-9p6F4Z5M48Z_s5h_3eMnd3w/view?usp=sharing)[^1], and I saw a can of beer doing the [East Van sign](https://en.wikipedia.org/wiki/East_Van_Cross) thing. I started wondering how many other things you could do that way.
+We were having [ramen for lunch](https://drive.google.com/file/d/1xPCi3ebZ6V-9p6F4Z5M48Z_s5h_3eMnd3w/view?usp=sharing)[^1], and I saw a can of beer doing the [East Van sign](https://en.wikipedia.org/wiki/East_Van_Cross) thing. I started wondering how many other word pairs you could do that way.
 
-It turns out that you can actually make a LOT of these things. I downloaded a word list and did a bit of magic processing. If you aren't interested in the how, and just want to look at the funny combinations of words then skip over all the words to follow and just look at the pictures! They are generated live, so just keep hitting refresh for a new set.
+It turns out that you can actually make a LOT of these things. I downloaded a word list and did a bit of magic processing. If you aren't interested in the how, and just want to look at the funny combinations of words then skip over all the words to follow and just look at the pictures! They are made live, so keep hitting refresh for a new set.
 
-One thing that has struck me is just how many of these words _seem_ to have a relationship. Making patterns is so baked into the brain!
+One thing that has struck me is how many of these words _seem_ to have a relationship. Making patterns is so baked into the brain!
 
 I downloaded a list of [English words](https://github.com/dwyl/english-words) that has over 350k words in it. It really shows because I have no idea what about half of these words mean. <strike>It'd be interesting to see what comes up if I used Basic English.</strike> **Edit:** _I actually did add the [Basic English](https://en.wikipedia.org/wiki/Basic_English) list; the crosses it pumps out are amazing!_ I then processed these words into two sets of bins; one for the horizontal words and one for the vertical words.
 
@@ -98,19 +98,19 @@ Horizontal words need to have an odd number of letters and be more than three le
 
 [^1]: That's my sketches on a chopstick wrapper. I was also faffing about with the [ESPN penis](https://www.buzzfeed.com/mrloganrhoades/fan-made-penis-sign-shown-on-live-tv-to-nations-delight) thing too.
 
-# Basic English
+## Basic English
 
 <div id="cross-box"></div>
 <div id="definitions"></div>
 
-# Hard English
+## Hard English
 
 Here's some from the full list of english words:
 
 <div id="hard-cross-box"></div>
 <div id="hard-definitions"></div>
 
-The [repo for all of this is here](https://github.com/notionparallax/east-van). Thanks to dwyl for the [english-words](https://github.com/dwyl/english-words).
+The [repo for this is here](https://github.com/notionparallax/east-van). Thanks to dwyl for the [english-words](https://github.com/dwyl/english-words).
 
 <figure>
 ![The East Van Sign at night]({{ site.baseurl }}/assets/{{page.featuredimg}})
