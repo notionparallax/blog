@@ -121,143 +121,174 @@ From [“…that’s gangster and now the whole world will see…”](https://ma
 
 <script type="text/javascript">
 // "use strict";
-document.addEventListener("DOMContentLoaded", function(event) { 
-  
+document.addEventListener("DOMContentLoaded", function (event) {
+
   function triggerDIY(direction, input) {
     var words, letter, complementWord, url;
     input = input.trim();
     if (input.length >= 3) { //&& input.length % 2 == 0 fuck it, lets be permissive
-      $("#diy-cross-box").html("");
-      if (direction == "across"){
-        words  = window.simple_words.vwords; //move this out if perf is an issue
+      document.getElementById("diy-cross-box").html = "";
+      if (direction == "across") {
+        words = window.simple_words.vwords; //move this out if perf is an issue
         letter = input[Math.floor(input.length / 2)];
       } else {
-        words  = window.simple_words.hwords;
+        words = window.simple_words.hwords;
         letter = input[1];
       }
-      if($("#cb-manual").is(':checked')){
-        if (direction == "across"){
-          complementWord = $('input[name=down]').val();
+      if (document.getElementById("cb-manual").checked) {
+        if (direction == "across") {
+          complementWord = document.querySelector("input[name=down]").value;
         } else {
-          complementWord = $('input[name=across]').val();
+          complementWord = document.querySelector('input[name=across]').value;
         }
       } else {
         complementWord = getWord(words, letter, 9);
       }
 
-      if (direction == "across"){
-        $('input[name=down]').val(complementWord);
+      if (direction == "across") {
+        document.querySelector("input[name=down]").value = complementWord;
         addNewCross(input, complementWord, "#diy-cross-box");
         url = `/2016/east-van-and-friends#diy?a=${input}&d=${complementWord}`;
       } else {
-        $('input[name=across]').val(complementWord);
+        document.querySelector('input[name=across]').value = complementWord;
         addNewCross(complementWord, input, "#diy-cross-box");
         url = `/2016/east-van-and-friends#diy?a=${complementWord}&d=${input}`;
       }
       console.log(url);
-      history.pushState({},"NP generator",url);
+      history.pushState({}, "NP generator", url);
 
     }
   }
 
-  function setDIY () {
+  function setDIY() {
     //Setup
-    if(window.location.hash){
+    if (window.location.hash) {
       var params = window.location.hash.split("?")[1].split("&");
       var a = params[0].split("=")[1]
       var d = params[1].split("=")[1]
-      $('input[name=across]').val(a);
-      $('input[name=down]'  ).val(d);
+      document.querySelector('input[name=across]').value = a;
+      document.querySelector('input[name=down]').value = d;
       addNewCross(a, d, "#diy-cross-box");
-    } else{
-      $('input[name=across]').val("Van");
-      $('input[name=down]'  ).val("East");
+    } else {
+      document.querySelector('input[name=across]').value = "Van";
+      document.querySelector('input[name=down]').value = "East";
       addNewCross("van", "east", "#diy-cross-box");
     }
     // action
-    $('input[name=across]').on('input', function() {
-      triggerDIY("across", $(this).val());
+    document.querySelector('input[name=across]').addEventListener('input', function () {
+      triggerDIY("across", this.value);
     });
-    $('input[name=down]').on('input', function() { 
-      triggerDIY("down", $(this).val());
+    document.querySelector('input[name=down]').addEventListener('input', function () {
+      triggerDIY("down", this.value);
     });
   }
 
-  function addEverything (fileName, numberOfCrosses, hCharLimit, vCharLimit, defContainer, crossContainer) {  
-    var App = {};
-    $.getJSON(`/js/posts/east-van/h${fileName}.json`,  function( data ) { 
-        App.hwords = data;
-    
-        $.getJSON(`/js/posts/east-van/v${fileName}.json`,  function( data ) { 
-            App.vwords = data;
-            var alphabet = "abcdefghiklmnoprstuvwxy";//jqz removed bezause simple english doesn't have any words in those bins
-            for (var i = 0; i < numberOfCrosses; i++) {
-              var random_letter = alphabet[Math.floor(Math.random()*alphabet.length)] ;
-              var hword = getWord(App.hwords, random_letter, hCharLimit);
-              var vword = getWord(App.vwords, random_letter, vCharLimit);
-              console.log(random_letter, hword, vword);
-              addNewCross (hword, vword, crossContainer);
-              addDefinitions(hword, vword, defContainer);
-            }
-        });
-    });
+  async function addEverything(fileName, numberOfCrosses, hCharLimit, vCharLimit, defContainer, crossContainer) {
+    const App = {};
+
+    async function fetchJson(url) {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    }
+
+    App.hwords = await fetchJson(`/js/posts/east-van/h${fileName}.json`);
+    App.vwords = await fetchJson(`/js/posts/east-van/v${fileName}.json`);
+
+    const alphabet = "abcdefghiklmnoprstuvwxy"; //jqz removed because simple English doesn't have any words in those bins
+    for (let i = 0; i < numberOfCrosses; i++) {
+      const random_letter = alphabet[Math.floor(Math.random() * alphabet.length)];
+      const hword = getWord(App.hwords, random_letter, hCharLimit);
+      const vword = getWord(App.vwords, random_letter, vCharLimit);
+      console.log(random_letter, hword, vword);
+      addNewCross(hword, vword, crossContainer);
+      addDefinitions(hword, vword, defContainer);
+    }
+
     window[fileName] = App;
   }
   addEverything("simple_words", 11, 7, 8, "#definitions", "#cross-box");
   addEverything("words", 12, 7, 8, "#hard-definitions", "#hard-cross-box");
 
-  function getWord(words, letter, limit){
-      var wordLength = 100;
-      var word = "";
-      while (wordLength>limit) {
-        try{
-          word = words[letter][Math.floor(Math.random() * words[letter].length)];
-          wordLength = word.length;
-        }
-        catch(e){
-          console.log(e, word, letter);
-          break;
-        }
+  function getWord(words, letter, limit) {
+    var wordLength = 100;
+    var word = "";
+    while (wordLength > limit) {
+      try {
+        word = words[letter][Math.floor(Math.random() * words[letter].length)];
+        wordLength = word.length;
       }
-      return word;
+      catch (e) {
+        console.log(e, word, letter);
+        break;
+      }
+    }
+    return word;
   }
 
-  function addDefinitions(hword, vword, selector){
-      $(selector).append(`<ol class='definition'>
-                          <li><a href='${"http://www.thefreedictionary.com/"+vword}' target='_blank'>${vword}</a></li>
-                          <li><a href='${"http://www.thefreedictionary.com/"+hword}' target='_blank'>${hword}</a></li>
-                          </ol>`);
+  function addDefinitions(hword, vword, selector) {
+    // Create the list element
+    const definitionList = document.createElement('ol');
+    definitionList.className = 'definition';
+
+    // Create list items
+    const vwordItem = document.createElement('li');
+    const hwordItem = document.createElement('li');
+
+    // Create links
+    const vwordLink = document.createElement('a');
+    vwordLink.href = `http://www.thefreedictionary.com/${vword}`;
+    vwordLink.target = '_blank';
+    vwordLink.textContent = vword;
+
+    const hwordLink = document.createElement('a');
+    hwordLink.href = `http://www.thefreedictionary.com/${hword}`;
+    hwordLink.target = '_blank';
+    hwordLink.textContent = hword;
+
+    // Append links to list items
+    vwordItem.appendChild(vwordLink);
+    hwordItem.appendChild(hwordLink);
+
+    // Append list items to list
+    definitionList.appendChild(vwordItem);
+    definitionList.appendChild(hwordItem);
+
+    // Append the list to the container
+    document.querySelector(selector).appendChild(definitionList);
   }
 
-  function addNewCross (h_test_word, v_test_word, container){
-      h_test_word = h_test_word.toUpperCase();
-      v_test_word = v_test_word.toUpperCase();
-       
-      var h_letters = h_test_word.length;
-      var v_letters = v_test_word.length;
-       
-      var rad = 8;
-      var pad = 9;
-      var box = 50;
-       
-      var vll = (0) + pad;
-      var vlm = (Math.floor(h_letters/2) * box) + pad;
-      var vrm = (vlm + box) + pad;
-      var vrr = (h_letters * box) + pad;
-       
-      var htt = (0) + pad;
-      var htm = (box) + pad;
-      var hlm = (box * 2) + pad;
-      var hll = (v_letters * box) + pad;
-       
-      var v_nudge = 7;
-       
-      var blur = 5;
-      var letter_pad = "    "; //blur stops at box boundary, this makes the box bigger
-      var blur_colour = "hsla(180,70%,52%,1)";
+  function addNewCross(h_test_word, v_test_word, container) {
+    h_test_word = h_test_word.toUpperCase();
+    v_test_word = v_test_word.toUpperCase();
 
-      var svg_head = `<svg viewbox=\"0 0 ${vrr+(2*pad)} ${hll + (2 * pad)}\" xmlns=\"http://www.w3.org/2000/svg\">`;
-      var svg_filter = `<filter id=\"blurMe\">
+    var h_letters = h_test_word.length;
+    var v_letters = v_test_word.length;
+
+    var rad = 8;
+    var pad = 9;
+    var box = 50;
+
+    var vll = (0) + pad;
+    var vlm = (Math.floor(h_letters / 2) * box) + pad;
+    var vrm = (vlm + box) + pad;
+    var vrr = (h_letters * box) + pad;
+
+    var htt = (0) + pad;
+    var htm = (box) + pad;
+    var hlm = (box * 2) + pad;
+    var hll = (v_letters * box) + pad;
+
+    var v_nudge = 7;
+
+    var blur = 5;
+    var letter_pad = "    "; //blur stops at box boundary, this makes the box bigger
+    var blur_colour = "hsla(180,70%,52%,1)";
+
+    var svg_head = `<svg viewbox=\"0 0 ${vrr + (2 * pad)} ${hll + (2 * pad)}\" xmlns=\"http://www.w3.org/2000/svg\">`;
+    var svg_filter = `<filter id=\"blurMe\">
                           <feGaussianBlur in=\"SourceGraphic\" 
                                           stdDeviation=\"${blur}\" 
                                           x="-50%" 
@@ -265,68 +296,76 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                           width="280%" 
                                           height="280%"/>
                         </filter>`;
-      var svg_bg = `<rect x=\"0\" y=\"0\" width=\"${vrr + (2 * pad)}\" height=\"${hll + (2 * pad)}\" fill=\"black\" />`;
+    var svg_bg = `<rect x=\"0\" y=\"0\" width=\"${vrr + (2 * pad)}\" height=\"${hll + (2 * pad)}\" fill=\"black\" />`;
 
-      var path = `M${vll + rad} ${htm}`+ //1       
-                 `L ${vlm - rad} ${htm}`+ //2
-                 `A ${rad} ${rad}, 0, 0, 0, ${vlm} ${htm - rad}`+ //3
-                 `L ${vlm}  ${htt + rad}`+ //4
-                 `A ${rad} ${rad}, 0, 0, 1, ${vlm + rad} ${htt}`+ //5
-                 `L ${vrm-rad}  ${htt}`+ //6
-                 `A ${rad} ${rad}, 0, 0, 1, ${vrm} ${htt + rad}`+ //7
-                 `L ${vrm} ${htm - rad}`+ //8
-                 `A ${rad} ${rad}, 0, 0, 0, ${vrm + rad} ${htm}`+ //9
-                 `L ${vrr-rad} ${htm}`+ //10
-                 `A ${rad} ${rad}, 0, 0, 1, ${vrr} ${htm + rad}`+ //11
-                 `L ${vrr} ${hlm-rad}`+ //12
-                 `A ${rad} ${rad}, 0, 0, 1, ${vrr - rad} ${hlm}`+ //13
-                 `L ${vrm+rad} ${hlm}`+ //14
-                 `A ${rad} ${rad}, 0, 0, 0, ${vrm} ${hlm + rad}`+ //15
-                 `L ${vrm} ${hll-rad}`+ //16
-                 `A ${rad} ${rad}, 0, 0, 1, ${vrm-rad} ${hll}`+ //17
-                 `L ${vlm+rad} ${hll}`+ //18
-                 `A ${rad} ${rad}, 0, 0, 1, ${vlm} ${hll-rad}`+ //19
-                 `L ${vlm} ${hlm+rad}`+ //20
-                 `A ${rad} ${rad}, 0, 0, 0, ${vlm-rad} ${hlm}`+ //21
-                 `L ${vll+rad} ${hlm}`+ //22
-                 `A ${rad} ${rad}, 0, 0, 1,  ${vll} ${hlm-rad}`+ //23
-                 `L  ${vll} ${htm+rad}`+ //24
-                 `A ${rad} ${rad}, 0, 0, 1, ${vll + rad} ${htm}`;
+    var path = `M${vll + rad} ${htm}` + //1       
+      `L ${vlm - rad} ${htm}` + //2
+      `A ${rad} ${rad}, 0, 0, 0, ${vlm} ${htm - rad}` + //3
+      `L ${vlm}  ${htt + rad}` + //4
+      `A ${rad} ${rad}, 0, 0, 1, ${vlm + rad} ${htt}` + //5
+      `L ${vrm - rad}  ${htt}` + //6
+      `A ${rad} ${rad}, 0, 0, 1, ${vrm} ${htt + rad}` + //7
+      `L ${vrm} ${htm - rad}` + //8
+      `A ${rad} ${rad}, 0, 0, 0, ${vrm + rad} ${htm}` + //9
+      `L ${vrr - rad} ${htm}` + //10
+      `A ${rad} ${rad}, 0, 0, 1, ${vrr} ${htm + rad}` + //11
+      `L ${vrr} ${hlm - rad}` + //12
+      `A ${rad} ${rad}, 0, 0, 1, ${vrr - rad} ${hlm}` + //13
+      `L ${vrm + rad} ${hlm}` + //14
+      `A ${rad} ${rad}, 0, 0, 0, ${vrm} ${hlm + rad}` + //15
+      `L ${vrm} ${hll - rad}` + //16
+      `A ${rad} ${rad}, 0, 0, 1, ${vrm - rad} ${hll}` + //17
+      `L ${vlm + rad} ${hll}` + //18
+      `A ${rad} ${rad}, 0, 0, 1, ${vlm} ${hll - rad}` + //19
+      `L ${vlm} ${hlm + rad}` + //20
+      `A ${rad} ${rad}, 0, 0, 0, ${vlm - rad} ${hlm}` + //21
+      `L ${vll + rad} ${hlm}` + //22
+      `A ${rad} ${rad}, 0, 0, 1,  ${vll} ${hlm - rad}` + //23
+      `L  ${vll} ${htm + rad}` + //24
+      `A ${rad} ${rad}, 0, 0, 1, ${vll + rad} ${htm}`;
 
-      var svg_path = `<path id=\"glow_path\" d=\"${path}\" stroke=\"${blur_colour}\" stroke-width=\"10\"`+
-                     `fill=\"rgba(255, 255, 255, 0.55)\" opacity=\"0.6\" filter=\"url(#blurMe)\"></path>`+
-                     `<path id=\"main_path\" d=\"${path}\" stroke=\"white\" `+
-                     `fill=\"none\" stroke-width=\"2\" fill-opacity=\"0.5\"></path>`;
+    var svg_path = `<path id=\"glow_path\" d=\"${path}\" stroke=\"${blur_colour}\" stroke-width=\"10\"` +
+      `fill=\"rgba(255, 255, 255, 0.55)\" opacity=\"0.6\" filter=\"url(#blurMe)\"></path>` +
+      `<path id=\"main_path\" d=\"${path}\" stroke=\"white\" ` +
+      `fill=\"none\" stroke-width=\"2\" fill-opacity=\"0.5\"></path>`;
 
 
-      var svg_text = ""
-      for (let index = 0, len = h_test_word.length; index < len; index++) {
-        var letter = h_test_word[index];
-        svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
-        svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vll + index*box + (box/2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
+    var svg_text = ""
+    for (let index = 0, len = h_test_word.length; index < len; index++) {
+      var letter = h_test_word[index];
+      svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vll + index * box + (box / 2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
+      svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vll + index * box + (box / 2)}\" y=\"${hlm - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
+    }
+
+    for (let index = 0, len = v_test_word.length; index < len; index++) {
+      var letter = v_test_word[index];
+      if (index !== 1) {
+        svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vlm + box / 2}\" y=\"${htt + (index * box) + box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
+        svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vlm + box / 2}\" y=\"${htt + (index * box) + box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
       }
+    }
 
-      for (let index = 0, len = v_test_word.length; index < len; index++) {
-        var letter = v_test_word[index];
-        if(index !== 1){
-          svg_text += `<text class=\"blur-text\"   text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"${blur_colour}\" filter=\"url(#blurMe)\">${letter_pad}${letter}${letter_pad}</text>`;
-          svg_text += `<text class=\"bright-text\" text-anchor=\"middle\" x=\"${vlm + box/2}\" y=\"${htt + (index*box)+box - v_nudge}\" font-size=\"${box}\" font-family=\"sans-serif\" fill=\"white\">${letter_pad}${letter}${letter_pad}</text>`;
-        }
-      }
+    var svg = svg_head +
+      svg_filter +
+      svg_bg +
+      svg_path +
+      svg_text +
+      "</svg>"
 
-      var svg = svg_head + 
-                svg_filter + 
-                svg_bg + 
-                svg_path +
-                svg_text +
-                "</svg>"
-
-      //let container = document.getElementById("cross-box");
-      $(container).append("<div class='cross-frame'>"+svg+"</div>");
+    //let container = document.getElementById("cross-box");
+    document
+      .querySelector(container)
+      .appendChild(
+        new DOMParser()
+        .parseFromString(
+          "<div class='cross-frame'>" + svg + "</div>", 
+          "text/xml"
+          )
+        );
   }
 
-  setDIY ();
-  addNewCross   ("craft", "lager", "#cross-box");
+  setDIY();
+  addNewCross("craft", "lager", "#cross-box");
   addDefinitions("van", "east", "#definitions");
   addDefinitions("craft", "lager", "#definitions");
 });
