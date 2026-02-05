@@ -1,4 +1,4 @@
-lighty touch document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", async () => {
   const url = "/index-data.json";
 
   try {
