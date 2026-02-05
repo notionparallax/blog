@@ -1,20 +1,16 @@
-document.addEventListener("DOMContentLoaded", function (event) {
-    var url = "/index-data.json";
+lighty touch document.addEventListener("DOMContentLoaded", async () => {
+  const url = "/index-data.json";
 
-    makeRequest("GET", url)
-        .then(function (datums) {
-            // console.log(datums);
-            replacePosts(JSON.parse(datums));
-        })
-        .catch(function (err) {
-            console.error("Augh, there was an error!", err.statusText);
-        });
+  try {
+    const response = await makeRequest("GET", url);
+    const theJSON = JSON.parse(response);
+    replacePosts(theJSON);
+  } catch (err) {
+    console.error("Error loading posts:", err.message);
+  }
 
-    function replacePosts(theJSON) {
-        let newInnerHTML = "";
-
-        for (let p of theJSON) {
-            let liTemplate = `
+  function replacePosts(theJSON) {
+    const newInnerHTML = theJSON.map(p => `
             <li itemscope itemtype="http://schema.org/BlogPosting">
               <span class="post-date">${p.pretty_date || " "}</span>
               <meta itemprop="datePublished" content="${p.date || " "}" />
@@ -39,18 +35,16 @@ document.addEventListener("DOMContentLoaded", function (event) {
               </span>
 
               <h2 itemprop="headline">
-                <a itemprop="mainEntityOfPage"  class="post-link" href="${
-                    p.url || " "
-                }">${p.title || " "}</a>
+                <a itemprop="mainEntityOfPage" class="post-link" href="${p.url || " "}">${p.title || " "}</a>
               </h2>
 
               <p itemprop="description">${p.description || ">_"}</p>
-            </li>`;
-            newInnerHTML += liTemplate;
-        }
+            </li>`).join('');
 
-        let postList = document.getElementsByClassName("post-list").item(0);
-        postList.innerHTML = newInnerHTML;
-        console.log("Added the extra posts");
+    const postList = document.querySelector(".post-list");
+    if (postList) {
+      postList.innerHTML = newInnerHTML;
+      console.log("Added the extra posts");
     }
+  }
 });

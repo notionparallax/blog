@@ -20,6 +20,12 @@ pocket_publisher_token: 6a78034617208ee2ad4fa78c829687
 markdown: kramdown
 permalink: "/:year/:title"
 
+# Plugins
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-sitemap
+
 kramdown:
     parse_block_html: true
 

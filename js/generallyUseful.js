@@ -1,23 +1,7 @@
-function makeRequest(method, url) {
-  return new Promise(function(resolve, reject) {
-    var xhr = new XMLHttpRequest();
-    xhr.open(method, url);
-    xhr.onload = function() {
-      if (this.status >= 200 && this.status < 300) {
-        resolve(xhr.response);
-      } else {
-        reject({
-          status: this.status,
-          statusText: xhr.statusText
-        });
-      }
-    };
-    xhr.onerror = function() {
-      reject({
-        status: this.status,
-        statusText: xhr.statusText
-      });
-    };
-    xhr.send();
-  });
+async function makeRequest(method, url) {
+  const response = await fetch(url, { method });
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+  return await response.text();
 }
