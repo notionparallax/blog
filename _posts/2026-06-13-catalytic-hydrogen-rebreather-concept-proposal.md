@@ -15,12 +15,6 @@ featuredimg:
 ---
 <!-- markdownlint-disable MD040 MD060 -->
 
-## Catalytic Hydrogen Rebreather (CHR): Concept Proposal
-
-> **Status:** Concept / Feasibility Analysis  
-> **Date:** June 2026  
-> **Context:** Developed during research into hydrogen diving decompression modelling in the `decodaitengu` project.
-
 ---
 
 ## Table of Contents
