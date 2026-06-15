@@ -13,7 +13,9 @@ description: "Concept proposal for a catalytic hydrogen rebreather architecture 
 twitter-body: "Concept proposal for a catalytic hydrogen rebreather architecture and ICD-aware ascent gas transition."
 featuredimg:
 ---
-# Catalytic Hydrogen Rebreather (CHR): Concept Proposal
+<!-- markdownlint-disable MD040 MD060 -->
+
+## Catalytic Hydrogen Rebreather (CHR): Concept Proposal
 
 > **Status:** Concept / Feasibility Analysis  
 > **Date:** June 2026  
@@ -25,7 +27,7 @@ featuredimg:
 
 1. [The Problem Being Solved](#1-the-problem-being-solved)
 2. [Background: Hydrogen Diving History](#2-background-hydrogen-diving-history)
-3. [The Key Constraint: ICD and Combustion](#3-the-key-constraint-icd-and-combustion)
+3. [The Key Constraints: ICD and Combustion](#3-the-key-constraints-icd-and-combustion)
 4. [The Proposed Architecture](#4-the-proposed-architecture)
 5. [Gas Management Strategy](#5-gas-management-strategy)
 6. [Feasibility Analysis: ICD and Scrubber Rate](#6-feasibility-analysis-icd-and-scrubber-rate)
@@ -216,7 +218,7 @@ flowchart TD
 
 1. **The H₂ scrubber circuit is isolatable.** At depth (bottom phase), it is closed. Scrubbing only begins on ascent, when the controller determines it is safe to start reducing H₂ fraction relative to tissue loading.
 
-2. **He injection is controller-metered.** As H₂ is removed, He is injected to maintain total pressure in the loop. The controller tracks the ratio continuously. 
+2. **He injection is controller-metered.** As H₂ is removed, He is injected to maintain total pressure in the loop. The controller tracks the ratio continuously.
 
 3. **The scrubber O₂ circuit is isolated from the breathing loop.** Two architectures are possible — and the choice has major safety implications:
 
@@ -266,7 +268,6 @@ xychart-beta
 ```
 
 *Three traces: **H₂ fraction** (declining from 96% to 0%), **He fraction** (rising from 0% to 96% as He wash-in replaces H₂), and **O₂ fraction** (held constant at 4% throughout). He + H₂ + O₂ = 100% at all depths. Note: profile is schematic — actual H₂/He transition is non-linear (scrubber rate is in fraction/min, ascent rate is in m/min, so the depth-vs-fraction curve depends on the ratio of these).*
-
 
 ### ppO₂ Safety Window
 
@@ -323,6 +324,7 @@ Key observation: fast compartments (≤5 min H₂ half-time) are fully saturated
 ### Required Scrubber Rate to Clear H₂ by 50m
 
 Transit time from bottom to 50 m at 15 m/min:
+
 - **150 m → 50 m:** 6.7 minutes
 - **100 m → 50 m:** 3.3 minutes
 
@@ -335,7 +337,7 @@ Transit time from bottom to 50 m at 15 m/min:
 | 150m | 20 min | 96% FIRE | 0.0% ✓ | 0.0% ✓ | 0.0% ✓ | ~0.10/min | 6.7 min |
 | 150m | 30 min | 96% FIRE | 0.0% ✓ | 0.0% ✓ | 0.0% ✓ | ~0.10/min | 6.7 min |
 
-*FIRE = H₂ still above 4% at 50m, O₂ increase unsafe*
+Note: FIRE = H₂ still above 4% at 50m, O₂ increase unsafe.
 
 **Important distinction:** The table above answers only one question — "can the scrubber clear the loop in time?" It does *not* answer whether a given scrubber rate is ICD-safe for the tissue loading at that bottom time. Those are separate questions. The loop clearance rate is independent of bottom time; the ICD safety of that rate is not — longer bottom times load slow tissue compartments more heavily, making any given scrubber rate incrementally less safe from an ICD perspective. The ICD analysis in the next section uses a fixed bottom time of 20 min; see the Danger Zone section for bottom-time sensitivity.
 
@@ -355,6 +357,7 @@ This is the critical question. Results for the worst-case scenario (150 m, 20 mi
 However — this conclusion is contingent on the 1/√2 half-time scaling being approximately correct (see the caveat in Method above). If the true H₂:He tissue half-time ratio is closer to 1:1 rather than 1:1.41, the scrubber's delta-SS advantage shrinks toward zero and eventually reverses. The model cannot distinguish between these scenarios without empirical H₂ tissue half-time data.
 
 This is the opposite of the Hydra V scenario because:
+
 - Hydra V: saturation dive (tissues 100% loaded in all compartments, slow and fast)
 - Bounce dive: slow compartments are only 10–45% loaded; fast compartments off-gas H₂ within minutes regardless
 
@@ -374,7 +377,6 @@ graph LR
     
     style E fill:#d4edda,stroke:#155724,color:#000000
 ```
-
 
 ### The ICD Danger Zone: What to Avoid
 
@@ -419,8 +421,8 @@ graph TD
 
 > **Descent switch ICD safety:** Switching from air to 4%O₂/96%H₂ at 35 m is physiologically safe from an ICD perspective. Tissues are still near surface N₂ loading (~0.80 bar total tension), while ambient is already 4.6 bar — a −4.2 bar margin. Although H₂ is faster-diffusing than N₂ and loads fast compartments rapidly, the total tissue tension at any point during the continued descent remains far below ambient (which is still *rising* at 20 m/min). Even if the fastest compartment transiently loads H₂ at its maximum rate while still holding surface N₂, the combined tension cannot approach the ambient pressure. Supersaturation on descent is physically impossible with this margin.
 
-
 Gas requirements (approximate):
+
 - Diluent (4/96): ~3–5 bar of a 3L cylinder for diluent adds
 - O₂ (metabolic): standard CCR consumption ~0.5–0.8 L/min = ~50–90L for the dive
 - He (wash-in): sufficient to replace ~96% of loop volume as H₂ is removed — loop volume ~10L at STP equivalent, so ~960L He. Note: this covers only the gas composition replacement; additional He is needed to maintain loop pressure as ambient falls during ascent (at 15 m/min over 3–7 min this is a small additional volume, ~50–100L, but should be included in cylinder sizing).
@@ -533,12 +535,14 @@ Each mole of H₂ removed produces 1 mole of H₂O (18 g). Scrubbing the loop fr
 The controller failure scenario during the H₂ scrubbing transition (e.g., at H₂ ~50%, He ~46%, O₂ 4%) is the most safety-critical failure mode in the system and is not addressed by any existing CCR bailout protocol.
 
 **The problem:** A mid-transition loop is in a state no standard OC bailout cylinder is designed for:
+
 - Loop is ~50% H₂ — not breathable on open circuit (hypoxic at any useful depth)
 - Cannot increase O₂ — H₂ still above combustion limit
 - Cannot switch to heliox — abrupt H₂→He gas change is the Hydra V scenario
 - Cannot ascend on current loop — controller is managing the ICD-safe scrub rate; manual operation may be faster or slower in unpredictable ways
 
 **Candidate manual bailout procedure (preliminary):**
+
 1. **Isolate the H₂ scrubber circuit** — close the scrubber loop valve. This freezes the current loop composition and stops any further H₂ removal.
 2. **Ascend at normal rate** — the current loop composition, whatever it is, will maintain ppO₂ at 4% through the ascent. If H₂ is ~50%, the diver can continue ascending on the existing mix without ICD risk (total tissue tension analysis is the same as the full-H₂ case).
 3. **At 35 m, switch to travel diluent** — now breathe air travel gas (which was used on descent). This dilutes the loop H₂ progressively with N₂/O₂, and importantly, raises ppO₂.
@@ -550,6 +554,8 @@ The controller failure scenario during the H₂ scrubbing transition (e.g., at H
 
 ---
 
+## 9. Prior Art
+
 No published work describes a fully integrated wearable rebreather with onboard catalytic H₂ scrubbing. The closest:
 
 | Work | Relevance | Gap |
@@ -560,6 +566,7 @@ No published work describes a fully integrated wearable rebreather with onboard 
 | Zetterström 1940s | Surface-supply H₂ dives | Manual switch to air; no ICD management |
 
 **The apparent novelty** of this architecture lies in combining:
+
 1. Miniaturised catalytic H₂ oxidation in the breathing loop
 2. Real-time tissue H₂ model in the controller
 3. ICD-rate-limited scrubber pace algorithm
@@ -572,12 +579,14 @@ The ICD-rate-limiting constraint — pacing scrubber removal to tissue H₂ half
 ## 10. Open Questions
 
 ### Physiological
+
 - [ ] What is the actual ICD-safe H₂→He gradient threshold for bounce dives? (No published data)
 - [ ] Do H₂ ZHL-16C coefficients scaled from He provide accurate decompression tables? (Unvalidated)
 - [ ] Is the N₂ trace (for HPNS buffering) worth its ICD complexity on the He wash-in phase?
 - [ ] What is the minimum ppO₂ that can be safely maintained during the H₂ phase? (affects scrubber design if the controller needs more margin)
 
 ### Engineering
+
 - [ ] Palladium catalyst bed sizing: what volume of catalyst is required for the needed scrubbing rates (~0.10–0.20 H₂ fraction/min in a 10L loop)?
 - [ ] Loop pump sizing: what flow rate through the catalyst bed is needed?
 - [ ] Catalyst lifetime characterisation in diving gas environments (contaminants, pressure, temperature)
@@ -585,6 +594,7 @@ The ICD-rate-limiting constraint — pacing scrubber removal to tissue H₂ half
 - [ ] H₂ sensor validation at high H₂ fractions and high pressure
 
 ### Regulatory / Safety
+
 - [ ] How do existing CCR certification frameworks apply to a novel gas species in the loop?
 - [ ] What failure-mode analysis is required for the H₂ sensor fault scenarios?
 - [ ] What is the minimum viable redundancy for the catalytic circuit?
@@ -618,6 +628,7 @@ decotengu/tools/h2_scrubber_icd.py
 It models a Haldanean 16-compartment ascent with configurable scrubber rate and produces the supersaturation and ICD metric tables in this document.
 
 Key parameters used:
+
 - H₂ half-times: ZHL-16C [8] He values × `1/√2` (Graham's Law)
 - Descent: 20 m/min
 - Fast ascent: 15 m/min (150 m or 100 m → 50 m)
