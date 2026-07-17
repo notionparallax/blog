@@ -11,7 +11,7 @@ author-name: Ben Doherty
 
 description: A look at what I've read, and a lot of graphs about it.
 twitter-body: A look at what I've read, and a lot of graphs about it.
-featuredimg: {{ site.baseurl }}/assets/26/07/Ben_bookWaterfall_allTime.png
+featuredimg: /assets/26/07/Ben_bookWaterfall_allTime.png
 ---
 
 Back at the end of 2019 [I did some analysis of the books I'd been reading](https://notionparallax.co.uk/2019/goodreads2019), and it wasn't an especially diverse experience. I used a pretty clumsy method but it worked a bit to give me some insight. As a result of that I had a crack at [trying to read more diversely](https://notionparallax.co.uk/2020/reading-plan), which was really enjoyable, but surprisingly difficult to get the full bingo card, but I stuck with it for a few years. Then I forgot about it and just read what interested me.
@@ -22,13 +22,13 @@ I've been going through a process of modernising a bunch of my repos, and today 
 
 Claude did a bunch of the hard yards on building the metadata for the books. The Goodreads download is pretty dry, it doesn't tell you much other than when you finished the book, so if you want to any of the diversity metrics, you need to do that by hand, or, I guess by AI. So, standard caveat: not only is the method itself clunky and a bit nasty, the data might also be pretty wrong.
 
-The author sexuality is inspired by Claire Oh, who extended the inital analysis that I did for her python project while she was doing her CoDe degree at UNSW. She also looked at representation in the work.
+The author sexuality is inspired by Claire Oh, who extended the initial analysis that I did for her python project while she was doing her CoDe degree at UNSW. She also looked at representation in the work.
 
 ## Cadence
 
 [![Reading timeline]({{ site.baseurl }}/assets/26/07/Ben_bookWaterfall_allTime.png)]({{ site.baseurl }}/assets/26/07/Ben_bookWaterfall_allTime.pdf)
 
-There's going to be a big stripe this year when I finish Heroditous's Histores (which I've been going at since December), and I've been dipping into Letters from America for almost a decade.
+There's going to be a big stripe this year when I finish Herodotus's _Histories_ (which I've been going at since December), and I've been dipping into Letters from America for almost a decade.
 
 ![Books finished per year]({{ site.baseurl }}/assets/26/07/Ben_booksPerYear.png)
 
