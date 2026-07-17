@@ -58,6 +58,13 @@
     font-size: 14pt;
     font-weight: normal;
   }
+  /* Sidenotes only make sense with a live layout; print the plain footnotes list instead. */
+  .sidenote-column {
+    display: none !important;
+  }
+  .footnotes {
+    display: block !important;
+  }
   img {
     page-break-inside: avoid;
     page-break-after: avoid;
