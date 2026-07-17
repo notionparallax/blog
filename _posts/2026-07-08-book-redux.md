@@ -9,9 +9,9 @@ categories: []
 tags: []
 author-name: Ben Doherty
 
-description: 
-twitter-body:
-featuredimg:
+description: A look at what I've read, and a lot of graphs about it.
+twitter-body: A look at what I've read, and a lot of graphs about it.
+featuredimg: {{ site.baseurl }}/assets/26/07/Ben_bookWaterfall_allTime.png
 ---
 
 Back at the end of 2019 [I did some analysis of the books I'd been reading](https://notionparallax.co.uk/2019/goodreads2019), and it wasn't an especially diverse experience. I used a pretty clumsy method but it worked a bit to give me some insight. As a result of that I had a crack at [trying to read more diversely](https://notionparallax.co.uk/2020/reading-plan), which was really enjoyable, but surprisingly difficult to get the full bingo card, but I stuck with it for a few years. Then I forgot about it and just read what interested me.
