@@ -134,7 +134,7 @@ Fiction and non-fiction draw from different demographic pools. The cross-tab bet
 
 ## Depth and Volume
 
-Three books read twice: *The English Patient*, *The Left Hand of Darkness*, and *The Dispossessed*. Everything else, once. (It's worth pointing out that the graph below is authors whose work I've read more than one of, not multiple reads of the same book.)
+Three books read twice: _The English Patient_, _The Left Hand of Darkness_, and _The Dispossessed_. Everything else, once. (It's worth pointing out that the graph below is authors whose work I've read more than one of, not multiple reads of the same book.)
 
 ![Authors read more than once]({{ site.baseurl }}/assets/26/07/Ben_prolificAuthors.png)
 
@@ -147,3 +147,51 @@ Pages per year tracks reading volume differently from book count — a year of l
 Pages by format: ebooks account for the majority of pages read, but the distribution within format types is uneven. Mass market paperbacks tend to be shorter; hardcovers tend to be the bigger.
 
 ![Pages by format]({{ site.baseurl }}/assets/26/07/Ben_pages_byFormat.png)
+
+# What my Kindle highlights say about how I read
+
+Buried in Goodreads' full data export is a file called `grass.json` — all the Kindle highlight I've synced to my Goodreads profile: the quoted text, any note I attached to it, how far through the book it falls, and which book it's from. 1,096 highlights across 93 books, 26 of them with an actual note attached rather than just a bare quote.
+
+## The obvious stuff first
+
+The books I've highlighted hardest are almost all dense non-fiction:
+
+![Most-highlighted books]({{ site.baseurl }}/assets/26/07/Ben_highlights_topBooks.png)
+
+_Counterproductive: Time Management in the Knowledge Economy_ leads with 58 highlights, followed by _The Sciences of the Artificial_, _Toilet: Public Restrooms and the Politics of Sharing_, and _Post-Capitalist Society_. What's interesting is that I had no memory of reading _Counterproductive_ at all; I wonder if a kindle book is less memorable by title as one just doesn't see the title and cover very much.
+
+Joined against my book ratings and genre tags:
+
+![Average highlights per book, by rating and genre]({{ site.baseurl }}/assets/26/07/Ben_highlights_avgHighlights.png)
+
+Non-fiction books get **18.0 highlights on average**; fiction gets **8.0** — more than double. Rating tells a similar but smaller story: 8.6 highlights/book at 3 stars, rising to 11.8 at 4 stars and 12.0 at 5 stars. Highlighting looks like a decent proxy for how much a book actually landed — though genre turns out to be the bigger driver of the two.
+
+Highlights themselves are short — a median of 32 words, roughly one to two sentences. If I highlighted the first two sentences of the previous paragraph it would be a 36 word highlight.
+
+![Highlight length]({{ site.baseurl }}/assets/26/07/Ben_highlights_length.png)
+
+## Do I highlight in bursts, or is it spread evenly through a book?
+
+If you've just highlighted something, are you more likely to highlight something else _soon after_ — or is each highlight an independent, one-off decision scattered randomly through the book?
+
+To test it, I took every book with at least 5 highlights, looked at the gap (in % through the book) between each highlight and the next one in the same book, and compared that to a null model: the same number of highlights per book, scattered uniformly at random.
+
+![Do highlights cluster?]({{ site.baseurl }}/assets/26/07/Ben_highlights_clustering.png)
+
+They cluster. The observed gap between consecutive highlights averages 5.07% of a book's length, versus 5.72% under random scatter — highlights land **11% closer together** than chance would predict, and the effect is far too large to be noise. What I can't tell is if it's linked to how interesting a specific passage is, or just that I've recently used the highlighter, so I'm trigger happy?
+
+## Why does the "where in the book" chart have two humps?
+
+Looking at where highlights fall in a book overall (0% = start, 100% = end):
+
+![Where in a book do you highlight?]({{ site.baseurl }}/assets/26/07/Ben_highlights_locationDist.png)
+
+There's a clear front-loading — the first quarter of a book gets highlighted hardest — but also a second, smaller bump around the 50-75% mark, with a dip in between. Is there something about how nonfiction arguments are structured, or where an author places their best material.
+
+That instinct turned out to be wrong. Breaking the same 9 books out individually tells a different story:
+
+![Where each top book gets highlighted]({{ site.baseurl }}/assets/26/07/Ben_highlights_topBooksLocationGrid.png)
+
+None of them, on their own, has that two-hump shape. _Counterproductive_ is almost entirely front-loaded and essentially dead after 60%. _The Sciences of the Artificial_ is nearly empty for the first 30%, peaks hard at 40-60%, then goes quiet before a small late bump. _Crime and Punishment_ barely gets touched until it spikes around 70-80%. _Energy and Civilization_ is almost all in the first 10%. Each book has its own idiosyncratic peak, in a different place, presumably wherever that particular book's densest or most quotable material happens to sit.
+
+The aggregate "first and third quartile" shape isn't a real reading pattern — it's what you get from summing a handful of heavily-highlighted books with different individual shapes on top of each other. If there's a genuine general pattern here at all, it's just the front-loading: highlighting drops off toward the end of a book almost everywhere, probably because early chapters tend to carry more thesis statements, definitions, and framing claims — the stuff that's easiest to lift out as a standalone quote.
