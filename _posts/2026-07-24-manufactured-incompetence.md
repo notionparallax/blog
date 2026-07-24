@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manufactured Incompetence"
-date: 2026-07-24 12:00:00 AEST
+date: 2026-07-24 12:00:00 +10:00
 type: post
 published: true
 status: publish
