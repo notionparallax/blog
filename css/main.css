@@ -1,0 +1,982 @@
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap");
+
+:root {
+    /* https://medium.com/designing-medium/system-shock-6b1dc6d6596f#.egotfzedd */
+    --font-base: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto",
+        "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+    --font-heading: "Noto Sans", "Open Sans", var(--font-base);
+    --font-body: "Noto Serif", serif;
+    --font-size-base: 19px;
+    --font-size-small: calc(var(--font-size-base) * 0.875);
+    --font-weight-base: 400;
+    --line-height-base: 1.5;
+
+    --spacing-unit: 2em;
+
+    --color-background: #fcfcfc;
+    --color-text: rgba(0, 0, 0, 0.87);
+    --color-text-invert: var(--color-background);
+    --color-brand: #1f597a;
+    --color-brand-visited: #2f85b6;
+    --color-grey: #4d4d4d;
+    --color-grey-light: #b3b3b3;
+    --color-grey-dark: #0d0d0d;
+    --code-background: #eef;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* ---------- Base ---------- */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font: var(--font-weight-base) var(--font-size-base)/var(--line-height-base) var(--font-base);
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+}
+@media screen and (max-width: 350px) {
+    body {
+        font-size: 90%;
+    }
+}
+
+/* Vertical rhythm */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+table,
+.highlight {
+    margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+img {
+    vertical-align: middle;
+}
+
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: var(--font-size-small);
+}
+
+ul,
+ol {
+    margin-left: var(--spacing-unit);
+}
+@media screen and (max-width: 600px) {
+    ul,
+    ol {
+        margin-left: calc(var(--spacing-unit) / 2);
+    }
+}
+
+li > ul,
+li > ol {
+    margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: var(--font-weight-base);
+}
+
+a {
+    border-bottom: 3px solid rgba(31, 89, 122, 0.05);
+    color: var(--color-brand);
+    text-decoration: none;
+    transition: all 0.2s;
+}
+a:visited {
+    color: var(--color-brand-visited);
+}
+a:hover {
+    border-bottom: 8px solid rgba(31, 89, 122, 0.1);
+    color: var(--color-text);
+}
+
+/* take the underline off the ↩ symbol and the number in the footnotes */
+.reversefootnote,
+.footnote,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a {
+    border: 0;
+}
+.reversefootnote:hover,
+.footnote:hover,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover {
+    border: 0;
+}
+
+blockquote {
+    border-left: 4px solid var(--color-grey-light);
+    color: var(--color-grey);
+    font-style: italic;
+    letter-spacing: -1px;
+    padding-left: calc(var(--spacing-unit) / 2);
+}
+blockquote > :last-child {
+    margin-bottom: 0;
+}
+
+pre,
+code {
+    background-color: var(--code-background);
+    border-radius: 3px;
+    font-size: 90%;
+}
+
+code {
+    padding: 0 0.3em;
+}
+
+pre {
+    overflow-x: auto;
+    padding: 1em 2em;
+}
+pre > code {
+    border: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+div.highlighter-rouge.language-js {
+    --ex: 3rem;
+    margin-left: calc(var(--ex) * -1);
+    width: calc(100% + var(--ex) * 2);
+}
+@media screen and (max-width: 600px) {
+    div.highlighter-rouge.language-js {
+        margin-left: unset;
+        width: unset;
+    }
+}
+
+.wrapper {
+    max-width: 68em;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width: 1300px) {
+    .wrapper {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}
+
+.icon > svg {
+    display: inline-block;
+    height: 1.3em;
+    vertical-align: middle;
+}
+.icon > svg path {
+    fill: var(--color-grey);
+}
+
+/* ---------- Typography ---------- */
+
+h1,
+h2 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+}
+
+p {
+    font-family: var(--font-body);
+}
+
+.emoji {
+    height: 1em;
+    transform: translateY(-0.2em);
+    width: 1em;
+}
+
+.post-header h1 {
+    text-wrap: balance;
+}
+
+/* ---------- Layout ---------- */
+
+.site-header {
+    min-height: 56px;
+    /* Positioning context for the mobile navigation icon */
+    position: relative;
+}
+.site-header .header-links {
+    float: right;
+}
+.site-header .header-links li {
+    display: inline-block;
+    margin-left: 1em;
+    min-height: 2em;
+    min-width: 5em;
+    text-align: center;
+}
+
+.site-title {
+    float: left;
+    letter-spacing: -1px;
+    line-height: 56px;
+    margin-bottom: 1em;
+}
+.site-title,
+.site-title:visited {
+    color: var(--color-grey-dark);
+}
+
+.site-nav {
+    float: right;
+    line-height: 56px;
+}
+.site-nav .menu-icon {
+    display: none;
+}
+.site-nav .page-link {
+    color: var(--color-text);
+    line-height: var(--line-height-base);
+}
+/* Gaps between nav items, but not on the last one */
+.site-nav .page-link:not(:last-child) {
+    margin-right: 20px;
+}
+@media screen and (max-width: 600px) {
+    .site-nav {
+        background-color: var(--color-background);
+        border-radius: 5px;
+        border: 1px solid var(--color-grey-light);
+        position: absolute;
+        right: calc(var(--spacing-unit) / 2);
+        text-align: right;
+        top: 9px;
+    }
+    .site-nav .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .site-nav .menu-icon > svg {
+        height: 15px;
+        width: 18px;
+    }
+    .site-nav .menu-icon > svg path {
+        fill: var(--color-grey-dark);
+    }
+    .site-nav .trigger {
+        clear: both;
+        display: none;
+    }
+    .site-nav:hover .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+    .site-nav .page-link {
+        display: block;
+        padding: 5px 10px;
+        margin-left: 20px;
+    }
+    .site-nav .page-link:not(:last-child) {
+        margin-right: 0;
+    }
+}
+
+.site-footer {
+    border-top: 1px solid var(--color-grey-light);
+    padding: var(--spacing-unit) 0;
+}
+
+.footer-heading {
+    font-size: 1em;
+    margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+.contact-list,
+.social-media-list {
+    line-height: 2;
+    list-style: none;
+    margin-left: 0;
+}
+
+.footer-col-wrapper {
+    display: grid;
+    grid-template-columns: 35fr 20fr 45fr;
+    gap: 0 var(--spacing-unit);
+    color: var(--color-grey);
+    font-size: 85%;
+}
+
+.footer-col {
+    margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+@media screen and (max-width: 800px) {
+    .footer-col-wrapper {
+        grid-template-columns: 1fr 1fr;
+    }
+    .footer-col-3 {
+        grid-column: 1 / -1;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .footer-col-wrapper {
+        grid-template-columns: 1fr;
+    }
+    .footer-col-3 {
+        grid-column: auto;
+    }
+}
+
+.page-content {
+    padding: var(--spacing-unit) 0;
+    min-height: 60vh;
+}
+
+.post-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--spacing-unit);
+    list-style: none;
+    margin-left: 0;
+}
+@media screen and (min-width: 900px) and (max-width: 1300px) {
+    .post-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (min-width: 1300px) {
+    .post-list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.post-list > li {
+    border: 1px solid var(--color-grey-light);
+    border-top: 0.3em solid var(--color-brand);
+    height: 20em;
+    overflow: hidden;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    position: relative;
+    transition: all 0.4s;
+}
+.post-list > li .post-date {
+    font-family: var(--font-heading);
+    font-size: 80%;
+}
+.post-list > li h2 {
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+}
+.post-list > li h2 a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+.post-list > li p {
+    color: rgba(51, 51, 51, 0.87);
+    display: block;
+    font-size: 95%;
+    line-height: 1.3;
+    max-height: 14em;
+    overflow: hidden;
+}
+.post-list > li .read-more {
+    bottom: 1em;
+    position: absolute;
+    text-decoration: underline;
+}
+.post-list > li:hover {
+    background-color: var(--color-brand);
+}
+.post-list > li:hover h2,
+.post-list > li:hover h2 a,
+.post-list > li:hover p,
+.post-list > li:hover .read-more,
+.post-list > li:hover .post-date {
+    color: var(--color-text-invert);
+}
+
+.post-meta {
+    color: var(--color-grey);
+    font-size: var(--font-size-small);
+}
+
+.post-link {
+    display: block;
+    font-size: 1.7rem;
+}
+
+.post-header {
+    margin-bottom: var(--spacing-unit);
+}
+
+.post-title {
+    font-size: 1.7rem;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+@media screen and (max-width: 800px) {
+    .post-title {
+        font-size: 1.5rem;
+    }
+}
+
+.post-content {
+    margin-bottom: var(--spacing-unit);
+}
+.post-content h2 {
+    font-size: 1.8rem;
+}
+@media screen and (max-width: 800px) {
+    .post-content h2 {
+        font-size: 1.5rem;
+    }
+}
+.post-content h3 {
+    font-size: 1.5rem;
+}
+@media screen and (max-width: 800px) {
+    .post-content h3 {
+        font-size: 1.3rem;
+    }
+}
+.post-content h4 {
+    font-size: 1.3rem;
+}
+@media screen and (max-width: 800px) {
+    .post-content h4 {
+        font-size: 1.1rem;
+    }
+}
+
+.alignright {
+    float: right;
+}
+.alignleft {
+    float: left;
+}
+
+.footnotes ol {
+    columns: 19em;
+}
+.footnotes ol li {
+    margin-left: 2em;
+}
+
+/* ---------- Syntax highlighting ---------- */
+
+.highlight {
+    background: #fff;
+}
+.highlighter-rouge .highlight {
+    background: var(--code-background);
+}
+.highlight .c { color: #998; font-style: italic; } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2; } /* Error */
+.highlight .k { font-weight: bold; } /* Keyword */
+.highlight .o { font-weight: bold; } /* Operator */
+.highlight .cm { color: #998; font-style: italic; } /* Comment.Multiline */
+.highlight .cp { color: #999; font-weight: bold; } /* Comment.Preproc */
+.highlight .c1 { color: #998; font-style: italic; } /* Comment.Single */
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; } /* Comment.Special */
+.highlight .gd { color: #000; background-color: #fdd; } /* Generic.Deleted */
+.highlight .gd .x { color: #000; background-color: #faa; } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic; } /* Generic.Emph */
+.highlight .gr { color: #a00; } /* Generic.Error */
+.highlight .gh { color: #999; } /* Generic.Heading */
+.highlight .gi { color: #000; background-color: #dfd; } /* Generic.Inserted */
+.highlight .gi .x { color: #000; background-color: #afa; } /* Generic.Inserted.Specific */
+.highlight .go { color: #888; } /* Generic.Output */
+.highlight .gp { color: #555; } /* Generic.Prompt */
+.highlight .gs { font-weight: bold; } /* Generic.Strong */
+.highlight .gu { color: #aaa; } /* Generic.Subheading */
+.highlight .gt { color: #a00; } /* Generic.Traceback */
+.highlight .kc { font-weight: bold; } /* Keyword.Constant */
+.highlight .kd { font-weight: bold; } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold; } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold; } /* Keyword.Reserved */
+.highlight .kt { color: #458; font-weight: bold; } /* Keyword.Type */
+.highlight .m { color: #099; } /* Literal.Number */
+.highlight .s { color: #d14; } /* Literal.String */
+.highlight .na { color: #008080; } /* Name.Attribute */
+.highlight .nb { color: #0086B3; } /* Name.Builtin */
+.highlight .nc { color: #458; font-weight: bold; } /* Name.Class */
+.highlight .no { color: #008080; } /* Name.Constant */
+.highlight .ni { color: #800080; } /* Name.Entity */
+.highlight .ne { color: #900; font-weight: bold; } /* Name.Exception */
+.highlight .nf { color: #900; font-weight: bold; } /* Name.Function */
+.highlight .nn { color: #555; } /* Name.Namespace */
+.highlight .nt { color: #000080; } /* Name.Tag */
+.highlight .nv { color: #008080; } /* Name.Variable */
+.highlight .ow { font-weight: bold; } /* Operator.Word */
+.highlight .w { color: #bbb; } /* Text.Whitespace */
+.highlight .mf { color: #099; } /* Literal.Number.Float */
+.highlight .mh { color: #099; } /* Literal.Number.Hex */
+.highlight .mi { color: #099; } /* Literal.Number.Integer */
+.highlight .mo { color: #099; } /* Literal.Number.Oct */
+.highlight .sb { color: #d14; } /* Literal.String.Backtick */
+.highlight .sc { color: #d14; } /* Literal.String.Char */
+.highlight .sd { color: #d14; } /* Literal.String.Doc */
+.highlight .s2 { color: #d14; } /* Literal.String.Double */
+.highlight .se { color: #d14; } /* Literal.String.Escape */
+.highlight .sh { color: #d14; } /* Literal.String.Heredoc */
+.highlight .si { color: #d14; } /* Literal.String.Interpol */
+.highlight .sx { color: #d14; } /* Literal.String.Other */
+.highlight .sr { color: #009926; } /* Literal.String.Regex */
+.highlight .s1 { color: #d14; } /* Literal.String.Single */
+.highlight .ss { color: #990073; } /* Literal.String.Symbol */
+.highlight .bp { color: #999; } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080; } /* Name.Variable.Class */
+.highlight .vg { color: #008080; } /* Name.Variable.Global */
+.highlight .vi { color: #008080; } /* Name.Variable.Instance */
+.highlight .il { color: #099; } /* Literal.Number.Integer.Long */
+
+/* ---------- Footnotes ---------- */
+
+.footnotes {
+    border-top: 1px solid var(--color-grey-light);
+    font-size: 80%;
+    margin-top: 4em;
+    padding-top: 1em;
+}
+.footnotes .reversefootnote {
+    border: 0;
+    background-color: rgba(31, 89, 122, 0.05);
+    display: inline-block;
+    width: 3em;
+    padding-left: 0.5em;
+    border-radius: 0.5em;
+}
+@media screen and (max-width: 600px) {
+    .footnotes ol {
+        margin-left: 0;
+    }
+}
+.footnotes ol li {
+    break-inside: avoid;
+}
+@media screen and (max-width: 600px) {
+    .footnotes ol li {
+        margin-left: 0;
+    }
+}
+
+/* ---------- Sidenotes ----------
+   Margin sidenotes. Heavily inspired by https://gwern.net/sidenote and the
+   sidenotes.js it links to (Said Achmiz, MIT licensed). That script is
+   written against Pandoc's footnote markup and Gwern.net's own front-end
+   framework, so rather than port it wholesale, js/sidenotes.js is an
+   independent, much smaller implementation of the same idea against
+   kramdown's footnote markup: sidenotes.js/this section build on the
+   existing [^1]-style footnotes with no changes to post content, and fall
+   back to ordinary footnotes below the sidenotes breakpoint or without JS. */
+
+@media (min-width: 1350px) {
+    article.post {
+        position: relative;
+    }
+}
+
+.sidenote-column {
+    display: none;
+    position: absolute;
+    top: 0;
+    width: 450px;
+    pointer-events: none;
+}
+@media (min-width: 1350px) {
+    .sidenote-column {
+        display: block;
+    }
+}
+
+#sidenote-column-right {
+    left: calc(100% + 2.5em);
+}
+
+.sidenote {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    font-size: 0.8em;
+    line-height: 1.4;
+    color: var(--color-grey-dark);
+    pointer-events: auto;
+    max-height: 60vh;
+    overflow-y: auto;
+    padding: 0.4em 0.6em;
+    border-radius: 0.4em;
+    transition: background-color 0.2s ease;
+}
+.sidenote p:last-child {
+    margin-bottom: 0;
+}
+.sidenote .sidenote-number {
+    font-weight: bold;
+    color: var(--color-brand);
+    margin-right: 0.3em;
+    font-variant-numeric: tabular-nums;
+}
+.sidenote.highlighted,
+.sidenote:hover {
+    background-color: rgba(31, 89, 122, 0.08);
+}
+
+/* Give the in-text reference number the same highlight affordance as its
+   sidenote, so hovering either end of the connection lights up. */
+sup[id^="fnref:"] a.footnote:hover {
+    background-color: rgba(31, 89, 122, 0.08);
+}
+
+/* Once JS has relocated the footnotes into the margin, hide the original
+   block-footnotes list (only at the width where sidenotes actually have
+   room to live -- narrower viewports keep the normal footnotes list
+   regardless of this class). */
+@media (min-width: 1350px) {
+    body.sidenotes-active .footnotes {
+        display: none;
+    }
+}
+
+/* ---------- Forms ---------- */
+
+form {
+    margin-bottom: 1em;
+}
+
+input {
+    display: block;
+    font-size: 200%;
+    width: 100%;
+}
+
+/* ---------- Article ---------- */
+
+.wrapper.post {
+    max-width: 40em;
+}
+
+article.post {
+    font-family: var(--font-body);
+}
+@media screen and (max-width: 600px) {
+    article.post p {
+        font-size: 1rem;
+    }
+}
+
+article.post h1,
+article.post h2,
+article.post h3,
+article.post h4,
+article.post h5 {
+    font-family: var(--font-heading);
+}
+
+article.post h1 {
+    font-size: 2.9rem;
+    line-height: 1;
+}
+@media screen and (max-width: 600px) {
+    article.post h1 {
+        font-size: 2.2rem;
+    }
+}
+article.post h2 {
+    font-size: 2.3rem;
+}
+@media screen and (max-width: 600px) {
+    article.post h2 {
+        font-size: 2rem;
+    }
+}
+article.post h3 {
+    font-size: 2rem;
+}
+@media screen and (max-width: 600px) {
+    article.post h3 {
+        font-size: 1.8rem;
+    }
+}
+article.post h4 {
+    font-size: 1.6rem;
+}
+@media screen and (max-width: 600px) {
+    article.post h4 {
+        font-size: 1.4rem;
+    }
+}
+article.post h5 {
+    font-size: 1.2rem;
+}
+@media screen and (max-width: 600px) {
+    article.post h5 {
+        font-size: 1.2rem;
+    }
+}
+
+article.post dt,
+article.post dd {
+    display: inline-block;
+    vertical-align: text-top;
+}
+@media screen and (max-width: 600px) {
+    article.post dt,
+    article.post dd {
+        display: block;
+    }
+}
+article.post dt {
+    width: 30%;
+    text-align: right;
+    padding-right: 0.5em;
+}
+@media screen and (max-width: 600px) {
+    article.post dt {
+        width: initial;
+        text-align: initial;
+        padding-right: initial;
+        font-weight: bold;
+    }
+}
+article.post dt::after {
+    content: ":";
+}
+@media screen and (max-width: 600px) {
+    article.post dt::after {
+        content: none;
+    }
+}
+article.post dd {
+    width: 69%;
+}
+@media screen and (max-width: 600px) {
+    article.post dd {
+        width: initial;
+    }
+}
+article.post .new-topic {
+    font-weight: bold;
+}
+@media screen and (max-width: 600px) {
+    article.post .new-topic {
+        margin-left: -0.7em;
+        margin-top: 0.6em;
+        font-size: 110%;
+    }
+}
+
+article.post li {
+    margin-bottom: 1em;
+}
+article.post li p {
+    margin-top: 0.5em;
+}
+
+article.post table {
+    display: block;
+    overflow-x: auto;
+}
+
+article.post .small-caps {
+    font-style: initial;
+    font-variant: all-small-caps;
+}
+article.post .underline {
+    font-style: initial;
+    text-decoration: underline;
+}
+article.post q {
+    opacity: 0.9;
+}
+
+article.post blockquote {
+    font-size: 120%;
+    width: 80%;
+}
+@media screen and (max-width: 600px) {
+    article.post blockquote {
+        border: 0;
+        font-size: 100%;
+    }
+}
+article.post blockquote em {
+    font-style: normal;
+    margin-left: 0.1em;
+}
+
+article.post .site-title {
+    opacity: 0.1;
+}
+
+/* A pair of images side by side. Markdown wraps the two <img>s in a
+   <p> inside the figure, so the grid container is that <p>, not the
+   figure itself. */
+article.post .two-side-by-side p {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 1em;
+}
+article.post .two-side-by-side img {
+    width: 100%;
+}
+
+/* Single float-in-prose images/quotes -- these have no shared row
+   container (they float directly against surrounding paragraph text),
+   so they stay floats rather than becoming a grid. */
+article.post .half-width {
+    float: left;
+    width: 48.821174201%;
+    margin-right: 0;
+    padding-top: 1em;
+}
+@media screen and (max-width: 350px) {
+    article.post .half-width {
+        float: initial;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    article.post .half-width.small-pop {
+        float: none;
+        width: initial;
+    }
+}
+
+article.post .right {
+    float: right;
+    margin-left: 1em;
+}
+article.post .left {
+    float: left;
+    margin-right: 1em;
+}
+
+@media screen and (max-width: 600px) {
+    article.post figure {
+        background-color: rgba(31, 89, 122, 0.05);
+        margin-left: 0.5em;
+        margin-top: 0;
+        margin-right: -1em;
+        margin-bottom: 1em;
+        padding: 1em;
+        width: 100vw;
+    }
+    article.post figure:not(.half-width) {
+        margin-left: 0;
+    }
+    article.post figure:not(.half-width) > p {
+        margin: 0 -1em;
+    }
+}
+article.post figure img {
+    width: 100%;
+}
+article.post figure iframe {
+    border: 0;
+    height: 40vh;
+    width: 100%;
+}
+article.post figure figcaption {
+    font-size: 85%;
+    font-weight: lighter;
+    padding: 0.5em 1em;
+}
+@media screen and (max-width: 600px) {
+    article.post figure figcaption {
+        font-size: 75%;
+        padding: initial;
+    }
+}
+
+article.post sup {
+    font-size: 75%;
+}
+
+/* ---------- Time factors page ---------- */
+
+.time-factors h2 {
+    clear: both;
+}
+.time-factors iframe {
+    width: 100%;
+    height: 40vh;
+}
+.time-factors .scruffy {
+    width: 45%;
+    margin: 0.5em 1em;
+}
+.time-factors .reading-stats {
+    width: 18em;
+    float: right;
+    line-height: 87%;
+    padding: 1em;
+    border-radius: 0.5em;
+    border: 1px solid silver;
+    margin-left: 2em;
+}
+.time-factors .reading-stats span.thing {
+    display: inline-block;
+    width: 43%;
+}
+.time-factors .three-col {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+}
+.time-factors .fuse {
+    float: right;
+    width: 25%;
+    margin-left: 3em;
+}
