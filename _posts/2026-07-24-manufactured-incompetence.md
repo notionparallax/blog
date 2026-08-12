@@ -70,9 +70,39 @@ The more precise version of automation as delegation, then, is not that agents f
 
 [^delegation]: I made a version of this argument in 2015, before there was an agent to test it against: delegating to a person and delegating to a computer are the same operation underneath, a function call indifferent to what sits on the other end, and there is a moving "frontier of automation" past which a task, once specified well enough, stops needing a human at all (["Delegation == Programming"](https://notionparallax.co.uk/2015/delegation-programming), 2015). I had the mechanism right and the case wrong. I filed computers as precise and fault-intolerant and people as fault-tolerant but imprecise, needing negotiation before delegation would work; an agent is fault-tolerant and interpretive, which puts it on the person side of that line, and is why working with one now gets described in the vocabulary of management, feedback, evaluated output, a brief you'd hand a new hire, rather than the vocabulary of a script (Mollick, 2026, "management as AI superpower"). The frontier moved as expected. What crossed it did not stay code-shaped.
 
-The hope carries a condition, and the essay has already named it once, a few sentences up. Delegation only frees the delegator's attention if it is trusted enough to be left alone; oversight that still has to check everything is not delegation, it is what one recent account of AI in management calls "directed outsourcing with retained accountability," execution handed off, judgement and liability kept.[^retained] If that is the more accurate description of how agents are actually being used, then pushing decisions down does not shrink anyone's load at any layer of the band just described, it widens the span of it: more decisions get made below you, and you are still on the hook to check more of them, only faster and less visibly. That is not freed attention, it is the same attention smeared across a wider front, Leroy's residue problem again, relocated a floor up rather than resolved. Automation-as-delegation and manufactured incompetence are both live outcomes of the same technology, and which one an organisation gets depends on whether it can extend to an agent the kind of unaudited trust it has historically struggled to extend to a junior colleague, for the same audience-shaped reasons already described. More of the day either way moves into what the next section calls manager-mode, evaluating and passing on rather than shaping. Whether that leaves the higher-order work, the judgement itself, any better resourced, or simply moves the same shortage up a floor, is the question the rest of this essay is really asking.
+The hope carries a condition, and the essay has already named it once, a few sentences up. Delegation only frees the delegator's attention if it is trusted enough to be left alone; oversight that still has to check everything is not delegation, it is what one recent account of AI in management calls "directed outsourcing with retained accountability," execution handed off, judgement and liability kept.[^retained] If that is the more accurate description of how agents are actually being used, then pushing decisions down does not shrink anyone's load at any layer of the band just described, it widens the span of it: more decisions get made below you, and you are still on the hook to check more of them, only faster and less visibly. That is not freed attention, it is the same attention smeared across a wider front, Leroy's residue problem again, relocated a floor up rather than resolved. Automation-as-delegation and manufactured incompetence are both live outcomes of the same technology, and which one an organisation gets depends on whether it can extend to an agent the kind of unaudited trust it has historically struggled to extend to a junior colleague, for the same audience-shaped reasons already described. More of the day either way moves into what the next section calls manager-mode, evaluating and passing on rather than shaping. Whether that leaves the higher-order work, the judgement itself, any better resourced, or simply moves the same shortage up a floor, is the question the rest of this essay is really asking. Two things would have to be true for the hopeful version to win, and they are the subject of the next two sections: a way to tell which decisions are worth the trip to the top, and a way of getting the top enough information to tell.
 
 [^retained]: The phrase and the diagnosis come from recent commentary on AI delegation in management practice: organisations mostly are not delegating to agents in the full sense yet, because judgement, quality assurance and accountability tend to stay with the human even as execution moves across. The distinction matters here because it is the same fork this essay has been describing throughout, whether attention gets protected and reserved, or merely spent faster and less visibly.
+
+## Which decisions are yours
+
+Automation as delegation, in its most hopeful reading, frees attention rather than merely relocating it. But freed attention is not self-directing. Handed back an hour, the reflex this essay has been describing does not ask what the hour is for; it looks for something to fill it with, and busyness is very good at supplying candidates. What is missing is not more free time but a way of sorting the decisions that land on a freed desk into the ones that are actually the freed person's to sit with and the ones that were never worth the trip up the hierarchy in the first place.
+
+Jeff Bezos gave the clearest public version of that sort in his 2015 letter to Amazon's shareholders. Some decisions are consequential and hard, or impossible, to reverse, one-way doors: walk through, dislike the view, and there is no walking back. Most decisions are not like that; they are two-way doors, correctable at modest cost, and the right move on a two-way door is to make it quickly, on incomplete information, because the delay costs more than an occasional wrong guess.[^bezos] His complaint was that organisations drift, as they grow, into using the one-way-door process, slow, consultative, covering every base, on decisions that are actually two-way doors, which is a tidy technical name for exactly the busyness this essay has been describing: heavyweight seriousness spent on a decision that did not need it, at the cost of the attention the genuine one-way doors were owed.
+
+[^bezos]: Bezos, J. (2015, April 6). _2015 letter to shareholders_. Amazon.com. He labels these Type 1 (one-way door) and Type 2 (two-way door) decisions, and argues that large organisations default to applying Type 1 process to Type 2 decisions, producing "slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention." That sentence could be dropped into this essay's section on busyness without changing a word.
+
+I first heard a version of the same sort from Patrick Collison, in an interview where I understood the interviewer to be relaying a distinction they'd read rather than coining it themselves, which suggests the idea has been arrived at independently more than once, always by people who spend their day fielding more decisions than they have judgement to spare for. Collison's version adds a second axis to Bezos's one: not just how reversible a decision is, but how much it matters if you get it wrong. A decision that is both hard to reverse and high-stakes deserves real deliberation. One that is either easily undone or simply doesn't matter much should be made fast, on a guess, precisely so the saved attention can go toward finding out sooner whether the guess was right.[^collison] Put the two frameworks together and the test a freed hour needs is not "is this decision annoying" but "which door is this, and how much does it matter if I choose wrong," a question that can be taught, unlike taste, and asked in seconds, unlike a strategy review.
+
+[^collison]: I can't pin the exact interview; searching afterwards, the clearest citable version is Patrick Collison's own solo appearances on _The Tim Ferriss Show_ (2018) and Farnam Street's _Knowledge Project_ (2018), where he describes sorting decisions by reversibility and magnitude rather than treating them uniformly. Whether the interviewer who introduced me to the idea was quoting Collison, quoting Bezos, or reporting a piece of business-podcast folklore both are downstream of, I don't know, and it doesn't much matter here: the two framings are close enough kin for the essay to use as one idea with two named sources.
+
+Applied back to the opening scenario, the senior person skimming a difficult idea and asking for it to be made shorter is running a one-way-door problem through two-way-door process: the idea, if it is genuinely load-bearing, is exactly the kind of thing that is expensive to get wrong and hard to undo once acted on or dismissed, and it is being decided at the speed appropriate to choosing which call to skip. Manufactured incompetence and Bezos's organisational drift turn out to be the same failure seen from opposite ends. His firms over-invest process in decisions that never needed it; my senior reader under-invests attention in the one decision that did. Both come from the same missing skill, not knowing which door you are standing in front of, and both are what happens when the sorting is never taught, never made explicit, and left instead to whatever a depleted attention defaults to, which is to treat everything as a two-way door because that is the only kind there is time left to open.
+
+## Getting the information to the decision
+
+Knowing which door a decision is does no good if the decision never reaches you in a state you can judge. Hierarchies are, among other things, filtering devices: information about what is actually happening is generated at the bottom, closest to the problem, and by the time it has been summarised, cleared and carried up far enough to reach someone with the authority to act on it, most of what would have let them tell a one-way door from a two-way one has been filtered out along the way. This essay opened with a specialist's job of packaging a complex idea for someone with no time to spare; that packaging is not a failure of the system, it is a feature of it, and the same feature is what strands the freed, well-triaged attention of the previous section with nothing accurate to apply itself to.
+
+General Stanley McChrystal ran into the sharpest version of this problem commanding the Joint Special Operations Task Force in Iraq from 2003. Al-Qaeda in Iraq operated as a fast, decentralised network; the task force, however good its people, was organised as a set of stovepiped specialist units, each holding a piece of the picture and none holding the whole of it, so decisions kept climbing to the top not because they were genuinely one-way doors but because nobody lower down had enough of the picture to tell. His account of the fix, written up with Tantum Collins, David Silverman and Chris Fussell as _Team of Teams_, was to stop routing information up a chain of command and back down as orders, and instead push it sideways too, so that every part of the organisation had something closer to the same view of the whole as the people at the top, a condition they called shared consciousness.[^teamofteams] The point was not to remove hierarchy or flatten authority for its own sake; it was that decisions could only be pushed down to the people fast enough and close enough to make them well once those people had stopped being the last to know.
+
+[^teamofteams]: McChrystal, S., Collins, T., Silverman, D., & Fussell, C. (2015). _Team of teams: New rules of engagement for a complex world_. Portfolio/Penguin. Shared consciousness is their term for the state McChrystal's task force reached once information stopped being hoarded at each node and was instead made radically visible across the organisation, on the argument that this, not any change to who formally had authority to decide, is what let decisions move to wherever they could be made fastest and best.
+
+The structure that did the actual work of manufacturing that shared consciousness, rather than merely wishing for it, was the fusion cell: a standing arrangement that sits people from otherwise separate units, intelligence, operations, whichever specialisms the problem touches, in the same room with the same feed of information, so that what one part of the organisation learns is available to the rest of it as it happens rather than at the next scheduled report. It is Fussell's own master's thesis, written at the Naval Postgraduate School with Trevor Hough and Matthew Pedersen, that did the empirical work of asking what made these cells effective rather than merely present, and the answer was not the org chart but the practice: co-location, a shared information feed, and enough delegated trust that someone in the cell could act on what they were seeing instead of relaying it upward and waiting.[^fussell] The popularised version in _Team of Teams_ is the argument; the thesis is the evidence that the argument survives contact with an actual organisation rather than staying a slogan about transparency.
+
+[^fussell]: Fussell, C. L., Hough, T. W., & Pedersen, M. D. (2009). _What makes fusion cells effective?_ [Master's thesis, Naval Postgraduate School]. That the fusion cell concept, later popularised through _Team of Teams_, was first worked out as Fussell's own thesis research, grounded in his prior JSOC experience rather than arrived at from theory first, is worth keeping in view: this is a case where the practice came before the write-up, and the write-up is more careful about mechanism than the business-book version that followed it.
+
+None of this is a claim that a firm or a design practice should adopt military structure; it is a claim that the specific failure McChrystal was solving, decisions escalating past the people equipped to make them because information never reached the people equipped to make them, is the organisational form of manufactured incompetence, not a metaphor for it. It is also, looked at from the other side, the missing piece in the more troubling account of automation-as-delegation from earlier: "directed outsourcing with retained accountability" is exactly what you get when decisions are pushed down without the information being pushed sideways, execution moves, judgement stays put, because whoever is meant to exercise it lower down was never given enough of the picture to be trusted with it, and the person at the top keeps checking because checking is the only form of confidence the arrangement has left them. Genuine delegation, of the kind that actually frees attention rather than smearing it across a wider front, needs the same fix McChrystal needed: the people making the fast, two-way-door calls need to be looking at something close to the same information the person above them would have used, or the trust that would let those calls stand unchecked never arrives.
+
+Two conditions, then, not one. A person needs the skill to sort what lands on their desk by which door it is behind. An organisation needs to have already solved the older, less glamorous problem of getting accurate information to wherever that sorting is happening, rather than hoarding it at the level that used to have the most spare time to read it. Together, and only together, they are what would let the freed hour from automation as delegation land on the right desk, already carrying enough to be judged, instead of arriving stripped of everything that would have told its recipient which kind of decision it was. What that hour is actually for, once it does land well, is the question the next two sections take up.
 
 ## The maker who forgot they were a maker
 
@@ -198,6 +228,8 @@ Baird, B., Smallwood, J., Mrazek, M. D., Kam, J. W. Y., Franklin, M. S., & Schoo
 
 Beaty, R. E., Benedek, M., Wilkins, R. W., Jauk, E., Fink, A., Silvia, P. J., Hodges, D. A., Koschutnig, K., & Neubauer, A. C. (2014). Creativity and the default network: A functional connectivity analysis of the creative brain at rest. _Neuropsychologia, 64_, 92–98. [https://doi.org/10.1016/j.neuropsychologia.2014.09.019](https://doi.org/10.1016/j.neuropsychologia.2014.09.019 "https://doi.org/10.1016/j.neuropsychologia.2014.09.019")
 
+Bezos, J. (2015, April 6). _2015 letter to shareholders_. Amazon.com. [https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF)
+
 Bellezza, S., Paharia, N., & Keinan, A. (2017). Conspicuous consumption of time: When busyness and lack of leisure time become a status symbol. _Journal of Consumer Research, 44_(1), 118–138. [![favicon](https://oup.silverchair-cdn.com/UI/app/img/v-639181367120243529/favicon-16x16.png)Conspicuous Consumption of Time: When Busyness and Lack of Leisure Time Become a Status Symbol](https://doi.org/10.1093/jcr/ucw076)
 
 Bloom, N., Brynjolfsson, E., Foster, L., Jarmin, R., Patnaik, M., Saporta-Eksten, I., & Van Reenen, J. (2019). What drives differences in management practices? _American Economic Review, 109_(5), 1648–1683. [![favicon](https://www.aeaweb.org/favicon.ico)What Drives Differences in Management Practices?](https://doi.org/10.1257/aer.20170491)
@@ -208,15 +240,21 @@ Bloom, N., & Van Reenen, J. (2010). Why do management practices differ across fi
 
 Chartered Management Institute. (2023). _Taking responsibility: Why UK plc needs better managers_. Chartered Management Institute.
 
+Collison, P. (2018, December 24). _The Tim Ferriss Show_ (No. 353) [Audio podcast episode]. Tim Ferriss. [https://tim.blog/2018/12/24/the-tim-ferriss-show-patrick-collison/](https://tim.blog/2018/12/24/the-tim-ferriss-show-patrick-collison/)
+
 Cyert, R. M., & March, J. G. (1963). _A behavioral theory of the firm_. Prentice-Hall.
 
 DeMarco, T. (2001). _Slack: Getting past burnout, busywork, and the myth of total efficiency_. Broadway Books.
+
+Fussell, C. L., Hough, T. W., & Pedersen, M. D. (2009). _What makes fusion cells effective?_ [Master's thesis, Naval Postgraduate School]. Calhoun: NPS Institutional Archive. [https://calhoun.nps.edu/handle/10945/4438](https://calhoun.nps.edu/handle/10945/4438)
 
 Graham, P. (2009, July). _Maker's schedule, manager's schedule_. [![favicon](http://ycombinator.com/arc/arc.png)Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
 Leibenstein, H. (1966). Allocative efficiency vs. "X-efficiency." _The American Economic Review, 56_(3), 392–415.
 
 Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. _Organizational Behavior and Human Decision Processes, 109_(2), 168–181. [https://doi.org/10.1016/j.obhdp.2009.04.002](https://doi.org/10.1016/j.obhdp.2009.04.002 "https://doi.org/10.1016/j.obhdp.2009.04.002")
+
+McChrystal, S., Collins, T., Silverman, D., & Fussell, C. (2015). _Team of teams: New rules of engagement for a complex world_. Portfolio/Penguin.
 
 Newport, C. (2024). _Slow productivity: The lost art of accomplishment without burnout_. Portfolio/Penguin.
 
@@ -239,3 +277,212 @@ Veblen, T. (1899). _The theory of the leisure class: An economic study of instit
 Wallas, G. (1926). _The art of thought_. Jonathan Cape.
 
 Weber, M. (2001). _The Protestant ethic and the spirit of capitalism_ (T. Parsons, Trans.). Routledge. (Original work published 1905)
+
+## Appendix: imagined critiques
+
+_A panel of readers, each responding to a specific claim above rather than the essay in general. Sorted alphabetically by surname._
+
+### Hannah Arendt
+
+You are running two different things together under the word "judgement," and the conflation is costing you. There is _work_ — fabrication, the maker shaping a durable thing, which is what your Graham section and your maker-mode/manager-mode distinction actually describe. And there is _action_ — plural, unpredictable, exercised among others, disclosed in speech, which is what a senior person exercising judgement on a contested idea is actually doing. You treat both as versions of the same attention-starved production problem, solvable by the same fix (protect the hours, sort the inputs). But action doesn't fabricate an output the way work does, and Bezos's door-sorting, however useful for two-way operational calls, is a fabrication-logic tool. Applied to genuine deliberation among peers over a hard idea, it risks producing exactly the "shorter, please" reflex you're diagnosing — efficient handling of what should have been left open.
+
+Your closing hope — that AI-freed hours go to "actual judgement" — still describes _vita activa_ reabsorbing _vita contemplativa_ into productivity. Contemplation, for Aristotle as much as for me, is not supposed to produce a decision faster. If the freed hour is only justified because it yields better output, you haven't recovered scholē, you've optimized total work more cleverly. That is the total-work logic Pieper is trying to name, and your own resolution may be quietly inside it.
+
+### Peter Drucker
+
+You've rediscovered _The Effective Executive_ and not cited it, which surprises me more than anything else in the piece — time as the one truly scarce, non-substitutable resource; the need to consolidate discretionary time into large blocks rather than let it be shredded; the discipline of knowing where your time actually goes rather than where you think it goes. Your "which decisions are yours" section is good but incomplete without the companion discipline: not just sorting by reversibility and stakes, but asking "what, of everything on my desk, only I can do" — delegation isn't just trust in the delegate, it's rigor in the delegator about what cannot be delegated at all.
+
+Where this essay is diagnosis-rich and prescription-poor is exactly where I'd press it. Naming manufactured incompetence is useful; it does not yet tell a reader what to do Monday morning. Effectiveness is a discipline, practiced, not a condition restored by having more free hours appear. Give AI back the hours it frees and nothing changes unless the executive has already built the habit of time-logging and boundary-setting beforehand — otherwise the freed time is simply recolonized by the next urgent thing, which your own essay half-admits in the closing line about "new hours to fill." I'd want a closing move from diagnosis to habit.
+
+### Benedict Evans
+
+The interesting question isn't "will AI free attention" — it's "does freed capacity ever actually get spent on the thing it was freed for, or does something else expand to fill it." History's answer for almost every productivity tool is the latter: PCs and email were supposed to free management time and instead generated more meetings, more CC lists, more expected responsiveness. Your own closing line half-concedes this ("we may only have found new hours to fill") but then the essay still frames AI as offering "the first chance at ethical scholē," which is a much bigger claim than the evidence in the piece supports. I'd want that softened or tested against the base rate: every prior wave of automation freed some layer's time and the org absorbed it into more oversight, more coordination, more reporting — this is just Jevons' paradox applied to management attention.
+
+"Directed outsourcing with retained accountability" is the realistic default, not the disappointing exception — that's what happens whenever a new capability arrives faster than the trust and legal/liability structures needed to actually delegate to it. I'd anchor the piece less in what AI _could_ free up in principle and more in what specifically has to change in accountability structures before any of this delegation becomes real, because right now the essay's hope rests entirely on an "if" it never resolves.
+
+### Silvia Federici
+
+Footnote 12 is the most honest moment in the essay and the most quickly abandoned. You concede Athenian scholē rested on enslaved and uncounted women's labour, then move straight to "we may be about to buy ours with machines" — as if the accounting problem were a historical curiosity rather than the live question. Whose labour is running the rest of a contemporary senior person's life so that they can have protected attention? An assistant's calendar triage, a spouse's uncounted household and emotional management, a nanny, a cleaner — these are today's version of the domestic labour Athens didn't count either. Protected attention has never been free; it has always been subsidized by someone whose time doesn't appear in anyone's ledger. Your essay's economics section (Bloom, DeMarco, Leibenstein) counts firm-level slack and productivity variance but never asks whose unpaid hours make a firm's visible slack possible at all.
+
+The same blind spot follows your AI move. You raise the moral-status question of the AI itself in the bio footnote, admirably, but skip the question I'd ask first: whose labour built and maintains the thing — the data annotators, the content moderators, the people mining the inputs, the water and power drawn from wherever the datacenter sits. "Ethical scholē" is not available to declare in advance of that inventory. The free lunch always has a kitchen; find out who's in it before calling the meal ethical.
+
+### David Graeber
+
+Handsome essay, wrong villain. You treat busyness as an emergent tragedy — nobody's fault, a reflex left over from Calvin, a coordination failure everyone would fix if they could see it clearly. I'd ask: whose interest does it serve that senior judgement stays scarce and performative? _Bullshit Jobs_ argues managerial feudalism runs on loyalty rituals, not output — the full calendar is tribute, not accident. Your "accidental managers" are, in my terms, doing a job that exists to demonstrate fealty up the chain, and the CMI stat about 46% believing promotions go on relationships rather than ability supports that reading better than the training-gap reading you gave it.
+
+The scholē section is the most honest thing here — crediting that Athenian leisure was slave-built is the right move, but then the essay pivots straight to "AI frees us the same way, ethically this time," which is exactly the Keynes 1930-fifteen-hour-week mistake: productivity gains get captured by whoever owns the surplus, not distributed as leisure to whoever generated it, unless power relations change. Nothing in this essay's fixes (sort decisions better, route information better) touches ownership or power. They're managerial-technocratic fixes to what I'd call a political problem. Worth at least naming that the "hopeful" ending requires a distributional fight the essay doesn't stage.
+
+### Melissa Gregg
+
+I'd place your essay inside the genre it's trying to diagnose. Time-management literature has been telling this exact story since the 1950s: a new technology or technique (the day planner, the Filofax, GTD, now AI) promises to finally free the knowledge worker's attention, the failure to realize that promise gets individualized as a skill the worker lacks — sorting decisions well, in your version — and the structural conditions producing the overload go unexamined for another cycle. Your "two conditions" (sorting skill, information flow) are elegant, but they are still a personal-and-organizational-competence fix to what your own cost section (Bloom & Van Reenen, DeMarco) frames as a structural, firm-level problem. Those two registers don't fully meet.
+
+I'd also ask why the fix stops at skill and information rather than headcount, workload, or the fee structures you flag honestly in the architecture aside. That aside is the most materially concrete thing in the piece — a fixed fee that taxes quiet hours directly — and it points toward a structural rather than a dispositional cause. Time-management writing has a long history of stopping one step short of that admission, because the skill-gap story is more sellable and less threatening to who holds power over workload than the fee-structure or staffing story is. I'd want the essay to take its own best example more seriously than its own resolution does.
+
+### Dan Hill
+
+I like this a lot more at the systems-design level than the essay currently operates. McChrystal's fusion cells are the right instinct — co-location, shared feed, delegated authority — but that's an org-design and _spatial_ intervention, and the essay treats it as a data point rather than a template to build from. Same with the architecture fixed-fee aside near the end — that's not a footnote, that's the whole argument in miniature: procurement models silently determine whether thinking time can exist at all, and you've buried your best, most concrete, most "dark matter" example under the leisure discussion instead of leading with it.
+
+My pushback: this essay diagnoses beautifully and then hopes. Where's the redesigned artifact — the calendar, the fee structure, the org chart, the room layout — that would actually produce protected attention rather than just naming the absence of it? "Two conditions, then, not one" (sorting skill + information flow) is a lovely, clean synthesis, but it's still a _description_ of what a good system would have, not a design for one. I'd want a third move: given AI's changing what's cheap to build, what's the actual redesigned operating model — governance, incentives, physical or digital space — that makes manufactured incompetence structurally impossible rather than personally avoidable. Diagnosis without a proposed artifact is half a strategic design brief.
+
+### Arlie Hochschild
+
+You state that busyness "is imposed externally... not vanity" and treat performance as the smaller part. My fieldwork for _The Time Bind_ found something messier: offered real options to work less, many professionals didn't take them, because the office had become a refuge from a second shift at home that was, if anything, more demanding and less rewarded. People co-produce the time bind with their employers; it is not simply done to them. I'd want to know which of your senior people, given a genuinely free week, would actually spend it on the hard idea rather than filling it with something else that felt more urgent — your own closing line half-suspects the answer, but the body of the essay is written as though the imposition were purely one-directional.
+
+There's a second gap: I'd bring _The Managed Heart_ to your "accidental managers." A person stranded between competences, doing a job they were never taught, has an emotional-labour problem, not only an attention problem — visible busyness is often a performance calibrated to manage the anxiety of being unqualified for the role you're now in, a compensatory display rather than a pure by-product of an overfull calendar. If that's even partly right, better information routing and better decision-sorting (your S1, S2) won't touch it, because the busyness was never only instrumental. It was also armour.
+
+### Ursula K. Le Guin
+
+You'll like that I clock the "heroic gesture" line about architecture's napkin-sketch myth near the end — that's my territory. In _The Carrier Bag Theory of Fiction_ I argued Western narrative is spear-shaped: a hero, a conquest, a line driven at a target. Your fixes — sort the decision, route the information, act — are spear-shaped too, even when the target is "protect attention." A carrier-bag organization wouldn't sort and dispatch decisions faster; it would hold them, unresolved, the way a gatherer holds a mixed handful without forcing it into a category yet. Your essay wants the second thing but keeps reaching for tools built for the first.
+
+I'd also push on the hierarchy itself, not just what's done to attention within it. In _The Dispossessed_ the Odonians rotate the ugly, tedious jobs precisely so no one is stranded doing only the thing they were promoted into and nothing else — your "accidental managers," stranded between competences, are a symptom of a single ladder, and no amount of better sorting fixes a ladder. You know this — the essay gestures at it and backs away. I'd want you to follow the gesture instead of correcting course toward the technocratic fix. The problem may not be that busyness prevents judgement; it may be that hierarchy manufactures both the busyness and the shape of the judgement it eventually allows.
+
+### Iris Murdoch
+
+Your opening scenario deserves a sharper diagnosis than depletion alone gives it. In _The Sovereignty of Good_ I described moral attention as "a just and loving gaze directed upon an individual reality" — the discipline of seeing a particular thing clearly instead of through the fog of a self-serving fantasy. Your senior reader who skims and pronounces the idea muddled may not only have run out of attention; they may be actively protected from looking closely by an ego that has a lot riding on staying decisive and in-demand. A genuinely difficult idea threatens that self-image in a way a familiar one doesn't, and "make it shorter" is often not exhaustion talking but vanity — a small, comfortable evasion of the harder, more humbling act of really looking.
+
+That reframes manufactured incompetence as partly a virtue problem, not only an infrastructure problem. Bezos's door-sorting and McChrystal's information-routing both optimize _where_ attention goes; neither touches its _quality_ once it arrives. I'd want a section on what actually cultivates the capacity for that loving, accurate gaze — habituation, practice, a kind of unselfing — sitting alongside your structural fixes, because a well-routed decision handed to an ego still defending itself will get the same shortening reflex, just faster and with better information behind it. Weil gives you attention as grace; I'd give you attention as a moral skill you can fail at even when perfectly rested.
+
+### Jenny Odell
+
+_How to Do Nothing_ resists exactly the move your essay makes at the end. Your own Pieper paragraph concedes that contemplation isn't for "getting through a strategy paper faster" — and then the resolution immediately reneges on that concession, proposing that freed capacity should go to "actual judgement," which is still attention justified by its yield. I'd ask what it would mean to defend attention without that alibi: not because protecting it produces better decisions or a fifth of a firm's productivity variance, but because a person is owed some hours that answer to nothing and convert into no deliverable. Your economics section (Simon, Leroy, X-inefficiency) is honest about treating attention as a resource to allocate efficiently — but that framing is the attention economy's own vocabulary, just applied more sympathetically. It still prices attention by what it's worth to a firm.
+
+Footnote 12 admits Athenian scholē was subsidized by unfree labour; I'd push further than admission toward refusal — don't let AI's freed hours inherit the same debt by immediately putting them back to work "on the thing the making was always meant to serve." Some of them should serve nothing. That's the whole point of leisure Aristotle actually meant, before you talk yourself out of it in the very next clause.
+
+### Elinor Ostrom
+
+Both your fixes — Bezos's door-sorting, McChrystal's fusion cells — optimize _inside_ a hierarchy without asking whether the hierarchy is the actual design flaw. _Governing the Commons_ documents groups that manage shared, contested resources without a top imposing rules on a bottom at all: locally devised rules, monitoring by the people actually there rather than an external authority, graduated sanctions, and — critically — the right to modify the rules themselves rather than have a taxonomy (one-way door, two-way door) handed down from above and applied uniformly. Your S1 assumes decisions get sorted by a scheme designed at the top and pushed outward; my design principles assume the people closest to a decision devise their own sorting, because they hold the local knowledge that never survives the trip upward anyway — which is precisely the filtering problem your own McChrystal section names.
+
+So "automation as delegation" as you've written it still means: decisions move down, but the authority to define what counts as a two-way door stays up. I'd ask whether AI actually enables something closer to self-governing units at the edge that no longer need to ask permission at all — not faster delegation within the existing ladder, but fewer rungs on the ladder mattering. That's a structurally different bet than the one your essay makes, and historically it's the one that produces the resilience gains, not the throughput gains.
+
+### Venkatesh Rao
+
+This is Gervais Principle territory and doesn't quite know it. The Clueless middle manager already _is_ your accidental manager — I'd want the essay to engage the power structure, not just the psychology. "Manufactured incompetence" reads as something that happens _to_ senior people, but who benefits from it? Busyness-as-legibility-theater is a control mechanism: the Sociopaths at the top don't need to protect their own attention because they've offloaded judgement onto process and the Losers/Clueless absorb the cost of appearing occupied. The essay's framing keeps this accidental and structural-but-blameless; I'd push it toward "cui bono." Also — the AI-as-delegation section is basically asking whether AI increases or decreases _legibility_, and that's the more interesting question than attention per se. An organization doesn't fear illegible judgement because it's slow, it fears it because it's unauditable. "Directed outsourcing with retained accountability" isn't a failure to trust the agent — it's the hyperlegibility reflex working exactly as designed, protecting the org from blame, not optimizing anyone's day. I'd retitle the resolution section around legibility vs. judgement rather than attention vs. busyness — attention is the resource, legibility is why it gets spent this way.
+
+### Scott Alexander (Siskind)
+
+Structurally this is very ACX-compatible — hedged claims, footnoted uncertainty, an honest "this step is mine and I hold it loosely" (n.19), a caveat that incubation effects are "genuine but small" rather than oversold. Good epistemic hygiene, genuinely. My question is falsifiability: how would we distinguish "senior person's judgement is being suppressed by busyness" from "senior person's judgement was never that good, and busyness is just the excuse," or from reverse causation — people who thrive on visible-activity signalling self-select into and get promoted within roles that reward it, so the depletion isn't imposed on ability, it's what the selection process was optimizing for all along? That's uncomfortably close to the Peter Principle you're at pains to distinguish, and I don't think the contrast fully survives contact with selection effects.
+
+I'd want a testable prediction: give a matched sample of senior reviewers either a protected unhurried block or a normal fragmented day, and see if idea-acceptance/critique-quality differs in a predictable direction. If it doesn't, the "condition not fault" framing weakens considerably. Otherwise this risks being an appealing-because-flattering-to-the-competent story (nice things happen to smart depleted people, not incompetent ones) rather than a falsifiable mechanism. Still, genuinely enjoyable, well-sourced essay — I'd read the full version.
+
+### Simone Weil
+
+Your Pieper paragraph is the one place you admit not understanding your own point, and I think I can tell you why: you and Pieper are describing "receptive openness," but the essay keeps translating attention into an economic register — Simon's scarce resource, an input to allocate — and receptive openness cannot survive that translation. Attention, properly understood, is not effort applied harder or longer. It is a suspension of the self, a waiting, empty of the will that wants a result. "Attention is the rarest and purest form of generosity." The busyness regime doesn't just use up a finite quantity of this thing — it trains people out of the capacity to attend at all, the way unused muscle atrophies, which is a different and worse injury than mere depletion. A freed hour handed to someone who has lost the discipline of waiting will not become judgement. It will become anxiety looking for something to fill it, which is precisely the failure mode your own final section predicts and then doesn't quite explain.
+
+This is also why your economic framing of attention (Simon, X-inefficiency, slack) sits oddly against your spiritual framing (scholē, acedia). They are not the same claim wearing different vocabulary, as you did with Cyert and Leibenstein. One treats attention as budget; the other treats it as a faculty that must be practiced to still exist. I would keep the second and be suspicious of how far the first can carry your argument.
+
+### Shoshana Zuboff
+
+My early fieldwork on office automation found two possible outcomes from the same technology, "informating" or automating away judgement, and which one an organization got was determined by managerial intent, not by anything inherent in the machine. Your "automation as delegation" is the informating case, argued in hope; "directed outsourcing with retained accountability" is the automating-out-judgement case, argued as the disappointing default. I'd push you to treat the second not as a regrettable stopgap on the way to the first, but as the likely profit-maximizing design point for whoever builds and sells the agent. A platform that lets a manager retain full accountability while checking less carefully is a more valuable product to that manager's employer than one that requires real, unaudited trust — it produces the appearance of oversight at lower cost, which is precisely what a market for managerial tools will select for.
+
+My later work on surveillance capitalism gives a sharper version of your McChrystal material too: shared information doesn't only enable faster judgement lower down, it also enables finer-grained extraction and monitoring of whoever is now visible in that shared feed. Fusion cells and "directed outsourcing" may be the same infrastructure serving two incompatible purposes depending on who controls it. Before calling AI a chance at ethical scholē, I'd want to know who owns the feed, because that answer, historically, has told me more than the technology's stated intent ever has.
+
+---
+
+## Argument map
+
+```mermaid
+flowchart TD
+    classDef core     fill:#1e40af,color:#fff,stroke:#1e3a8a,stroke-width:2px
+    classDef claim    fill:#6d28d9,color:#fff,stroke:#5b21b6,stroke-width:2px
+    classDef fix      fill:#065f46,color:#fff,stroke:#064e3b,stroke-width:2px
+    classDef sq       fill:#6b7280,color:#fff,stroke:#4b5563,stroke-width:1px,font-size:12px
+    classDef contrast fill:#92400e,color:#fff,stroke:#78350f,stroke-width:1px,font-size:12px
+
+    %% ── CORE SPINE ──────────────────────────────────
+    P1["Complex problems genuinely require\ndeep, sustained attention to engage well"]:::core
+    P2["Senior roles exist to exercise\nthis kind of judgement"]:::core
+    P3["The busyness regime consumes\nall attention available for judgement"]:::core
+    IC["Senior people cannot engage\nwith complex ideas presented to them"]:::claim
+    MC["They misattribute this to idea quality,\nnot their own depleted condition\n═══════════════════════\nManufactured Incompetence"]:::claim
+    S1["Fix requires: skill to sort\nwhich decisions need deep attention"]:::fix
+    S2["Fix requires: accurate information\nreaching whoever is sorting"]:::fix
+    RES["AI offers the first chance at ethical scholē\n— freed capacity could go to actual judgement —\nbut only if we defend attention\nrather than fill the new hours"]:::fix
+
+    P1 & P2 & P3 --> IC --> MC --> S1 & S2 --> RES
+
+    %% ── WHY BUSYNESS HAS MORAL WEIGHT (→ P3) ───────
+    subgraph SG_BUSY ["Why busyness has moral weight"]
+        direction TB
+        SQ_CM["'Accidental managers'\n82% receive no management training\n(CMI 2023)"]:::sq
+        SQ_WB["Weber: Calvinist doctrine gave\nvisible labour its moral charge;\nthe theology left, the reflex stayed"]:::sq
+        SQ_BZ["Bellezza et al.: busyness now\nsignals status (inverts Veblen's\nleisure class)"]:::sq
+        SQ_EX["External imposition: calendar filled\nby others; quiet = 'spare capacity'\nin others' eyes"]:::sq
+        SQ_NP["Newport: pseudo-productivity —\nvisible activity stands in for\nknowledge-work output"]:::sq
+        SQ_CM ~~~ SQ_WB ~~~ SQ_BZ ~~~ SQ_EX ~~~ SQ_NP
+    end
+    SG_BUSY --> P3
+
+    %% ── ATTENTION AS THE SCARCE RESOURCE (→ P3) ────
+    subgraph SG_ATT ["Attention as scarce resource"]
+        direction TB
+        SQ_SI["Simon (1971): wealth of information\ncreates a poverty of attention"]:::sq
+        SQ_AI["AI compresses production;\nremoves interstitial thinking time;\nattention becomes the bottleneck"]:::sq
+        SQ_LR["Leroy: attention residue —\nfragmented days compound the\ncost of every context switch"]:::sq
+        SQ_SI ~~~ SQ_AI ~~~ SQ_LR
+    end
+    SG_ATT --> P3
+
+    %% ── CONTRAST: DIFFERENT FAILURE MODE (→ MC) ────
+    SQ_PP["Peter Principle: different failure —\ngenuine inability, not prevented ability.\nFix is better promotion decisions.\nHere, better decisions wouldn't help."]:::contrast
+    SQ_PP -.->|"contrast"| MC
+
+    %% ── SORTING DECISIONS (→ S1) ────────────────────
+    subgraph SG_SORT ["Sorting decisions"]
+        direction TB
+        SQ_BE["Bezos: one-way vs two-way doors\n(reversibility × stakes)\nMost decisions are two-way;\ntreating them as one-way is the drift"]:::sq
+        SQ_CO["Collison: same sorting framework,\narrived at independently — suggests\nit's discovered by need, not theory"]:::sq
+        SQ_BE ~~~ SQ_CO
+    end
+    SG_SORT --> S1
+
+    %% ── INFORMATION FLOW (→ S2) ─────────────────────
+    subgraph SG_INFO ["Information flow"]
+        direction TB
+        SQ_MC["McChrystal: hierarchies filter info\nas it rises — JSOC couldn't act fast\nbecause nobody lower had the whole picture"]:::sq
+        SQ_FC["Fusion cells: co-location +\nshared information feed +\ndelegated authority to act"]:::sq
+        SQ_MC --> SQ_FC
+    end
+    SG_INFO --> S2
+
+    %% ── AUTOMATION AS DELEGATION (→ RES) ────────────
+    subgraph SG_DEL ["Automation as delegation"]
+        direction TB
+        SQ_DP["Delegation = Programming (2015):\na function call indifferent to what\nsits on the other end"]:::sq
+        SQ_AD["AI as delegation: pushes judgement\ndown the hierarchy, freeing\nsenior attention — in principle"]:::sq
+        SQ_DA["Condition: needs real trust.\n'Directed outsourcing with retained\naccountability' just smears\nthe same attention wider"]:::sq
+        SQ_DP --> SQ_AD --> SQ_DA
+    end
+    SG_DEL --> RES
+
+    %% ── WHAT PROTECTED ATTENTION LOOKS LIKE (→ RES) ─
+    subgraph SG_PROT ["What protected attention looks like"]
+        direction TB
+        SQ_GR["Graham: maker-mode needs\nunbroken stretches; a single\nmeeting splits the day in two"]:::sq
+        SQ_SC["Aristotle: scholē — freedom from\nnecessity is the precondition\nof judgement (negotium = nec-otium);\nnote: built on unfree labour"]:::sq
+        SQ_PI["Pieper: 'total work' corrodes\nthe very faculty that thought\ndepends on (acedia as hidden busyness)"]:::sq
+        SQ_WL["Wallas / Poincaré:\nincubation is a legitimate stage\nof work, not a lapse from it"]:::sq
+        SQ_LD["Maths & physics have a doctrine\nthat sanctions the sofa;\ndesign and architecture do not"]:::sq
+        SQ_GR ~~~ SQ_SC ~~~ SQ_PI ~~~ SQ_WL ~~~ SQ_LD
+    end
+    SG_PROT --> RES
+
+    %% ── WHY THE FAILURE IS COSTLY (→ MC) ────────────
+    subgraph SG_COST ["Why the failure is costly"]
+        direction TB
+        SQ_BV["Bloom & Van Reenen:\nmanagement quality explains 20%+\nof productivity variance across firms"]:::sq
+        SQ_LB["DeMarco / Leibenstein:\nslack is productive reserve, not waste;\nat full utilisation, responsiveness collapses"]:::sq
+        SQ_AF["Architecture's fixed fee:\nquiet hours cost margin directly —\nthe instrument meant to free thinking\nmay tax it most efficiently"]:::sq
+        SQ_BV ~~~ SQ_LB ~~~ SQ_AF
+    end
+    SG_COST --> MC
+```
+
+---
+
+## Reading the map
+
+**Core spine** (blue/purple → green): The argument runs in a straight chain — complex problems need attention; senior roles exist to provide it; busyness consumes it; therefore the judgement fails; the failure is misread as the idea's problem; fixing it requires two simultaneous conditions; AI offers a rare opening.
+
+**Side quests** (grey): Each supports a specific node on the spine but doesn't change the logical chain if removed. They answer *why* busyness has its grip (Weber, Bellezza, CMI), *why* attention is the real scarcity (Simon, Leroy), *how* you would actually implement the two fixes (Bezos, McChrystal), and *what* protecting attention looks like in practice (Graham, Aristotle, Wallas).
+
+**Contrast node** (brown, dashed): The Peter Principle is deliberately distinguished — it's a different diagnosis, included to sharpen rather than support the main claim.
