@@ -76,6 +76,7 @@ flowchart LR
     C -->|No| A
     D --> E[Action taken]
 ```
+{: .mermaid-lr}
 
 ### 1.3 Just culture & local rationality
 
@@ -99,6 +100,7 @@ flowchart LR
     F --> G[Make it visible — checklist, channel topic, template]
     G -.next session, new protocol.-> A
 ```
+{: .mermaid-lr}
 
 1. **Pick one micro-protocol.** Not five. "Mandatory read-back before any destructive action" is a protocol you can actually watch for and debrief. "Better communication" is not.
 2. **Choose a 15–20 minute game matched to it** — every card in Section 4 names its selected micro-protocol so you can pick by target rather than by which game happens to be in the cupboard.
@@ -571,7 +573,7 @@ Each card below follows the same shape: a facing page for a photo (blank for now
 | **Type**         | Mobile app (free) or physical card game (≈$15–20) |
 | **Cost / Setup** | Free–$20 depending on version                     |
 | **HF Target**    | Callout / speak-up protocol                       |
-| **Link**         | spaceteam.ca                                      |
+| **Link**         | <https://playspaceteam.com>                       |
 | **Played?**      | Not yet playtested†                               |
 
 † mechanics below are confirmed from the published rules/reviews; the protocol and debrief questions are a first guess, not a field-tested pick.
@@ -605,15 +607,15 @@ Each card below follows the same shape: a facing page for a photo (blank for now
 
 #### 11 — Decrypto
 
-|                  |                                      |
-|------------------|--------------------------------------|
-| **Players**      | 4–8 (2 teams)                        |
-| **Duration**     | 20–30 min                            |
-| **Type**         | Board Game                           |
-| **Cost / Setup** | ≈$25, no prep                        |
-| **HF Target**    | Shared mental models under ambiguity |
-| **Link**         | Search "Decrypto" board game         |
-| **Played?**      | Not yet playtested†                  |
+|                  |                                                                 |
+|------------------|-----------------------------------------------------------------|
+| **Players**      | 4–8 (2 teams)                                                   |
+| **Duration**     | 20–30 min                                                       |
+| **Type**         | Board Game                                                      |
+| **Cost / Setup** | ≈$25, no prep                                                   |
+| **HF Target**    | Shared mental models under ambiguity                            |
+| **Link**         | [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto) |
+| **Played?**      | Not yet playtested†                                             |
 
 † mechanics below are confirmed from the published rules/reviews; the protocol and debrief questions are a first guess, not a field-tested pick.
 
@@ -646,15 +648,15 @@ Each card below follows the same shape: a facing page for a photo (blank for now
 
 #### 12 — The Mind
 
-|                  |                                                  |
-|------------------|--------------------------------------------------|
-| **Players**      | 2–4                                              |
-| **Duration**     | ≈20 min                                          |
-| **Type**         | Card Game                                        |
-| **Cost / Setup** | ≈$15, no prep                                    |
-| **HF Target**    | Implicit shared mental models (the control case) |
-| **Link**         | Search "The Mind" card game                      |
-| **Played?**      | Not yet playtested†                              |
+|                  |                                                                 |
+|------------------|-----------------------------------------------------------------|
+| **Players**      | 2–4                                                             |
+| **Duration**     | ≈20 min                                                         |
+| **Type**         | Card Game                                                       |
+| **Cost / Setup** | ≈$15, no prep                                                   |
+| **HF Target**    | Implicit shared mental models (the control case)                |
+| **Link**         | [The Mind](https://boardgamegeek.com/boardgame/244992/the-mind) |
+| **Played?**      | Not yet playtested†                                             |
 
 † mechanics below are confirmed from the published rules/reviews; the protocol and debrief questions are a first guess, not a field-tested pick.
 
@@ -1208,6 +1210,44 @@ Define · Example · Breakdown · Root cause (local rationality, not outcome) ·
     padding: 1em 1.4em;
     margin: 1em 0;
 }
+pre{
+    float: left;
+}
+pre.mermaid.mermaid-lr {
+    width: 100%;
+}
+
+/* This post's content (facing-page spreads, dense card tables) doesn't
+   suit the site-wide print.css defaults, which were built for a normal
+   2-column essay layout. Override those defaults for this post specifically
+   when it's sent to a real printer via the browser's own print dialog --
+   as distinct from the "Preview as printable booklet" button above, which
+   renders through Paged.js against css/booklet.css and never sees this. */
+@media print {
+    @page {
+        size: A4;
+        margin: 15mm 12mm;
+    }
+    .post-content {
+        column-count: 1 !important;
+    }
+    .booklet-controls,
+    #booklet-output {
+        display: none !important;
+    }
+    .game-card {
+        break-inside: avoid-page;
+        page-break-inside: avoid;
+    }
+    .facing-page-image {
+        break-before: page;
+        page-break-before: always;
+    }
+    .footnotes {
+        font-size: 0.85em;
+        line-height: 1.5;
+    }
+}
 </style>
 
 <script>
@@ -1222,13 +1262,28 @@ Define · Example · Breakdown · Root cause (local rationality, not outcome) ·
         if (!btn) return;
         btn.addEventListener("click", function () {
             status.textContent = " rendering…";
-            var source = document.querySelector(".post-content").cloneNode(true);
+
+            // .post-content also contains this post's own <style>/<script>
+            // furniture (kramdown passes raw HTML straight through), so
+            // strip that out before handing content to Paged.js -- otherwise
+            // it tries to paginate its own controls and scripts, which is
+            // what was causing the "nextSibling of null" crash.
+            var temp = document.createElement("div");
+            temp.innerHTML = document.querySelector(".post-content").innerHTML;
+            temp.querySelectorAll(".booklet-controls, #booklet-output, style, script")
+                .forEach(function (el) {
+                    el.remove();
+                });
+
             var previewer = new Paged.Previewer();
             output.innerHTML = "";
             var bookletCss = "{{ '/css/booklet.css' | prepend: site.baseurl }}";
-            previewer.preview(source, [bookletCss], output).then(function (flow) {
+            previewer.preview(temp.innerHTML, [bookletCss], output).then(function (flow) {
                 status.textContent = " done — " + flow.total + " pages";
                 output.scrollIntoView({ behavior: "smooth" });
+            }).catch(function (err) {
+                status.textContent = " pagination failed — see console";
+                console.error("Paged.js pagination failed:", err);
             });
         });
     });

@@ -2,8 +2,8 @@
    Not linked into the normal page — fetched by Paged.js at pagination time. */
 
 @page {
-  size: A5;
-  margin: 14mm 12mm 16mm 12mm;
+  size: A4;
+  margin: 18mm 15mm 20mm 15mm;
 }
 @page :left {
   margin-right: 16mm;
@@ -58,4 +58,24 @@ table, figure, blockquote {
 .game-card {
   break-before: right;
   page-break-before: right;
+}
+
+/* main.css isn't passed to Paged.js, so without this the footnote list
+   renders at full default browser size -- fine on a wide screen, far too
+   large against an A4 page with 15mm margins. */
+.footnotes {
+  font-size: 8.5pt;
+  line-height: 1.4;
+  border-top: 1px solid #ccc;
+  padding-top: 0.5em;
+}
+.footnotes ol {
+  padding-left: 1.2em;
+}
+.footnotes li {
+  break-inside: avoid-page;
+  margin-bottom: 0.6em;
+}
+.reversefootnote {
+  display: none;
 }

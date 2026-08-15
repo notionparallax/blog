@@ -12,7 +12,10 @@
             }
 
             const container = document.createElement("pre");
-            container.className = "mermaid";
+            // Preserve any extra class added via a kramdown IAL (e.g.
+            // `{: .mermaid-lr}` after the fence), so per-diagram styling
+            // hooks survive this element being rebuilt from scratch.
+            container.className = ("mermaid " + pre.className).trim();
             container.textContent = codeBlock.textContent || "";
 
             pre.replaceWith(container);
