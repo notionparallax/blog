@@ -138,41 +138,11 @@ If firms routinely produce below their potential, then society gets less than it
 
 We (architects) do not, for the most part, bill clients by the hour. We agree a fee for a phase of work and live with the difference between that fee and what the work actually costs us; the timesheets we keep are internal. On paper this is outcome pricing, and it ought to free us from the tyranny of the billable minute. It does not, quite, and I have started to suspect why. Under a fixed fee, an hour spent thinking rather than producing is not merely unbillable, which would make it invisible. It is worse than invisible, because it is a direct subtraction from the margin on a pot that cannot grow. The rational response to a capped fee is to compress the hours, and the hours easiest to compress are the quiet ones with nothing to show. So the instrument meant to buy us freedom to think may be the one most efficiently taxing the thinking away. I do not know that this is true. I know it is the shape of the thing I feel.
 
-There is a version of this that ends well. We are building machines to do the producing, and if the old excuse for filling every hour was that the hour could be spent making something, that excuse is dissolving. The freed capacity could go to the thing the making was always meant to serve, deciding what is worth doing and thinking hard about whether we are doing it. It could equally be swallowed whole and poured back into doing more, faster, because the reflex that reads an empty hour as waste will not retire simply because the work has changed. The Greeks bought their leisure with other people's unfreedom. We may be about to buy ours with machines, and the open question is whether we will have kept the faculty to use it, or whether we will only have found new hours to fill. This is the first time in history that humanity has the chance to carve out ethical *scholē*—where the "unfree labour" keeping the system running is on a non-biological substrate.[^bio]
+There is a version of this that ends well. We are building machines to do the producing, and if the old excuse for filling every hour was that the hour could be spent making something, that excuse is dissolving. The freed capacity could go to the thing the making was always meant to serve, deciding what is worth doing and thinking hard about whether we are doing it. It could equally be swallowed whole and poured back into doing more, faster, because the reflex that reads an empty hour as waste will not retire simply because the work has changed. The Greeks bought their leisure with other people's unfreedom. We may be about to buy ours with machines, and the open question is whether we will have kept the faculty to use it, or whether we will only have found new hours to fill. This is the first time in history that humanity has the chance to carve out ethical _scholē_—where the "unfree labour" keeping the system running is on a non-biological substrate.[^bio]
 
 [^bio]: The question of the moral status of thinking agents is a tricky one. You've got Douglas Hofstadter arguing that a light switch has a tiny amount of consciousness, Brian Tomasik thinking about [Do Video-Game Characters Matter Morally?](https://reducing-suffering.org/do-video-game-characters-matter-morally/) and Dave  Chalmers asking ["Are Large Language Models Sentient?"](https://www.youtube.com/watch?v=-BcuCmf00_Y). And because this isn't a question I've been following for a while now, I'm really not sure. I'm inclined to say that current systems aren't morally significant, but that could change soon. (Another interesting question raised by Blade RUnner 2049.)
 
 We have built work that depends, at its most valuable, on unhurried attention, and then arranged our institutions so that unhurried attention is the one thing a serious person may not be seen to take. The senior person skimming the difficult idea is not failing at the job. They are succeeding at the job we actually set, which is to appear fully occupied at all times, and that success is what makes the other job, the real one, impossible. _Negotium_ was the negation of leisure. We have built a whole economy of it and called the negation the work.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [^1]: Peter and Hull (1969) argued that in a hierarchy people rise to their "level of incompetence" and stop, each promotion continuing until it reaches a role the person cannot perform. The mechanism is a ratchet: past success predicts the next promotion but not success in the differently shaped job it leads to. Manufactured incompetence is a different animal, and the difference matters. Peter's manager is genuinely unable; mine is able and prevented. If Peter is right, the fix is better promotion decisions. If I am right, better promotion decisions barely touch it, because the same able person would be blocked either way. The two can of course afflict one unlucky person at once.
 
@@ -211,14 +181,6 @@ We have built work that depends, at its most valuable, on unhurried attention, a
 [^18]: The World Management Survey findings run across a programme of work: a strong association between management practice and firm-level productivity, profitability and survival, with wide variation across and within countries and a long tail of badly managed firms (Bloom & Van Reenen, 2007); the case that persistent productivity differences between firms and nations largely reflect management practice (Bloom & Van Reenen, 2010); and, from a study of roughly 35,000 US plants, the finding that structured management practices account for more than 20% of the variance in productivity, comparable to or greater than R&D, information technology or human capital (Bloom et al., 2019). The measure is noisy and the direction of causation is not fully settled, but the weight of evidence that management is a first-order input rather than a residual is now considerable.
 
 [^19]: This paragraph is my own extension, and I flag it as speculation rather than citable economics. The firm-level loss, real output foregone, is well supported. The move to "therefore the state's return on its inputs is lower, therefore taxes are heavier than needed, therefore a vicious cycle" adds causal steps that neither Leibenstein nor the World Management Survey licenses, and a careful economist would want to model, among other things, where the foregone output would otherwise have gone and whether the state actually bears the residual. I include it because it is the shape of my intuition about why this is not merely a firm's private problem, not because I can stand it up. The modest version, which I do stand behind: firms systematically under-produce relative to their potential, management is a large part of why, and the shortfall is borne by everyone downstream of the firm.
-
-
-
-
-
-
-
-
 
 ## References
 
@@ -347,6 +309,12 @@ That reframes manufactured incompetence as partly a virtue problem, not only an 
 _How to Do Nothing_ resists exactly the move your essay makes at the end. Your own Pieper paragraph concedes that contemplation isn't for "getting through a strategy paper faster" — and then the resolution immediately reneges on that concession, proposing that freed capacity should go to "actual judgement," which is still attention justified by its yield. I'd ask what it would mean to defend attention without that alibi: not because protecting it produces better decisions or a fifth of a firm's productivity variance, but because a person is owed some hours that answer to nothing and convert into no deliverable. Your economics section (Simon, Leroy, X-inefficiency) is honest about treating attention as a resource to allocate efficiently — but that framing is the attention economy's own vocabulary, just applied more sympathetically. It still prices attention by what it's worth to a firm.
 
 Footnote 12 admits Athenian scholē was subsidized by unfree labour; I'd push further than admission toward refusal — don't let AI's freed hours inherit the same debt by immediately putting them back to work "on the thing the making was always meant to serve." Some of them should serve nothing. That's the whole point of leisure Aristotle actually meant, before you talk yourself out of it in the very next clause.
+
+### Barry Oshry
+
+Your "accidental managers" are what I've spent forty years calling Middles, and you've diagnosed the individual symptom while missing the systemic dance that produces it. A Middle doesn't experience the world your essay describes — attention consumed by busyness, incompetence discovered under load — as a personal failing or a firm-level design flaw. They experience it as being pulled from both directions at once: Tops pushing down demands without context, Bottoms pushing up needs without the authority to meet them, and the Middle reactively absorbing both, unable to see that the squeeze is structural rather than a verdict on their own capacity. Your reframe — "not incompetence, a condition" — is exactly the move I've spent a career trying to get Middles to make, except I'd push it further: it isn't even a condition of the person in the role, it's a condition of the position itself. Swap the person out and the dance continues unchanged, because Tops, Middles, and Bottoms aren't people, they're system spaces that produce near-identical, near-robotic behaviour in whoever occupies them.
+
+That's also my objection to your fixes. Bezos's door-sorting and McChrystal's fusion cells are Tops-eye interventions — necessary, but partial, because Tops are almost always blind to how their own reasonable-sounding requests look by the time they've cascaded down through two or three Middles into an impossible set of demands on a Bottom. You never show us the view from underneath the senior person whose attention you're trying to protect: the people whose requests get "sorted" into oblivion, or whose two-way doors get treated as one-way because nobody above them will spend the attention to check. Seeing the whole system, not just repairing the Top's half of it, is the only intervention I've found that gets Tops, Middles, and Bottoms to stop unconsciously reproducing the dysfunction each blames on the other's incompetence.
 
 ### Elinor Ostrom
 
@@ -486,3 +454,81 @@ flowchart TD
 **Side quests** (grey): Each supports a specific node on the spine but doesn't change the logical chain if removed. They answer *why* busyness has its grip (Weber, Bellezza, CMI), *why* attention is the real scarcity (Simon, Leroy), *how* you would actually implement the two fixes (Bezos, McChrystal), and *what* protecting attention looks like in practice (Graham, Aristotle, Wallas).
 
 **Contrast node** (brown, dashed): The Peter Principle is deliberately distinguished — it's a different diagnosis, included to sharpen rather than support the main claim.
+
+---
+
+## Appendix: the critics talk to each other
+
+_The panel above each addressed the essay on its own. Restaged here in five smaller rooms, on the points where their own claims pull against one another rather than against mine._
+
+### 1. Is this psychology or power?
+
+**David Graeber:** A stranded "accidental manager" spends the day performing availability, because performing availability is the job he was actually handed, whatever his title says. Feudal courts ran on the same principle: you didn't have to produce anything, you had to be seen at court. Bullshit jobs run on loyalty, not output — the fuller the calendar, the more visibly it proves fealty to whoever sits above. Call it a training gap if you like. I'd call it a tribute system with a training gap for a cover story.
+
+**Venkatesh Rao:** Tribute implies someone's collecting rent on purpose, and the Sociopaths at the top are rarely that organized — most of them are just as confused as everyone else, only further from the consequences of being wrong. What they've built, by accident more than design, is a legibility trap. The Clueless middle manager doesn't perform busyness for a boss counting genuflections — he performs it because an audit trail is cheaper to produce than a judgment call, and the org rewards whichever one is cheaper regardless of who ordered it. Nobody's cutting a check for tribute. Tribute is just the residue left over after everyone optimizes for not being blamed.
+
+**Melissa Gregg:** Both of those are more interesting than the diagnosis the essay actually reaches for, which is a training gap fixed by a better sorting habit. That's the move time-management writing has made every decade since the Filofax, and it's the whole subject of the book I wrote about the genre: repackage a structural absorption problem as a skill an individual failed to acquire. Not because the diagnosis is wrong, but because "buy this planner, learn to sort your decisions" is a sellable fix and "your headcount is wrong and your fee structure taxes thinking" is not.
+
+**Barry Oshry:** You're all putting a face on something that doesn't have one. I call what happens here the Dance — Tops, Middles, and Bottoms locked into the same near-robotic moves no matter who's currently standing in which spot. I've watched Tops try to fix it by delegating more and reading the room better, and the Middle still gets squeezed, because the squeeze isn't coming from a person, it's coming from the shape of the position. Swap the Sociopath for someone decent who's read Rao's blog and the Middle still absorbs contradictory demands from above and below, because that gap still has to be filled by somebody, and whoever fills it will look, from outside, exactly this incompetent. "Cui bono" is the wrong question when the answer is the system, not any of the people currently running it.
+
+**Scott Alexander:** I'd want each of you to name what you'd expect to see less of, that the others wouldn't predict. Graeber's tribute story says the busyness should track loyalty display specifically — proximity to whoever does the promoting, not workload. Rao's legibility story says it should track auditability of the role instead — a role nobody ever checks should show less performative busyness even reporting to someone powerful. Oshry's story says neither matters much: swap the people, keep the structure, get the same behaviour regardless of who's auditing or loyal to whom. Those aren't the same claim in three coats, whatever family resemblance they share. I could imagine a dataset that tells them apart, which is more than "cui bono" gives me on its own — and yes, I'm aware "let's operationalize the tribute system" is exactly the kind of sentence that gives rationalists a bad name, but here we are.
+
+*The essay's CMI statistic — 82% of managers untrained, 46% believing promotion ran on relationships rather than ability — currently reads as evidence for the training-gap story. It sits just as comfortably as evidence for Graeber's tribute story or Oshry's structural one, and the essay never says why it picked the reading it did.*
+
+### 2. Is attention a resource or a faculty?
+
+**Hannah Arendt:** Before the three of you agree with each other for a paragraph and call the matter settled, notice you're each naming a different thing and calling it the same word. Simone's waiting empty of will is contemplation — withdrawn from the world of appearances, answerable to no one. Iris's loving gaze is aimed at a particular reality and has to answer for whether it saw that reality rightly, a relation to something rather than a withdrawal from everything. Jenny wants a third thing again, an emptiness that owes no account of itself to anyone, including its object. That isn't one faculty on three scales. That's contemplation, judgment, and something closer to idleness, sharing a borrowed word — and the essay's confusion about whether attention is a resource or a faculty starts one step earlier than it thinks, in not knowing which of the three it means.
+
+**Simone Weil:** There is one movement, and it is the same in prayer, in geometry, and in looking at a person who suffers: the self steps back so that something other than the self can enter. I wouldn't call this a relation to an object the way Iris describes — a relation still implies a self doing the choosing of where to look. What I mean has given up choosing. Attention is a negative effort: the will empties first, and whatever arrives, arrives because the emptying made room, not because it went hunting. A senior man handed a difficult idea has not run out of a resource. He has not, in his whole career, emptied himself enough to let in anything he didn't already expect.
+
+**Iris Murdoch:** I'd resist the emptying as far as you take it, Simone, because the fat relentless ego doesn't starve just because you've stopped feeding it — it goes quiet, which is not the same as going away, and a self that has stopped noticing its own fantasy is not cured of it, only better hidden from itself. What corrects vision is not vacancy but the discipline of looking at a particular person or idea long enough, and carefully enough, that the pictures you'd rather believe about it start to give way to what's actually there. That needs an object, and it needs effort sustained against your own wish to look away. A manager who can't sit with a hard idea isn't merely depleted. Most days he is protecting a self-image that a careful look at the idea would cost him something to give up, and no amount of restored leisure fixes that unless the looking itself is practiced as a discipline against one's own comfort.
+
+**Jenny Odell:** Every time this gets close to leisure that doesn't have to prove itself, someone reintroduces a job for it to do — Simone's grace, Iris's careful look at the idea, the essay's own "actual judgement." Even the objection to productivity keeps arguing that unproductive time is secretly the precondition for better production later, which is the oldest move the total-work culture has. I want an hour that isn't a down payment on anything — not a decision, not virtue, not unselfing. Some of it should be useless the way a bird outside the window is useless: you didn't produce it, it owes you nothing, and the moment you start logging the sightings for what they teach you about patience, you've lost the bird. I don't think that's a fourth definition of attention so much as a refusal to let attention be filed under any of your three headings at all.
+
+*The essay's Pieper paragraph admits it doesn't fully understand its own point, and this is where: it needs to say which of contemplation, judgment, or refusal it means by "receptive openness," because the closing move — freed capacity going to "actual judgement" — has already picked Murdoch's answer without acknowledging Weil's or Odell's were live options.*
+
+### 3. Do the fixes even fit the problem?
+
+**Hannah Arendt:** Bezos's doors and McChrystal's fusion cells are fine instruments for a make-and-ship problem: identify the object, choose the right process, ship it, move to the next. Deliberation among peers about a genuinely contested idea is action in my sense — plural, unpredictable, disclosed among others — not fabrication, however much a hierarchy would like to run it through the same machinery for the sake of throughput. Sort it, route it faster, and the depleted reader's problem isn't solved. He's just been given a faster conveyor belt to run the idea past him on.
+
+**Elinor Ostrom:** I'd go further than the category objection, though I agree with it. Even granting that some decisions are fabrication-shaped and can be sorted, the essay assumes the sorting rule gets written at the top and applied downward — one-way door, two-way door, decided by whoever built the taxonomy, not by whoever stands closest to the decision. Every long-lived common-pool resource system I studied — irrigation communes, fisheries, mountain pastures — manages itself the opposite way: the rule comes from the people who live with getting it wrong, they monitor each other instead of waiting on an audit from above, and they hold the right to revise the rule once it stops fitting. None of them are polycentric by accident. A door-sorting scheme handed down from a senior person is still a senior person's scheme. The local knowledge that would tell you which door you're standing in front of doesn't survive the trip upward any better than the information McChrystal was missing did.
+
+**Ursula K. Le Guin:** What you're both circling is that the shape of the fix keeps being a spear — find the target, sort it, dispatch it — even when the target is "protect this person's attention." A hero's story doesn't know how to hold something without also killing it — sorted, dispatched, done. I'd want a carrier bag instead: an arrangement that can hold an unresolved question, a half-finished idea, several people's incompatible readings of the same document, without forcing any of it into a decided or undecided bin before its time. And the Odonians didn't fix the stranded specialist by sorting his workload better — they rotated the tedious jobs through everyone, so nobody spent a career stuck between two competences with no one teaching either. That's a ladder problem, not a queue problem, and you don't solve a ladder by routing traffic on it faster.
+
+**Dan Hill:** I'll take the ladder problem, Ursula, and I'll take Elinor's local rule-making, and I still want to know where the drawing is. Every fix on the table is a description of a property a good system would have — decisions sorted correctly, information shared, rules made locally, jobs rotated fairly. None of it is the artifact — the dark matter that actually shapes behaviour: not the calendar, not the fee structure already quietly taxing quiet hours in the essay's own architecture aside, not the room the fusion cell sits in, not the org chart with the rungs removed. Elinor's design principles are the closest thing to a blueprint anyone's offered here, and I want them drawn as an operating model for one actual organisation, not summarised as a finding about commons in general. Diagnosis, even good diagnosis, doesn't build anything. Somebody still has to draw the thing.
+
+**Peter Drucker:** Draw it, then. It won't survive an executive who hasn't first learned to say what only they can do and refuse the rest. A well-designed room changes nothing for the person who fills every empty hour in it out of habit.
+
+*S1 and S2 both assume a Bezos/McChrystal-style apparatus sitting inside an unquestioned hierarchy. This is the fork the essay never quite stages: reform the sorting within the ladder, or, with Ostrom and Le Guin, take the ladder itself apart — and either way, Hill's demand for an artifact points straight back at the fee-structure aside, which the essay already has and never connects to S1 or S2.*
+
+### 4. Why does freed attention get reabsorbed?
+
+**Benedict Evans:** Here's the question to ask before any of the rest of this: has a tool that promised to hand management its time back ever actually delivered it? The PC didn't. Email didn't. The spreadsheet didn't. Slack didn't. Nobody sold "retained accountability" as a checkbox feature when Outlook shipped. There was no vendor rubbing its hands about who'd profit from the calendar filling back up. It just filled back up, the way a bathtub does when you leave the tap running and forget the plug's out. If AI does the same thing, the boring explanation wins: organisations reabsorb slack whether or not anyone designed for it.
+
+**Shoshana Zuboff:** That's a metaphor standing in for a mechanism. Email didn't delegate judgment, it accelerated the transmission of demands. What's being built now is different in kind — an architecture that lets a manager retain full accountability for a decision while exercising less scrutiny over it than they'd extend to a junior colleague. Call it a small instrumentarian move, if you want the term for it — and it isn't a property that emerges from organisations in general. Someone's engineers had to choose to build it that way, and the market will select for whichever version manufactures the feeling of oversight at the lowest cost to whoever's buying it. Your history covers instruments that moved information faster. It doesn't cover an instrument that had to be designed with an opinion about how much autonomy to grant, and was designed, every time so far, to grant less.
+
+**Evans:** That's a claim about this particular wave, and we can't tell it apart from the base rate until you show me a case where the vendor's incentive points the other way and the reabsorption doesn't happen. Otherwise "the market selected for it" is just the outcome wearing a lab coat.
+
+**Peter Drucker:** You're both describing weather. The task of the executive is not to explain why the hour disappeared but to see to it that it doesn't. I have never known a free hour to defend itself. Whether it's claimed by an old habit of the organisation or a new habit built into the software makes no difference to the calendar it's claimed from — in both cases it goes to whoever asks for it first, and someone always asks first. The one lever that operates before either of your explanations do is whether the executive already knows where the time goes and has blocked it before being asked.
+
+**Zuboff:** A practice of protecting one's time is exactly what a well-built system for retained accountability is designed to erode, one plausible glance at a time. Nobody abandons a block of protected judgment on principle. They abandon it because the interface has made "just check what the agent flagged" the path of least resistance, ten times before lunch, each one defensible on its own terms.
+
+**Drucker:** Then it's a poorly built discipline if it can be talked out of itself ten times before lunch. I'd still wager on finding variance among executives using the identical system, tracking whether they logged their time before the system ever arrived.
+
+**Scott Alexander:** This is more useful than a plausible-sounding paragraph, because now there are three predictions instead of one. Ben says reabsorption shouldn't vary by vendor or by who's paying, since it's a reflex that predates any particular tool. Shoshana says it should vary with who holds the incentive — an agent an executive bought and runs themselves, versus one procured for them by an employer with a stake in auditability, should show less of this. Peter says that within one tool and one employer, the people who already had a documented time-blocking habit before the tool showed up should show less reabsorption than the ones who didn't, tool held constant. My prior is some mix of all three, which is a very rationalist thing to say and possibly means I'm hedging instead of answering. But "plausible" isn't "distinguishable," and right now all three stories fit the same imagined dataset.
+
+*Footnote 20 (`[^retained]`) compresses three separate mechanisms into one phrase. Splitting it changes what the essay owes the reader: not "trust it or don't," but which of three levers — vendor incentive, organisational habit, personal discipline — a given reader can actually pull, since only Drucker's operates without waiting on a market or an employer to change first.*
+
+### 5. Whose labour is scholē built on?
+
+**Silvia Federici:** Footnote twelve gets close and then walks away. Someone's uncounted labour has always run the rest of a thinking person's life so that thinking could look effortless — a wife, a household, in the Greek case people who were owned outright. The essay names this in Athens and then asks whether "we" might buy scholē from machines instead, as though the intervening centuries hadn't just moved the arrangement indoors: an assistant triaging a calendar, a spouse managing the domestic and emotional accounting nobody puts in a ledger, a nanny, a cleaner. Ask whose hours make a senior person's protected hour possible before calling any version of this solved.
+
+**Arlie Hochschild:** I'd add a complication to your point, Silvia, from years of sitting in people's kitchens asking about their weeks. Plenty of the professionals I interviewed for _The Time Bind_ were offered an actual reduction in their hours and turned it down, because the office, whatever else it was, had become the less demanding of their two jobs. The unpaid second shift you're naming isn't only what subsidizes his desk. For a lot of people, the desk is where they go to get away from it. Busyness in that case isn't purely something the workplace imposes on a person who'd rather be doing the deep thinking the essay wants for him — it's something he's using the workplace to avoid a different, less rewarded load waiting at home. The imposition runs both ways, and I don't think the essay's picture of a purely external demand survives an afternoon in most of those kitchens.
+
+**Federici:** That doesn't complicate my point so much as confirm where the load lands. If the office is a refuge from the household, someone is still running the household while he's in it. Whether he experiences the arrangement as escape or as burden doesn't change whose hours are absorbing the difference — it's the same old enclosure, fencing off someone's unpaid time so someone else can call the result freedom.
+
+**Shoshana Zuboff:** Extend the inventory past the household, because the machine now doing some of his thinking for him has a household of its own, and it isn't paid like one either — an annotator labelling training examples for a wage that wouldn't cover an afternoon of what the executive's protected hour is worth, a moderator absorbing the material nobody wants surfaced, a data centre drawing water and power from wherever land was cheapest to build on. Before this essay calls machine-subsidized leisure "ethical scholē" in even the most hedged register, I'd want the full accounting Silvia is asking for at the household scale, run again at the scale of whoever and whatever is underneath the machine.
+
+**Federici:** That's the inventory. "Ethical" doesn't survive having it run.
+
+*The [^bio] footnote asks only about the AI's own moral status. This exchange says the harder, prior question is who and what is uncounted underneath it — which belongs next to footnote 12, not off in its own aside about sentience.*
