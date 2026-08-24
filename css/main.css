@@ -514,6 +514,14 @@ p {
     margin-left: 2em;
 }
 
+/* Favicons inlined into citation links (e.g. "[![favicon](...)Title](url)")
+   -- some sources serve multi-resolution .ico files, which browsers can
+   render at a much larger size than intended without this. */
+h2#references ~ p img {
+    max-height: 1em;
+    vertical-align: middle;
+}
+
 /* ---------- Syntax highlighting ---------- */
 
 .highlight {
