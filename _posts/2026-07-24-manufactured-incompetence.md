@@ -9,8 +9,8 @@ categories: []
 tags: []
 author-name: Ben Doherty
 
-description: .
-twitter-body: .
+description: Exploring an idea about how we might work/lead, very much a WIP
+twitter-body: Exploring an idea about how we might work/lead, very much a WIP
 featuredimg: .
 ---
 
