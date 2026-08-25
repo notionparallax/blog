@@ -54,5 +54,5 @@ The app is live at [diveplanner-demo-page.streamlit.app](https://diveplanner-dem
 
 - I'd like to get it off streamlit now that it's pretty well prototyped, as there are some UI lags caused by round-trips to the server.
 - I print out plans on a [Niimbot printer](https://niimbots.com/collections/business-label-maker/products/b1-2-inch-inkless-thermal-label-printer-create-professional-labels-with-ease), it would be good to be able to automate that a bit more. (People have been getting quite excite about this kind of thing since people have been connecting the [Halcyon analyser to a zebra printer](https://niimbots.com/collections/business-label-maker/products/b1-2-inch-inkless-thermal-label-printer-create-professional-labels-with-ease).)
-- This is only really useful for square-profile, open ocean dives. It is going to take quite a lot of thinking about if it's going to be useful for overhead situations with weird profile shapes.
+- This is only really useful for square-profile, open ocean dives. It is going to take quite a lot of thinking about if it's going to be useful for overhead situations with weird profile shapes. while I'm mentioning caveats, this is OC only for now.
 - I'm the only one who's used this so far. I'd really like to hear from other people about if it's useful for them.
