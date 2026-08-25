@@ -58,6 +58,53 @@
     font-size: 14pt;
     font-weight: normal;
   }
+  /* Without JS (or before it has run) there's no sidenote column to speak
+     of; print the plain footnotes list instead. */
+  .sidenote-column {
+    display: none !important;
+  }
+  .footnotes {
+    display: block !important;
+  }
+
+  /* Once sidenotes.js has relocated the footnotes into the margin, keep
+     them there for print too rather than falling back to the block
+     footnotes list. This only leaves room for a margin column when the
+     body text itself runs single-column, so drop the two-column layout
+     below in that case. */
+  body.sidenotes-active article.post {
+    position: relative;
+  }
+  body.sidenotes-active .post-content {
+    column-count: 1;
+    width: 65%;
+  }
+  body.sidenotes-active .sidenote-column {
+    display: block !important;
+    position: absolute;
+    top: 0;
+    /* #sidenote-column-right's screen rule sets a fixed `left`, which (being
+       an id selector) outranks this class rule on specificity alone and
+       would otherwise win out over `right` here -- override it explicitly. */
+    left: auto !important;
+    right: 0;
+    width: 30%;
+  }
+  body.sidenotes-active .sidenote {
+    /* The on-screen "top" offset (inline px, set by sidenotes.js) is
+       computed against the screen layout and doesn't correspond to
+       anything meaningful at print page widths -- ignore it and let the
+       notes stack in citation order instead. */
+    position: static !important;
+    max-height: none;
+    overflow: visible;
+    font-size: 8pt;
+    margin-bottom: 0.6em;
+    page-break-inside: avoid;
+  }
+  body.sidenotes-active .footnotes {
+    display: none !important;
+  }
   img {
     page-break-inside: avoid;
     page-break-after: avoid;
