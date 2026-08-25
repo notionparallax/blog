@@ -89,6 +89,7 @@ img {
 }
 
 article img {
+    /* limit images to being as wide as their container, i.e. the main column */
     max-width: 100%;
 }
 
