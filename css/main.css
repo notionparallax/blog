@@ -88,6 +88,10 @@ img {
     vertical-align: middle;
 }
 
+article img {
+    max-width: 100%;
+}
+
 figure > img {
     display: block;
 }
