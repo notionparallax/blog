@@ -1,0 +1,81 @@
+/* Stylesheet fed to Paged.js for the "preview as booklet" button.
+   Not linked into the normal page — fetched by Paged.js at pagination time. */
+
+@page {
+  size: A4;
+  margin: 18mm 15mm 20mm 15mm;
+}
+@page :left {
+  margin-right: 16mm;
+  margin-left: 12mm;
+}
+@page :right {
+  margin-left: 16mm;
+  margin-right: 12mm;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 9.5pt;
+  line-height: 1.35;
+  color: #111;
+}
+
+/* controls/UI shouldn't appear in the booklet itself */
+.booklet-controls,
+#booklet-status {
+  display: none !important;
+}
+
+h1, h2, h3, h4 {
+  break-after: avoid-page;
+  page-break-after: avoid;
+}
+table, figure, blockquote {
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+/* the facing-page spread: image always on a left (verso) page,
+   its game card always on the following right (recto) page */
+.facing-page-image {
+  break-before: left;
+  page-break-before: left;
+  break-after: page;
+  page-break-after: always;
+  height: 100%;
+  min-height: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px dashed #888;
+  color: #666;
+  font-style: italic;
+}
+
+.game-card {
+  break-before: right;
+  page-break-before: right;
+}
+
+/* main.css isn't passed to Paged.js, so without this the footnote list
+   renders at full default browser size -- fine on a wide screen, far too
+   large against an A4 page with 15mm margins. */
+.footnotes {
+  font-size: 8.5pt;
+  line-height: 1.4;
+  border-top: 1px solid #ccc;
+  padding-top: 0.5em;
+}
+.footnotes ol {
+  padding-left: 1.2em;
+}
+.footnotes li {
+  break-inside: avoid-page;
+  margin-bottom: 0.6em;
+}
+.reversefootnote {
+  display: none;
+}
