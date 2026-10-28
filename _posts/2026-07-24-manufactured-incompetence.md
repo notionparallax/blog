@@ -192,6 +192,10 @@ Aristotle. (2009). _The Nicomachean ethics_ (W. D. Ross, Trans.; L. Brown, Ed.).
 
 Baird, B., Smallwood, J., Mrazek, M. D., Kam, J. W. Y., Franklin, M. S., & Schooler, J. W. (2012). Inspired by distraction: Mind wandering facilitates creative incubation. _Psychological Science, 23_(10), 1117–1122. [https://doi.org/10.1177/0956797612446024](https://doi.org/10.1177/0956797612446024)
 
+Bastin, J.-F., Finegold, Y., Garcia, C., Mollicone, D., Rezende, M., Routh, D., Zohner, C. M., & Crowther, T. W. (2019). The global tree restoration potential. _Science, 365_(6448), 76–79. [https://doi.org/10.1126/science.aax0848](https://doi.org/10.1126/science.aax0848)
+
+Bastin, J.-F., Finegold, Y., Garcia, C., Mollicone, D., Rezende, M., Routh, D., Zohner, C. M., & Crowther, T. W. (2020). Erratum for the report "The global tree restoration potential" and for the technical response "Response to comments on 'The global tree restoration potential'". _Science, 368_(6494), eabc8905. [https://doi.org/10.1126/science.abc8905](https://doi.org/10.1126/science.abc8905)
+
 Beaty, R. E., Benedek, M., Wilkins, R. W., Jauk, E., Fink, A., Silvia, P. J., Hodges, D. A., Koschutnig, K., & Neubauer, A. C. (2014). Creativity and the default network: A functional connectivity analysis of the creative brain at rest. _Neuropsychologia, 64_, 92–98. [https://doi.org/10.1016/j.neuropsychologia.2014.09.019](https://doi.org/10.1016/j.neuropsychologia.2014.09.019 "https://doi.org/10.1016/j.neuropsychologia.2014.09.019")
 
 Bezos, J. (2015, April 6). _2015 letter to shareholders_. Amazon.com. [https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF)
@@ -212,11 +216,17 @@ Cyert, R. M., & March, J. G. (1963). _A behavioral theory of the firm_. Prentice
 
 DeMarco, T. (2001). _Slack: Getting past burnout, busywork, and the myth of total efficiency_. Broadway Books.
 
+Friedlingstein, P., Allen, M., Canadell, J. G., Peters, G. P., & Seneviratne, S. I. (2019). Comment on "The global tree restoration potential". _Science, 366_(6463), eaay8060. [https://doi.org/10.1126/science.aay8060](https://doi.org/10.1126/science.aay8060)
+
 Fussell, C. L., Hough, T. W., & Pedersen, M. D. (2009). _What makes fusion cells effective?_ [Master's thesis, Naval Postgraduate School]. Calhoun: NPS Institutional Archive. [https://calhoun.nps.edu/handle/10945/4438](https://calhoun.nps.edu/handle/10945/4438)
 
 Graham, P. (2009, July). _Maker's schedule, manager's schedule_. [![favicon](http://ycombinator.com/arc/arc.png)Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
+Hume, D. (1777). Of the standard of taste. In _Essays, moral, political, and literary_ (Part 1). Hume Texts Online. [https://davidhume.org/texts/empl1/st](https://davidhume.org/texts/empl1/st) (Original work published 1757)
+
 Leibenstein, H. (1966). Allocative efficiency vs. "X-efficiency." _The American Economic Review, 56_(3), 392–415.
+
+Lewis, S. L., Mitchard, E. T. A., Prentice, C., Maslin, M., & Poulter, B. (2019). Comment on "The global tree restoration potential". _Science, 366_(6463), eaaz0388. [https://doi.org/10.1126/science.aaz0388](https://doi.org/10.1126/science.aaz0388)
 
 Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. _Organizational Behavior and Human Decision Processes, 109_(2), 168–181. [https://doi.org/10.1016/j.obhdp.2009.04.002](https://doi.org/10.1016/j.obhdp.2009.04.002 "https://doi.org/10.1016/j.obhdp.2009.04.002")
 
@@ -239,6 +249,8 @@ Simon, H. A. (1971). Designing organizations for an information-rich world. In M
 Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? A meta-analytic review. _Psychological Bulletin, 135_(1), 94–120. [![favicon](https://psycnet.apa.org/favicon/favicon.ico)APA PsycNet](https://doi.org/10.1037/a0014212)
 
 Veblen, T. (1899). _The theory of the leisure class: An economic study of institutions_. Macmillan.
+
+Veldman, J. W., Aleman, J. C., Alvarado, S. T., Anderson, T. M., Archibald, S., Bond, W. J., Boutton, T. W., Buchmann, N., Buisson, E., Canadell, J. G., Dechoum, M. de S., Diaz-Toribio, M. H., Durigan, G., Ewel, J. J., Fernandes, G. W., Fidelis, A., Fleischman, F., Good, S. P., Griffith, D. M., … Zaloumis, N. P. (2019). Comment on "The global tree restoration potential". _Science, 366_(6463), eaay7976. [https://doi.org/10.1126/science.aay7976](https://doi.org/10.1126/science.aay7976)
 
 Wallas, G. (1926). _The art of thought_. Jonathan Cape.
 
