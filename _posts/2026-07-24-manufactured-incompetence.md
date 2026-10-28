@@ -40,7 +40,7 @@ The world is full of difficult issues, and there’s an important role for speci
 
 > “everything should be as simple as it can be but not simpler” Einstein[^e]
 
-[^e]: needs to be referenced properly. _Everything should be made as simple as possible, but not simpler"_ is widely attributed to Einstein, but it is actually a paraphrase of a line from his 1933 Herbert Spencer lecture: _"It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience."_ You can use the popular paraphrase but note its origin in a footnote.
+[^e]: It turns out that this isn't actually what Einstein said. _Everything should be made as simple as possible, but not simpler"_ is widely attributed to Einstein, but it is actually a paraphrase of a line from his 1933 Herbert Spencer lecture: _"It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience."_ which is quite a bit more complicated to say.
 
 ## How it is built
 
