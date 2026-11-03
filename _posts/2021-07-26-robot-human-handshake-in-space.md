@@ -1,25 +1,17 @@
 ---
 layout: post
 title: "A Robot-Human Handshake in Space: Touch and Lively Alterity Relations in Social Robotics"
-date: 2021-07-26 13:18:00 AEST
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Chris Chesher & David Silvera-Tawil
-source_publish_date: 2020-00-00 00:00:00 AEST
-week: 11
+author-name: Chris Chesher & David Silvera-Tawil
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
+description: "Reading for week 11 of The Past and Futures of Digital Cultures: Chris Chesher & David Silvera-Tawil (2020)"
+twitter-body: "Reading for week 11 of The Past and Futures of Digital Cultures: Chris Chesher & David Silvera-Tawil (2020)"
+featuredimg: 
 ---
 
 Chesher, C., & Silvera-Tawil, D. (2021). A Robot-Human Handshake in Space: Touch and Lively Alterity Relations in Social Robotics. Culturally Sustainable Social Robotics: Proceedings of Robophilosophy 2020, 335, 86.

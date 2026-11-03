@@ -1,25 +1,17 @@
 ---
 layout: post
-title: Ada Lovelace, the First Tech Visionary
-date: 2021-07-26 13:18:00 AEST
+title: "Ada Lovelace, the First Tech Visionary"
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Betsy Morais
-source_publish_date: 2013-10-15 00:00:00 AEST
-week: "4"
+author-name: Betsy Morais
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: https://www.griffithreview.com/wp-content/themes/griffithreview/dist/images/logo-text.svg
+description: "Reading for week 4 of The Past and Futures of Digital Cultures: Betsy Morais (2013)"
+twitter-body: "Reading for week 4 of The Past and Futures of Digital Cultures: Betsy Morais (2013)"
+featuredimg: 
 ---
 
 Morais, B. (2013). [Ada Lovelace, the first tech visionary](https://www.newyorker.com/tech/annals-of-technology/ada-lovelace-the-first-tech-visionary). _The New Yorker_.
@@ -30,7 +22,7 @@ By [Betsy Morai](https://www.newyorker.com/contributors/betsy-morais) October 15
 
 When Ada Lovelace was twelve years old, she wanted to fly. She approached the problem methodically, examining birds and investigating various materials that could serve as wings—feathers, paper, silk. In the course of her research, which began in February, 1828, according to her biographer Betty Alexandra Toole, Ada wrote and illustrated a guide called “Flyology,” to record her findings. She toiled away on this project until her mother reprimanded her for neglecting her studies, which were meant to set her on a rational course, not a fanciful one.
 
-Ada’s mother, Annabella Byron, was the straight-laced counterpoint to her father, Lord Byron, the Romantic poet, who called his wife the “Princess of Parallelograms.” A month after Ada’s birth, Annabella Byron moved their daughter out of their London house, and away from Lord Byron’s influence. When, shortly before his death, he wrote asking about Ada’s upbringing, Annabella had this to report: “Not devoid of imagination, but is chiefly exercised in connection with her mechanical ingenuity.” This was the best she could hope for, having drilled into Ada a discipline for arithmetic, music, and French, according to the biography “<a href="http://www.amazon.com/Female-Genius-Lovelace-Computer-ebook/dp/B00F49M154/ref=tmm_kin_swatch_0?ots=1&amp;slotNum=0&amp;imprToken=90bd732d-79da-708c-426&amp;tag=thneyo0f-20&amp;linkCode=w50&amp;_encoding=UTF8&amp;sr=&amp;qid=">A Female Genius</a>,” by James Essinger, which comes out today. Essinger writes that Lady Byron wished to suppress her daughter’s imagination, which she thought to be “dangerous and potentially destructive and coming from the Byrons.”
+Ada’s mother, Annabella Byron, was the straight-laced counterpoint to her father, Lord Byron, the Romantic poet, who called his wife the “Princess of Parallelograms.” A month after Ada’s birth, Annabella Byron moved their daughter out of their London house, and away from Lord Byron’s influence. When, shortly before his death, he wrote asking about Ada’s upbringing, Annabella had this to report: “Not devoid of imagination, but is chiefly exercised in connection with her mechanical ingenuity.” This was the best she could hope for, having drilled into Ada a discipline for arithmetic, music, and French, according to the biography “<a href="https://www.amazon.com/Female-Genius-Lovelace-Computer-ebook/dp/B00F49M154/">A Female Genius</a>,” by James Essinger, which comes out today. Essinger writes that Lady Byron wished to suppress her daughter’s imagination, which she thought to be “dangerous and potentially destructive and coming from the Byrons.”
 
 But Lovelace reconciled the competing poles of her parents’ influence. On January 5, 1841, she asked, “What is Imagination?” Two things, she thought. First, “the combining faculty,” which “seizes points in common, between subjects having no apparent connection,” and then, she wrote, “Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science.”
 

@@ -43,8 +43,6 @@ display: fullscreen
 collections:
     diary-entries:
         output: true
-    tpf:
-        output: true
     CODE1161:
         output: true
     s: #static pages

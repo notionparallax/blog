@@ -1,25 +1,17 @@
 ---
 layout: post
 title: "The net delusion: How not to liberate the world"
-date: 2021-07-26 13:18:00 AEST
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Evgeny Morozov
-source_publish_date: 2021-07-26 13:18:00 AEST
-week: 3
+author-name: Evgeny Morozov
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
+description: "Reading for week 3 of The Past and Futures of Digital Cultures: Evgeny Morozov"
+twitter-body: "Reading for week 3 of The Past and Futures of Digital Cultures: Evgeny Morozov"
+featuredimg: 
 ---
 
 Morozov, E. (2011). Introduction in _The net delusion: How not to liberate the world_. Penguin UK.

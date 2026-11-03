@@ -1,24 +1,16 @@
 ---
 layout: post
-post title: "Gibson, W. (1984) [excerpt pp 62-83] Neuromancer."
-date: 2021-07-26 13:18:00 AEST
+title: "Neuromancer (excerpt, pp 62–83)"
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: William Gibson
-source_publish_date: 1984-07-1 00:00:00 AEST
-week: 2
+author-name: William Gibson
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+description: "Reading for week 2 of The Past and Futures of Digital Cultures: William Gibson (1984)"
+twitter-body: "Reading for week 2 of The Past and Futures of Digital Cultures: William Gibson (1984)"
 featuredimg: https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg
 ---
 

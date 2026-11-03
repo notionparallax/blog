@@ -1,23 +1,17 @@
 ---
 layout: post
 title: "Smart street furniture in Australia: a public service or surveillance and advertising tool?"
-date: 2021-07-26 13:18:00 AEST
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Justine Humphry, Chris Chesher & Sophia Maalsen
-source_publish_date: 2021-06-23 06:01:00 AEST
-week: 12
+author-name: Justine Humphry, Chris Chesher & Sophia Maalsen
 
-# this goes on the index page, and into facebook shares description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
+description: "Reading for week 12 of The Past and Futures of Digital Cultures: Justine Humphry, Chris Chesher & Sophia Maalsen (2021)"
+twitter-body: "Reading for week 12 of The Past and Futures of Digital Cultures: Justine Humphry, Chris Chesher & Sophia Maalsen (2021)"
+featuredimg: 
 ---
 
 June 23, 2021 6.01am AEST

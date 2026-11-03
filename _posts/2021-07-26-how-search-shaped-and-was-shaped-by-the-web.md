@@ -1,23 +1,17 @@
 ---
 layout: post
 title: "How Search Shaped and Was Shaped by the Web"
-date: 2021-07-26 13:18:00 AEST
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Alexander Halavais
-source_publish_date: 2017-01-05 00:00:00 AEST
-week: 6
+author-name: Alexander Halavais
 
-# this goes on the index page, and into facebook shares description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
+description: "Reading for week 6 of The Past and Futures of Digital Cultures: Alexander Halavais (2017)"
+twitter-body: "Reading for week 6 of The Past and Futures of Digital Cultures: Alexander Halavais (2017)"
+featuredimg: 
 ---
 
 <!-- <style type="text/css">

@@ -1,25 +1,17 @@
 ---
 layout: post
-title: The Digital Age
-date: 2021-07-26 13:18:00 AEST
+title: "The Digital Age"
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Paul E. Ceruzzi
-source_publish_date: 2012-06-15 00:00:00 AEST
-week: 4
+author-name: Paul E. Ceruzzi
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: https://www.griffithreview.com/wp-content/themes/griffithreview/dist/images/logo-text.svg
+description: "Reading for week 4 of The Past and Futures of Digital Cultures: Paul E. Ceruzzi (2012)"
+twitter-body: "Reading for week 4 of The Past and Futures of Digital Cultures: Paul E. Ceruzzi (2012)"
+featuredimg: 
 ---
 
 # The Digital Age

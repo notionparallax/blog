@@ -1,24 +1,16 @@
 ---
 layout: post
-title: Early Television
-date: 2021-07-26 13:18:00 AEST
+title: "Early Television"
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: Vincent Mosco
-source_publish_date: 2021-07-26 13:18:00 AEST
-week: 5
+author-name: Vincent Mosco
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+description: "Reading for week 5 of The Past and Futures of Digital Cultures: Vincent Mosco"
+twitter-body: "Reading for week 5 of The Past and Futures of Digital Cultures: Vincent Mosco"
 featuredimg: https://m.media-amazon.com/images/P/B01EAHZFXU.01._SCLZZZZZZZ_SX500_.jpg
 ---
 

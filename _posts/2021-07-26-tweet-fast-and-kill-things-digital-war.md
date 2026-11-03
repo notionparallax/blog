@@ -1,25 +1,17 @@
 ---
 layout: post
 title: "Tweet fast and kill things: digital war"
-date: 2021-07-26 13:18:00 AEST
+date: 2021-07-26 13:18:00 +10:00
 type: post
 published: true
 status: publish
 categories: []
 tags: [The_Past_and_Futures_of_Digital_Cultures]
-resource_type: core
-authors: William Merrin & Andrew Hoskins
-source_publish_date: 2020-03-17 00:00:00 AEST
-week: 8
+author-name: William Merrin & Andrew Hoskins
 
-# this goes on the index page, and into facebook shares
-description:
-# This is what twitter will pick up if someone tweets the link to this page
-# 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
-twitter-body:
-# Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
-featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
+description: "Reading for week 8 of The Past and Futures of Digital Cultures: William Merrin & Andrew Hoskins (2020)"
+twitter-body: "Reading for week 8 of The Past and Futures of Digital Cultures: William Merrin & Andrew Hoskins (2020)"
+featuredimg: 
 ---
 
 William Merrin & Andrew Hoskins. (2020). Tweet Fast and Kill Things: Digital War. Digital War, 1, 184-193. https://link.springer.com/article/10.1057/s42984-020-00002-1
