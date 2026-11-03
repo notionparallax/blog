@@ -12,6 +12,7 @@ author-name: Ben Doherty
 description: "Where Sydney's gyms are, compared with where it drinks"
 twitter-body: "Where Sydney's gyms are, compared with where it drinks"
 featuredimg: https://raw.githubusercontent.com/notionparallax/gyms_hex/master/outputs/panels/gyms_per_pub.png
+blyg_id: 7wz9ymbs3bjzrtdp3nka0vcyqr
 ---
 
 A while ago I was talking with some people who lived in Auckland about how those cities perform attractiveness compared with Sydney and Vancouver. We discussed that Auckland and Vancouver are more interested in performance, and Sydney more interested in how it looks: Vancouver compares Grouse Grind times,[^grind] Sydney compares Instagrams. I have no way of testing that, but I could look at something simpler, which is where Sydney's gyms actually are, and how many per person there are. I also compared with where it drinks and how rich people are.
