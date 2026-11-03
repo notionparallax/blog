@@ -14,17 +14,19 @@ twitter-body: "Where Sydney's gyms are, compared with where it drinks"
 featuredimg: https://raw.githubusercontent.com/notionparallax/gyms_hex/master/outputs/panels/gyms_per_pub.png
 ---
 
-A while ago I was talking with some people who had lived in Auckland and Vancouver about how those cities exercise compared with Sydney. Their view was that Auckland and Vancouver are more interested in performance, and Sydney more interested in how it looks: Vancouver compares Grouse Grind times,[^grind] Sydney compares Instagrams. I have no way of testing that, but it left me wanting to know something simpler, which is where Sydney's gyms actually are, and how that compares with where it drinks.
+A while ago I was talking with some people who lived in Auckland about how those cities perform attractiveness compared with Sydney and Vancouver. We discussed that Auckland and Vancouver are more interested in performance, and Sydney more interested in how it looks: Vancouver compares Grouse Grind times,[^grind] Sydney compares Instagrams. I have no way of testing that, but I could look at something simpler, which is where Sydney's gyms actually are, and how many per person there are. I also compared with where it drinks and how rich people are.
 
-I had started on this when Milan Janosov posted a London version: 607 pubs and 134 gyms within a fifteen-minute walk of Charing Cross.[^janosov] His question was close to mine, though his method is different, and so is his definition of a gym. What follows is a description of what the data shows for Greater Sydney, plot by plot. All the code and processed data are [on GitHub](https://github.com/notionparallax/gyms_hex), so anyone who wants to check a number, or argue with a category, can.
+I had started on this when Milan Janosov posted a London version: 607 pubs and 134 gyms within a fifteen-minute walk of Charing Cross.[^janosov] What follows is a description of what the data shows for Greater Sydney, plot by plot. All the code and processed data are [on GitHub](https://github.com/notionparallax/gyms_hex), so anyone who wants to check a number, or argue with a category, can.
+
+This whole post is significantly AI-ified, so when it says _I_, it really means that meat-I asked Claude-I to write things, and it did.
 
 ## What counts
 
 ![Venue mix](https://raw.githubusercontent.com/notionparallax/gyms_hex/master/outputs/venue_mix.png)
 
-I took a broad view of fitness. The 6,059 fitness venues include 2,685 gyms, 1,147 martial arts and boxing clubs, 1,011 pilates, yoga, barre and tai chi studios, 904 dance studios, 112 public pools, 108 gymnastics clubs, and 92 boot camps, spin studios and climbing gyms. Janosov left dance studios out of his London count as padding. I kept them in, because a dance class is exercise in the same way a spin class is. Personal trainers and sports grounds are left out: most of the former are one person with a car, and most of the latter are ovals and golf courses.[^categories]
+I took a broad view of what a fitness venue is and found 6,059 places: 2,685 gyms, 1,147 martial arts and boxing clubs, 1,011 pilates, yoga, barre and tai chi studios, 904 dance studios, 112 public pools, 108 gymnastics clubs, and 92 boot camps, spin studios and climbing gyms. Personal trainers and sports grounds are left out: most of the former are one person with a car, and most of the latter are ovals and golf courses.[^categories]
 
-The 2,160 pubs and bars are mostly what you would expect: 724 pubs, 643 bars, 388 cocktail and wine bars, 119 breweries and 68 sports bars. The other 218 are pubs that the source data files as accommodation. Many Australian pubs are called 'The Something Hotel', and the venue database[^overture] treats a lot of them as hotels in the sense of somewhere to sleep. I added back anything with 'hotel' in its name that isn't a motel, a chain or obviously accommodation.[^hotels]
+The 2,160 pubs and bars are: 724 pubs, 643 bars, 388 cocktail and wine bars, 119 breweries and 68 sports bars. The other 218 are pubs that the source data files as accommodation. Many Australian pubs are called 'The _Something_ Hotel', and the venue database[^overture] treats a lot of them as hotels in the sense of somewhere to sleep. I added back anything with 'hotel' in its name that isn't a motel, a chain or obviously accommodation.[^hotels]
 
 ![Fitness venue locations](https://raw.githubusercontent.com/notionparallax/gyms_hex/master/outputs/venue_locations_fitness.png)
 
@@ -42,7 +44,7 @@ The bottom row divides by residents.[^census] Across Greater Sydney there are 11
 
 ## Daytime population
 
-The CBD's pubs are not there for the 12,500 people who live in that hex. On a weekday about 317,000 people are there, most of them at work. Using Transport for NSW's estimates of jobs by location, I worked out a weekday daytime population for every part of the city: residents, minus those who leave for work, plus those who arrive.[^daytime]
+The CBD's pubs are not really there for the 12,500 people who live in that hex. On a weekday about 317,000 people are there, most of them at work. Using Transport for NSW's estimates of jobs by location, I worked out a weekday daytime population for every part of the city: residents, minus those who leave for work, plus those who arrive.[^daytime]
 
 ![Daytime population](https://raw.githubusercontent.com/notionparallax/gyms_hex/master/outputs/daytime_hex.png)
 
@@ -98,9 +100,9 @@ These are counts of places, and a count says nothing about size. A 24-hour gym w
 
 None of it says anything about whether Sydney cares more about how it looks than how it performs. What it does show is a city where pubs gather where people work and go out, and fitness venues follow where people live, with the gap widest in the advantaged outer suburbs.
 
-[^grind]: The Grouse Grind is a 2.9 km trail up Grouse Mountain in North Vancouver, climbing about 850 m. People time themselves on it.
+[^grind]: The Grouse Grind is a 2.9 km trail up Grouse Mountain in North Vancouver, climbing about 850 m. People time themselves on it with a timing chip a bit like an opal/oyster card.
 
-[^janosov]: Milan Janosov, '607 pubs. 134 gyms. Same fifteen-minute walk.', [The New Science of Maps](https://thenewscienceofmaps.com). He used walking distance along the street network; I used straight-line distance and hexagons, which is simpler and, at the scale of a whole city, I think gives much the same picture.
+[^janosov]: Milan Janosov, '607 pubs. 134 gyms. Same fifteen-minute walk.', [The New Science of Maps](https://thenewscienceofmaps.com). His question was close to mine, though his method is different, and so is his definition of a gym. He used walking distance along the street network; I used straight-line distance and hexagons, which is simpler and, at the scale of a whole city, I think gives much the same picture.
 
 [^categories]: The full list of categories is in [`scripts/02_build_hexes.py`](https://github.com/notionparallax/gyms_hex/blob/master/scripts/02_build_hexes.py). Public pools are hand-curated from OpenStreetMap because the source database's swimming-pool category mixes public pools with swim schools and pool-supply shops.
 
