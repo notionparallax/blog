@@ -9,6 +9,7 @@ categories: []
 tags:
     - life
     - turning japanese
+blyg_id: 69m2tt0ebvqe3gr4dmd0ng8yjv
 ---
 
 <div align="center">

@@ -17,6 +17,7 @@ meta:
     geo_longitude: "-73.683646"
     geo_latitude: "42.728965"
     geo_public: "1"
+blyg_id: 6jr7p77m6eteyxewazadb8n7jq
 ---
 
 <p>Notes from the conference</p>

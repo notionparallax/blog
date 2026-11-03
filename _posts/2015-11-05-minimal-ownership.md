@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
+blyg_id: 3nztt27dyebeg3vs5bmm147gmx
 ---
 
 For a while, when Netflix was a DVD rental thing. There were lots of services that popped up that were 'Netflix for X'. E.g. <a href="http://www.bagborroworsteal.com/" data-cke-saved-href="http://www.bagborroworsteal.com/">Bagborroworsteal</a> was Netflix for handbags. This was a pretty big idea; having access to something luxurious without actually owning it.

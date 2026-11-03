@@ -12,6 +12,7 @@ author-name: Ben Doherty
 description: "Using games as a low-stakes training ground for closed-loop communication and shared mental models in real teams."
 twitter-body: "Using games as a low-stakes training ground for closed-loop communication and shared mental models in real teams."
 featuredimg:
+blyg_id: 4m0ca0n0ejz1gyjvd9ay6xz14e
 ---
 
 ---

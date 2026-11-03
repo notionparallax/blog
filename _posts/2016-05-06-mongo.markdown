@@ -17,6 +17,7 @@ twitter-body: I made a shoddy tutorial to help me learn mongodb. Feel free to te
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/Evil-Laugh-GIF.gif
+blyg_id: 3w871j05tx0qwner9c9f7z4dhf
 ---
 
 I've never actually set up my own Mongo database before, I've always been the least useful person on the team. I thought I'd give it a go and document it.

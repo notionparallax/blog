@@ -20,6 +20,7 @@ meta:
 
         http://wp.me/p3wwRK-s4
     dsq_thread_id: "4503553635"
+blyg_id: 1pdjm420j91ate43b67v6gwknt
 ---
 
 <p>I hear that line all the time. To begin with I believed the hype, then it started to niggle, now my annoyance at that idea has pushed me out of the energy well that I wallow in most of the time and got me to write about it.</p>

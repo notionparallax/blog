@@ -15,6 +15,7 @@ description:
 meta:
     _publicize_facebook_user: https://www.facebook.com/ben.doherty1
     _publicize_twitter_user: "@notionparallax"
+blyg_id: 5bctkwvqtyxg7zk69wbnkk3xnr
 ---
 
 <iframe src="https://docs.google.com/a/bvn.com.au/presentation/d/1YlsPSfU_GCIrc2cFykHs1YGhUTbkcE7ARUbQ-oxPtG0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">

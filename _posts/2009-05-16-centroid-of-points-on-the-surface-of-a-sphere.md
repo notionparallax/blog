@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552955"
+blyg_id: 0b6gweq6sb8k73jvtbwprqxywv
 ---
 
 <p>I was sat in the airport after SG, trying to figure out the logistics of the tutor group meeting up. Where would be the most logical place to go?</p>

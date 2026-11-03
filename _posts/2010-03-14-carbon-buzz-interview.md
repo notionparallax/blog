@@ -16,6 +16,7 @@ tags:
     - major study
     - Post occupancy evaluation
     - simulation
+blyg_id: 7v4p0vc310yta6pd91yehnmxj8
 ---
 
 <p>On Monday I’m going to go and interview <a href="http://www.aedas.com/Europe/JuditKimpian">Judit Kimpian</a> about her involvement in the <a href="http://www.bre.co.uk/carbonbuzz/">Carbon Buzz</a> project.</p>

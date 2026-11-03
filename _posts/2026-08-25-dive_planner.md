@@ -12,6 +12,7 @@ author-name: Ben Doherty
 description: "Making a multi scenario dive planning tool"
 twitter-body: "Making a multi scenario dive planning tool"
 featuredimg: 
+blyg_id: 2h4ks6m8byxr1pc34vez99akqx
 ---
 
 Every idiot with a Claude subscription seems to be making their own dive planning tool these days, so so as not to be left out, I've made one too.

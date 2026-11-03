@@ -12,6 +12,7 @@ meta:
     geo_latitude: "-27.415650"
     geo_longitude: "153.076790"
     geo_public: "1"
+blyg_id: 1j8azk6e29dk8n45wfwz773d9p
 ---
 
 <p>Over coffee yesterday [1 a decaf, believe it or not] I was moaning about how good it would be to be able to pause time so that I could get my work done. Something a bit like the way that Bill and Ted do at the end of Bogus Journey.<br />

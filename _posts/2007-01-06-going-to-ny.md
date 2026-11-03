@@ -9,6 +9,7 @@ categories: []
 tags:
     - GC
     - trips
+blyg_id: 6me5jnsz9nrk6vaq5vv49m1wbg
 ---
 
 <p >I'm officially going to New York at the end of the month now for the smart geometry workshop and conference thingy.</p>

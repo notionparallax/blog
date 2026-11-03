@@ -17,6 +17,7 @@ twitter-body: Could we make harsh, constraining enviroments that make work easie
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/pom-box.jpg
+blyg_id: 62e437v6yd17y7w65pmcss8r8b
 ---
 
 Imagine: You're sharpening a knife, it requires you to maintain focus. The closer you get to finished, the more likely it is to catch on the stone and ruin it all. This means that as you get closer and closer to the end, smaller and smaller breaks in your concentration can be catastrophic.

@@ -14,6 +14,7 @@ tags:
     - studio
     - teaching
     - UTS
+blyg_id: 1jcn4mpqaw8tdsgbk5ax7sx4d5
 ---
 
 <p>I'm setting a reading list for a debate amongst my students about Australian energy policy. It's likely to be relatively abstract discussion as none of us has access to, or expertise in, the specific data.</p>

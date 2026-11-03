@@ -13,6 +13,7 @@ tags:
     - future
     - major study
     - writing
+blyg_id: 2nsvrpxfeqmkjmahpjr692ywsf
 ---
 
 <a href="{{ site.baseurl }}/assets/Design-under-conditions-of-uncertainty.pdf"><img title="front page" src="{{ site.baseurl }}/assets/front-page.png" alt="" width="549" /></a>

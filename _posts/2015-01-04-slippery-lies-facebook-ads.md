@@ -17,6 +17,7 @@ meta:
     _wpas_mess: |-
         Facebook adverts: 35% of spend going to Russian bots?
         http://wp.me/p3wwRK-rS
+blyg_id: 2g3ng0bjjjyw5cfpddvhmvsj65
 ---
 
 <style type="text/css">

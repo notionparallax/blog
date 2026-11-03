@@ -15,6 +15,7 @@ tags:
     - geek
     - thinking
     - writing
+blyg_id: 3b91aq9dhwrs2epb2k8pgewk4f
 ---
 
 <p>Most people will have realised that I don't tend to do things the normal way. This extends to education too - I've taken 4 years off in the midst of a 5 year course (and 2 more before it even started). <a title="this needs a bit of updating now, there is ANOTHER year out to contend with!" href="https://notionparallax.co.uk/2008/what-on-earth-have-i-been-up-to">See this old post</a>.<br />

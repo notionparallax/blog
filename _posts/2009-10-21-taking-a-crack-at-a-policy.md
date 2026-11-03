@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503553059"
+blyg_id: 3azqjjsengf0htcwsgfk51ww0a
 ---
 
 <p><img src="{{ site.baseurl }}/assets/chris-jordan-midway-atoll1.jpg" alt="albatross chick full of plastic" /></p>

@@ -15,6 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503553189"
+blyg_id: 0rzqd5k0qjej8eck477ybp61dd
 ---
 
 <p>I'm starting to come to terms with my fascination with Lady Gaga. I'm realising that it isn't an interest in Stefani Joanne Angelina Germanotta the person, but the whole enterprise, the Lady Gaga hype machine.</p>

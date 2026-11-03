@@ -11,6 +11,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503551839"
+blyg_id: 7r0xavmv8a89vad8w08fd8z9ae
 ---
 
 <p>people seem to be really confused by the fact that I am doing stuff all out of order, so I thought I'd make a picture that explained it all.</p>

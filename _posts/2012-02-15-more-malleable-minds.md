@@ -11,6 +11,7 @@ tags:
     - Sydney
     - teaching
     - UTS
+blyg_id: 5xhhda1r6pyxrm2pcjv8bd8ycd
 ---
 
 I'm going to be teaching at UTS again this coming semester. Another intrepid cohort will be subjected to my odd views on things, and I hope that it'll rub off a bit on them[^1].

@@ -9,6 +9,7 @@ categories: []
 tags:
     - GC
     - writing
+blyg_id: 2jv7xwmpyjkkw4bmmdzvbphbnh
 ---
 
 <p>There is a  new bit at the start of the 2 day workshop that I do that deals with a lot of the general theory of using GC, it's still got a long way to go before it's perfect, but it's currently lopping about half a day off the time taken to get to the end of what was previously the end of the workshop.you can find the PDF presentation <a href="http://www.notionparallax.co.uk/GC/GC%20theoretical%20framework.pdf" target="_blank">here...</a></p>

@@ -11,6 +11,7 @@ tags:
     - geek
     - linode
     - server
+blyg_id: 530k2r83ehs0x4rejfeq11mbkc
 ---
 
 <p>One of the reasons that I've been so remiss with posting recently (as in for the last 2 years) is that my old server had got so old that it wouldn't let me. I've scrapped the surpass server, and I've got a shiny Linode box in Tokyo that lets me do all kinds of Ubuntu magic.</p>

@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552807"
+blyg_id: 1y21ns7tp27qze6g80k3dschx4
 ---
 
 <p>I've been ranting about humility <a title="Major study – for those with a lot of patience" href="https://notionparallax.co.uk/2011/major-study-for-those-with-a-lot-of-patience">for a while</a>. Whilst I still think that it is too rare; I have been seeing a few examples of it. I thought that it might be worth making a place to store them.</p>

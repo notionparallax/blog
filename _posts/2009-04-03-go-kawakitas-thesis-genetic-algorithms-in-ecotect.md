@@ -17,6 +17,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552070"
+blyg_id: 79t0ftwx6r1yqbq8fq0979xgh6
 ---
 
 Go Kawakita now works for Foster &amp; Partners, but last year I was one of his thesis supervisors when he was doing his masters in energy efficient &amp; sustainable design at Oxford Brookes.

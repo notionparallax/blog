@@ -11,6 +11,7 @@ tags:
     - coffee
     - geek
     - hardware
+blyg_id: 5pgv2vgjcje0k8wz0aj0kx39rz
 ---
 
 <p>[caption id="attachment_290" align="alignleft" width="233" caption="my current coffee making setup"]<a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2009/10/coffeeKit500.png"><img class="size-medium wp-image-290 " title="coffeeKit500" src="{{ site.baseurl }}/assets/coffeeKit500-233x300.png" alt="my current coffee making setup" width="233" height="300" /></a>[/caption]</p>

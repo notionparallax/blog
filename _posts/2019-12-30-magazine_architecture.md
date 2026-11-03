@@ -18,6 +18,7 @@ twitter-body: "Chapter 5 of How Buildings Learn: Magazine Architecture"
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 19/How_Buildings_Learn.png
+blyg_id: 7h420dmm863p7dq8zc9nhdhvcd
 ---
 
 <style>

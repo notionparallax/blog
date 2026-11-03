@@ -9,6 +9,7 @@ categories: []
 tags:
     - flying
     - turning japanese
+blyg_id: 71za8q88naz412smavntq9eqgr
 ---
 
 <p>I promise I'll blog more, honest.</p>

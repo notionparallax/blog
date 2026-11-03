@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503551952"
+blyg_id: 4yy27ddd66bxpfkk8ztd4a7fpx
 ---
 
 <p>So, it's official, SG will be in San Francisco between the 27<sup>th</sup> March and the 1<sup>st</sup> April 2009.</p>

@@ -11,6 +11,7 @@ tags:
     - presentations
     - startup
     - studio
+blyg_id: 1wta1zh6m4rjs80hb75aaewn42
 ---
 
 My studio has just had what I suppose you could call their mid semester crits.

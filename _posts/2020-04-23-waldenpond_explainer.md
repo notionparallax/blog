@@ -19,6 +19,7 @@ twitter-body: "I've made a zine that you can subscribe to, it's full of articles
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://waldenpond.press/img/frontPageImage.jpg
+blyg_id: 3vqgq1ybrvff1cpv9ma8tys4cs
 ---
 
 There are a lot of interesting articles online, and so little spare attention to read them. The Walden Pond zine is my way of fixing that. I thought it would be worth sharing that with other people too, so you can subscribe to Walden Pond yourself now. If you're interested in how it works around the back, I'll be doing a post on that soon.

@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - interaction
+blyg_id: 7fvfmdezn0bm2hjsfkytdj8syy
 ---
 
 <div style="text-align: center;"><img title="screenshot" alt="screenshot" src="{{ site.baseurl }}/assets/flow.jpg" /></div>

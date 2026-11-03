@@ -11,6 +11,7 @@ tags:
     - education
     - future
     - rant
+blyg_id: 4m78hph4cew4h9znx67eb8r42a
 ---
 
 <p>These two tweets showed up this morning within about an hour of each other. There was a lot of discussion by panelists at the <a title="the talks shop videos aren't actually there yet, but you can watch the cluster summaries" href="http://vimeo.com/smartgeometry/videos">SG</a> talkshop about what _ought_ to be on the curriculum in architecture schools to equip students for future practice. Some said compulsory biology courses, others said compulsory physics, and a few days before <a href="https://twitter.com/#!/Mcfblair">MB</a> and I had been discussing the merits of including some industrial design courses into the course gamut.</p>

@@ -12,6 +12,7 @@ author-name: Ben Doherty
 description: Exploring an idea about how we might work/lead, very much a WIP
 twitter-body: Exploring an idea about how we might work/lead, very much a WIP
 featuredimg: .
+blyg_id: 7jc7081wg5kdwkfh4skj2sxxy3
 ---
 
 This is still early days for this. I'm in the middle of editing, I'm trying out a new way of writing essays _with_ AI rather than doing it all solo, or all AI. There's a LOT to do here, but we're getting there.

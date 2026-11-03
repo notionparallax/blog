@@ -12,6 +12,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: "Major study appendix: Question set"
+blyg_id: 3j4wcc1y9q4rytrvggvq4qa2vx
 ---
 
 <style type="text/css">

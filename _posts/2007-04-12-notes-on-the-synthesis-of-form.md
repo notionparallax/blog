@@ -11,6 +11,7 @@ tags:
     - books
     - geek
     - masters
+blyg_id: 259atdbzgh0zeghsya4vbahcx2
 ---
 
 <p> <img src="{{ site.baseurl }}/assets/0674627512.jpg" title="book cover, exciting isn't it!" alt="book cover, exciting isn't it!" align="left" height="254" width="164" /></p>

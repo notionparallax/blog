@@ -14,6 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503551690"
+blyg_id: 5jh9scq3anq82whra62j318sy0
 ---
 
 <p>I've been breaking all my own rules, I've just been jumping into trying to write this program without really thinking about how it'll all go together.This'll hopefully make it clear.</p>

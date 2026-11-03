@@ -14,6 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503551795"
+blyg_id: 44pqhghsvkqkrzp3jgz89hsdst
 ---
 
 <p>I seem to have taken a pretty long walk away from architecture recently, so I thought I'd do something to contribute to the profession again. </p>

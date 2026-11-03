@@ -17,6 +17,7 @@ twitter-body: A startup idea that I'm too lazy to implement
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/radioempire.jpg
+blyg_id: 4qfe9aer8f5f3rtstyz1xbecnh
 ---
 
 I had this idea a little while ago, but I doubt I'll ever get around to doing anything with it, so feel free to build it out into million dollar business. Maybe, if you do, you could buy me a beer.

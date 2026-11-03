@@ -9,6 +9,7 @@ categories: []
 tags:
     - geek
     - tutorials
+blyg_id: 5k365raw19n5qpnyhf3yp19dtm
 ---
 
 <p><img class="alignleft size-full wp-image-191" title="thermo1" src="{{ site.baseurl }}/assets/thermo1.png" alt="thermo1" width="157" height="454" />I felt pretty stupid for a couple of days trying to wire a slider up to a property in Expression Blend. I finally figured it out, so I thought I'd share the love as I didn't see any tutorials on line.</p>

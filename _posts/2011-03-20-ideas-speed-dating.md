@@ -13,6 +13,7 @@ tags:
     - teaching
     - tutorials
     - UTS
+blyg_id: 71r867rvtfk8k5pnsbse8be4rn
 ---
 
 <p><img src="{{ site.baseurl }}/assets/P3180348.JPG" alt="Mel and Sandra getting stuck into some ideas" title="Mel and Sandra (foreground) getting stuck into some ideas amid the din of all the other ideas!" style="width:500px;" /></p>

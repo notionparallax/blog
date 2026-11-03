@@ -12,6 +12,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: "Major study: Question answering experience"
+blyg_id: 3g9qzcwwdg0v8641d218asn25r
 ---
 
 <p> </p>

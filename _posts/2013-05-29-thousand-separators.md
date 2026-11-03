@@ -15,6 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552939"
+blyg_id: 3fhtt6t65xw1fmt0ngp25vs5kj
 ---
 
 <p>There's been some discussion about the correct way to write numbers today at work. Here's my take on it:</p>

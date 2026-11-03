@@ -12,6 +12,7 @@ tags:
     - passport
     - smart geometry
     - trips
+blyg_id: 3c70bnzd4dc1m2zxwkcpzm6k74
 ---
 
 <p>The first day of <a href="http://www.smartgeometry.org/">Smart Geometry</a> is more or less over now, last night's tutors' dinner is now just a memory and a crumpled receipt in someone's pocket.</p>

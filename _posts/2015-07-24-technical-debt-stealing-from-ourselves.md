@@ -14,6 +14,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: "Technical debt: stealing from ourselves"
     _thumbnail_id: "1810"
+blyg_id: 44yxqdj73n5zr0d1q7c5sqsdcv
 ---
 
 <p>Technical debt is a concept that's pretty well established in programming teams. Technical debt is a lot like sleep debt; where you burn the candle at both ends for a while. No matter how much you would like to, you can't keep it up forever. Eventually you'll fall asleep in a meeting or while driving.  You can think of the effects like a loan too, as you get less sleep and become more tired, you end up paying interest on that sleep loan in the form of irritability or lowered effectiveness. In the end the cost of interest becomes more than the benefits of not sleeping.</p>

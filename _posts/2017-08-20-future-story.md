@@ -17,6 +17,7 @@ twitter-body: A messy story that tries to resolve some of my ideas
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: http://cdn2-www.comingsoon.net/assets/uploads/2017/05/Jetsons.jpg
+blyg_id: 6jzs3tvpqhy7xar2xkmg7w7h9m
 ---
 
 <style>

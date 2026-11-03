@@ -13,6 +13,7 @@ tags:
     - life
     - rmit
     - trips
+blyg_id: 0xgh82ek8x6fm1msaqxbqebsg8
 ---
 
 <p>Term has started here, and things have got considerably more hectic. I'm doing an elective to do with food production and distribution in the city, and one called 'death by architecture' which is basically entering loads of competitions.

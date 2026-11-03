@@ -18,6 +18,7 @@ twitter-body: "All the checklists I use when I'm diving, at least in theory"
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg:
+blyg_id: 5szevwseh1y7zpb2cy2me3cmf3
 ---
 
 <style>

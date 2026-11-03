@@ -9,6 +9,7 @@ categories: []
 tags:
     - future
     - geek
+blyg_id: 34gsymp5tgmgpcdakrs94vxhk0
 ---
 
 <p><embed src="http://images.video.msn.com/flash/soapbox1_1.swf" id="7cj40bo8" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" pluginspage="http://macromedia.com/go/getflashplayer" flashvars="c=v&amp;v=a517b260-bb6b-48b9-87ac-8e2743a28ec5&amp;ifs=true&amp;fr=shared&amp;mkt=en-GB" width="490" height="412"></embed></p>

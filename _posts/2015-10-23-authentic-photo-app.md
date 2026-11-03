@@ -15,6 +15,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
     _thumbnail_id: "2043"
     _wpas_mess: '"Authentic" photo app, or "duck face catcher/shamer" idea'
+blyg_id: 70er05f75c79t7kzt24nw6z8mc
 ---
 
 <p>There seems to be a widespread obsession with "authenticity" at the moment. I think it might be the next "natural ingredients"[1. rather than supernatural ingredients?]. Having just been on an extremely long holiday I've seen a lot of people posing really hard to get their _authentic_ selfies just right. There's a lot of work that goes into curating a perfect life. It seems to <a href="http://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html">harm that the people that observe only the _most perfect_ snippets of that person's life</a> too. What about an app that makes the <a href="http://www.overcomingbias.com/2015/05/what-is-signaling.html">cost of signalling</a> that perfect life a bit higher?</p>

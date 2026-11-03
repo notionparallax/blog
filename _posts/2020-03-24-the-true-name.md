@@ -18,6 +18,7 @@ twitter-body: It turns out that you can make 125 million two-syllable words in E
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://ekostoriesdotcom.files.wordpress.com/2013/07/shevek-dispossessed.jpg
+blyg_id: 3qnjyq2z71z7cb7yzdbez14dqb
 ---
 
 <style></style>

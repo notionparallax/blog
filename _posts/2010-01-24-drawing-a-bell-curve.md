@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - GC
+blyg_id: 781nnrtee2s06ha1b6w0fw4354
 ---
 
 <p>I've got to Illustrate why questions on a questionnaire need to be of a range of difficulties. If they are all too hard then the distribution of answers will all be pushed up to one end, and too easy, the opposite. So I needed to <a href="http://en.wiktionary.org/wiki/yak_shaving">shave a yak</a> until I had a good way to show this.</p>

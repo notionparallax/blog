@@ -9,6 +9,7 @@ categories: []
 tags:
     - hardware
     - life
+blyg_id: 6bgh6rbvwbdnt2yby4b8q1e759
 ---
 
 <p>If anyone tries calling me in the next few days, there is only a very tiny chance that I will pick up.</p>

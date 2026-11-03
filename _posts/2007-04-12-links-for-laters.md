@@ -15,6 +15,7 @@ enclosure: |-
     http://www.green-ideas.com/wiggle/MOV00091.MPG
     6058911
     video/mpeg
+blyg_id: 5xxn68a82dtsj9nk33855h5t9k
 ---
 
 <p>here's some links, cool eh, we all love links.</p>

@@ -15,6 +15,7 @@ meta:
     _wpas_mess:
         "Why Postednot.es ? How lean can I be, and how can the lazy become internet
         millionaires: step 4) PROFIT!! http://wp.me/p3wwRK-qv"
+blyg_id: 24djds6q92h4kvbmmvnervs728
 ---
 
 <style type="text/css">

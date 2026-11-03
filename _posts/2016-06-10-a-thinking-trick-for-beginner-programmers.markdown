@@ -17,6 +17,7 @@ twitter-body: Doing ghetto TDD as a way to think as a beginner programmer
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/gap.gif
+blyg_id: 78kf2twgjzjvxhqcmqtsbkdwn6
 ---
 
 I've taught programming to a lot of people who don't have a STEM background; mostly architecture students. The myth is that architects know a lot of maths, but that's mostly false[^1]. That said, they are totally sold on the idea of programming as a creative medium, and often have a good idea of their intended outcome. They know where they want to go, but get frustrated because they can't get there.

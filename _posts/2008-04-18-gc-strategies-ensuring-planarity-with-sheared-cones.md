@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - GC
+blyg_id: 3va8ms0b2jzrprh1zp7a95y46a
 ---
 
 <p><span id="spBody" class="Forum_Normal">here's another strategies tutorial, there is a pdf and gct that's more beautifully formatted over at <a href="http://www.gcuser.com">GCuser.com</a> in the gallery.</span></p>

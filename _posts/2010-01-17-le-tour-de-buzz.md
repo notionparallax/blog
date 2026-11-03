@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552231"
+blyg_id: 23e5ezakerrnhs5ws7hjdgcr8r
 ---
 
 I <a href="https://notionparallax.co.uk/2009/tour-of-disloyalty">promised to organise a coffee crawl a while ago</a>, so here it is.

@@ -10,6 +10,7 @@ tags:
     - diploma
     - enhancement
     - future
+blyg_id: 27766cchqcw57357t5vz423ewa
 ---
 
 <p>It seemed fitting that while I struggled to print this semester's work, that I should be thinking about the next one. Now that I've finished this semester I can start writing it all down...</p>

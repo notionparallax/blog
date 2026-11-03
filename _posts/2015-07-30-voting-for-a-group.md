@@ -21,6 +21,7 @@ meta:
     _wpas_mess: Voting for a group - some thoughts and observations and stuff
 
 has-math: true
+blyg_id: 5w4r8h5emd7r6pfhfvwmdtgv4a
 ---
 
 <style type="text/css">

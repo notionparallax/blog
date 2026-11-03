@@ -14,6 +14,7 @@ tags:
     - GC
     - glass
     - Melbourne
+blyg_id: 1cwyc9th3sfn9mr3m94n4wx3z1
 ---
 
 <p><a href="http://www.walkingmelbourne.com/forum/viewtopic.php?f=23&amp;t=5944"><img class="alignnone" src="{{ site.baseurl }}/assets/5455271ml1223600552.jpg" alt="" width="45%" /></a><a href="http://www.tourism.vic.gov.au/piecesofvictoria/december_2009/index.php?page=melbournes_newest_asian_cuisine_and_retail_complex"><img class="alignnone" src="{{ site.baseurl }}/assets/Village%20redevelopment%20-%20artist%20impression.jpg" alt="" width="45%" /></a></p>

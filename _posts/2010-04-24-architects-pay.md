@@ -14,6 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552740"
+blyg_id: 15emhzpqw87s66bgmx637yd0f5
 ---
 
 <p>I've just posted this on <a href="http://www.facebook.com/topic.php?topic=50&amp;post=234&amp;uid=110216182335329#!/topic.php?uid=110216182335329&amp;topic=50">one of the discussion</a> pages of the Facebook group _<a href="http://www.facebook.com/topic.php?topic=50&amp;post=234&amp;uid=110216182335329#!/group.php?gid=110216182335329">Architects against low pay</a>_.</p>

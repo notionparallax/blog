@@ -11,6 +11,7 @@ description:
 meta:
     _publicize_facebook_user: https://www.facebook.com/ben.doherty1
     _publicize_twitter_user: "@notionparallax"
+blyg_id: 4ewz92jc6p3py0kj82mcrn8p1x
 ---
 
 <p>Trying to describe a workout using a logging tool like beyond the whiteboard is pretty hard if your coach likes to be a bit creative with his programming. I was wondering if there was much merit in trying to use ruby to describe the workouts.<br />

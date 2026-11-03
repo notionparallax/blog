@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503551871"
+blyg_id: 7692mp34x96r9bzw8znkfrytwb
 ---
 
 <p>here's a little flick through a sequence of how a multi touch floor could work in a train station to make the experience "well betta' "</p>

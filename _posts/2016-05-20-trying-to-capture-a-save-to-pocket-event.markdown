@@ -17,6 +17,7 @@ twitter-body: Here's how I fire a GA event when someone saves my page to Pocket 
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/pocket.jpg
+blyg_id: 149vyjwt8swwyf3xxqzb60bvbs
 ---
 
 I wanted to be able to track how many people save articles to Pocket from this site. I thought that given how much [I use](http://notionparallax.co.uk/2014/offline-reading) [Pocket](https://getpocket.com/@ben.doherty), other people who read my stuff might do the same.

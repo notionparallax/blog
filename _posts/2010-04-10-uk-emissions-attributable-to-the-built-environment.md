@@ -10,6 +10,7 @@ tags:
     - emissions
     - major study
     - thinking
+blyg_id: 5dx9svz8nt3bgb82g2ytp3a60m
 ---
 
 <p>I’m trying to write about how much the built environment contributes to UK CO<sub>2</sub> emissions, and i’m finding it to be very murky.</p>

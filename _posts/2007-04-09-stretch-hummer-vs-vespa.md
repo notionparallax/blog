@@ -10,6 +10,7 @@ tags:
     - eco stuff
     - scooter
     - trips
+blyg_id: 3nws1d2c3w723kd0gyy10d4jsc
 ---
 
 <p><img src="{{ site.baseurl }}/assets/h2vsVespa.jpg" alt="mine's black though" title="mine's black though" align="left" /></p>

@@ -10,6 +10,7 @@ tags:
     - architecture
     - geek
     - hardware
+blyg_id: 2va72wbgs5e6nw8mp2zdf5xxxj
 ---
 
 <p>upon getting stuck into any seemingly simple problem, more complicated things always seem to arise.</p>

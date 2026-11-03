@@ -12,6 +12,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: Deep work, and my first steps
+blyg_id: 5tvy1tmv8m5hejkm9jp41ecbhj
 ---
 
 I just read <a href="https://www.goodreads.com/book/show/27985224-deep-work">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport. It sits well with a lot of the stuff I've been reading recently as a member of the commons at BVN. His main argument is that being able to do deep work gives you a huge competitive advantage.

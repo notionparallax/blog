@@ -10,6 +10,7 @@ tags:
     - ecotect
     - GC
     - life
+blyg_id: 7dzs8rfg79gwxw3wfysypdk0sd
 ---
 
 <p>i'm feeling quite grown up, i've just go myself my second piece of legal commercial software (third if you include windows)</p>

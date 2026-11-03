@@ -9,6 +9,7 @@ categories: []
 tags:
     - ecotect
     - geek
+blyg_id: 2cmdpc9fcc9a5yb6zannybaefa
 ---
 
 <p>I've been telling people that turning up the analysis resolution on their Ecotect models is a bad idea, but I'd never stopped to figure out just how bad.</p>

@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - climbing
+blyg_id: 7agmwycx80d1v2s147hjgev27m
 ---
 
 <p><img src="{{ site.baseurl }}/assets/charlieChat.gif" height="382" width="361" /></p>

@@ -12,6 +12,7 @@ tags:
     - gardening
     - house keeping
     - life
+blyg_id: 018wwg2esnepg3k25h5zy4ss8r
 ---
 
 <p><img src="{{ site.baseurl }}/assets/greenmyhouse.jpg" title="the bit in the middle will be full of tomatoes soon!" alt="the bit in the middle will be full of tomatoes soon!" height="483" width="480" /></p>

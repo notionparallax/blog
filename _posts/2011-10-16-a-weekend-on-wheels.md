@@ -15,6 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552785"
+blyg_id: 3nza7y9b7sarrf9nc6hpsc0e8p
 ---
 
 <p>I had a bit of mixed weekend of cycling. Friday night was the <acronym title="Bicycle film festival">BFF</acronym> Goldsprints, and after doing OK in last years event I felt that I ought to give it a go.</p>

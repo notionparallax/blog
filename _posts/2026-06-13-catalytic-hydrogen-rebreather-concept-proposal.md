@@ -12,6 +12,7 @@ author-name: Ben Doherty
 description: "Concept proposal for a catalytic hydrogen rebreather architecture to reduce H2-to-He switch risk and manage ICD during ascent."
 twitter-body: "Concept proposal for a catalytic hydrogen rebreather architecture and ICD-aware ascent gas transition."
 featuredimg:
+blyg_id: 1ptngvk1bar9263gevgpf2v4a2
 ---
 <!-- markdownlint-disable MD040 MD060 -->
 

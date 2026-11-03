@@ -9,6 +9,7 @@ categories: []
 tags:
     - GC
     - geek
+blyg_id: 0cs9begahn11knfc48a2ygh61n
 ---
 
 <p><img class="alignleft" src="{{ site.baseurl }}/assets/OpenPlatformPoster.jpg" alt="sg poster" width="300" height="284" /> There is going to be a Smart geometry workshop at the end of this month at TU Delft.<br />

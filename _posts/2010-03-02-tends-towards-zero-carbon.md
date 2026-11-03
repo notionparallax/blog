@@ -14,6 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552721"
+blyg_id: 4rytgdyqtjk28z2gn2t1xvj9wb
 ---
 
 <p>There are a few things that I want you to hold in your mind for a second.</p>

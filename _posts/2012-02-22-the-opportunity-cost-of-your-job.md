@@ -11,6 +11,7 @@ tags:
     - life
     - thinking
     - writing
+blyg_id: 2ywwdat6zg6t0rjnr2tm77cwc2
 ---
 
 <p>I have a theory:</p>

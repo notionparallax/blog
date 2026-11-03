@@ -17,6 +17,7 @@ author:
     display_name: Ben
     first_name: Ben
     last_name: Doherty
+blyg_id: 06qzktfe5mtk81nfjgxtnvap95
 ---
 
 <p>tl;dr. This might be a way to aggregate all the productivity and wellbeing advice, whilst keeping it personal to you, and avoiding too much dogma.</p>

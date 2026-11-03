@@ -11,6 +11,7 @@ tags:
     - Bath
     - coffee
     - organisation
+blyg_id: 5nkvhw96shwrjjdbq1kd0p0q3a
 ---
 
 <p> To  say that I'm a little disorganised* would be a gross understatement  of the truth, but I'm developing ways to deal with it.</p>

@@ -9,6 +9,7 @@ categories: []
 tags:
     - GC
     - teaching
+blyg_id: 4fjsxan66wyz4g0kwqwp5tmq5t
 ---
 
 <p><img src="{{ site.baseurl }}/assets/gc1.jpg" width="500" height="451" /></p>

@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552008"
+blyg_id: 1rppgs2snsep4h81pk668pg880
 ---
 
 <p><img src="{{ site.baseurl }}/assets/save-256x256.png" alt="shamelessly stolen from http://www.iconarchive.com/show/toolbar-icons-by-ruby-software/save-icon.html" width="256" align="right" />Due to some peculiarities in how GC handles it's saves I had to explain to someone the other day that they needed to click on the icon with the floppy disk on it.</p>

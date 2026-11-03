@@ -15,6 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552413"
+blyg_id: 4amg96jme3vrj77s3kqpn04d6c
 ---
 
 <p>A few weeks ago I got sick of being constantly sore after exercise and I bought some <a href="http://www.optimumnutrition.com/products/Platinum-Hydrowhey-p-271.html">protein powder</a> from some <a title="Health nuts" href="http://maps.google.com.au/maps?q=health+nuts+kings+cross&amp;ll=-33.875324,151.222748&amp;spn=0.002044,0.003962&amp;fb=1&amp;gl=au&amp;cid=0,0,11995746981336015269&amp;t=h&amp;z=19&amp;vpsrc=6">nice french chaps</a> in Kings Cross. I'd always thought of it as a massive con, but miraculously I felt fine the next day after an epic gym session, so I kept going, and I've felt great after everything I've done since.</p>

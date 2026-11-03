@@ -11,6 +11,7 @@ tags:
     - Ruby
     - SketchUp
     - teaching
+blyg_id: 6ehft885xjdw6302h4gfkqnhdp
 ---
 
 <p><a href="http://bvnruby.wordpress.com/lesson-1/"><img class="alignright" title="strings" src="{{ site.baseurl }}/assets/imag0137.jpg?w=584" alt="" width="280" height="265" /></a>I've just started running a set of Ruby programming lessons for Sketchup here in the studio at BVN.<br />

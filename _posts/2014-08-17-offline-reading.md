@@ -15,6 +15,7 @@ meta:
         Offline reading - here's how I do it. Any ideas on how to make it better?
         http://wp.me/p3wwRK-r5
     dsq_thread_id: "4503553574"
+blyg_id: 775wtqw78b1xx56r3nzg8j1jrh
 ---
 
 <style type="text/css">

@@ -13,6 +13,7 @@ tags:
     - leaflet
     - maps
     - voronoi
+blyg_id: 7d910jwvtyn8p3swzg92pvprv6
 ---
 
 <p>I've been pretty interested in what you can do with maps recently. There are loads of really nice map tools coming out for<a href="http://www.openstreetmap.org/"> Open Street Maps</a> (<a href="http://leafletjs.com/">leaflet</a>, <a href="http://www.mapbox.com/">mapbox</a>, <a href="http://www.mapbox.com/tilemill/">tilemill</a>, and more), and there will probably be a load more for Google maps since their <a title="cnet reports" href="http://reviews.cnet.com/8301-3513_7-57584722/navigating-the-changes-to-google-maps-at-i-o-2013/">announcements at IO</a>.</p>

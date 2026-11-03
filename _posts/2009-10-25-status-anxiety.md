@@ -11,6 +11,7 @@ tags:
     - future
     - major study
     - thinking
+blyg_id: 5xj47r9h0eanfhjrsvw38q5ecy
 ---
 
 <p>For the last couple of years I've been becoming increasingly interested in what the future is going to be like, and the methods employed to predict its nature.<br />

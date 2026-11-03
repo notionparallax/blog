@@ -13,6 +13,7 @@ tags:
     - house keeping
     - life
     - rmit
+blyg_id: 39pd6dhm7pb8vvsfj0cvpsq25h
 ---
 
 <p>right, I've been awake for 20 hours now, and i'm showing no signs of slowing down, a double hit of <a href="http://www.newscientist.com/article/mg18925391.300" title="mmm, go pills!">modafinil</a> at 5:30 today showed it's usual 16 hour hill, but thanks to a big sugary hit of hot chocolate hit, i'm bouncing like loon to <a href="http://www.ninjatune.net/solidsteel/" title="DK and Food get funky!">solid steel radio</a> (the savior of my sanity during my third year of degree, but foolishly forgotten)</p>

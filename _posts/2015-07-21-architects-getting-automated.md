@@ -9,6 +9,7 @@ categories: []
 tags:
     - BVN
 description: Why "Architects are safe from automation" misses the point, and what happens next.
+blyg_id: 10dqp48s9zw3sxa27zz0zek3v1
 ---
 
 <a href="http://www.architectmagazine.com/technology/why-architects-cant-be-automated_o">Daniel Davis writes that he doesn't think that architects can be automated</a>. I know Daniel a little bit, he's _very_ switched on. I think he watered down the conclusion to that article to please the audience. Readers of Architect magazine aren't likely to be receptive to being told that they are a few years away from being automated out of existence. I think he took it as close to that as he could get away with.

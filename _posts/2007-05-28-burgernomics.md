@@ -9,6 +9,7 @@ categories: []
 tags:
     - economics
     - geek
+blyg_id: 5khs1ynkxsbzezd5jnwpmrd17n
 ---
 
 <p><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /><img src="{{ site.baseurl }}/assets/200px-BigMacAustralia.jpg" height="150" width="200" /></p>

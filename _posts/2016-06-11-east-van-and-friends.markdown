@@ -17,6 +17,7 @@ twitter-body: How many words can you pair up like the East Van Sign?
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/east-van1.jpg
+blyg_id: 2he4abvcd10y43w9ey6pe1wdgf
 ---
 
 <style type="text/css">

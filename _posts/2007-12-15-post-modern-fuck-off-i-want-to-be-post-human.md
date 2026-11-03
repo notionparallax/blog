@@ -10,6 +10,7 @@ tags:
     - architecture
     - cool links
     - economics
+blyg_id: 7cc8x8573frj7fjmkmrftkjajh
 ---
 
 <p>having been to a few of the james martin institute lectures and seminars this term I've been getting really interested in the idea that we may be approaching a singularity point in human development. technology is getting to the point that  whatever it is that sucks about being a human, we have the power to do something about it.</p>

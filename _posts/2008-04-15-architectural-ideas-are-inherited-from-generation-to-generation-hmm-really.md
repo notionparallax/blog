@@ -10,6 +10,7 @@ tags:
     - architecture
     - australia
     - writing
+blyg_id: 06zh916ptdrgm8vx06mqr97mf5
 ---
 
 <p>This is my Thinking Architecture essay, i thought i'd got out of doing it, but obviously not.<br />

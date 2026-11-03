@@ -14,6 +14,7 @@ tags:
     - Oxford Brookes
     - psychology
 description: My major study thesis, it explores architects' decision making calibration.
+blyg_id: 4pa0yd4wpwb9qbqsa19j4da026
 ---
 
 <style type="text/css">

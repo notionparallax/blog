@@ -10,6 +10,7 @@ tags:
     - cool links
     - geek
     - interaction
+blyg_id: 46z4gxz6prqnwx6ngtj6gthhc7
 ---
 
 <p>the <a href="http://www.danacentre.org.uk/">dana centre</a> has put on a really interesting (but sadly under attended) series of workshops and talks.<br />

@@ -11,6 +11,7 @@ tags:
     - mcdonalds
     - rational
     - thinking
+blyg_id: 72ah0hmhddgdz3ja5f7k4z5mcs
 ---
 
 <p>It has probably been  about ten years since I ate a McDonalds meal, in the beginning it was probably some sort of youthful, <a title="The book by Naomi Klein anti-globalisation rant" href="http://en.wikipedia.org/wiki/No_Logo">No Logo</a> inspired, idealism - probably reinforced by watching <a href="http://en.wikipedia.org/wiki/Super_Size_Me">Super Size Me</a>. I do vaguely remember quite enjoying eating BigMacs and especially enjoying their fries, but through a combination of the health implications and the globalisation/ethical concerns I stopped eating their food.</p>

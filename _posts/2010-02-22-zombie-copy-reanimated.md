@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - writing
+blyg_id: 017j6x63pfqsq71gmsj8x2613v
 ---
 
 <p><a href="http://www.alistapart.com/articles/zombiecopy/"><img class="alignright" title="Zombie Copy" src="{{ site.baseurl }}/assets/proofers_tools.jpg" alt="Axe writer" width="260" height="405" /></a>Take a look at this article: <a href="http://www.alistapart.com/articles/zombiecopy/">Zombie Copy</a>.</p>

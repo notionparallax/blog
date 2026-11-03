@@ -2,8 +2,9 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:blyg="https://blygger.org/ns/0.1">
   <channel>
+    <blyg:manifest>{{ "/blyg.json" | prepend: site.url }}</blyg:manifest>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>

@@ -15,6 +15,7 @@ tags:
 description:
 meta:
     _wpas_mess: Dangerous addiction to learning - a ramble about skills http://wp.me/p3wwRK-pA
+blyg_id: 4y1s2atwjstt0snbc4fnkqe2qr
 ---
 
 <p>Back in 2006 I was a wide eyed and optimistic attendee at the Cambridge (UK) Smart Geometry workshop and conference. I'd just written my <a title="dissertation" href="http://notionparallax.co.uk/?p=170">undergrad dissertation</a> on the use of computers in architecture and I had it all ahead of me. I wasn't really up to speed with <a href="http://en.wikipedia.org/wiki/Time_complexity">time complexity</a>[^1] so I thought that given enough smart people and silicone we could solve all the worlds problems just with "optimisation"[^2].</p>

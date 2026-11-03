@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "As I set up my new kitchen, what tools should I get first to let me make the most food? Here's one way to find out I suppose!"
+blyg_id: 692n3teeqts7y5rfwnkc314se4
 ---
 
 I often say that 'this is the nerdyest thing I've ever done', but this is certainly in the running.

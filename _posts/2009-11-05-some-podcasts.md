@@ -14,6 +14,7 @@ enclosure: |
     9246057
     audio/mpeg
 dsq_thread_id: "4503552590"
+blyg_id: 331wbfch360vpc4z8hm8w6shp0
 ---
 
 <p>My dear readers, my capacity for providing witty insight is pretty limited, so today I am going to serve up some other people's chatterings to edify while my brain turns to ecstatic mush from eating <a href="http://www.youtube.com/watch?v=Z7CpMITDLYc&amp;feature=player_embedded">monster munch</a>.</p>

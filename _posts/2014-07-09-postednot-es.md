@@ -13,6 +13,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
     _thumbnail_id: "1636"
     _wpas_mess: PostedNot.es - hand written letters, without the faff!   http://wp.me/p3wwRK-qa
+blyg_id: 35qhap57kr0y22rqkxhwztd96y
 ---
 
 <p>Ladies and gents, allow me to introduce <a title="Posted Notes" href="http://postednot.es">postedNot.es</a>!</p>

@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503553347"
+blyg_id: 156sev69ds64bsj2m57pk7h034
 ---
 
 <p>For quite a while now I've been thinking about the effects of driverless cars. To begin with I didn't realise that this was what I was thinking about. When I was a student I looked at how to use car parks as schools and <a title="mushroom carpark" href="http://notionparallax.co.uk/?p=107">farms</a> once they no longer housed cars, but that'd getting off track - we haven't got to that point yet.</p>

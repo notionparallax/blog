@@ -14,6 +14,7 @@ tags:
     - Stan McChrystal
     - thinking
 description:
+blyg_id: 21rw55cfhbe90am4cp4gkrxqpw
 ---
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>

@@ -12,6 +12,7 @@ description:
 meta:
     _wpas_mess: A couple of little ideas
     _publicize_twitter_user: "@notionparallax"
+blyg_id: 3q4ed8pmwmfcpwatx6ymgcbfh8
 ---
 
 <p>I feel like I'm a bit less constrained now that the first milli workshop is out of the way so I thought I'd just get some other ideas down. I haven't looked very hard to see if they exist; if they do that that's great and I'd love to hear about them!</p>

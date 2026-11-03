@@ -9,6 +9,7 @@ categories: []
 tags:
     - blogs
     - life
+blyg_id: 21fgdmy6q5z0a5k8jpw82vn8tx
 ---
 
 <p>I'm subscribed to quite a lot of blogs. It struck me the other day that ones that I'm most attached to have very little to do with my field. Actually, they are specifically aimed at other fields. My top three of these are below, but if you have any suggestions then I'd love to hear them.</p>

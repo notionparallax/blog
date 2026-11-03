@@ -11,6 +11,7 @@ tags:
     - food
     - hardware
     - Sydney
+blyg_id: 3eep8w308wybxjez5g1ft8j3n1
 ---
 
 <p>A long time ago I posted my<a title="coffee making" href="https://notionparallax.co.uk/2009/coffee-making"> coffee making setup</a>, I was pretty pleased with it at the time, and I still think that it is about the best I'll ever get. That said, a full sized grinder is a bit of a chore to cart around the world, so I've finally rebuilt a setup for using here in&nbsp;Australia. <a href="https://www.facebook.com/profile.php?id=569721336">Dan's&nbsp;</a>babysitting&nbsp;my big grinder and I've tightened things up in general; downsizing so that I can get it all on my desk without adding to the general feeling that I'm a freak that there is at work.</p>

@@ -18,6 +18,7 @@ twitter-body: "A game to help you think about the future."
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://www.architecture.com/image-library/imagecache/galleryitems/82870.1.434.434.FFFFFF.jpeg
+blyg_id: 7mgsm4rj7mq2m9y84asdvbqy9x
 ---
 
 <!-- <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script> -->

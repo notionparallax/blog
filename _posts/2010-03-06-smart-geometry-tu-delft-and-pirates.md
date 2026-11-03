@@ -14,6 +14,7 @@ tags:
     - smart geometry
     - talks
     - video
+blyg_id: 47fkxxntdncphg32za8w23ac9g
 ---
 
 <p><img class="alignright" alt="SG open platforms poster" src="{{ site.baseurl }}/assets/OpenPlatform.gif" width="241" height="280" />In November there was a <a href="http://www.smartgeometry.org">Smart Geometry</a> event at<a href="http://c-p.bk.tudelft.nl/events/Open%20Platform.html"> TU Delft</a>. It was a really interesting event as it wasn't platform specific, so people were hacking away on whatever they fancied (GC, Grasshopper, Processing, C#).</p>

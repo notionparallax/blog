@@ -12,6 +12,7 @@ tags:
     - canyoning
     - life
     - trips
+blyg_id: 61e5c26hn1j4jhnkr00j1g20dn
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>

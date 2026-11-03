@@ -14,6 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552125"
+blyg_id: 2waa8wcmh4rxacs5gaydjkmde8
 ---
 
 <p>This afternoon I went to the the RIBA to see the London design computing group's latest get together. After being away on the other side of the world for the last 18 months, I was amazed to see how the tiny, intimate meetings we had running three years ago had exploded in popularity to the point where nobody had an office big enough to host it!</p>

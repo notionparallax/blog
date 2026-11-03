@@ -16,6 +16,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552307"
+blyg_id: 2dmqj6fd4sk5ys8a3cdt121zsq
 ---
 
 <p><img class="alignright" src="{{ site.baseurl }}/assets/item4043.jpg" alt="Snake screenshot" width="154" height="100" />Once upon a time  the only ones glued to their phone screens in public were spotty teenagers playing <a title="A history of 'Snake'" href="http://conversations.nokia.com/2009/01/20/history-of-nokia-part-2-snake/">snake</a>. I suppose I got a glimpse of the future on the Tokyo subway a while ago with everyone glued to their screens reading the news (I presume, it was all in Japanese).</p>

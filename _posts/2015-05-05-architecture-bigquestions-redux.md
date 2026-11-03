@@ -6,6 +6,7 @@ type: post
 published: true
 status: publish
 categories: []
+blyg_id: 21f88zw41hk36jpga7gv5pe0ac
 ---
 
 Last Thursday I took part in a search for architecture's big questions.

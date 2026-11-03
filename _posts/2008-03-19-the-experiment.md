@@ -10,6 +10,7 @@ tags:
     - architecture
     - geek
     - hardware
+blyg_id: 56m5m4y33mm320pbgtebn9qty0
 ---
 
 <p>In order to make any sort of meaningful map or information visualisation, I think you need a _lot_ of data, especially when it is related to the unpredictable nature of humans.</p>

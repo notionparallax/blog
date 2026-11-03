@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description: Can we ask mapping systems simple things like this? It's going to be important for conversational interfaces.
+blyg_id: 06xyfsngdw56vpthgzt4qjg8qp
 ---
 
 I'm writing a piece of speculative fiction to see if I can tie all my ideas about the future together. It's probably not very good but, as with this blog, I'm writing it as therapy for me, not to sell books. If I ever finish it I'll post it here[^1].

@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - GC
+blyg_id: 5ka0n6vvxw1f4ck6sz0wrc81me
 ---
 
 <p>There is going to be the Australian pre-training for this years Smart geometry conference this Monday and Tuesday.</p>

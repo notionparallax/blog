@@ -11,6 +11,7 @@ tags:
     - graph
     - mathematics
     - statistics
+blyg_id: 2gxgbhkwpj39vztxvww4cbjd50
 ---
 
 <p>I was always a bit confused by one of  the lyrics of Tricky's _Struglin'_ - "I think I'm more normal than most".</p>

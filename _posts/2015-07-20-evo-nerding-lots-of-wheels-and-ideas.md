@@ -19,6 +19,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
 
     dsq_thread_id: "4503553678"
+blyg_id: 3hh1dqc46wvypmw7aavpvsbw9w
 ---
 
 <p>In evolution organisms adapt to their environment.</p>

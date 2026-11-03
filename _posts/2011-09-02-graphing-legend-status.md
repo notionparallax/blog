@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552450"
+blyg_id: 2sv2n75rghzz4eapbf76qnc02t
 ---
 
 <p>I've just finished doing a 31 day challenge of doing 31 <a title="At the Darlinghurst studio" href="http://bikramyoga.net.au/Home.htm">Bikram yoga</a> classes in August. It was pretty hard going, especially about 3/4 of the way through when I was just feeling tired all the time, but in the last week it seemed to get a lot easier as I could feel it coming to an end. I liked the arbitrary nature of the challenge, no good reason for doing it other than because it was there.</p>

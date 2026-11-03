@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - books
+blyg_id: 0zgxww30fhkb0qcmbfh002j0f4
 ---
 
 If you are going to stop smoking, the advice is to tell as many people of your intention. The reasoning going something along the lines of 'if you tell a lot of people, and you fail, failure is embarrassing, so you put more effort into not failing'. Respect seems to be a powerful motivator!

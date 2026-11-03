@@ -12,6 +12,7 @@ tags:
     - eco stuff
     - emissions
     - laziness
+blyg_id: 6gcxst5sbn9qg7hzwmaxjtec8x
 ---
 
 <p>A while ago <a title="UK emissions attributable to the built environment?" href="https://notionparallax.co.uk/2010/uk-emissions-attributable-to-the-built-environment">I wrote about</a> the magical 45% number that is cited whenever anyone tries to justify their involvement in a built-environment project that seeks to reduce CO<sub>2</sub> emissions.</p>

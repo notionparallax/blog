@@ -12,6 +12,7 @@ tags:
     - home
     - house keeping
     - tip
+blyg_id: 1bep162cckaw7pmhhk8nj6wt3c
 ---
 
 <p>"Take a load of supermarket mushroom bags home to put your compost into."</p>

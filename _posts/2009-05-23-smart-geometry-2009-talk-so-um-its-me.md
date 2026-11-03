@@ -11,6 +11,7 @@ tags:
     - GC
     - geek
     - video
+blyg_id: 2s5ze3w46w02by40vr5qjbmq0q
 ---
 
 <p>The videos from the Smart Geometry conference and alumni day are finally up. <a href="http://www.bentley.com/en-US/Promo/SmartGeometry/2009/Conference.htm">Look here for them</a>, you might need to log in, which is a drag, but just make up a name</p>

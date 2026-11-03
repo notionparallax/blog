@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
+blyg_id: 1dkw76aqhfa0nx9yqdaxjxe1dw
 ---
 
 <p>As I get busier, I find that it's important to streamline my procrastination. I've done my procrastinating for today, so a little meta procrastination is in order.<br />

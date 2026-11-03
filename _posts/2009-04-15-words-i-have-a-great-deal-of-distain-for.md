@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552360"
+blyg_id: 051cw7d3hhghmpw1myrdnxbcq5
 ---
 
 <p>I don't want to bang on about this too much today, as I've got a much more spectacular tirade planned, but I wanted to single out these two words for a particular savaging.when I hear otherwise intelligent people use these words, it makes me sad and angry. Sad that they have been sucked into the collective delusion that they are good words to use, and angry that nobody has the courage to stand up and say '_Stop! these words make you sound like an idiot._'</p>

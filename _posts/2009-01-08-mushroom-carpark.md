@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
+blyg_id: 6ja5rzp4p9d882vc1dh7vh4tf0
 ---
 
 <p>I just found a piece of my work <a href="http://ecoinnovationlab.com/design-studios/meals-in-metropolis" target="_blank">published on the VEIL website</a>!</p>

@@ -9,6 +9,7 @@ categories: []
 tags:
     - geek
     - hardware
+blyg_id: 36d0s6g66eer03yad4hxfysra9
 ---
 
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2009/11/cup-holder.jpg"><img class="alignnone size-full wp-image-333" title="cup holder" src="{{ site.baseurl }}/assets/cup-holder.jpg" alt="cup holder" width="490" height="368" /></a></p>

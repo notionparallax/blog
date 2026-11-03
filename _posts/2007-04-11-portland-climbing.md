@@ -9,6 +9,7 @@ categories: []
 tags:
     - climbing
     - trips
+blyg_id: 6h69ntvqy428mxerr8t5kcmfvt
 ---
 
 <p><img src="{{ site.baseurl }}/assets/portland.jpg" title="incredible view, shame the climb looks so easy!" alt="incredible view, shame the climb looks so easy!" height="592" width="453" /></p>

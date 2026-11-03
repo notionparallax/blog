@@ -15,6 +15,7 @@ meta:
     _publicize_facebook_user: https://www.facebook.com/ben.doherty1
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: Card chastity http://wp.me/p3wwRK-q1
+blyg_id: 1k877sfy7pb8kjv1b825eb19fh
 ---
 
 <p>Every time I need to slide it into the slot it feels a little bit peculiar. I can only imagine this feeling of insertion into the unknown increasing as time goes by. </p>

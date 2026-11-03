@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - life
+blyg_id: 7qycjkk1wec4f0p4jvh4t8w6nd
 ---
 
 <p>I've got a new job in england, it's for three months, and it involves moving about a bit. I'm in a bit of a quandry about where I should live. </p>

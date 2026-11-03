@@ -18,6 +18,7 @@ twitter-body: Can you have storage as a service? A weird possible future.
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: /assets/19/mobileWardrobe-funnyCar.png
+blyg_id: 0z2xvszw02wew53za70pbb2q7d
 ---
 
 <style>.note{width:30vw; float: right; padding: 1em; margin: 1em; background-color: silver;}</style>

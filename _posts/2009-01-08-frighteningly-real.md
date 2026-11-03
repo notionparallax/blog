@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - GC
+blyg_id: 7fk664f48yqfkevce00hszhme8
 ---
 
 <p><img src="{{ site.baseurl }}/assets/song-chart-memes-geometry.gif" /></p>

@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - major study
+blyg_id: 0dnd6cpb8cvn9c4jykk8bwwtnz
 ---
 
 <p>Through some bizzaro twist of fate my major study has stopped being about the future of the whole world, and has focused in quite a lot. I'll post about this a bit more later on, but as a very quick explanation of what I'm on about...</p>

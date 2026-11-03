@@ -11,6 +11,7 @@ tags:
     - nuclear
     - old
     - studio
+blyg_id: 6w827fstwa7mk0mchwh316e76c
 ---
 
 <p><a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2012/02/FOP1.png"><img class="size-full wp-image-849 alignnone" title="FOP1" src="{{ site.baseurl }}/assets/FOP1.png" alt="" width="509" height="255" /></a></p>

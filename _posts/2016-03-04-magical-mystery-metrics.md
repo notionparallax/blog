@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "People have complex, interesting lives outside work. They'll be better _at_ work if you allow them to remain interesting. This is one way to do it without crossing privacy boundaries."
+blyg_id: 1j1kcve5tpx1sxj8j4jgddyckx
 ---
 
 This is an idea for a way to track the health of a team. It's pretty abstract so I'll need to test it in real life, my guess is that it'll work.

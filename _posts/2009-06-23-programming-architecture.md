@@ -10,6 +10,7 @@ tags:
     - architecture
     - books
     - geek
+blyg_id: 4vdtfm139rw3cj20cs4mf1dx5s
 ---
 
 <p>Paul Coates' book is finally scheduled for release just after Christmas. It's pretty exciting as it covers a lot of historical (i.e. mid to late 20th century) computational design topics. This might sound dull, but a lot of what I come across my students struggling with these days is stuff that people were struggling with 30 years ago, some of it was solved, and would lead to an easy fix, and some of it was proven (pretty much) to be impossible, leading to a painless kill of a dead end. Basically what I'm talking about is precedent, and most people think that computational design doesn't have any, but in reality, some very smart people have been toiling for the last 40 years to solve a lot of these questions.</p>

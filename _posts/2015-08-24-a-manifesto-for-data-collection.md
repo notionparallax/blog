@@ -11,6 +11,7 @@ description:
 meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
+blyg_id: 36627xna98agxt6qkyfgjta4nh
 ---
 
 <p>This is something I spend a lot of time thinking about. That means I've developed some opinions!</p>

@@ -20,6 +20,7 @@ meta:
         ▆▂▁░▃▁▄▇█▁
         ▇▆█▅▅▃▄▅▂░
         ▂█▃▂▂▂▄█▂
+blyg_id: 66sn5sb6kxbrjmq9xkb88bcw2p
 ---
 
 <p>We did a survey at work recently. It had 72 ten-point-scale responses and I needed a quick way of seeing the distribution of people's scores.</p>

@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552113"
+blyg_id: 2y9sw536ks0zej7r33d9vxrz17
 ---
 
 Gennaro asked me about data structures to contain a tree for his genetic programming in GC (little does he know how clueless I am about data structures), and I recommended a nested list.

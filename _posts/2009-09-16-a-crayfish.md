@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - food
+blyg_id: 55rnspbn85wmd70c1rv9j472jv
 ---
 
 <p>Again I find myself trying to reconcile not being a hippy with the desire to find stuff for free. I make it up to myself by the fact that the people I know who hunt bargains most aggressively are also some of the poshest people that I know (my paternal grandmother was a huge fan of the bargain). If i graph poshness against bargain-nes, then there comes a point where free comes in. I'm not sure if it's some sort of asymptotic approach, as there seems to be some truth in the cliché that there is no such thing as a free lunch.</p>

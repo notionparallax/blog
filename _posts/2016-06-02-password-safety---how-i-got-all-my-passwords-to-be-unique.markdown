@@ -17,6 +17,7 @@ twitter-body: How I got all my passwords to be unique and managed
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/HolyGrail.jpg
+blyg_id: 2dx43ns0va36b4e7w1bvysy9r5
 ---
 
 <figure class="half-width right">

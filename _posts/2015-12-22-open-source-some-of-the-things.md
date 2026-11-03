@@ -13,6 +13,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: Open Source (some of) the things!
+blyg_id: 7pax23f0bb98v93bh5xf2qdcs6
 ---
 
 Architects seem to act in a 'us vs them' way to other architects. I'll bet that this is the case in lots of other industries but if we want to see the explosive growth that we see in software-backed industries we need to be different.

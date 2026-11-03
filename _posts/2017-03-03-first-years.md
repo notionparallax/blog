@@ -17,6 +17,7 @@ twitter-body: Graphs and things!
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 17/party_distance.png
+blyg_id: 1nab2819ns5zzaeme7cpg4ds95
 ---
 
 The first thing everyone did in [the class](https://notionparallax.co.uk/CODE1161/2017-01-01-lecture1) was to fill in a few questionnaires. I split them up so that it'd be harder for me to reverse engineer the responses into identifiable data. Hopefully everyone got this and filled them in honestly, the responses don't _look_ like there's been a lot of trolling.

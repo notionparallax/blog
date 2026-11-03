@@ -9,6 +9,7 @@ categories: []
 tags:
     - thinking
     - writing
+blyg_id: 7dxmrwyhcex1hhg0bvbfe5zk42
 ---
 
 <p>I've been telling a lot of people about this recently, so I thought I'd put up a link to the source.</p>

@@ -15,6 +15,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: Fluid categories - define things by their attributes not their name
+blyg_id: 69vyxhajdwh0kmcmxjkwc71zyy
 ---
 
 > Categories[^1] are an emergent way of describing set creation operations based on attributes

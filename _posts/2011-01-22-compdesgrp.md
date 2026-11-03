@@ -11,6 +11,7 @@ tags:
     - australia
     - computational design
     - geek
+blyg_id: 2egw8y0ztcv809w3zd3sbc857j
 ---
 
 <p>I knew there was something else that I'd been working on, but I forgot to put it into the <a href="https://notionparallax.co.uk/2011/im-back-ill-try-not-to-go-away-again/">first post back</a>. It is basically a rip off of the <a href="http://www.design-computing.com">London design computing community</a>. It's a meeting every 6 weeks or so to talk about what people have been up to, and what problems they've been running into. The talks are really short, with a lot of emphasis on discussion.</p>

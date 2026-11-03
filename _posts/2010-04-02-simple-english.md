@@ -10,6 +10,7 @@ tags:
     - language
     - thinking
     - writing
+blyg_id: 771ave2dr4n5hwbsphqv4e4e56
 ---
 
 <p>I'm going to start a new 'idea auditing' process for my thoughts. English Wikipedia has a parallel site in a language called <a title="Simple English Wikipedia" href="http://simple.wikipedia.org/wiki/Simple_English_Wikipedia">Simple English</a>. In the explanation page the quote is "_The language is simple, but the ideas don't have to be_".</p>

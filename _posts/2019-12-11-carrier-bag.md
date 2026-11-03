@@ -17,6 +17,7 @@ twitter-body: I often find myself referencing this essay, so I transcribed it.
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://www.tah-heetch.com/wp-content/uploads/2018/11/zdenek-burian-prehistoric-man-pinterest-prehistoric.jpg
+blyg_id: 34mw1khcexz8z7b9w2vm2s84bt
 ---
 
 <style></style>

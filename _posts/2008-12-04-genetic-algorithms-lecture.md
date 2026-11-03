@@ -11,6 +11,7 @@ tags:
     - australia
     - GC
     - geek
+blyg_id: 37b1zrn32kzx93d6h9z2ztbgpp
 ---
 
 <p>Here are the slides from my talk at UTS last Thursday at the generative components university program show case, about genetic algorithms. The slides don't make a huge amount of sense on their own, but if you were there, it might jog your memory. </p>

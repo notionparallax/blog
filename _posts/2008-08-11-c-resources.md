@@ -10,6 +10,7 @@ tags:
     - architecture
     - GC
     - geek
+blyg_id: 6x5j105zv0c97p0n0djqy2xnhd
 ---
 
 <p>People are always looking to get a bit of a jump on this GC programming stuff.</p>

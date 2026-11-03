@@ -10,6 +10,7 @@ tags:
     - Brisbane
     - compDesGrp
     - talks
+blyg_id: 1msyqkerdkjswb5ccex6xhbpw8
 ---
 
 <p>I'm presenting tomorrow at the Brisbane compDesGrp session. This'll be the first time I've been up to Brisbane in about 2 years, and the first time I've _ever_ been to one of their cdg sessions. If you happen to be in Brisbane then come along!<br />

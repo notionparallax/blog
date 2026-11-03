@@ -17,6 +17,7 @@ twitter-body: Can our calendars be more useful? Can they make more time for the 
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/goal-cal.jpg
+blyg_id: 3zf51aqzb5gj3sdb1t9kv27scv
 ---
 
 <figure class="half-width right">

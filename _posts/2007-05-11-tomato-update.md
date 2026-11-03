@@ -11,6 +11,7 @@ tags:
     - food
     - gardening
     - house keeping
+blyg_id: 5jbv0j2krjhr1yz4szwkadrm02
 ---
 
 <p><img src="{{ site.baseurl }}/assets/Picture%2033sm.jpg" height="360" width="480" /></p>

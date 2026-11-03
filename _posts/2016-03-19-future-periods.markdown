@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description: There's been a pretty good discussion on the BVN Slack channel, _#future-of-work_ about robot overlords and when they are coming to take our jobs.
+blyg_id: 0vdpw7q6qykww60h0849pdz7x2
 ---
 
 There's been a pretty good discussion on the BVN Slack channel, _#future-of-work_ about robot overlords and when they are coming to take our jobs.

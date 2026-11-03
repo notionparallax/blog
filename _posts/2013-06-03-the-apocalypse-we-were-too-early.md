@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503553283"
+blyg_id: 6p2bam3z3kr367hemb2w0dh4wv
 ---
 
 <p><img class="alignnone size-large wp-image-1391" alt="world war z poster" src="{{ site.baseurl }}/assets/worldwarzposter1-1024x463.jpg" /></p>

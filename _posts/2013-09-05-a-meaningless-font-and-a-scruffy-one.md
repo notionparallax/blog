@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503553371"
+blyg_id: 4xf1fsenmp3cxwbhht06h6bqt7
 ---
 
 <p>I was doing some wireframes last week and I kept running into a problem of not knowing how much space to give to any particular text area.</p>

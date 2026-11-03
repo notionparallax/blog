@@ -13,6 +13,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
 
 special-class: time-factors
+blyg_id: 308sqh37eh6dgvnf8ht6gtfhry
 ---
 
 I've been thinking about _time_ recently. Not in a spacetime sort of way, but in a much more prosaic way; the time we spend at work. (And its inverse, the time we don't!)

@@ -10,6 +10,7 @@ tags:
     - architecture
     - BVN
     - Computer science
+blyg_id: 5hptgyr9cvrtqk3kjve092sace
 ---
 
 <p>The navigation project that Dan &amp; Bin have been working on over the summer is about to finish. We've got one week left, so it's mostly commenting and tidying up.</p>

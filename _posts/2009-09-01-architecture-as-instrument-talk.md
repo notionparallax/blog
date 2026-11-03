@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552154"
+blyg_id: 2krra2t56crwkrz25sngjxs59q
 ---
 
 Here are the notes and audio that I took at the talk this evening at the Museum of the History of Science by Dr Stephen Johnston - Architecture as Instrument.

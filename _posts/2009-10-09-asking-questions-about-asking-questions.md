@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - thinking
+blyg_id: 4z2ksryftdbm31093wht2wdgyf
 ---
 
 <p>When I was just a kid* asking questions at lectures was pretty scary.</p>

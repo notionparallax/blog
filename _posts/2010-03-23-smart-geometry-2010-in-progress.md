@@ -14,6 +14,7 @@ tags:
     - making
     - smart geometry
     - trips
+blyg_id: 2m3v8faf38dznp9389escmdkpq
 ---
 
 <p><img src="{{ site.baseurl }}/assets/IMG_2039.JPG" alt="" width="490" /></p>

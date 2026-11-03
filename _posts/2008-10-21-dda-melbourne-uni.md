@@ -12,6 +12,7 @@ tags:
     - GC
     - geek
     - teaching
+blyg_id: 0a07mjf8b9g9v5c1na0yje1zts
 ---
 
 <p><img src="{{ site.baseurl }}/assets/dda_sorting.jpg" width="400" height="300" /></p>

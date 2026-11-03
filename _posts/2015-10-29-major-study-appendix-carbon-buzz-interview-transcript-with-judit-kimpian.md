@@ -12,6 +12,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: "Major study appendix: Carbon Buzz interview transcript with Judit Kimpian"
+blyg_id: 466x2d3kq73agqnr19k9zxca4f
 ---
 
 <p> </p>

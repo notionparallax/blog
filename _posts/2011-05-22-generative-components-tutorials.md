@@ -10,6 +10,7 @@ tags:
     - GC
     - teaching
     - tutorials
+blyg_id: 1v0aem1tz32n4z5x2a8yxf75h2
 ---
 
 <p>One of my students asked what order they ought to do the GC tutorials that are on the <a title="tutorials" href="https://notionparallax.co.uk/2008/tutorials">tutorials page</a>. For some reason I hadn't actually thought about that - duh!</p>

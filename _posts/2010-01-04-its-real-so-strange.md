@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - GC
+blyg_id: 0ax446t6pvyjx7x4z6qpxx5m5g
 ---
 
 <p><img class="alignright" src="{{ site.baseurl }}/assets/ImreSoltDubaiPhotos64.jpg" alt="Dubai metro station entrance" /><br />

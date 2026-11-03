@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - books
+blyg_id: 1nb68x3vh8qtm3sqcxv0waa3e0
 ---
 
 <p><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0195388445/downandoutint-20"><img class="alignright size-full wp-image-232" title="A Better Pencil: Readers, Writers, and the Digitial Revolution" src="{{ site.baseurl }}/assets/51qbDEk72uL._SS500_.jpg" alt="51qbDEk72uL._SS500_" width="336" height="500" /></a>I got really bashed in the feedback for my <a href="http://www.notionparallax.co.uk/wordpress/wp-admin/post-new.php">degree dissertation</a> about how ugly the cover was. [I don't have a photo, but I'll put one up when I do]</p>

@@ -9,6 +9,7 @@ categories: []
 tags:
     - GC
     - NY
+blyg_id: 5spj3h77zazam4t1my8edtf1rz
 ---
 
 <p><img title="robert and roly" alt="robert and roly" src="{{ site.baseurl }}/assets/SG07_1.jpg" /></p>

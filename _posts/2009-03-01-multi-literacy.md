@@ -12,6 +12,7 @@ tags:
     - life
     - thinking
     - writing
+blyg_id: 7hhzs4t427jgeqqw4k66fm17y1
 ---
 
 <p>There was some discussion last night about _spatial literacy_,  and how it was affected by signage etc. We managed to largely avoid  getting into tedious 90s discussions about how spaces should be  designed so that they didn't need it, and then that was it - our  grapefruit/wine mix propelled us off onto another tangent and all was  forgotten.</p>

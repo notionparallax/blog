@@ -11,6 +11,7 @@ tags:
     - australia
     - GC
     - geek
+blyg_id: 4brh4pa32h0kbsb4qdqmyfjdd4
 ---
 
 <p><img src="{{ site.baseurl }}/assets/star%20thing%203.png" height="354" width="500" /></p>

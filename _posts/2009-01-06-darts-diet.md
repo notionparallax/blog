@@ -9,6 +9,7 @@ categories: []
 tags:
     - geek
     - late night
+blyg_id: 0y1pxte01ttgrsc2tyfbmt8exs
 ---
 
 <p><img src="{{ site.baseurl }}/assets/fordham_109478a.jpg" width="430" height="630" /></p>

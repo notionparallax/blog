@@ -9,6 +9,7 @@ categories:
     - coffee
 tags:
     - coffee
+blyg_id: 5jam2fazwt2t23m7wcj36dzb32
 ---
 
 <p>Check out<a href="http://www.jimseven.com/2009/12/17/gwilyms-disloyalty-card/"> this post</a> on James Hoffman's blog. I'm going to try and find a day to go and do this as a walking tour. let me know if you want to come too!</p>

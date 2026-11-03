@@ -16,6 +16,7 @@ meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: Capturing historic buildings (before someone blows them up) by crowd sourcing military technology
+blyg_id: 1hmhy8zp2krvsy296xxzdyqeny
 ---
 
 <style type="text/css">

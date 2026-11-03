@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - food
+blyg_id: 2kx51rgvbntp0yfnry6b9bfq2d
 ---
 
 <p>I'd forgotten just how good rice pudding is. The last time I made it a faffed about with a recipe from some flash cookery book, vanilla pods, double cream and pudding rice, it was incredible when I'd finished, but it took a hell of a long time to make!</p>

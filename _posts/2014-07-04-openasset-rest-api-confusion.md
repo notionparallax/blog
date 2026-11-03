@@ -20,6 +20,7 @@ meta:
     _wpas_mess: Does anyone understand the OpenAsset REST API?
 
     dsq_thread_id: "4503553490"
+blyg_id: 2t4q81jad5nj6cpqvzs41cc472
 ---
 
 The <a href="http://axomic.com/">Axomic</a> <a href="https://www.axomic.com/media">OpenAsset</a> <a title="The REST docs" href="http://help.axomic.com/07_Technical_Stuff/APIs_and_Integration/REST_API">REST API</a> is doing its best to totally confuse me. I tend to find that if I write and do, then things become clearer.

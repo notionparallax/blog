@@ -12,6 +12,7 @@ tags:
     - future
     - major study
     - web
+blyg_id: 3gxt59fhsx61as1mdgg1xe9ecr
 ---
 
 <p><img class="alignright" style="width: 300px;" src="{{ site.baseurl }}/assets/exampleAnswer.png" alt="example answer image" />Finally it is launched!!</p>

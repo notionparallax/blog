@@ -9,6 +9,7 @@ categories: []
 tags:
     - advertising
     - cool links
+blyg_id: 5q5qb5y044d3f7e6mgkx99d022
 ---
 
 <p><a href="http://store.artlebedev.com/interior/posters/evacuation-plan/"><img src="{{ site.baseurl }}/assets/7ie6n9un.jpg" alt="" /></a></p>

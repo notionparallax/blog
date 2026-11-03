@@ -11,6 +11,7 @@ description: When you view progress from a distance it looks a lot like a tide t
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body: How I think about how progress progresses!
 featuredimg: beach.jpg
+blyg_id: 2g2bjjjvvcqazev5nm86j57fd5
 ---
 
 I've been wondering about the Frey categorisation[^3]. It gives a % likelihood of a whole profession being automated, e.g. architecture 2%. That's a low number, and people are justifiable happy about the job security that implies.

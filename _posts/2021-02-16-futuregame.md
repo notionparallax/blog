@@ -18,6 +18,7 @@ twitter-body: "A game to help you think about the future."
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://fastly.syfy.com/sites/syfy/files/2018/03/silver-surfer.jpg
+blyg_id: 234wh84604ryx656dptteyd3ys
 ---
 
 <style>

@@ -22,6 +22,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
 
     dsq_thread_id: "4503553548"
+blyg_id: 7mdyq6dpdxzcm9h4fa3p0fd8ra
 ---
 
 <p>Have you ever had a great idea for a website or a product, but were put off by not being sure it would work or not having the technical chops to make it a reality? </p>

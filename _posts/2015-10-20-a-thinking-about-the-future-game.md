@@ -18,6 +18,7 @@ meta:
     _wpas_mess: |-
         A 'Thinking about the future' game for stretching your brain's legs.
         Let me know what you think.
+blyg_id: 08a34mgcxx6w93saqy66sx2vtd
 ---
 
 There are probably lots of serious, data backed, ways that futurists[^1] use to predict the future[^2]. My method is pretty adhoc. I just pick a thread to obsess about and see what happens when I smash other things into it.

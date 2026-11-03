@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552505"
+blyg_id: 51x5cafmaqdfya4qqn40ex3hz2
 ---
 
 <p><img class="alignright" title="eco" src="{{ site.baseurl }}/assets/eco.PNG" alt="eco" width="275" height="203" />I made this a really long time ago, and it still isn't finished, but it woul'd be better for the world if it was out there making people happy (what rot).</p>

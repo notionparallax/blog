@@ -23,6 +23,7 @@ enclosure: |
     http://notionparallax.co.uk/JuditKimpian_on_CarbonBuzz.mp3
     45986183
     audio/mpeg
+blyg_id: 1qab4j3725ecfemm0fyt4jny6d
 ---
 
 <p>A couple of weeks ago <a href="https://notionparallax.co.uk/2010/carbon-buzz-interview">I said I was going to interviw Judit Kimpian about Carbon Buzz</a>, and believe it or not, I actually did!</p>

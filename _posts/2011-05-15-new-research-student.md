@@ -12,6 +12,7 @@ tags:
     - research
     - student
     - teaching
+blyg_id: 23y8cy907q44a47658ymesgyhd
 ---
 
 [![]({{ site.baseurl }}/assets/jay_ear.png) Jay](http://www.the10thletter.info/)

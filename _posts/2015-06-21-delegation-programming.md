@@ -9,6 +9,7 @@ categories: []
 description:
 
 dsq_thread_id: "4503553673"
+blyg_id: 69kf85trtch5q3q4t8v2aw4t2y
 ---
 
 I think that delegation to another person is analogous to programming a computer. I want to explain why I think this, and how thinking like this can be useful.

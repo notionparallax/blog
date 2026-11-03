@@ -17,6 +17,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
     _wpas_mess: lazy yogurt http://wp.me/p3wwRK-rN
     dsq_thread_id: "4503553616"
+blyg_id: 1880c219734djfeb006e8h7w7n
 ---
 
 Making yogurt is super easy, I've been trying to work out how to make it even easier!

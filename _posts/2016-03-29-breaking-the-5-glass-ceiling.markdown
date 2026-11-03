@@ -17,6 +17,7 @@ twitter-body: Rating less than 5* is punitive. This means that reviewers can't e
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: rate_your_driver.png
+blyg_id: 38t8hrwavwgabkkerm0cpgcd41
 ---
 
 <figure class="half-width right">

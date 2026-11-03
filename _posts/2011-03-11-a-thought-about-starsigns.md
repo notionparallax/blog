@@ -10,6 +10,7 @@ tags:
     - psychology
     - star signs
     - thinking
+blyg_id: 34yzdant35b51gaw2pmshcevkc
 ---
 
 <p><img class="alignnone" src="{{ site.baseurl }}/assets/181327_10150389710475613_541400612_17065922_819094_n.jpg" alt="" width="720" height="568" /></p>

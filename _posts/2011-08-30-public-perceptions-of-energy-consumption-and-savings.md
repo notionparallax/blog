@@ -13,6 +13,7 @@ tags:
     - environmental
     - paper
     - study
+blyg_id: 5ca9q4fxhc00sm5yksssrds21y
 ---
 
 <p>I've just read <a href="http://www.notionparallax.co.uk/wordpress/wp-content/uploads/2011/08/Attari-et-al.-2010-Public-perceptions-of-energy-consumption-and-savings.pdf">Public perceptions of energy consumption and savings</a> (Attari et al. 2010), and apart from from being a pretty good paper, it's quite well aligned with the results of <a title="Major study – for those with a lot of patience" href="https://notionparallax.co.uk/2011/major-study-for-those-with-a-lot-of-patience">my dip study</a>, and Hanson's <a href="http://www.overcomingbias.com/2010/03/homo-hipocritus.html">_Homo Hypocritus_</a> theory.</p>

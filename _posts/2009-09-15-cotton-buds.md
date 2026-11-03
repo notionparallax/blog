@@ -10,6 +10,7 @@ tags: []
 description:
 meta:
 dsq_thread_id: "4503553022"
+blyg_id: 0x4nrv88pjg10a3hqf4gxwbgf0
 ---
 
 <p><a href="http://www.muji.eu/pages/online.asp?V=1&amp;Sec=5&amp;Sub=27&amp;PID=2470"><img class="alignright" title="Muji cotton buds" src="{{ site.baseurl }}/assets/4547315570393.jpg" alt="" width="287" height="287" /></a>There is always a bit of a tension in my mind about being environmentally responsible, vs being a smelly hippy. Admittedly, the amount I fly probably negates every attempt to do anything else, but I can be a bit catholic about it and try and buy favour by doing little things.<br />

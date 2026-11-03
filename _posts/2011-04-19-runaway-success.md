@@ -10,6 +10,7 @@ tags:
     - Brisbane
     - BVN
     - compDesGrp
+blyg_id: 6vfywwdrvtnbd1pqn39zhkge3b
 ---
 
 <p>When I got back to Australia after my long (relatively), and somewhat fraught, trip back to England about nine months ago, one of my jobs was to try to do things that made BVN a leader and not a laggard[^1] in the global computation/ architecture realm. It was pretty luxurious being given such a juicy brief, but it wasn't going to happen over night.<br />

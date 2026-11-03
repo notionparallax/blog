@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - trips
+blyg_id: 4bqbxhncv1yehak4wh3bxmk0d4
 ---
 
 <p>_**ROAD TRIP!!!**_</p>

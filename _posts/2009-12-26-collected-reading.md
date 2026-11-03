@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - major study
+blyg_id: 7dq7110aggeemmftg42jxcmnnw
 ---
 
 <p>All the advice about how to make a blog readable and interesting is about focusing in on what you are going to talk about and if you really must talk about a load of things, have several blogs.</p>

@@ -10,6 +10,7 @@ tags:
     - teaching
     - texturing
     - visualisation
+blyg_id: 45dyte8keasph740nzr8a21tr4
 ---
 
 <p><img class="alignleft" style="width: 300; height: 300; margin: 3px;" src="{{ site.baseurl }}/assets/wonder_woman.jpg" alt="wonder woman toy" />This seems like a great way to teach  texturing. People often struggle to start using UVW maps, and it is probably because it is a pretty unintuitive thing to do. We don't skin animals much any more, and not many novelty Christmas jumpers are knitted so putting skins back on is even less likely.</p>

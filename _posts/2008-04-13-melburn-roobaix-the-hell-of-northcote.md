@@ -14,6 +14,7 @@ enclosure: |-
     http://optik.org.uk/tracks/optikvsimogenhideandseekhq.mp3
     8755990
     audio/mpeg
+blyg_id: 3z8mn1tr4p5yaj424z6vgbghm1
 ---
 
 <p >My weekend has been great so far. I can sit down again today, so that's a bonus!</p>

@@ -20,6 +20,7 @@ tags:
 description:
 meta:
     _thumbnail_id: "1380"
+blyg_id: 23y5te1e89mgybm1p5kacz8s34
 ---
 
 <p><script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"><br />

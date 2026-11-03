@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - enhancement
+blyg_id: 490drd9mbdq668rs8rv73xspw3
 ---
 
 <p><a href="http://www.kevinwarwick.com/">Kevin Warwick</a> is Professor of Cybernetics at the University of Reading, this is him talking about him implanting chips into his own body, very interesting stuff.</p>

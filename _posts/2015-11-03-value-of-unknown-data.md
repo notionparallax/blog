@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description:
+blyg_id: 1rw5efwvys5g92beh050tavnrv
 ---
 
 Imagine that we're on some kind of imaginary data black market. Someone offers a hard drive that they say contains a data set. They won't say what it is, but they can guarantee that we don't already have it. How much should you be willing to pay? What should new knowledge do to the price? I've made some notes, but they are mainly just me rambling[^1].

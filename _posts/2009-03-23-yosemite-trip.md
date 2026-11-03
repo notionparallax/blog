@@ -12,6 +12,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552061"
+blyg_id: 4k9204fnxmp76st7naft2m3d3m
 ---
 
 Due to the the Australian government's spectacular kindness in allowing me into their fine country for the past year coming to an end, I had a window of a few days to kill in California before <a href="http://www.bentley.com/en-US/Promo/SmartGeometry/Workshops">Smart Geometry</a> (more on that in the next few days).

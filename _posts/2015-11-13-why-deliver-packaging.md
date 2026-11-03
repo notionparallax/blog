@@ -11,6 +11,7 @@ tags:
     - future
     - Packaging
 description:
+blyg_id: 4eswz7dh0kw32gj69fpj84vftt
 ---
 
 Product packaging is a marketing tax. A product in a shop needs to sell itself. It wears a dressy outfit to seduce consumers. A package that just gets a product to its endpoint without being damaged would be a fraction of the cost (in money and resources).

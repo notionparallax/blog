@@ -17,6 +17,7 @@ twitter-body: Have you ever wanted to know about indoor location tracking? I'm m
 #Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/FozzyInBlack.jpg
+blyg_id: 3rnyt7wkev3e8c3rsg366n40vk
 ---
 
 I'm interested in indoor location tracking. It's something I've come to care about by accident. Knowing where people and things are in spaces allows us to make those spaces better.

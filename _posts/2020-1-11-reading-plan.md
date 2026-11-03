@@ -18,6 +18,7 @@ twitter-body: "I'm trying to plan 2020's reading to balance the diversity; can y
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: https://notionparallax.co.uk/assets/19/goodreads/clumsyDiversity.png
+blyg_id: 71z4maskp9mbyn1r8fm9m4eykw
 ---
 
 <style>

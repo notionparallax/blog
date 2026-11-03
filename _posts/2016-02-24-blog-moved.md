@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "Touchdown, I'm in Vancouver and blog is in GH pages"
+blyg_id: 32p96770k5c44h6cbshsbcaf55
 ---
 
 I warned a few weeks ago that we'd be moving, and now we have!

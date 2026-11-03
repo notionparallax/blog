@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - geek
+blyg_id: 00m83ev45b8y7dtb6kpmcje8y2
 ---
 
 <p><img class="alignright" src="{{ site.baseurl }}/assets/victoria-beckham-out-in-her-nazi-style-coat-hat-2.jpg" alt="" width="200" />I've become a real style nazi. Not in the way that most people think of it in that I disapprove of people's brightly patterned leggings and quiff combo, but in the sense that they are used in word processing.</p>

@@ -10,6 +10,7 @@ tags:
     - food
     - life
     - trips
+blyg_id: 25sfjcdgv7t3geybmg2qe5ba1p
 ---
 
 <p>Ah, lovely long emails, a great way to spend an evening. I've just demolished intersection magazine, $17 of magazine and $8.50's worth of takeaway noodles and I'm a happy boy. I can usually attribute my lack of happiness to not having had sufficiently nice food, which is something that I don't intend to get too far into at the moment. Melbourne is a foodie heaven. Mmm. I had some biodynamic peaches the other day that were probably not as good as sex, but have been filed in the same category for enjoyment, but without any of the complication or too much of the mess!<br />

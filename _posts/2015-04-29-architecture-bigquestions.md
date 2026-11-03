@@ -13,6 +13,7 @@ meta:
     _wpas_mess: "#architecture #bigquestions - who wants to get involved in the search?"
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
+blyg_id: 15m0293zwgdspqtj16g7yv7jgz
 ---
 
 <p>In 1900 David Hilbert posed a series of <a href="http://en.wikipedia.org/wiki/Hilbert%27s_problems" rel="nofollow">23 problems</a> to the mathematical community.</p>

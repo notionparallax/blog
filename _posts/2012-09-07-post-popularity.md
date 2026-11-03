@@ -9,6 +9,7 @@ categories: []
 tags:
     - blog
     - statistics
+blyg_id: 3rey1d30tfedkzk6akqn6b93c2
 ---
 
 <p>I had a look at the stats for what people look at on this site. I was amazed at the drop off rate from the popular ones to posts that have only ever had one view (probably me checking that it posted properly!).</p>

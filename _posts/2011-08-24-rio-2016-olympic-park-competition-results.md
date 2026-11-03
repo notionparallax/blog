@@ -14,6 +14,7 @@ tags:
     - Rio
     - video
     - work
+blyg_id: 0a4bxwwzzsg0z7a9jrsr7gx51g
 ---
 
 <p>For the last few months I've been a bit invisible. I've had my time monopolised by the competition for the <a title="Competition website" href="http://concursoparqueolimpicorio2016.iabrj.org.br/">Rio 2016 Olympic park masterplan</a>.</p>

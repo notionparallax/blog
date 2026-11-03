@@ -11,6 +11,7 @@ description: Suddenly it is normal to get site photography from a drone at the s
 meta:
     _publicize_facebook_user: http://www.facebook.com/541400612
     _publicize_twitter_user: "@notionparallax"
+blyg_id: 66njn47djk1wx2mfy31gr34dza
 ---
 
 <style type="text/css">

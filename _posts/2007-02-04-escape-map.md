@@ -10,6 +10,7 @@ tags:
     - life
     - scooter
     - trips
+blyg_id: 4hm30b40f8f41af4k2bce2zasm
 ---
 
 <p><img title="escape to europe" alt="escape to europe" src="{{ site.baseurl }}/assets/routemap.jpg" /><br />

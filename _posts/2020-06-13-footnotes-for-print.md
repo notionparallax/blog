@@ -19,6 +19,7 @@ twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with: -
 #![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg:
+blyg_id: 4y4agk5afryzjsq1xwnh2nrzem
 ---
 
 [Walden Pond](https://waldenpond.press/) is full of content that was intended to go on the web. So there's all sorts of problems with how to make it usable in print. One of the most obvious is [hyperlinks](rickroll).

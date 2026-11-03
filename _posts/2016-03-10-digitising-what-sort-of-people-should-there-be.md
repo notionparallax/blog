@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags: []
 description: "I'm Digitising Jonathan Glover's book, _What Sort of People Should There Be?_ I really enjoyed this book when I read it about 8 years ago. I wanted to read it again but it's out of print."
+blyg_id: 76dv15h6fxyt1yqd1z3c2r7cad
 ---
 
 I'm Digitising [Jonathan Glover's book](http://www.jonathanglover.co.uk/books/what-sort-of-people-should-there-be), _What Sort of People Should There Be?_

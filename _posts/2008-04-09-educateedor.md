@@ -15,6 +15,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503551736"
+blyg_id: 010xc5vp7g1bbayzajjm8p7kvj
 ---
 
 <p>I'm starting to find that teaching is actually really hard. I think that when I started that I was just terrified that I'd run out of stuff to say, or that I'd look like an idiot. I remember the panic when my first hour long lecture, which i was convinced would over run ended after 35 minutes.</p>

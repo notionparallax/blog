@@ -17,6 +17,7 @@ twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/learningRate.jpg
+blyg_id: 2k3363rcs268pn12pa36r5ghj5
 ---
 
 I've been learning things that push me past the limit of where I'm comfortable this week. It's left me feeling pretty edgy[^1].

@@ -9,6 +9,7 @@ categories: []
 tags:
     - cool links
     - geek
+blyg_id: 21gg57xcy5sme06cpzshrcb0b8
 ---
 
 <p>I've spent my <a href="http://www.explosm.net/comics/858/">easter Sunday</a> tucked up in the <a href="http://www.sial.rmit.edu.au/">sial lab</a> with two of my urban best friends, my laptop for doing some work, and a whole load of video lectures.</p>

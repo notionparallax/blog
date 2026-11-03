@@ -11,6 +11,7 @@ tags:
     - future
     - supermarket
     - tracking
+blyg_id: 5bbc21hfq5z2f798bktv6cpqtf
 ---
 
 <p>I <a href="/wordpress/?p=961">wrote on Monday</a> about what it'd be like to have a web api into a supermarket's online shopping system. I've been tanking about a non-shopping app that would be able to use that.</p>

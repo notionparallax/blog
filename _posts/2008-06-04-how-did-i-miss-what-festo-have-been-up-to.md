@@ -10,6 +10,7 @@ tags:
     - flying
     - geek
     - toys
+blyg_id: 7e7592e7nmsc5h657c0penrrt5
 ---
 
 <p>Everyone has seen the festo muscles doing their stuff under the <a href="http://www.bk.tudelft.nl/live/pagina.jsp?id=ee8041d7-2296-4ffd-abe4-ca76045c0b7b&amp;lang=en" target="_blank">chaps at delft</a>, but take a look at these!<br />

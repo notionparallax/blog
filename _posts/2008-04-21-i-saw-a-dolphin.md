@@ -9,6 +9,7 @@ categories: []
 tags:
     - australia
     - surfing
+blyg_id: 4660nwc695ntmjdtz09hpd2cjw
 ---
 
 <p><img src="{{ site.baseurl }}/assets/page119_8.jpg" width="500" /></p>

@@ -12,6 +12,7 @@ tags:
     - link
     - procrastinate
     - thinking
+blyg_id: 19e9wtwtkt27t3e418ykv5djp9
 ---
 
 <p><img src="{{ site.baseurl }}/assets/6a00e008c45151883401310fc6bf39970c-450wi" alt="iProcrastinate app" /></p>

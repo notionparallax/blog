@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - trips
+blyg_id: 66arta36rj020ar9ez8y1dfwsy
 ---
 
 Here are the photos from my <a href="http://www.notionparallax.co.uk/wordpress/?p=120">yosemite trip</a> this March in glorious high res technicolour.

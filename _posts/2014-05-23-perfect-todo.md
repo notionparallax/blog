@@ -14,6 +14,7 @@ meta:
     _publicize_twitter_user: "@notionparallax"
 
     dsq_thread_id: "4503553461"
+blyg_id: 3p383g5dad3ze3z2y55ca1fc74
 ---
 
 <p>I've been faffing about with different todo lists for years now. I've used everything from a <a href="http://www.43folders.com/2004/09/03/introducing-the-hipster-pda">hipster pda</a> to some pretty hardcore project management tools. I even used MS Project to get me fired from Autodesk! The one thing that was common amongst them all is that they niggled me because they didn't do everything I wanted. Often a lot of things that I didn't want.</p>

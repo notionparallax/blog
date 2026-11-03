@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - hardware
+blyg_id: 18rpkfg55k6wm0bqyfdtf02dgw
 ---
 
 <p><img alt="specoid" title="specoid" src="{{ site.baseurl }}/assets/specs.jpg" /></p>

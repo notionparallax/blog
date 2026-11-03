@@ -1,0 +1,9 @@
+---
+layout: null
+sitemap: false
+---
+{% comment %}Rendered post bodies for _blyg/blyg.py build, which deletes this file from _site.{% endcomment %}[
+{%- for post in site.posts %}
+{"blyg_id": {{ post.blyg_id | jsonify }}, "url": {{ post.url | jsonify }}, "date": {{ post.date | date_to_xmlschema | jsonify }}, "html": {{ post.content | jsonify }}}{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+]

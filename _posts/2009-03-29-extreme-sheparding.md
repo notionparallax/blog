@@ -10,6 +10,7 @@ tags:
     - cool links
     - geek
     - video
+blyg_id: 16rd254vmtjqzj07p4j6n4g32f
 ---
 
 <p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/D2FX9rviEhw&color1=0xcc2550&color2=0xe87a9f&hl=en&feature=player_embedded&fs=1" /><param name="allowFullScreen" value="true" /><embed src="http://www.youtube.com/v/D2FX9rviEhw&color1=0xcc2550&color2=0xe87a9f&hl=en&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>

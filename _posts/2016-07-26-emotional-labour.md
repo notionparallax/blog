@@ -17,6 +17,7 @@ twitter-body: If making coffee gets totally automated, then serving will be all 
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/clovercup.JPG
+blyg_id: 1rjvjfefpdp14aebab1yz3x45w
 ---
 
 I'm at the "[Starbucks Reserve Roastery and Tasting Room](http://roastery.starbucks.com/)", it's a concept store I guess. It's prompted me to write a few things.

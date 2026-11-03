@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - geek
+blyg_id: 7r1ektaj579wpsp0dvw3n5x0yc
 ---
 
 <p><img src="{{ site.baseurl }}/assets/69175.png" align="right" width="100" />After much faffing about, I've bought a webcam to do my mapping with.</p>

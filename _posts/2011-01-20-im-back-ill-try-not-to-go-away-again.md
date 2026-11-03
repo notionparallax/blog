@@ -12,6 +12,7 @@ tags:
     - late night
     - life
     - Sydney
+blyg_id: 4yvw0vevfm2qhmfbxpz6ymqxy2
 ---
 
 <p>In the dying months of my Major Study I pretty much stopped posting. I blame too much time alone in my shed!</p>

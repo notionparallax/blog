@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - food
+blyg_id: 2nmyr26exh8qx2pqehw77te62z
 ---
 
 <p>I promised a while ago in <a href="https://notionparallax.co.uk/2008/the-old-me">this post</a> that I'd post the specs for the cocktail list from Savannah.</p>

@@ -12,6 +12,7 @@ tags:
     - SEWHA
     - thinking
     - tools
+blyg_id: 7e66v7npfh0qpx11g4qaz478ze
 ---
 
 <p>People love measuring energy and there seems to be an insatiable appetite for different ways of doing it. Watts, foot-pounds, joules, <a href="http://en.wikipedia.org/wiki/Calorie">calories</a> (gram calories _and_ food calories), Btu, horesepower, the <a href="http://en.wikipedia.org/wiki/Units_of_energy#Other_units_of_energy">list goes on</a>.</p>

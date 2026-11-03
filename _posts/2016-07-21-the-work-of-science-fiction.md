@@ -17,6 +17,7 @@ twitter-body: You can think of the act of moving your mind from one state to ano
 # Twitter and facebook will pick up this image. you can also use it in a post with:
 # ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
 featuredimg: 16/Dobryna.jpg
+blyg_id: 66f7pdp9s8hnjsx7m48f4p1tv4
 ---
 
 <figure class="half-width left small-pop">

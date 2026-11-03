@@ -9,6 +9,7 @@ categories: []
 tags:
     - architecture
     - rmit
+blyg_id: 2z9k26kx8z2xq4t9y726r1hy31
 ---
 
 <p>This is a bit of writing/ranting that i did in order to try and understand my view of the studio's ideas. I'll put up the details of the experiment in a bit.</p>

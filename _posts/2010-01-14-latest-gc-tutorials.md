@@ -8,6 +8,7 @@ status: publish
 categories: []
 tags:
     - GC
+blyg_id: 7949egkza8mwdcbfnze1y708kn
 ---
 
 <p>Making a reactive component and Programming a ScribbleI noticed that the version of the GC tutorials on the tutorials page isn't very up to date</p>

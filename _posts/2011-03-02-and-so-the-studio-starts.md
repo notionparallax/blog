@@ -13,6 +13,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503553242"
+blyg_id: 7p6ws0wa3f4ac9e1qqkxzgm6ew
 ---
 
 <p>I've started teaching a design studio (believe it or not)!</p>

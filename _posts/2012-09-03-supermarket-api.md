@@ -14,6 +14,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552892"
+blyg_id: 7p0w4ps9jj7pgrnzqekw89vpdn
 ---
 
 <p>I've been thinking a lot recently about super markets. As I cruise up and down the aisles, indulging in one of my favourite pastimes of telling the tsunami of information flow over me without any pressure to take it in. It's almost as if it is scouring the accumulated excess information of the week off me. </p>

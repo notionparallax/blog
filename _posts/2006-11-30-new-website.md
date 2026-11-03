@@ -11,6 +11,7 @@ tags:
 description:
 meta:
 dsq_thread_id: "4503552904"
+blyg_id: 065fjsf88f22cdr2qgvm7jsa47
 ---
 
 <p>the old notion parallax website was never realy well formed enough to get tired, but it need a bit of a spruce up.</p>

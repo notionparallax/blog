@@ -11,6 +11,7 @@ tags:
     - Econtalk
     - hydraulic
     - thinking
+blyg_id: 2t9pktkxh4779wsvk8v19pdave
 ---
 
 <p>I walked to and from work today and listened to <a href="http://arnoldkling.com/">Arnold Kling</a> talking to <a href="http://www.econtalk.org">Econtalk </a>about _<a title="PSST" href="http://www.econtalk.org/archives/2011/02/kling_on_patter.html">patterns of sustainable specialisation and trade</a>_. Quite apart from how enjoyable it is to be able to<a title="a nerdy map" href="http://goo.gl/maps/FY4p"> walk to work </a>in the sun, it makes my brain tick over nicely.<br />

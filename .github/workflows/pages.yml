@@ -1,0 +1,95 @@
+# Builds the Jekyll site, adds the blyg surface (_blyg/blyg.py), deploys to GitHub Pages,
+# then sends Webmentions for any newly quoted or linked remote blyg items.
+# Needs Settings → Pages → Source set to "GitHub Actions".
+name: Build and deploy
+
+on:
+  push:
+    branches: [gh-pages]
+  workflow_dispatch:
+
+permissions:
+  contents: write # assign-ids commits new blyg ids back
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # versions come from the full history of _posts
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: _blyg/requirements.txt
+      - run: pip install -r _blyg/requirements.txt
+
+      - name: Give new posts a blyg id
+        run: |
+          python _blyg/blyg.py assign-ids
+          if ! git diff --quiet -- _posts; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _posts
+            git commit -m "Assign blyg ids"
+            git push
+          fi
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - run: python _blyg/blyg.py prepare --write
+      - run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python _blyg/blyg.py build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mentions
+          path: _blyg_out/mentions.json
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  mentions:
+    needs: deploy # receivers verify against the live item documents, so send after they are up
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            _blyg
+            _config.yml
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r _blyg/requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: mentions
+          path: _blyg_out
+      - run: python _blyg/blyg.py send-mentions
