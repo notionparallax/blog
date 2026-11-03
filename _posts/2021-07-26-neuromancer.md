@@ -12,6 +12,7 @@ author-name: William Gibson
 description: "Reading for week 2 of The Past and Futures of Digital Cultures: William Gibson (1984)"
 twitter-body: "Reading for week 2 of The Past and Futures of Digital Cultures: William Gibson (1984)"
 featuredimg: https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg
+blyg_id: 09scy9js3ph0ce288qbmk0rp0h
 ---
 
 Gibson, W. (1984) [excerpt pp 62-83] [_Neuromancer_](https://en.wikipedia.org/wiki/Neuromancer).

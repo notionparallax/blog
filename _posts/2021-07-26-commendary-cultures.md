@@ -12,6 +12,7 @@ author-name: Fiona Martin
 description: "Reading for week 7 of The Past and Futures of Digital Cultures: Fiona Martin (2021)"
 twitter-body: "Reading for week 7 of The Past and Futures of Digital Cultures: Fiona Martin (2021)"
 featuredimg: 
+blyg_id: 1at84fqbvrm4txsn6dqpvtg39m
 ---
 
 Social sharing of news has a critical economic and cultural function in an attention economy. It reveals our personal interests, beliefs and tastes to the array of publications trying to win our interest and identifies to them and our social networks what is valuable to us in the cascades of data that we negotiate every day. Through our shares, likes and favourites we help the social platforms determine what is popular and profitable in advertising terms. We also elevate certain events and issues in public debate, and reinforce opinions and attitudes in our social circles. Thus, if most mainstream media users are more likely to redistribute, like or recommend news than to create it, then news sharing is potentially as important a phenomenon to study as participatory or citizen journalism.

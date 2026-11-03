@@ -12,6 +12,7 @@ author-name: Tarleton Gillespie
 description: "Reading for week 7 of The Past and Futures of Digital Cultures: Tarleton Gillespie (2015)"
 twitter-body: "Reading for week 7 of The Past and Futures of Digital Cultures: Tarleton Gillespie (2015)"
 featuredimg: 
+blyg_id: 515f6nhe6j2t1xt7767qj95yjs
 ---
 
 Social Media + Society, Volume 1, Issue 1, April-June 2015

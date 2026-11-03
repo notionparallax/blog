@@ -12,6 +12,7 @@ author-name: Betsy Morais
 description: "Reading for week 4 of The Past and Futures of Digital Cultures: Betsy Morais (2013)"
 twitter-body: "Reading for week 4 of The Past and Futures of Digital Cultures: Betsy Morais (2013)"
 featuredimg: 
+blyg_id: 7ad22y7qsjpgpa75f6khexhtb2
 ---
 
 Morais, B. (2013). [Ada Lovelace, the first tech visionary](https://www.newyorker.com/tech/annals-of-technology/ada-lovelace-the-first-tech-visionary). _The New Yorker_.

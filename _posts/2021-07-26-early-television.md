@@ -12,6 +12,7 @@ author-name: Vincent Mosco
 description: "Reading for week 5 of The Past and Futures of Digital Cultures: Vincent Mosco"
 twitter-body: "Reading for week 5 of The Past and Futures of Digital Cultures: Vincent Mosco"
 featuredimg: https://m.media-amazon.com/images/P/B01EAHZFXU.01._SCLZZZZZZZ_SX500_.jpg
+blyg_id: 11gjwekq9az9b6egvwj81navvy
 ---
 
 Chambers, D. (2016). Chapter 2 Early Television. Changing media, homes and households: Cultures, technologies and meanings. London; New York: Routledge.

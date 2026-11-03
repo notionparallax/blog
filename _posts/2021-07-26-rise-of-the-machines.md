@@ -12,6 +12,7 @@ author-name: Marguerite McNeal
 description: "Reading for week 11 of The Past and Futures of Digital Cultures: Marguerite McNeal (2015)"
 twitter-body: "Reading for week 11 of The Past and Futures of Digital Cultures: Marguerite McNeal (2015)"
 featuredimg: 
+blyg_id: 4arf3aw221dvv0g62jhj0ks1xf
 ---
 
 <figure>

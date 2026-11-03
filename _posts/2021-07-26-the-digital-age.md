@@ -12,6 +12,7 @@ author-name: Paul E. Ceruzzi
 description: "Reading for week 4 of The Past and Futures of Digital Cultures: Paul E. Ceruzzi (2012)"
 twitter-body: "Reading for week 4 of The Past and Futures of Digital Cultures: Paul E. Ceruzzi (2012)"
 featuredimg: 
+blyg_id: 5ynh7jz4m8axqzfen54pjmc8c9
 ---
 
 # The Digital Age

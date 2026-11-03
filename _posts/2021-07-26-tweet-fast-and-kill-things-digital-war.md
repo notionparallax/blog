@@ -12,6 +12,7 @@ author-name: William Merrin & Andrew Hoskins
 description: "Reading for week 8 of The Past and Futures of Digital Cultures: William Merrin & Andrew Hoskins (2020)"
 twitter-body: "Reading for week 8 of The Past and Futures of Digital Cultures: William Merrin & Andrew Hoskins (2020)"
 featuredimg: 
+blyg_id: 48vvx2z4zf3qz4fqew09gk21cg
 ---
 
 William Merrin & Andrew Hoskins. (2020). Tweet Fast and Kill Things: Digital War. Digital War, 1, 184-193. https://link.springer.com/article/10.1057/s42984-020-00002-1

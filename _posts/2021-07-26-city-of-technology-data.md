@@ -12,6 +12,7 @@ author-name: Vincent Mosco
 description: "Reading for week 12 of The Past and Futures of Digital Cultures: Vincent Mosco (2019)"
 twitter-body: "Reading for week 12 of The Past and Futures of Digital Cultures: Vincent Mosco (2019)"
 featuredimg: 
+blyg_id: 5fez1nr9n4w7hz8sa9bzx7ke6k
 ---
 
 <figure>

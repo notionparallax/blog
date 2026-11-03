@@ -12,6 +12,7 @@ author-name: Evgeny Morozov
 description: "Reading for week 3 of The Past and Futures of Digital Cultures: Evgeny Morozov"
 twitter-body: "Reading for week 3 of The Past and Futures of Digital Cultures: Evgeny Morozov"
 featuredimg: 
+blyg_id: 56dqp9b1ep517as5eqveghjdfw
 ---
 
 Morozov, E. (2011). Introduction in _The net delusion: How not to liberate the world_. Penguin UK.

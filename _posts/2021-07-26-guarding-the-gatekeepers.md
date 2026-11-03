@@ -12,6 +12,7 @@ author-name: Terry Flew
 description: "Reading for week 3 of The Past and Futures of Digital Cultures: Terry Flew (2019)"
 twitter-body: "Reading for week 3 of The Past and Futures of Digital Cultures: Terry Flew (2019)"
 featuredimg: 
+blyg_id: 2zta5j3yzxhrbxa1xzfrg3b2we
 ---
 
 by [Terry Flew](https://www.griffithreview.com/contributors/terry-flew/)

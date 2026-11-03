@@ -12,6 +12,7 @@ author-name: Susie Khamis, Lawrence Ang & Raymond Welling
 description: "Reading for week 10 of The Past and Futures of Digital Cultures: Susie Khamis, Lawrence Ang & Raymond Welling (2016)"
 twitter-body: "Reading for week 10 of The Past and Futures of Digital Cultures: Susie Khamis, Lawrence Ang & Raymond Welling (2016)"
 featuredimg: 
+blyg_id: 77ew57w3pqmc0vgq11h2awe4b1
 ---
 
 Pages 191-208, Received 04 Feb 2016, Accepted 21 Jul 2016, Published online: 25 Aug 2016, [Download citation](https://doi-org.wwwproxy1.library.unsw.edu.au/10.1080/19392397.2016.1218292)

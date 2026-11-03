@@ -12,6 +12,7 @@ author-name: Justine Humphry, Chris Chesher & Sophia Maalsen
 description: "Reading for week 12 of The Past and Futures of Digital Cultures: Justine Humphry, Chris Chesher & Sophia Maalsen (2021)"
 twitter-body: "Reading for week 12 of The Past and Futures of Digital Cultures: Justine Humphry, Chris Chesher & Sophia Maalsen (2021)"
 featuredimg: 
+blyg_id: 5g05mhpncq9g86nzqcxzv0cc21
 ---
 
 June 23, 2021 6.01am AEST

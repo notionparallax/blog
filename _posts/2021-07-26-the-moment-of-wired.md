@@ -12,6 +12,7 @@ author-name: Thomas Streeter
 description: "Reading for week 2 of The Past and Futures of Digital Cultures: Thomas Streeter (2011)"
 twitter-body: "Reading for week 2 of The Past and Futures of Digital Cultures: Thomas Streeter (2011)"
 featuredimg: 
+blyg_id: 4968mrkprepg5b0z51pc351sy2
 ---
 
 Streeter, T. (2011) The Moment of Wired, Chapter 4 in The Net Effect: Romanticism, Capitalism, and the Internet. New York and London: New York University Press.

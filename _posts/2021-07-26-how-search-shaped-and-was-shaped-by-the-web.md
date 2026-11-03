@@ -12,6 +12,7 @@ author-name: Alexander Halavais
 description: "Reading for week 6 of The Past and Futures of Digital Cultures: Alexander Halavais (2017)"
 twitter-body: "Reading for week 6 of The Past and Futures of Digital Cultures: Alexander Halavais (2017)"
 featuredimg: 
+blyg_id: 3yaj15hfsnr0h7jtddjkc5tq25
 ---
 
 <!-- <style type="text/css">
